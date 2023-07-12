@@ -19,9 +19,15 @@ df = df[df.engine_capacity.str.match(r'[0-9]')]
 df.engine_capacity = df.engine_capacity.apply(lambda x :x.replace('cm3','').replace(' ','')).astype(int)
 df.mileage = df.mileage.apply(lambda x :x.replace('km','').replace(' ','')).astype(int)
 df.model = df.model.str.split().str[1]
+
 df = df.join(pd.get_dummies(df.gearbox))
 df = df.join(pd.get_dummies(df.fuel_type))
 df = df.join(pd.get_dummies(df.brand))
+
+# Drop columns 
+df = df.drop('gearbox',axis = 1)
+df = df.drop('fuel_type',axis = 1)
+df = df.drop('brand',axis = 1)
 
 # Show dataframe 
 st.dataframe(df)

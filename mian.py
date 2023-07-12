@@ -17,7 +17,7 @@ df = df[df.engine_capacity.str.match(r'[0-9]')]
 
 # prepare dataframe 
 df.engine_capacity = df.engine_capacity.apply(lambda x :x.replace('cm3','').replace(' ','')).astype(int)
-df.engine_capacity = df.mileage.apply(lambda x :x.replace('km','').replace(' ','')).astype(int)
+df.mileage = df.mileage.apply(lambda x :x.replace('km','').replace(' ','')).astype(int)
 
 # Show dataframe 
 st.dataframe(df)

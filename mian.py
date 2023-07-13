@@ -1,8 +1,11 @@
 import pandas as pd
 import streamlit as st 
+import plotly.graph_objects as go
+
 from sklearn.model_selection import train_test_split 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
+from sklearn.ensemble import RandomForestRegressor
 
 df = pd.read_csv('data.csv')
 
@@ -43,10 +46,27 @@ y = df['price_in_pln']
 # Split data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
 
-reg = LinearRegression()
+reg = RandomForestRegressor()
 reg.fit(X_train,y_train)
 y_pred = reg.predict(X_test)
 
 # Show dataframe 
 st.dataframe(df)
 st.text(mean_absolute_error(y_test,y_pred))
+
+
+# Scatter plot prediction vs real 
+fig = go.Figure(go.Scatter(
+                            x = y_test,
+                            y = y_pred,
+                            mode = 'markers'
+                            ))
+fig.update_layout(height = 600,
+                  width = 800,
+                  title = 'y test VS y predict',
+                  title_x = 0.5 ,
+                  xaxis_title = 'y_test',
+                  yaxis_title = 'y_predict')
+
+st.plotly_chart(fig)
+

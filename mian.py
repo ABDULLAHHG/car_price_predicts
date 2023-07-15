@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.ensemble import RandomForestRegressor
 
 df = pd.read_csv('data.csv')
-max = st.slider('select number of rows', 0 , 100, 50)
+max = st.slider('select number of rows', 0 , df.shape[0], 50)
 df = df.iloc[:max]
 # Columns that need to clean 
 columns_to_clean = df.drop('gearbox',axis = 1)

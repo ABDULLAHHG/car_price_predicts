@@ -8,7 +8,8 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.ensemble import RandomForestRegressor
 
 df = pd.read_csv('data.csv')
-
+max = st.slider('select number of rows', 0 , 100, 50)
+df = df.iloc[:max]
 # Columns that need to clean 
 columns_to_clean = df.drop('gearbox',axis = 1)
 columns_to_clean = columns_to_clean.drop('brand',axis = 1)
@@ -69,4 +70,12 @@ fig.update_layout(height = 600,
                   yaxis_title = 'y_predict')
 
 st.plotly_chart(fig)
+
+
+def choose_dataframe(df):
+    # SideBar
+    st.sidebar.header('User Input Feature')
+    
+
+
 

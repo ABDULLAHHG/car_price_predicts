@@ -7,9 +7,27 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 from sklearn.ensemble import RandomForestRegressor
 
+
 df = pd.read_csv('data.csv')
-max = st.slider('select number of rows', 0 , df.shape[0], 50)
-df = df.iloc[:max]
+
+# Cleaned dataframe 
+df = df[df.mileage.str.contains(r'km')]
+df = df[df.engine_capacity.str.match(r'[0-9]')]
+
+def choose_dataframe(df):    
+
+    # SideBar
+    st.sidebar.header('User Input Feature')
+    
+    max = st.sidebar.slider('Select Number of Rows', 0 , df.shape[0], 50)
+    df = df.iloc[:max]
+    
+    multiselect_year = st.sidebar.multiselect('Years',df.year.unique(),df.year.unique())
+    df =df[df.year.str.contains('|'.join(multiselect_year))]
+    
+    return df 
+df = choose_dataframe(df)
+
 # Columns that need to clean 
 columns_to_clean = df.drop('gearbox',axis = 1)
 columns_to_clean = columns_to_clean.drop('brand',axis = 1)
@@ -17,10 +35,6 @@ columns_to_clean = columns_to_clean.drop('voivodeship',axis = 1)
 columns_to_clean = columns_to_clean.drop('city',axis = 1)
 columns_to_clean = columns_to_clean.drop('model',axis = 1)
 columns_to_clean.mileage = columns_to_clean.mileage.astype(str)
-
-# Cleaned dataframe 
-df = df[df.mileage.str.contains(r'km')]
-df = df[df.engine_capacity.str.match(r'[0-9]')]
 
 # prepare dataframe 
 df.engine_capacity = df.engine_capacity.apply(lambda x :x.replace('cm3','').replace(' ','')).astype(int)
@@ -70,12 +84,6 @@ fig.update_layout(height = 600,
                   yaxis_title = 'y_predict')
 
 st.plotly_chart(fig)
-
-
-def choose_dataframe(df):
-    # SideBar
-    st.sidebar.header('User Input Feature')
-    
 
 
 

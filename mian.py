@@ -15,7 +15,6 @@ df = df[df.mileage.str.contains(r'km')]
 df = df[df.engine_capacity.str.match(r'[0-9]')]
 
 def choose_dataframe(df):    
-
     # SideBar
     st.sidebar.header('User Input Feature')
     
@@ -26,6 +25,7 @@ def choose_dataframe(df):
     df =df[df.year.str.contains('|'.join(multiselect_year))]
     
     return df 
+
 df = choose_dataframe(df)
 
 # Columns that need to clean 

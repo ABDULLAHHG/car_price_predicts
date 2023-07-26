@@ -3,7 +3,6 @@ import streamlit as st
 import plotly.graph_objects as go
 
 from sklearn.model_selection import train_test_split 
-from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 from sklearn.ensemble import RandomForestRegressor
 
@@ -18,16 +17,26 @@ def choose_dataframe(df):
     # SideBar
     st.sidebar.header('User Input Feature')
     
-    max = st.sidebar.slider('Select Number of Rows', 0 , df.shape[0], 50)
-    df = df.iloc[:max]
     
-    multiselect_year = st.sidebar.multiselect('Years',df.year.unique(),df.year.unique())
+    multiselect_year = st.sidebar.multiselect('Years',df.year.unique(),['2020'])
     df =df[df.year.str.contains('|'.join(multiselect_year))]
+
+    multiselect_brand = st.sidebar.multiselect('Brand' , df.brand.unique(),df.brand.unique())
+    df = df[df.brand.str.contains('|'.join(multiselect_brand))]
+
+    multiselect_gearbox = st.sidebar.multiselect('GearBox',df.gearbox.unique(),df.gearbox.unique())
+    df = df[df.gearbox.str.contains('|'.join(multiselect_gearbox))]
 
 
     return df 
 
+
 df = choose_dataframe(df)
+st.text(f'Rows = {df.shape[0]}    coluns = {df.shape[1]}')
+
+st.dataframe(df)
+
+
 
 # Columns that need to clean 
 columns_to_clean = df.drop('gearbox',axis = 1)

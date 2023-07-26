@@ -27,7 +27,7 @@ def choose_dataframe(df):
     multiselect_gearbox = st.sidebar.multiselect('GearBox',df.gearbox.unique(),df.gearbox.unique())
     df = df[df.gearbox.str.contains('|'.join(multiselect_gearbox))]
 
-
+    multiselect_fueltype = st.sidebar.multiselect('Fuel Type' , df.fuel_type.unique(),df.fuel_type.unique())
     return df 
 
 

@@ -17,18 +17,18 @@ def choose_dataframe(df):
     # SideBar
     st.sidebar.header('User Input Feature')
     
-
+    # Create multiselected for year brand gearbox fueltype
     multiselect_year = st.sidebar.multiselect('Years',df.year.unique(),['2020'])
-    df =df[df.year.str.contains('|'.join(multiselect_year))]
-
     multiselect_brand = st.sidebar.multiselect('Brand' , df.brand.unique(),df.brand.unique())
-    df = df[df.brand.str.contains('|'.join(multiselect_brand))]
-
     multiselect_gearbox = st.sidebar.multiselect('GearBox',df.gearbox.unique(),df.gearbox.unique())
-    df = df[df.gearbox.str.contains('|'.join(multiselect_gearbox))]
-
     multiselect_fueltype = st.sidebar.multiselect('Fuel Type' , df.fuel_type.unique(),df.fuel_type.unique())
+    
+    # Apply multiselected on dataframe 
+    df =df[df.year.str.contains('|'.join(multiselect_year))]
+    df = df[df.brand.str.contains('|'.join(multiselect_brand))]
+    df = df[df.gearbox.str.contains('|'.join(multiselect_gearbox))]
     df = df[df.fuel_type.str.contains('|'.join(multiselect_fueltype))]
+
     return df 
 
 

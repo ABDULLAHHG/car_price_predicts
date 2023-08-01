@@ -13,11 +13,11 @@ df = pd.read_csv('data.csv')
 df = df[df.mileage.str.contains(r'km')]
 df = df[df.engine_capacity.str.match(r'[0-9]')]
 
-def choose_dataframe(df):    
+def choose_dataframe(df):   
     # SideBar
     st.sidebar.header('User Input Feature')
     
-    
+
     multiselect_year = st.sidebar.multiselect('Years',df.year.unique(),['2020'])
     df =df[df.year.str.contains('|'.join(multiselect_year))]
 
@@ -28,6 +28,7 @@ def choose_dataframe(df):
     df = df[df.gearbox.str.contains('|'.join(multiselect_gearbox))]
 
     multiselect_fueltype = st.sidebar.multiselect('Fuel Type' , df.fuel_type.unique(),df.fuel_type.unique())
+    df = df[df.fuel_type.str.contains('|'.join(multiselect_fueltype))]
     return df 
 
 

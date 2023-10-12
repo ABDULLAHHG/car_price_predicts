@@ -35,8 +35,7 @@ def choose_dataframe(df):
 df = choose_dataframe(df)
 st.text(f'Rows = {df.shape[0]}    coluns = {df.shape[1]}')
 
-st.dataframe(df)
-
+st.dataframe(df[df.brand == 'bmw'])
 
 
 # Columns that need to clean 
@@ -64,37 +63,37 @@ df = df.drop('brand',axis = 1)
 df = df.drop('voivodeship',axis = 1)
 df = df.drop('city',axis = 1)
 df = df.drop('model',axis = 1)
+def BuildModel(df):
+    # build model 
+    X = df.drop('price_in_pln' ,axis = 1)
+    y = df['price_in_pln']
 
-# build model 
-X = df.drop('price_in_pln' ,axis = 1)
-y = df['price_in_pln']
+    # Split data
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
 
-# Split data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+    reg = RandomForestRegressor()
+    reg.fit(X_train,y_train)
+    y_pred = reg.predict(X_test)
 
-reg = RandomForestRegressor()
-reg.fit(X_train,y_train)
-y_pred = reg.predict(X_test)
-
-# Show dataframe 
-st.dataframe(df)
-st.text(mean_absolute_error(y_test,y_pred))
-
-
-# Scatter plot prediction vs real 
-fig = go.Figure(go.Scatter(
-                            x = y_test,
-                            y = y_pred,
-                            mode = 'markers'
-                            ))
-fig.update_layout(height = 600,
-                  width = 800,
-                  title = 'y test VS y predict',
-                  title_x = 0.5 ,
-                  xaxis_title = 'y_test',
-                  yaxis_title = 'y_predict')
-
-st.plotly_chart(fig)
+    # Show dataframe 
+    st.dataframe(df)
+    st.text(mean_absolute_error(y_test,y_pred))
 
 
+    # Scatter plot prediction vs real 
+    fig = go.Figure(go.Scatter(
+                                x = y_test,
+                                y = y_pred,
+                                mode = 'markers'
+                                ))
+    fig.update_layout(height = 600,
+                    width = 800,
+                    title = 'y test VS y predict',
+                    title_x = 0.5 ,
+                    xaxis_title = 'y_test',
+                    yaxis_title = 'y_predict')
+
+    st.plotly_chart(fig)
+
+# BuildModel(df)
 

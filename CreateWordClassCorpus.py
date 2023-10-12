@@ -43,7 +43,7 @@ words = sorted(list(set(words)))
 classes = sorted(list(set(classes)))
 
 # Save Words , Classes , Corpus
-pickle.dump(words , open('MainModel_words' , 'wb'))
-pickle.dump(classes , open('MainModel_classes' , 'wb'))
-pickle.dump(corpus , open('MainModel_corpus' , 'wb'))
+pickle.dump(words , open('MainModel_words.pkl' , 'wb'))
+pickle.dump(classes , open('MainModel_classes.pkl' , 'wb'))
+pickle.dump(corpus , open('MainModel_corpus.pkl' , 'wb'))
 

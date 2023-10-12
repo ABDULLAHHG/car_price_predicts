@@ -1,0 +1,85 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+11241,daewoo,Daewoo Matiz,2600.0,209 000 km,manual,796 cm3,Benzyna,Bielsko-Biała,Śląskie,1998
+11242,daewoo,Daewoo Lanos 1.5 S,4499.0,209 000 km,manual,796 cm3,Benzyna,Łomianki,Mazowieckie,1998
+11243,daewoo,Daewoo Nexia,9900.0,54 900 km,manual,1 498 cm3,Benzyna,Siemianowice Śląskie,Śląskie,1998
+11244,daewoo,Daewoo Lanos 1.5 S,3500.0,54 900 km,manual,1 498 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+11245,daewoo,Daewoo Lanos 1.5 S,3000.0,44 490 km,manual,1 498 cm3,Benzyna,Łapy,Podlaskie,1996
+11246,daewoo,Daewoo Matiz,3000.0,44 490 km,manual,1 498 cm3,Benzyna,Nowa Ruda,Dolnośląskie,1996
+11247,daewoo,Daewoo Matiz Friend,3200.0,110 000 km,manual,1 498 cm3,Benzyna,Józefów,Lubelskie,1999
+11248,daewoo,Daewoo Lanos 1.5 SE (klm),4200.0,99 000 km,manual,1 498 cm3,Benzyna,Sosnowiec,Śląskie,2001
+11249,daewoo,Daewoo Matiz Life,3950.0,99 000 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2001
+11250,daewoo,Daewoo Kalos,3700.0,145 000 km,manual,796 cm3,Benzyna,Dobroń,Łódzkie,2003
+11251,daewoo,Daewoo Lanos 1.4 S,5600.0,145 000 km,manual,796 cm3,Benzyna,Zabrze,Śląskie,2003
+11252,daewoo,Daewoo Lanos 1.5 S,2200.0,170 000 km,manual,1 399 cm3,Benzyna+LPG,Czerwińsk nad Wisłą,Mazowieckie,2003
+11253,daewoo,Daewoo Nubira,2900.0,170 000 km,manual,1 399 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2003
+11254,daewoo,Daewoo Lanos 1.5 SE,4900.0,100 000 km,manual,1 349 cm3,Benzyna,Wągrowiec,Wielkopolskie,2000
+11255,daewoo,Daewoo Lanos,1230.0,100 000 km,manual,1 349 cm3,Benzyna,Komorniki,Dolnośląskie,2000
+11256,daewoo,Daewoo Lanos 1.4 S,4999.0,129 000 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2000
+11257,daewoo,Daewoo Lanos,2900.0,129 000 km,manual,1 498 cm3,Benzyna,Ożarów Mazowiecki,Mazowieckie,2000
+11258,daewoo,Daewoo Lanos,4200.0,147 380 km,manual,1 598 cm3,Benzyna+LPG,Podgrodzie,Podkarpackie,2000
+11259,daewoo,Daewoo Lanos 1.4 SE,3900.0,147 380 km,manual,1 598 cm3,Benzyna+LPG,Puławy,Lubelskie,2000
+11260,daewoo,Daewoo Lanos 1.5 SE,2800.0,129 000 km,manual,1 498 cm3,Benzyna,Tulce,Wielkopolskie,2000
+11261,daewoo,Daewoo Lanos 1.4 SE,2250.0,129 000 km,manual,1 498 cm3,Benzyna,Igołomia,Małopolskie,2000
+11262,daewoo,Daewoo Lanos,1950.0,219 403 km,manual,1 498 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2000
+11263,daewoo,Daewoo Evanda,6900.0,219 403 km,manual,1 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2000
+11264,daewoo,Daewoo Nubira 2.0 CDX,2000.0,86 500 km,manual,1 349 cm3,Benzyna,Wrocław,Dolnośląskie,2000
+11265,daewoo,Daewoo Kalos 1.2 SE Cool,3899.0,86 500 km,manual,1 349 cm3,Benzyna,Poznań,Wielkopolskie,2000
+11266,daewoo,Daewoo Matiz,3500.0,265 034 km,manual,1 500 cm3,Benzyna+LPG,Zabrze,Śląskie,2000
+11267,daewoo,Daewoo Kalos 1.4 SE,3000.0,265 034 km,manual,1 500 cm3,Benzyna+LPG,Czarny Bór,Dolnośląskie,2000
+11268,daewoo,Daewoo Lanos 1.4 SE,1999.0,201 150 km,manual,1 349 cm3,Benzyna+LPG,Katowice,Śląskie,2000
+11269,daewoo,Daewoo Kalos,6300.0,201 150 km,manual,1 349 cm3,Benzyna+LPG,Bolesławiec,Dolnośląskie,2000
+11270,daewoo,Daewoo Lanos,6500.0,188 000 km,manual,1 349 cm3,Benzyna,Piaseczno,Mazowieckie,2001
+11271,daewoo,"Daewoo Lanos 1.5 SE (airk,klm)",3999.0,188 000 km,manual,1 349 cm3,Benzyna,Katowice,Śląskie,2001
+11272,daewoo,Daewoo Lanos 1.4 SE,8900.0,84 000 km,manual,1 498 cm3,Benzyna,Płońsk,Mazowieckie,2000
+11273,daewoo,Daewoo Lanos,5000.0,84 000 km,manual,1 498 cm3,Benzyna,Żuków Pierwszy,Lubelskie,2000
+11274,daewoo,Daewoo Rezzo,7900.0,122 452 km,manual,1 349 cm3,Benzyna,Słupsk,Pomorskie,2001
+11275,daewoo,Daewoo Kalos,4000.0,122 452 km,manual,1 349 cm3,Benzyna,Zabrze,Śląskie,2001
+11276,daewoo,Daewoo Lanos,3500.0,159 000 km,manual,1 498 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2001
+11277,daewoo,Daewoo Evanda,3990.0,159 000 km,manual,1 498 cm3,Benzyna+LPG,Kraków,Małopolskie,2001
+11278,daewoo,Daewoo Evanda,6900.0,160 000 km,manual,1 998 cm3,Benzyna+LPG,Ruda Śląska,Śląskie,2004
+11279,daewoo,Daewoo Kalos,6500.0,160 000 km,manual,1 998 cm3,Benzyna+LPG,Wielogóra,Mazowieckie,2004
+11280,daewoo,Daewoo Matiz,2600.0,209 000 km,manual,796 cm3,Benzyna,Bielsko-Biała,Śląskie,1998
+11281,daewoo,Daewoo Lanos 1.5 S,4499.0,209 000 km,manual,796 cm3,Benzyna,Łomianki,Mazowieckie,1998
+11282,daewoo,Daewoo Nexia,9900.0,54 900 km,manual,1 498 cm3,Benzyna,Siemianowice Śląskie,Śląskie,1998
+11283,daewoo,Daewoo Lanos 1.5 S,3500.0,54 900 km,manual,1 498 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+11284,daewoo,Daewoo Lanos 1.5 S,3000.0,44 490 km,manual,1 498 cm3,Benzyna,Łapy,Podlaskie,1996
+11285,daewoo,Daewoo Matiz,3000.0,44 490 km,manual,1 498 cm3,Benzyna,Nowa Ruda,Dolnośląskie,1996
+11286,daewoo,Daewoo Matiz Friend,3200.0,110 000 km,manual,1 498 cm3,Benzyna,Józefów,Lubelskie,1999
+11287,daewoo,Daewoo Matiz,4600.0,110 000 km,manual,796 cm3,Benzyna,Białystok,Podlaskie,2005
+11288,daewoo,Daewoo Kalos 1.4 SE,7900.0,110 000 km,manual,796 cm3,Benzyna,Międzyborów,Mazowieckie,2005
+11289,daewoo,Daewoo Lacetti,6900.0,130 059 km,manual,1 399 cm3,Benzyna,Gdańsk,Pomorskie,2005
+11290,daewoo,Daewoo Matiz,3200.0,130 059 km,manual,1 399 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+11291,daewoo,Daewoo Lanos 1.6 SX (abs air2 klm),2970.0,260 000 km,manual,1 598 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2006
+11292,daewoo,Daewoo Rezzo,6500.0,260 000 km,manual,1 598 cm3,Benzyna+LPG,Teodory,Łódzkie,2006
+11293,daewoo,Daewoo Lanos,3500.0,57 284 km,manual,1 498 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,1998
+11294,daewoo,Daewoo Nubira 1.6 SX,3900.0,57 284 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,1998
+11295,daewoo,Daewoo Matiz Joy,2550.0,137 000 km,manual,1 598 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+11296,daewoo,Daewoo Lanos 1.5 S,2800.0,137 000 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,1998
+11297,daewoo,Daewoo Espero 1.5 GLX,1999.0,222 000 km,manual,796 cm3,Benzyna,Trzebnica,Dolnośląskie,1999
+11298,daewoo,Daewoo Matiz,2300.0,222 000 km,manual,796 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+11299,daewoo,Daewoo Nexia 1.5 GL,16000.0,324 465 km,manual,1 498 cm3,Benzyna+LPG,Miechucino,Pomorskie,1998
+11300,daewoo,Daewoo Lanos 1.5 S,2400.0,324 465 km,manual,1 498 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1998
+11301,daewoo,Daewoo Nubira 1.6 SX,2900.0,160 000 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,1997
+11302,daewoo,Daewoo Nexia 1.5 GL,5800.0,160 000 km,manual,1 498 cm3,Benzyna,Kętrzyn,Warmińsko-mazurskie,1997
+11303,daewoo,Daewoo Matiz Life,2099.0,79 697 km,manual,796 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,1999
+11304,daewoo,Daewoo Espero 1.8 CD,12950.0,79 697 km,manual,796 cm3,Benzyna,Warszawa,Mazowieckie,1999
+11305,daewoo,Daewoo Lanos 1.5 S,2900.0,24 900 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,1996
+11306,daewoo,Daewoo Lanos,3500.0,24 900 km,manual,1 498 cm3,Benzyna,Gliwice,Śląskie,1996
+11307,daewoo,Daewoo Nubira 1.6 S,6900.0,141 857 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,1999
+11308,daewoo,Daewoo Tico 800 SX,2800.0,141 857 km,manual,1 498 cm3,Benzyna,Krotoszyn,Wielkopolskie,1999
+11309,daewoo,Daewoo Lanos,3500.0,180 966 km,manual,1 598 cm3,Benzyna+LPG,Zamość,Lubelskie,1999
+11310,daewoo,Daewoo Lanos,5500.0,180 966 km,manual,1 598 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,1999
+11311,daewoo,Daewoo Matiz Joy,2700.0,101 000 km,manual,1 498 cm3,Benzyna,Ruda Śląska,Śląskie,1997
+11312,daewoo,Daewoo Matiz Friend,4900.0,101 000 km,manual,1 498 cm3,Benzyna,Ruda Śląska,Śląskie,1997
+11313,daewoo,Daewoo Musso 602 TD DLX,6999.0,140 000 km,manual,796 cm3,Benzyna,Przemyśl,Podkarpackie,1999
+11314,daewoo,Daewoo Nubira 1.6 SX,3900.0,140 000 km,manual,796 cm3,Benzyna,Warszawa,Mazowieckie,1999
+11315,daewoo,Daewoo Lanos 1.5 SE,2900.0,59 037 km,manual,1 796 cm3,Benzyna,Warszawa,Mazowieckie,1999
+11316,daewoo,Daewoo Lanos 1.5 SE,3790.0,59 037 km,manual,1 796 cm3,Benzyna,Gryfino,Zachodniopomorskie,1999
+11317,daewoo,Daewoo Lanos,2970.0,130 500 km,manual,1 498 cm3,Benzyna,Wadowice,Małopolskie,1999
+11318,daewoo,Daewoo Lanos 1.6 SX,5900.0,130 500 km,manual,1 498 cm3,Benzyna,Częstochowa,Śląskie,1999
+11319,daewoo,Daewoo Nexia 1.5 GL,7900.0,239 000 km,manual,1 498 cm3,Benzyna+LPG,Dzierżoniów,Dolnośląskie,1998
+11320,daewoo,Daewoo,9500.0,239 000 km,manual,1 498 cm3,Benzyna+LPG,Dąbrowa Wielka,Kujawsko-pomorskie,1998
+11321,daewoo,Daewoo Espero 1.5 GLX,4600.0,57 000 km,manual,1 598 cm3,Benzyna,Częstochowa,Śląskie,1998
+11322,daewoo,Daewoo Nubira 1.6 SX,6500.0,57 000 km,manual,1 598 cm3,Benzyna,Bielsko-Biała,Śląskie,1998
+11323,daewoo,Daewoo Nubira,3250.0,105 800 km,manual,796 cm3,Benzyna,Świeradów-Zdrój,Dolnośląskie,1998
+11324,daewoo,Daewoo Lanos 1.6 SX,3700.0,105 800 km,manual,796 cm3,Benzyna,Warszawa,Mazowieckie,1998

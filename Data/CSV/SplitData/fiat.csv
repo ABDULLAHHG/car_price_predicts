@@ -1,0 +1,702 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+11774,fiat,Fiat Barchetta 1.8 16V,13999.0,222 000 km,manual,1 747 cm3,Benzyna,Gołańcz,Wielkopolskie,1998
+11775,fiat,Fiat 126 650 Elegant,19800.0,222 000 km,manual,1 747 cm3,Benzyna,Mysłów,Śląskie,1998
+11776,fiat,Fiat Barchetta 1.8 16V,14500.0,54 740 km,manual,652 cm3,Benzyna,Koszalin,Zachodniopomorskie,1995
+11777,fiat,Fiat 126 elx Maluch sx,29900.0,54 740 km,manual,652 cm3,Benzyna,Żory,Śląskie,1995
+11778,fiat,Fiat Punto 75 ELX,7900.0,218 723 km,manual,1 747 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+11779,fiat,Fiat 126,16000.0,218 723 km,manual,1 747 cm3,Benzyna,Warszawa,Mazowieckie,1996
+11780,fiat,Fiat 126 650 Elegant,15000.0,54 000 km,manual,652 cm3,Benzyna,Kraków,Małopolskie,1997
+11781,fiat,Fiat Barchetta 1.8 16V,14999.0,54 000 km,manual,652 cm3,Benzyna,Drezdenko,Lubuskie,1997
+11782,fiat,Fiat 126 650 Elegant,9999.0,106 000 km,manual,1 242 cm3,Benzyna,Katowice,Śląskie,1995
+11783,fiat,Fiat Barchetta 1.8 16V,26500.0,106 000 km,manual,1 242 cm3,Benzyna,Warszawa,Mazowieckie,1995
+11784,fiat,Fiat Cinquecento 704 ED,3900.0,62 745 km,manual,652 cm3,Benzyna,Poznań,Wielkopolskie,1998
+11785,fiat,Fiat Seicento S,2200.0,62 745 km,manual,652 cm3,Benzyna,Radostowice,Śląskie,1998
+11786,fiat,Fiat 126 elx Maluch sx,36500.0,20 100 km,manual,652 cm3,Benzyna,Nieporęt,Mazowieckie,1998
+11787,fiat,Fiat Siena 1.6 16V HL,2499.0,20 100 km,manual,652 cm3,Benzyna,Kraków,Małopolskie,1998
+11788,fiat,Fiat 126 650 Elegant,14900.0,164 011 km,manual,1 747 cm3,Benzyna,Kopki,Podkarpackie,1998
+11789,fiat,Fiat Barchetta 1.8 16V,18900.0,164 011 km,manual,1 747 cm3,Benzyna,Poznań,Wielkopolskie,1998
+11790,fiat,Fiat Tipo,5000.0,112 000 km,manual,652 cm3,Benzyna,Kraków,Małopolskie,1999
+11791,fiat,Fiat 126,15000.0,112 000 km,manual,652 cm3,Benzyna,Pabianice,Łódzkie,1999
+11792,fiat,Fiat Barchetta 1.8 16V,18900.0,125 000 km,manual,1 747 cm3,Benzyna,Mława,Mazowieckie,1999
+11793,fiat,Fiat Cinquecento,3800.0,125 000 km,manual,1 747 cm3,Benzyna,Skoczów,Śląskie,1999
+11794,fiat,Fiat Barchetta 1.8 16V,17490.0,58 386 km,manual,704 cm3,Benzyna,Rybnik,Śląskie,1998
+11795,fiat,Fiat Seicento Young,2800.0,58 386 km,manual,704 cm3,Benzyna,Gorzanów,Dolnośląskie,1998
+11796,fiat,Fiat Cinquecento Sporting,10900.0,139 000 km,manual,899 cm3,Benzyna,Poręba,Śląskie,1999
+11797,fiat,Fiat Cinquecento 704 ED,6000.0,139 000 km,manual,899 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+11798,fiat,Fiat Punto 75 SX,2500.0,16 800 km,manual,652 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+11799,fiat,Fiat Barchetta 1.8 16V,19900.0,16 800 km,manual,652 cm3,Benzyna,Węgry,Opolskie,1999
+11800,fiat,Fiat Barchetta 1.8 16V,11900.0,134 000 km,manual,1 580 cm3,Benzyna,Besko,Podkarpackie,1998
+11801,fiat,Fiat 126 650 Elegant,17000.0,134 000 km,manual,1 580 cm3,Benzyna,Dobrcz,Kujawsko-pomorskie,1998
+11802,fiat,Fiat Bravo 100 16V GT,5100.0,60 000 km,manual,652 cm3,Benzyna,Konin,Wielkopolskie,1998
+11803,fiat,Fiat Punto 55 SX,3000.0,60 000 km,manual,652 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,1998
+11804,fiat,Fiat Marea 100 16V SX,8250.0,197 800 km,manual,1 747 cm3,Benzyna,Warszawa,Mazowieckie,1995
+11805,fiat,Fiat 126 650 Elegant,14000.0,197 800 km,manual,1 747 cm3,Benzyna,Jastrzębie-Zdrój,Śląskie,1995
+11806,fiat,Fiat Seicento Young,4500.0,197 925 km,manual,899 cm3,Benzyna,Żerniki Wrocławskie,Dolnośląskie,2000
+11807,fiat,Fiat Panda,3500.0,197 925 km,manual,899 cm3,Benzyna,Mściszewice,Pomorskie,2000
+11808,fiat,Fiat Panda,8900.0,167 000 km,manual,1 108 cm3,Benzyna,Garwolin,Mazowieckie,2003
+11809,fiat,Fiat Panda 1.1 Active Alaska,5000.0,167 000 km,manual,1 108 cm3,Benzyna,Sułoszowa I,Małopolskie,2003
+11810,fiat,Fiat Seicento S,4000.0,126 800 km,manual,1 108 cm3,Benzyna,Oborniki,Wielkopolskie,2004
+11811,fiat,Fiat Punto,6000.0,126 800 km,manual,1 108 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2004
+11812,fiat,Fiat Panda 1.1 Active Alaska,5900.0,131 946 km,manual,1 108 cm3,Benzyna,Kartuzy,Pomorskie,2004
+11813,fiat,Fiat Seicento Fun / Olimpia,2600.0,131 946 km,manual,1 108 cm3,Benzyna,Przasnysz,Mazowieckie,2004
+11814,fiat,Fiat Punto,3200.0,284 988 km,manual,1 108 cm3,Benzyna,Wrocław,Dolnośląskie,2000
+11815,fiat,Fiat Seicento Young,1800.0,284 988 km,manual,1 108 cm3,Benzyna,Kraków,Małopolskie,2000
+11816,fiat,Fiat Punto,3200.0,117 528 km,manual,1 242 cm3,Benzyna,Bydlin,Małopolskie,2002
+11817,fiat,Fiat Punto,2700.0,117 528 km,manual,1 242 cm3,Benzyna,Katowice,Śląskie,2002
+11818,fiat,Fiat Punto 1.2 8V,2500.0,260 640 km,manual,1 108 cm3,Benzyna+LPG,Sosnowiec,Śląskie,2004
+11819,fiat,Fiat Seicento,2400.0,260 640 km,manual,1 108 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2004
+11820,fiat,Fiat Punto 1.2 8V Actual,3699.0,66 000 km,manual,899 cm3,Benzyna,Białystok,Podlaskie,2000
+11821,fiat,Fiat Albea 1.6 16V Active / HL,2699.0,66 000 km,manual,899 cm3,Benzyna,Białystok,Podlaskie,2000
+11822,fiat,Fiat Panda,7900.0,247 000 km,manual,1 248 cm3,Diesel,Bolęcin,Małopolskie,2004
+11823,fiat,Fiat Stilo 1.2 16V Active,3999.0,247 000 km,manual,1 248 cm3,Diesel,Złoty Stok,Dolnośląskie,2004
+11824,fiat,Fiat Uno,1600.0,120 000 km,manual,899 cm3,Benzyna,Poznań,Wielkopolskie,2002
+11825,fiat,Fiat Stilo,3900.0,120 000 km,manual,899 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2002
+11826,fiat,Fiat Seicento,3500.0,130 000 km,manual,1 242 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2001
+11827,fiat,Fiat Doblo 1.6 16v Active / ELX,12500.0,130 000 km,manual,1 242 cm3,Benzyna,Łódź,Łódzkie,2001
+11828,fiat,Fiat Seicento Fun / Olimpia,3200.0,181 000 km,manual,1 248 cm3,Diesel,Cieszyn,Śląskie,2004
+11829,fiat,Fiat Stilo 1.9 JTD 115 Dynamic,3999.0,181 000 km,manual,1 248 cm3,Diesel,Złoty Stok,Dolnośląskie,2004
+11830,fiat,Fiat Stilo 1.8 16V Dynamic,4999.0,182 000 km,manual,1 242 cm3,Benzyna,Krajno Drugie,Świętokrzyskie,2003
+11831,fiat,Fiat Punto,2900.0,182 000 km,manual,1 242 cm3,Benzyna,Warszawa,Mazowieckie,2003
+11832,fiat,Fiat Stilo,1900.0,114 000 km,manual,899 cm3,Benzyna,Wrocław,Dolnośląskie,2000
+11833,fiat,Fiat Seicento Active MPI,4090.0,114 000 km,manual,899 cm3,Benzyna,Libertów,Małopolskie,2000
+11834,fiat,Fiat Stilo,6500.0,213 123 km,manual,1 242 cm3,Benzyna+LPG,Katowice,Śląskie,2004
+11835,fiat,Fiat 126 elx Maluch sx,19900.0,213 123 km,manual,1 242 cm3,Benzyna+LPG,Ruda Śląska,Śląskie,2004
+11836,fiat,Fiat Stilo 1.6 16V Active,9700.0,213 123 km,manual,1 596 cm3,Benzyna,Margonin,Wielkopolskie,2003
+11837,fiat,Fiat Panda 1.1 Active,5800.0,213 123 km,manual,1 596 cm3,Benzyna,Kobyłka,Mazowieckie,2003
+11838,fiat,Fiat Punto 1.4 16V Dynamic,11000.0,205 000 km,manual,1 368 cm3,Benzyna+LPG,Jaworzno,Śląskie,2007
+11839,fiat,Fiat Grande Punto 1.2 8V Active,7700.0,205 000 km,manual,1 368 cm3,Benzyna+LPG,Osiek nad Notecią,Wielkopolskie,2007
+11840,fiat,Fiat Bravo 1.9 Multijet Active,7000.0,202 000 km,manual,1 242 cm3,Benzyna,Wrocław,Dolnośląskie,2006
+11841,fiat,Fiat 500 1.4 16V Lounge,18900.0,202 000 km,manual,1 242 cm3,Benzyna,Wągrowiec,Wielkopolskie,2006
+11842,fiat,Fiat Grande Punto Gr 1.2 8V Active,8900.0,260 000 km,manual,1 910 cm3,Diesel,Szamotuły,Wielkopolskie,2007
+11843,fiat,Fiat Bravo,6800.0,260 000 km,manual,1 910 cm3,Diesel,Pszczyna,Śląskie,2007
+11844,fiat,Fiat Bravo 1.4 T-Jet 16V Street,19000.0,169 500 km,manual,1 368 cm3,Benzyna,Lublin,Lubelskie,2008
+11845,fiat,Fiat 500 1.4 16V S,18500.0,169 500 km,manual,1 368 cm3,Benzyna,Świdnica,Dolnośląskie,2008
+11846,fiat,Fiat Croma,5000.0,249 000 km,manual,1 242 cm3,Benzyna,Łódź,Łódzkie,2006
+11847,fiat,Fiat Bravo 1.9 Multijet Dynamic,11900.0,249 000 km,manual,1 242 cm3,Benzyna,Kraków,Małopolskie,2006
+11848,fiat,Fiat Bravo 1.9 Multijet 16V Dynamic,14500.0,275 111 km,manual,1 910 cm3,Diesel,Piekary Śląskie,Śląskie,2009
+11849,fiat,Fiat Scudo Multicab lang,32900.0,275 111 km,manual,1 910 cm3,Diesel,Radom,Mazowieckie,2009
+11850,fiat,Fiat Grande Punto,10600.0,212 500 km,manual,1 368 cm3,Benzyna+LPG,Kalisz,Wielkopolskie,2008
+11851,fiat,Fiat Grande Punto 1.4 16V Dynamic,12800.0,212 500 km,manual,1 368 cm3,Benzyna+LPG,Morawica,Świętokrzyskie,2008
+11852,fiat,Fiat Bravo,15500.0,100 045 km,manual,1 368 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2007
+11853,fiat,Fiat Bravo 1.9 Multijet Dynamic,12900.0,100 045 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2007
+11854,fiat,Fiat Doblo 1.4 8V Dynamic,14900.0,256 642 km,manual,1 910 cm3,Diesel,Gostynin,Mazowieckie,2006
+11855,fiat,Fiat Grande Punto 1.4 8V,11900.0,256 642 km,manual,1 910 cm3,Diesel,Tymienice,Łódzkie,2006
+11856,fiat,Fiat Grande Punto Gr 1.4 8V Active,9500.0,250 000 km,manual,1 910 cm3,Diesel,Katowice,Śląskie,2007
+11857,fiat,Fiat Grande Punto,10500.0,250 000 km,manual,1 910 cm3,Diesel,Sosnowiec,Śląskie,2007
+11858,fiat,Fiat Bravo 1.4 T-Jet 16V Sport,16300.0,174 800 km,manual,1 910 cm3,Diesel,Lubojna,Śląskie,2007
+11859,fiat,Fiat Bravo 1.4 T-Jet 16V Active,17899.0,174 800 km,manual,1 910 cm3,Diesel,Proszowice,Małopolskie,2007
+11860,fiat,Fiat Bravo 1.4 16V Active,9500.0,258 441 km,manual,1 997 cm3,Diesel,Oborniki Śląskie,Dolnośląskie,2009
+11861,fiat,Fiat Bravo 1.4 16V Active,15000.0,258 441 km,manual,1 997 cm3,Diesel,Oława,Dolnośląskie,2009
+11862,fiat,Fiat Grande Punto 1.4 8V Active,12500.0,223 769 km,manual,1 242 cm3,Benzyna,Golce,Śląskie,2009
+11863,fiat,Fiat 500 1.2 8V Anniversario,18900.0,223 769 km,manual,1 242 cm3,Benzyna,Szczytno,Warmińsko-mazurskie,2009
+11864,fiat,Fiat Panda 1.1 Active,10900.0,162 000 km,manual,1 368 cm3,Benzyna,Leszno,Wielkopolskie,2008
+11865,fiat,Fiat Panda,4500.0,162 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2008
+11866,fiat,Fiat Grande Punto,11900.0,205 700 km,manual,1 368 cm3,Benzyna,Stanisławice,Mazowieckie,2008
+11867,fiat,Fiat Sedici 1.6 16V 4x4 Dynamic,21900.0,205 700 km,manual,1 368 cm3,Benzyna,Żywiec,Śląskie,2008
+11868,fiat,Fiat Bravo 1.9 Multijet 16V DPF Sport,13900.0,212 000 km,manual,1 910 cm3,Diesel,Dębołęka,Łódzkie,2009
+11869,fiat,Fiat Linea 1.4 T-Jet 16V Active,16500.0,212 000 km,manual,1 910 cm3,Diesel,Pilzno,Podkarpackie,2009
+11870,fiat,Fiat Croma 1.8 16V Business,15000.0,193 401 km,manual,1 796 cm3,Benzyna,Wrocław,Dolnośląskie,2009
+11871,fiat,Fiat Fiorino 1.3 Multijet 16V Elegant,15900.0,193 401 km,manual,1 796 cm3,Benzyna,Nowa Sól,Lubuskie,2009
+11872,fiat,Fiat Scudo,32500.0,243 478 km,manual,1 248 cm3,Diesel,Jastrzębie-Zdrój,Śląskie,2008
+11873,fiat,Fiat Punto,8900.0,243 478 km,manual,1 248 cm3,Diesel,Siemianowice Śląskie,Śląskie,2008
+11874,fiat,Fiat Bravo 1.6 Multijet 16V Active,12700.0,264 000 km,manual,1 997 cm3,Diesel,Gilowice,Śląskie,2008
+11875,fiat,Fiat Grande Punto Gr 1.4 8V Dynamic,9000.0,264 000 km,manual,1 997 cm3,Diesel,Kraków,Małopolskie,2008
+11876,fiat,Fiat Grande Punto,8000.0,191 000 km,manual,1 368 cm3,Benzyna,Zabrze,Śląskie,2008
+11877,fiat,Fiat Fiorino,19000.0,191 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2008
+11878,fiat,Fiat Punto 1.4 16V Dynamic,13500.0,178 000 km,manual,1 598 cm3,Diesel,Chorzów,Śląskie,2008
+11879,fiat,Fiat Punto 1.4 16V Dynamic,10900.0,178 000 km,manual,1 598 cm3,Diesel,Częstochowa,Śląskie,2008
+11880,fiat,Fiat Bravo 1.4 T-JET 16V Sport Plus,19900.0,244 500 km,manual,1 368 cm3,Benzyna,Sosnowiec,Śląskie,2008
+11881,fiat,Fiat Grande Punto,9999.0,244 500 km,manual,1 368 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2008
+11882,fiat,Fiat Bravo,19900.0,236 160 km,manual,1 368 cm3,Benzyna,Katowice,Śląskie,2006
+11883,fiat,Fiat Panda 1.4 100HP,14500.0,236 160 km,manual,1 368 cm3,Benzyna,Trzebinia,Małopolskie,2006
+11884,fiat,Fiat Grande Punto 1.2 8V Actual,12900.0,78 299 km,manual,1 360 cm3,Benzyna,Piekary Śląskie,Śląskie,2009
+11885,fiat,Fiat Sedici 1.6 16V 4x2 Fresh,22000.0,78 299 km,manual,1 360 cm3,Benzyna,Krotoszyn,Wielkopolskie,2009
+11886,fiat,Fiat Grande Punto 1.4 8V Dynamic,13500.0,174 900 km,manual,1 368 cm3,Benzyna,Zabrze,Śląskie,2007
+11887,fiat,Fiat Seicento,6000.0,174 900 km,manual,1 368 cm3,Benzyna,Gniezno,Wielkopolskie,2007
+11888,fiat,Fiat Bravo 1.4 16V Dynamic,11800.0,140 000 km,manual,1 368 cm3,Benzyna,Rumia,Pomorskie,2006
+11889,fiat,Fiat Grande Punto,9990.0,140 000 km,manual,1 368 cm3,Benzyna,Skawina,Małopolskie,2006
+11890,fiat,Fiat Punto Evo 1.4 8V Estiva Blue&Me,16500.0,144 000 km,manual,1 368 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+11891,fiat,Fiat Bravo 1.9 Multijet Dynamic,14999.0,144 000 km,manual,1 368 cm3,Benzyna,Świętochłowice,Śląskie,2008
+11892,fiat,Fiat Bravo 1.4 T-Jet 16V Dynamic,18500.0,208 000 km,manual,1 242 cm3,Benzyna,Ciepielów Kolonia,Mazowieckie,2008
+11893,fiat,Fiat Bravo,19900.0,208 000 km,manual,1 242 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2008
+11894,fiat,Fiat Scudo,37999.0,244 576 km,manual,1 368 cm3,Benzyna+LPG,Nowa Wieś Rzeczna,Pomorskie,2008
+11895,fiat,Fiat Grande Punto 1.4 8V Dynamic,16500.0,244 576 km,manual,1 368 cm3,Benzyna+LPG,Piekary Śląskie,Śląskie,2008
+11896,fiat,Fiat Punto,9450.0,219 000 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2008
+11897,fiat,Fiat Scudo,23500.0,219 000 km,manual,1 368 cm3,Benzyna,Łódź,Łódzkie,2008
+11898,fiat,Fiat Bravo,13900.0,156 000 km,manual,1 242 cm3,Benzyna,Legnica,Dolnośląskie,2006
+11899,fiat,Fiat Grande Punto,9000.0,156 000 km,manual,1 242 cm3,Benzyna,Pobiedna,Dolnośląskie,2006
+11900,fiat,Fiat Bravo,19900.0,88 000 km,manual,1 586 cm3,Benzyna,Lubanie,Kujawsko-pomorskie,2008
+11901,fiat,Fiat Ducato,10000.0,88 000 km,manual,1 586 cm3,Benzyna,Tarnów,Małopolskie,2008
+11902,fiat,Fiat Punto Evo,19900.0,131 500 km,manual,1 368 cm3,Benzyna,Świebodzice,Dolnośląskie,2012
+11903,fiat,Fiat 500L 1.4 16V Lounge,38900.0,131 500 km,manual,1 368 cm3,Benzyna,Gliwice,Śląskie,2012
+11904,fiat,Fiat Freemont 2.0 Multijet,44500.0,90 000 km,manual,1 368 cm3,Benzyna,Kielce,Świętokrzyskie,2012
+11905,fiat,Fiat Doblo,39900.0,90 000 km,manual,1 368 cm3,Benzyna,Olkusz,Małopolskie,2012
+11906,fiat,Fiat 500L 1.4 16V Trekking,42500.0,135 000 km,manual,1 956 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2013
+11907,fiat,Fiat 500L,41900.0,135 000 km,manual,1 956 cm3,Diesel,Warszawa,Mazowieckie,2013
+11908,fiat,Fiat Doblo,37500.0,235 000 km,manual,1 956 cm3,Diesel,Nowa Huta,Świętokrzyskie,2014
+11909,fiat,Fiat Ducato,250000.0,235 000 km,manual,1 956 cm3,Diesel,Bolechowice,Małopolskie,2014
+11910,fiat,Fiat Punto Evo 1.4 8V Dynamic Start&Stop,18700.0,121 406 km,manual,1 368 cm3,Benzyna,Nowe Dwory,Małopolskie,2014
+11911,fiat,Fiat 500 C 0.9 8V TwinAir Start&Stopp Sport,23900.0,121 406 km,manual,1 368 cm3,Benzyna,Szczytniki nad Kaczawą,Dolnośląskie,2014
+11912,fiat,Fiat Punto,15900.0,99 000 km,manual,1 368 cm3,Benzyna,Lubin,Dolnośląskie,2014
+11913,fiat,Fiat 500 1.2 8V Pop,19000.0,99 000 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2014
+11914,fiat,Fiat Panda 1.2 Active Eco,21900.0,157 000 km,manual,1 598 cm3,Diesel,Gorlice,Małopolskie,2011
+11915,fiat,Fiat 500,27800.0,157 000 km,manual,1 598 cm3,Diesel,Swarzędz,Wielkopolskie,2011
+11916,fiat,Fiat Bravo 1.6 Multijet 16V Dynamic,17900.0,40 000 km,manual,2 300 cm3,Diesel,Myślenice,Małopolskie,2014
+11917,fiat,Fiat Punto,14900.0,40 000 km,manual,2 300 cm3,Diesel,Kobierzyce,Dolnośląskie,2014
+11918,fiat,Fiat Bravo,19900.0,153 500 km,manual,1 368 cm3,Benzyna,Lublin,Lubelskie,2010
+11919,fiat,Fiat Panda,15000.0,153 500 km,manual,1 368 cm3,Benzyna,Gdańsk,Pomorskie,2010
+11920,fiat,Fiat Bravo 1.4 T-Jet 16V Dynamic,17000.0,133 000 km,manual,875 cm3,Benzyna,Wrocław,Dolnośląskie,2013
+11921,fiat,Fiat 500 1.2 8V Lounge Euro5,16600.0,133 000 km,manual,875 cm3,Benzyna,Ostroróg,Wielkopolskie,2013
+11922,fiat,Fiat Punto Evo 1.3 Multijet 16V Active,12999.0,131 310 km,manual,1 368 cm3,Benzyna,Kielce,Świętokrzyskie,2012
+11923,fiat,Fiat Punto Evo 1.2 8V Active Start&Stop,18900.0,131 310 km,manual,1 368 cm3,Benzyna,Trzemesna,Małopolskie,2012
+11924,fiat,Fiat Panda 1.2 Dynamic,14900.0,200 000 km,manual,1 242 cm3,Benzyna,Kielce,Świętokrzyskie,2010
+11925,fiat,Fiat Punto Evo 1.4 8V Start&Stopp More,19400.0,200 000 km,manual,1 242 cm3,Benzyna,Łódź,Łódzkie,2010
+11926,fiat,Fiat Freemont 2.0 Multijet Urban,36700.0,191 000 km,manual,1 242 cm3,Benzyna+LPG,Zaborów,Mazowieckie,2012
+11927,fiat,Fiat 500L 1.4 16V Trekking Lite,39900.0,191 000 km,manual,1 242 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2012
+11928,fiat,Fiat Punto 1.4 Easy S&S,23400.0,97 394 km,manual,1 242 cm3,Benzyna,Lublin,Lubelskie,2013
+11929,fiat,Fiat Bravo 1.4 16V Easy,17297.0,97 394 km,manual,1 242 cm3,Benzyna,Jasienica,Śląskie,2013
+11930,fiat,Fiat Punto 2012,22900.0,121 200 km,manual,1 598 cm3,Diesel,Gliwice,Śląskie,2010
+11931,fiat,Fiat Sedici 1.6 16V 4x4 Dynamic,31900.0,121 200 km,manual,1 598 cm3,Diesel,Zakopane,Małopolskie,2010
+11932,fiat,Fiat Doblo,30750.0,180 000 km,manual,1 248 cm3,Diesel,Gliwice,Śląskie,2011
+11933,fiat,Fiat Panda,10900.0,180 000 km,manual,1 248 cm3,Diesel,Warszawa,Mazowieckie,2011
+11934,fiat,Fiat Tipo 1.6 MultiJet 16v Lounge,47900.0,38 000 km,manual,1 598 cm3,Diesel,Żyrardów,Mazowieckie,2017
+11935,fiat,Fiat Tipo 1.6 MultiJet Business Line,22000.0,38 000 km,manual,1 598 cm3,Diesel,Wągrowiec,Wielkopolskie,2017
+11936,fiat,Fiat Tipo 1.4 16v Easy,39990.0,94 490 km,manual,1 598 cm3,Diesel,Trzebinia,Małopolskie,2017
+11937,fiat,Fiat Talento,99999.0,94 490 km,manual,1 598 cm3,Diesel,Ciechanów,Mazowieckie,2017
+11938,fiat,Fiat Tipo,41820.0,166 268 km,manual,1 368 cm3,Benzyna+LPG,Bytom,Śląskie,2017
+11939,fiat,Fiat 500 1.2 Lounge,49900.0,166 268 km,manual,1 368 cm3,Benzyna+LPG,Swarzędz,Wielkopolskie,2017
+11940,fiat,Fiat 500 0.9 SGE Lounge S&S,42000.0,165 000 km,manual,1 598 cm3,Diesel,Wrocław,Dolnośląskie,2019
+11941,fiat,Fiat Doblo 1.6 Multijet 16V Easy,57900.0,165 000 km,manual,1 598 cm3,Diesel,Dzierżoniów,Dolnośląskie,2019
+11942,fiat,Fiat Tipo,41000.0,135 000 km,manual,1 368 cm3,Benzyna,Brzesko,Małopolskie,2016
+11943,fiat,Fiat Tipo 1.3 MultiJet 16v Easy,40900.0,135 000 km,manual,1 368 cm3,Benzyna,Siedlce,Mazowieckie,2016
+11944,fiat,Fiat Tipo 1.4 T-Jet 16v Pop EU6d,55900.0,7 800 km,manual,1 242 cm3,Benzyna,Sieradz,Łódzkie,2017
+11945,fiat,Fiat 500,28500.0,7 800 km,manual,1 242 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2017
+11946,fiat,Fiat Tipo 1.6 MultiJet 16v Lounge,39300.0,40 000 km,manual,875 cm3,Benzyna,Żyrardów,Mazowieckie,2017
+11947,fiat,Fiat Punto 2012,35000.0,40 000 km,manual,875 cm3,Benzyna,Piaseczno,Mazowieckie,2017
+11948,fiat,Fiat Tipo 1.3 MultiJet 16v Lounge,33000.0,99 300 km,manual,1 598 cm3,Diesel,Rumia,Pomorskie,2017
+11949,fiat,Fiat Tipo,39900.0,99 300 km,manual,1 598 cm3,Diesel,Wrocław,Dolnośląskie,2017
+11950,fiat,Fiat Tipo 1.4 16v Lounge,49900.0,124 064 km,manual,1 368 cm3,Benzyna,Sosnowiec,Śląskie,2017
+11951,fiat,Fiat Fiorino,36000.0,124 064 km,manual,1 368 cm3,Benzyna,Sławniów,Śląskie,2017
+11952,fiat,Fiat 500L 1.4 16V Pop Star,46000.0,81 000 km,manual,1 248 cm3,Diesel,Góra Kalwaria,Mazowieckie,2017
+11953,fiat,Fiat Talento,114900.0,81 000 km,manual,1 248 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2017
+11954,fiat,Fiat Tipo 1.4 16v Pop,38400.0,32 960 km,manual,1 368 cm3,Benzyna,Lusówko,Wielkopolskie,2019
+11955,fiat,Fiat 500X 1.6 MultiJet Lounge,62900.0,32 960 km,manual,1 368 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2019
+11956,fiat,Fiat Fiorino,31000.0,39 000 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2019
+11957,fiat,Fiat 500 C 1.2 8V 60th,33900.0,39 000 km,manual,999 cm3,Benzyna,Słupca,Wielkopolskie,2019
+11958,fiat,Fiat 500 1.2 Pop,42800.0,161 500 km,manual,1 598 cm3,Diesel,Żarki Letnisko,Śląskie,2016
+11959,fiat,Fiat Panda 1.3 Multijet Climbing S&S 4x4,44900.0,161 500 km,manual,1 598 cm3,Diesel,Kraków,Małopolskie,2016
+11960,fiat,Fiat Doblo 1.6 16V Multijet Emotion,36900.0,128 652 km,manual,1 368 cm3,Benzyna+LPG,Bełżyce,Lubelskie,2018
+11961,fiat,Fiat 500 1.2 Pop,47500.0,128 652 km,manual,1 368 cm3,Benzyna+LPG,Gdynia,Pomorskie,2018
+11962,fiat,Fiat 500X 1.6 E-torQ 4x2 City Cross,58900.0,162 000 km,manual,1 248 cm3,Diesel,Wrocław,Dolnośląskie,2016
+11963,fiat,Fiat 500 1.2 Lounge,50500.0,162 000 km,manual,1 248 cm3,Diesel,Białystok,Podlaskie,2016
+11964,fiat,Fiat Tipo 1.4 16v Lounge,47900.0,161 600 km,manual,1 368 cm3,Benzyna,Łódź,Łódzkie,2017
+11965,fiat,Fiat 500,50000.0,161 600 km,manual,1 368 cm3,Benzyna,Poznań,Wielkopolskie,2017
+11966,fiat,Fiat 500,59000.0,27 608 km,manual,1 242 cm3,Benzyna,Piaseczno,Mazowieckie,2019
+11967,fiat,Fiat 500,56000.0,27 608 km,manual,1 242 cm3,Benzyna,Łódź,Łódzkie,2019
+11968,fiat,Fiat 500L,28400.0,95 522 km,manual,1 368 cm3,Benzyna,Ostrołęka,Mazowieckie,2015
+11969,fiat,Fiat Tipo,50000.0,95 522 km,manual,1 368 cm3,Benzyna,Łódź,Łódzkie,2015
+11970,fiat,Fiat Tipo 1.4 16v Lounge,56000.0,148 555 km,manual,1 248 cm3,Diesel,Pruszków,Mazowieckie,2015
+11971,fiat,Fiat Tipo 1.4 16v Pop,43500.0,148 555 km,manual,1 248 cm3,Diesel,Kraków,Małopolskie,2015
+11972,fiat,Fiat 500 1.2 Pop,41000.0,73 096 km,manual,1 368 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2016
+11973,fiat,Fiat Tipo,37900.0,73 096 km,manual,1 368 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2016
+11974,fiat,Fiat Tipo 1.4 T-Jet 16v Pop,35000.0,90 000 km,manual,1 368 cm3,Benzyna,Słupsk,Pomorskie,2019
+11975,fiat,Fiat Panda,31500.0,90 000 km,manual,1 368 cm3,Benzyna,Komorniki,Wielkopolskie,2019
+11976,fiat,Fiat Tipo 1.4 16v Pop,43000.0,84 220 km,manual,1 368 cm3,Benzyna,Radom,Mazowieckie,2018
+11977,fiat,Fiat 500 1.2 Pop,46900.0,84 220 km,manual,1 368 cm3,Benzyna,Łódź,Łódzkie,2018
+11978,fiat,Fiat 500 1.2 8V Lounge,38800.0,54 600 km,manual,1 242 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2017
+11979,fiat,Fiat Tipo,53000.0,54 600 km,manual,1 242 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2017
+11980,fiat,Fiat 500L 1.4 16V T-Jet Pop Star,45000.0,102 129 km,manual,1 368 cm3,Benzyna,Gdańsk,Pomorskie,2017
+11981,fiat,Fiat Tipo 1.4 16v Lounge,36900.0,102 129 km,manual,1 368 cm3,Benzyna,Złoty Stok,Dolnośląskie,2017
+11982,fiat,Fiat Tipo 1.4 T-Jet 16v Pop,53900.0,208 000 km,manual,1 368 cm3,Benzyna+LPG,Przysucha,Mazowieckie,2017
+11983,fiat,Fiat Panda 1.2,36900.0,208 000 km,manual,1 368 cm3,Benzyna+LPG,Krzęcin,Małopolskie,2017
+11984,fiat,Fiat Tipo 1.4 16v Lounge EU6d,50000.0,87 310 km,manual,1 242 cm3,Benzyna,Poznań,Wielkopolskie,2017
+11985,fiat,Fiat Talento L2H1 Family,79950.0,87 310 km,manual,1 242 cm3,Benzyna,Barwałd Średni,Małopolskie,2017
+11986,fiat,Fiat Fullback,93000.0,39 359 km,manual,1 368 cm3,Benzyna,Lublin,Lubelskie,2018
+11987,fiat,Fiat 500X,52500.0,39 359 km,manual,1 368 cm3,Benzyna,Gdańsk,Pomorskie,2018
+11988,fiat,Fiat Panda 1.2 Lounge,38000.0,27 020 km,manual,1 242 cm3,Benzyna,Grodzisk Mazowiecki,Mazowieckie,2018
+11989,fiat,Fiat Panda 1.2 Easy,35900.0,27 020 km,manual,1 242 cm3,Benzyna,Tarnobrzeg,Podkarpackie,2018
+11990,fiat,Fiat Tipo 1.4 16v Pop EU6d,57900.0,54 500 km,manual,1 242 cm3,Benzyna,Lipno,Kujawsko-pomorskie,2015
+11991,fiat,Fiat Tipo 1.4 16v Lounge,41500.0,54 500 km,manual,1 242 cm3,Benzyna,Szczecin,Zachodniopomorskie,2015
+11992,fiat,Fiat 500X 1.6 Multijet 4x2 S&S Lounge,36300.0,84 695 km,manual,1 368 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2017
+11993,fiat,Fiat 500 1.2 8V Lounge,35900.0,84 695 km,manual,1 368 cm3,Benzyna+LPG,Kaczory,Wielkopolskie,2017
+11994,fiat,Fiat Tipo 1.4 16v Pop EU6d,28956.0,159 000 km,manual,1 368 cm3,Benzyna+LPG,Komorniki,Dolnośląskie,2016
+11995,fiat,Fiat 500X 2.0 Multijet 4x4 S&S Cross,37600.0,159 000 km,manual,1 368 cm3,Benzyna+LPG,Nowy Sącz,Małopolskie,2016
+11996,fiat,Fiat Tipo 1.4 T-Jet 16v Easy,48900.0,63 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2016
+11997,fiat,Fiat 500X,54500.0,63 000 km,manual,1 368 cm3,Benzyna,Mysłowice,Śląskie,2016
+11998,fiat,Fiat Cinquecento,3000.0,67 868 km,automatic,704 cm3,Benzyna,Zamek Bierzgłowski,Kujawsko-pomorskie,1998
+11999,fiat,Fiat Marea,4999.0,67 868 km,automatic,704 cm3,Benzyna,Tarnów,Małopolskie,1998
+12000,fiat,Fiat Tipo,70000.0,39 747 km,manual,999 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2021
+12001,fiat,Fiat Tipo,61400.0,39 747 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+12002,fiat,Fiat Tipo 1.4 T-Jet 16v Lounge EU6d,74000.0,58 100 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2020
+12003,fiat,Fiat Tipo,60900.0,58 100 km,manual,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+12004,fiat,Fiat 500,72890.0,9 034 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2020
+12005,fiat,Fiat 500 1.0 Hybrid,65900.0,9 034 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2020
+12006,fiat,Fiat Tipo,62900.0,67 200 km,manual,1 368 cm3,Benzyna,Siewierz,Śląskie,2020
+12007,fiat,Fiat Tipo,70000.0,67 200 km,manual,1 368 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2020
+12008,fiat,Fiat Tipo 1.0 T3,69999.0,6 km,manual,999 cm3,Hybryda,Częstochowa,Śląskie,2022
+12009,fiat,Fiat Ducato,355000.0,6 km,manual,999 cm3,Hybryda,Myszkowice,Śląskie,2022
+12010,fiat,Fiat Tipo 1.0 T3,112200.0,16 004 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+12011,fiat,Fiat Panda,51900.0,16 004 km,manual,999 cm3,Benzyna,Wągrowiec,Wielkopolskie,2021
+12012,fiat,Fiat Tipo,57900.0,16 280 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2021
+12013,fiat,Fiat Tipo 1.0 T3,72500.0,16 280 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2021
+12014,fiat,Fiat Tipo,98000.0,33 100 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2021
+12015,fiat,Fiat Panda,68600.0,33 100 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2021
+12016,fiat,Fiat Tipo 1.0 T3,83690.0,2 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2022
+12017,fiat,Fiat 500,64900.0,2 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2022
+12018,fiat,Fiat Panda,66690.0,25 000 km,manual,2 287 cm3,Diesel,Katowice,Śląskie,2021
+12019,fiat,Fiat Tipo 1.0 T3,98500.0,25 000 km,manual,2 287 cm3,Diesel,Katowice,Śląskie,2021
+12020,fiat,Fiat Panda 0.9 TwinAir Climbing S&S 4x4,37000.0,1 km,manual,999 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2023
+12021,fiat,Fiat 500X 1.0 Cross,113750.0,1 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2023
+12022,fiat,Fiat Tipo 1.0 T3,83900.0,14 000 km,manual,999 cm3,Hybryda,Warszawa,Mazowieckie,2021
+12023,fiat,Fiat Tipo 1.6 MultiJet Cross,95000.0,14 000 km,manual,999 cm3,Hybryda,Lublin,Lubelskie,2021
+12024,fiat,Fiat Tipo 1.0 T3 City Life,91300.0,40 768 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2021
+12025,fiat,Fiat Tipo,70900.0,40 768 km,manual,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+12026,fiat,Fiat Tipo,81387.0,1 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+12027,fiat,Fiat 500,69564.0,1 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+12028,fiat,Fiat Tipo,99000.0,1 km,manual,1 598 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+12029,fiat,Fiat 500,74000.0,1 km,manual,1 598 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+12030,fiat,Fiat Tipo,81387.0,1 km,manual,999 cm3,Hybryda,Szczecin,Zachodniopomorskie,2022
+12031,fiat,Fiat Tipo,85220.0,1 km,manual,999 cm3,Hybryda,Szczecin,Zachodniopomorskie,2022
+12032,fiat,Fiat Panda,8600.0,113 000 km,automatic,1 108 cm3,Benzyna,Ryki,Lubelskie,2004
+12033,fiat,Fiat Punto 1.2 16V ELX Speedgear,6999.0,113 000 km,automatic,1 108 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+12034,fiat,Fiat Ulysse,8990.0,151 000 km,automatic,1 242 cm3,Benzyna,Piastów,Mazowieckie,2003
+12035,fiat,Fiat Stilo 2.4 20V Abarth,9500.0,151 000 km,automatic,1 242 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2003
+12036,fiat,Fiat Punto 1.2 16V ELX Speedgear,9800.0,225 745 km,automatic,1 997 cm3,Diesel,Płońsk,Mazowieckie,2004
+12037,fiat,Fiat Stilo,9900.0,225 745 km,automatic,1 997 cm3,Diesel,Radom,Mazowieckie,2004
+12038,fiat,Fiat Scudo L3 Multicab,79500.0,26 800 km,manual,1 997 cm3,Diesel,Bielsko-Biała,Śląskie,2022
+12039,fiat,Fiat Tipo 1.4 T-Jet 16v Lounge,64990.0,26 800 km,manual,1 997 cm3,Diesel,Chorzów,Śląskie,2022
+12040,fiat,Fiat 500,69900.0,72 309 km,manual,1 368 cm3,Benzyna,Łódź,Łódzkie,2020
+12041,fiat,Fiat 500 1.0 Hybrid,73000.0,72 309 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2020
+12042,fiat,Fiat 500 1.0 Hybrid,73000.0,5 134 km,manual,999 cm3,Hybryda,Warszawa,Mazowieckie,2022
+12043,fiat,Fiat 500 1.0 GSE Hybrid,55000.0,5 134 km,manual,999 cm3,Hybryda,Opole,Opolskie,2022
+12044,fiat,Fiat Tipo,59900.0,1 km,manual,999 cm3,Benzyna,Piaseczno,Mazowieckie,2023
+12045,fiat,Fiat 500 1.0 Hybrid,62700.0,1 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2023
+12046,fiat,Fiat 500 1.0 Hybrid,62900.0,1 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2023
+12047,fiat,Fiat Tipo,54900.0,1 km,manual,999 cm3,Benzyna,Piaseczno,Mazowieckie,2023
+12048,fiat,Fiat 500 1.0 Hybrid,63100.0,21 000 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2020
+12049,fiat,Fiat Tipo 1.4 Classic,37900.0,21 000 km,manual,999 cm3,Benzyna,Zabierzów,Małopolskie,2020
+12050,fiat,Fiat Tipo 1.0 T3 City Life,74900.0,33 000 km,manual,999 cm3,Benzyna,Legnica,Dolnośląskie,2021
+12051,fiat,Fiat 500 1.0 Hybrid,68500.0,33 000 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2021
+12052,fiat,Fiat 500 1.0 Hybrid,69100.0,5 km,manual,999 cm3,Benzyna,Sosnowiec,Śląskie,2023
+12053,fiat,Fiat 500,65900.0,5 km,manual,999 cm3,Benzyna,Legnica,Dolnośląskie,2023
+12054,fiat,Fiat 500,69900.0,5 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2023
+12055,fiat,Fiat Tipo,98900.0,5 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2023
+12056,fiat,Fiat 500 1.0 Hybrid,52500.0,38 836 km,manual,1 368 cm3,Benzyna,Bielsko-Biała,Śląskie,2021
+12057,fiat,Fiat 500,74500.0,38 836 km,manual,1 368 cm3,Benzyna,Stalowa Wola,Podkarpackie,2021
+12058,fiat,Fiat Doblo,110687.0,5 km,manual,999 cm3,Benzyna,Stalowa Wola,Podkarpackie,2023
+12059,fiat,Fiat 500 1.0 Hybrid,69900.0,5 km,manual,999 cm3,Benzyna,Lublin,Lubelskie,2023
+12060,fiat,Fiat Tipo 1.4 16v Lounge EU6d,59500.0,147 000 km,manual,1 368 cm3,Benzyna+LPG,Opole,Opolskie,2020
+12061,fiat,Fiat Tipo 1.4 16v Street,58000.0,147 000 km,manual,1 368 cm3,Benzyna+LPG,Krotoszyn,Wielkopolskie,2020
+12062,fiat,Fiat Tipo,66000.0,1 km,manual,999 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2022
+12063,fiat,Fiat 500 1.0 Hybrid,82500.0,1 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2022
+12064,fiat,Fiat Tipo,70000.0,5 km,manual,999 cm3,Benzyna,Gdańsk,Pomorskie,2023
+12065,fiat,Fiat Tipo,64501.0,5 km,manual,999 cm3,Benzyna,Gdańsk,Pomorskie,2023
+12066,fiat,Fiat Tipo,72000.0,5 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2023
+12067,fiat,Fiat Tipo,68000.0,5 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2023
+12068,fiat,Fiat Tipo 1.0 T3,74200.0,1 km,manual,999 cm3,Hybryda,Rzeszów,Podkarpackie,2022
+12069,fiat,Fiat Tipo,70000.0,1 km,manual,999 cm3,Hybryda,Zabrze,Śląskie,2022
+12070,fiat,Fiat Grande Punto Actual 1.4 8V Actual Dualogic Euro5,15900.0,160 960 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+12071,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Emotion,12900.0,160 960 km,automatic,1 368 cm3,Benzyna,Arcelin,Mazowieckie,2009
+12072,fiat,Fiat Grande Punto,14300.0,141 000 km,automatic,1 910 cm3,Diesel,Ochojno,Małopolskie,2005
+12073,fiat,Fiat Grande Punto Actual 1.4 8V Actual Dualogic Euro5,15900.0,160 960 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+12074,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Emotion,12900.0,160 960 km,automatic,1 368 cm3,Benzyna,Arcelin,Mazowieckie,2009
+12075,fiat,Fiat Grande Punto,14300.0,141 000 km,automatic,1 910 cm3,Diesel,Ochojno,Małopolskie,2005
+12076,fiat,Fiat Grande Punto Actual 1.4 8V Actual Dualogic Euro5,15900.0,160 960 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+12077,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Emotion,12900.0,160 960 km,automatic,1 368 cm3,Benzyna,Arcelin,Mazowieckie,2009
+12078,fiat,Fiat Grande Punto,14300.0,141 000 km,automatic,1 910 cm3,Diesel,Ochojno,Małopolskie,2005
+12079,fiat,Fiat Grande Punto Actual 1.4 8V Actual Dualogic Euro5,15900.0,160 960 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+12080,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Emotion,12900.0,160 960 km,automatic,1 368 cm3,Benzyna,Arcelin,Mazowieckie,2009
+12081,fiat,Fiat Grande Punto,14300.0,141 000 km,automatic,1 910 cm3,Diesel,Ochojno,Małopolskie,2005
+12082,fiat,Fiat 500,39500.0,212 000 km,automatic,1 368 cm3,Benzyna,Zielona Góra,Lubuskie,2009
+12083,fiat,Fiat Croma,12900.0,212 000 km,automatic,1 368 cm3,Benzyna,Kampinos,Mazowieckie,2009
+12084,fiat,Fiat Panda,9999.0,216 000 km,automatic,1 910 cm3,Diesel,Pruszków,Mazowieckie,2007
+12085,fiat,Fiat Croma 1.9 JTD Emotion,8900.0,216 000 km,automatic,1 910 cm3,Diesel,Frydek,Śląskie,2007
+12086,fiat,Fiat Croma 2.4 JTD Emotion,10086.0,162 000 km,automatic,1 242 cm3,Benzyna,Ujście,Wielkopolskie,2005
+12087,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Dynamic,14000.0,162 000 km,automatic,1 242 cm3,Benzyna,Bolesławiec,Dolnośląskie,2005
+12088,fiat,Fiat Croma 1.9 JTD Emotion,11700.0,277 000 km,automatic,1 910 cm3,Diesel,Ruda Śląska,Śląskie,2005
+12089,fiat,Fiat Bravo 1.4 T-Jet 16V Dynamic,21900.0,277 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2005
+12090,fiat,Fiat Bravo 1.4 T-JET 16V Dualogic Dynamic,16900.0,349 900 km,automatic,2 387 cm3,Diesel,Bełżyce,Lubelskie,2007
+12091,fiat,Fiat Bravo 1.6 Multijet 16V Dynamic Euro5,16900.0,349 900 km,automatic,2 387 cm3,Diesel,Ożarów Mazowiecki,Mazowieckie,2007
+12092,fiat,Fiat 500,18500.0,242 000 km,automatic,1 910 cm3,Diesel,Bielsko-Biała,Śląskie,2006
+12093,fiat,Fiat Punto,16999.0,242 000 km,automatic,1 910 cm3,Diesel,Nowy Sącz,Małopolskie,2006
+12094,fiat,Fiat Grande Punto 1.4 8V Dualogic Active,10900.0,280 523 km,automatic,1 910 cm3,Diesel,Sopot,Pomorskie,2008
+12095,fiat,Fiat Bravo 1.6 Multijet 16V Dynamic,15500.0,280 523 km,automatic,1 910 cm3,Diesel,Bielsko-Biała,Śląskie,2008
+12096,fiat,Fiat Bravo 1.4 T-Jet 16V Dynamic,16900.0,197 000 km,automatic,1 368 cm3,Benzyna+LPG,Kraśnik,Lubelskie,2008
+12097,fiat,Fiat 500 1.2 8V Dualogic Start&Stopp,25900.0,197 000 km,automatic,1 368 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2008
+12098,fiat,Fiat Grande Punto 1.4 8V Dualogic Active,14850.0,220 000 km,automatic,1 368 cm3,Benzyna,Słupca,Wielkopolskie,2009
+12099,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Dynamic,19500.0,220 000 km,automatic,1 368 cm3,Benzyna,Świątniki Górne,Małopolskie,2009
+12100,fiat,Fiat Grande Punto Gr Actual 1.4 8V Actual Dualogic Euro5,15700.0,171 000 km,automatic,1 598 cm3,Diesel,Radom,Mazowieckie,2009
+12101,fiat,Fiat Croma 2.4 JTD Emotion,19500.0,171 000 km,automatic,1 598 cm3,Diesel,Siedlce,Mazowieckie,2009
+12102,fiat,Fiat Croma 1.9 Multijet 16V DPF Automatik Emotion,11000.0,60 000 km,automatic,999 cm3,Benzyna,Warszawa,Mazowieckie,2009
+12103,fiat,Fiat 500,25900.0,60 000 km,automatic,999 cm3,Benzyna,Płońsk,Mazowieckie,2009
+12104,fiat,Fiat Croma 2.4 Multijet 20V DPF Automatik Emotion,6999.0,188 556 km,automatic,1 368 cm3,Benzyna,Chwaszczyno,Pomorskie,2007
+12105,fiat,Fiat 500,24900.0,188 556 km,automatic,1 368 cm3,Benzyna,Tarnów,Małopolskie,2007
+12106,fiat,Fiat Grande Punto 1.4 8V Dualogic Active,12500.0,196 343 km,automatic,1 368 cm3,Benzyna,Lubartów,Lubelskie,2008
+12107,fiat,Fiat Croma 2.4 Multijet 20V DPF Automatik Emotion,9500.0,196 343 km,automatic,1 368 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+12108,fiat,Fiat 500,29990.0,232 600 km,automatic,1 598 cm3,Diesel,Nowy Tomyśl,Wielkopolskie,2008
+12109,fiat,Fiat Panda,14000.0,232 600 km,automatic,1 598 cm3,Diesel,Nasielsk,Mazowieckie,2008
+12110,fiat,Fiat Grande Punto Actual 1.4 8V Actual Dualogic Euro5,16900.0,188 000 km,automatic,1 368 cm3,Benzyna,Radomice,Świętokrzyskie,2009
+12111,fiat,Fiat Panda,12900.0,188 000 km,automatic,1 368 cm3,Benzyna,Ożarów Mazowiecki,Mazowieckie,2009
+12112,fiat,Fiat Idea,13000.0,80 000 km,automatic,1 242 cm3,Benzyna,Mosina,Wielkopolskie,2009
+12113,fiat,Fiat 500,32900.0,80 000 km,automatic,1 242 cm3,Benzyna,Gniezno,Wielkopolskie,2009
+12114,fiat,Fiat Ducato,72900.0,240 000 km,automatic,2 287 cm3,Diesel,Rokietnica,Wielkopolskie,2015
+12115,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,58900.0,240 000 km,automatic,2 287 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2015
+12116,fiat,Fiat 500 500e,45900.0,196 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2015
+12117,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,55800.0,196 000 km,automatic,1 956 cm3,Diesel,Paczków,Opolskie,2015
+12118,fiat,Fiat 500,58000.0,85 000 km,automatic,Elektryczny,2015,Miechucino,Pomorskie,2015
+12119,fiat,Fiat Qubo 1.3 Multijet 16V DPF Start&Stop Dualogic Dynamic,28900.0,Elektryczny,automatic,2015,88 000 km,Uraz,Dolnośląskie,85 000 km
+12120,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,44900.0,Diesel,automatic,2015,88 000 km,Bydgoszcz,Kujawsko-pomorskie,1 956 cm3
+12121,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,54900.0,Diesel,automatic,2016,87 520 km,Nowa Wieś,Mazowieckie,1 956 cm3
+12122,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross Plus,62900.0,2016,automatic,87 520 km,Elektryczny,Chojnice,Pomorskie,Elektryczny
+12123,fiat,Fiat Freemont 2.0 Multijet Cross AWD,70900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12124,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,72900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12125,fiat,Fiat 500,52900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12126,fiat,Fiat 500 500e,47900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12127,fiat,Fiat Freemont,43000.0,73 000 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2018
+12128,fiat,Fiat 500,48900.0,73 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2018
+12129,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,49000.0,92 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2017
+12130,fiat,Fiat 500 0.9 8V TwinAir Dualogic Start&Stopp Lounge,19990.0,92 000 km,automatic,1 956 cm3,Diesel,Kościerzyna,Pomorskie,2017
+12131,fiat,Fiat 500X,46000.0,139 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2015
+12132,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59000.0,139 000 km,automatic,1 956 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+12133,fiat,Fiat 500X,52800.0,160 000 km,automatic,1 956 cm3,Diesel,Piekary Śląskie,Śląskie,2015
+12134,fiat,Fiat 500X,55900.0,160 000 km,automatic,1 956 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2015
+12135,fiat,Fiat Freemont 2.0 Multijet Cross AWD,51500.0,214 000 km,automatic,1 956 cm3,Diesel,Kołobrzeg,Zachodniopomorskie,2015
+12136,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59900.0,214 000 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2015
+12137,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,59900.0,78 000 km,automatic,1 368 cm3,Benzyna,Rokocin,Pomorskie,2016
+12138,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,62500.0,78 000 km,automatic,1 368 cm3,Benzyna,Kraków,Małopolskie,2016
+12139,fiat,Fiat Tipo,57000.0,100 400 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2016
+12140,fiat,Fiat 500 1.2 Lounge Dualogic,56900.0,100 400 km,automatic,1 956 cm3,Diesel,Rzeszów,Podkarpackie,2016
+12141,fiat,Fiat Tipo,48000.0,154 000 km,automatic,1 956 cm3,Diesel,Piaseczno,Mazowieckie,2015
+12142,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,62900.0,154 000 km,automatic,1 956 cm3,Diesel,Przyjaźń,Pomorskie,2015
+12143,fiat,Fiat 500,27000.0,73 314 km,automatic,1 598 cm3,Benzyna,Łódź,Łódzkie,2018
+12144,fiat,Fiat Freemont,49800.0,73 314 km,automatic,1 598 cm3,Benzyna,Dębica,Podkarpackie,2018
+12145,fiat,Fiat 124 Spider,79900.0,54 000 km,automatic,1 242 cm3,Benzyna,Izabelin C,Mazowieckie,2019
+12146,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,51900.0,54 000 km,automatic,1 242 cm3,Benzyna,Ząbki,Mazowieckie,2019
+12147,fiat,Fiat 500X,63900.0,129 765 km,automatic,1 598 cm3,Benzyna+LPG,Gdynia,Pomorskie,2016
+12148,fiat,Fiat 500X 1.4 MultiAir Cross AWD AT9,49500.0,129 765 km,automatic,1 598 cm3,Benzyna+LPG,Oleśnica,Dolnośląskie,2016
+12149,fiat,Fiat Tipo 1.6 E-Torq 16v Easy,51500.0,119 150 km,automatic,1 956 cm3,Diesel,Wrocław,Dolnośląskie,2015
+12150,fiat,Fiat 500X,83000.0,119 150 km,automatic,1 956 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2015
+12151,fiat,Fiat 500,47900.0,74 641 km,automatic,1 368 cm3,Benzyna,Piekoszów,Świętokrzyskie,2015
+12152,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,57500.0,74 641 km,automatic,1 368 cm3,Benzyna,Kielce,Świętokrzyskie,2015
+12153,fiat,Fiat 500 1.2 Dolcevita Dualogic,56900.0,181 265 km,automatic,1 956 cm3,Diesel,Tychy,Śląskie,2015
+12154,fiat,Fiat 500,47900.0,181 265 km,automatic,1 956 cm3,Diesel,Bolechowice,Małopolskie,2015
+12155,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,69900.0,12 300 km,automatic,1 368 cm3,Benzyna,Grabów nad Prosną,Wielkopolskie,2017
+12156,fiat,Fiat Freemont,48900.0,12 300 km,automatic,1 368 cm3,Benzyna,Lubcz,Kujawsko-pomorskie,2017
+12157,fiat,Fiat Tipo,27900.0,66 000 km,automatic,1 598 cm3,Benzyna,Białobrzegi,Mazowieckie,2018
+12158,fiat,Fiat 500X 1.3 FireFly Turbo DCT 4x2 S&S City Cross,52900.0,66 000 km,automatic,1 598 cm3,Benzyna,Szamocin,Wielkopolskie,2018
+12159,fiat,Fiat Ducato,165999.0,58 053 km,automatic,1 368 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2015
+12160,fiat,Fiat 500,49000.0,58 053 km,automatic,1 368 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2015
+12161,fiat,Fiat 500L,65500.0,110 000 km,automatic,1 368 cm3,Benzyna+LPG,Legionowo,Mazowieckie,2016
+12162,fiat,Fiat 500,20900.0,110 000 km,automatic,1 368 cm3,Benzyna+LPG,Tomaszów Mazowiecki,Łódzkie,2016
+12163,fiat,Fiat 500L,51000.0,58 169 km,automatic,1 598 cm3,Benzyna,Tabor Wielki,Wielkopolskie,2017
+12164,fiat,Fiat Freemont,61700.0,58 169 km,automatic,1 598 cm3,Benzyna,Zgierz,Łódzkie,2017
+12165,fiat,Fiat 500,43900.0,13 000 km,automatic,1 332 cm3,Benzyna,Brzozów,Podkarpackie,2019
+12166,fiat,Fiat Tipo,49900.0,13 000 km,automatic,1 332 cm3,Benzyna,Czarnków,Wielkopolskie,2019
+12167,fiat,Fiat 500X,58000.0,119 989 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2015
+12168,fiat,Fiat 500X,32900.0,119 989 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2015
+12169,fiat,Fiat Fullback,47500.0,81 000 km,automatic,2 400 cm3,Benzyna,Kalisz,Wielkopolskie,2016
+12170,fiat,Fiat 500X 1.4 Multiair DCT 4x2 S&S Cross Plus,48500.0,81 000 km,automatic,2 400 cm3,Benzyna,Kraków,Małopolskie,2016
+12171,fiat,Fiat 500L,47900.0,30 000 km,automatic,2 442 cm3,Diesel,Kłodzko,Dolnośląskie,2016
+12172,fiat,Fiat 500 500e,52400.0,30 000 km,automatic,2 442 cm3,Diesel,Piaseczno,Mazowieckie,2016
+12173,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,66900.0,97 000 km,automatic,1 368 cm3,Benzyna,Radom,Mazowieckie,2017
+12174,fiat,Fiat 124 Spider Abarth 1.4 MultiAir Turbo Automatik Turismo,109900.0,97 000 km,automatic,1 368 cm3,Benzyna,Chotomów,Mazowieckie,2017
+12175,fiat,Fiat 500,59900.0,50 000 km,automatic,1 368 cm3,Benzyna,Łódź,Łódzkie,2015
+12176,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,74000.0,50 000 km,automatic,1 368 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2015
+12177,fiat,Fiat Freemont 2.0 Multijet Cross AWD,57000.0,45 700 km,automatic,Elektryczny,2017,Jastrzębie-Zdrój,Śląskie,2017
+12178,fiat,Fiat 500X 2.0 MultiJet Cross AWD AT9,69900.0,Elektryczny,automatic,2016,155 700 km,Elbląg,Warmińsko-mazurskie,45 700 km
+12179,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,30750.0,Diesel,automatic,2016,155 700 km,Poznań,Wielkopolskie,1 956 cm3
+12180,fiat,Fiat 124 Spider Abarth 1.4 MultiAir Turbo Automatik GT,94900.0,Diesel,automatic,2017,57 419 km,Bielsko-Biała,Śląskie,1 956 cm3
+12181,fiat,Fiat 500,46900.0,Benzyna,automatic,2017,57 419 km,Orzech,Śląskie,1 368 cm3
+12182,fiat,Fiat Qubo,34000.0,Benzyna,automatic,2018,40 800 km,Bielany Wrocławskie,Dolnośląskie,1 368 cm3
+12183,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,55000.0,Benzyna,automatic,2018,40 800 km,Rzeszów,Podkarpackie,1 368 cm3
+12184,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,59900.0,Benzyna,automatic,2015,98 000 km,Gdynia,Pomorskie,1 368 cm3
+12185,fiat,Fiat Tipo 1.6 E-Torq 16v Opening Edition,38888.0,Diesel,automatic,2015,98 000 km,Toruń,Kujawsko-pomorskie,1 956 cm3
+12186,fiat,Fiat Fullback 4WD DC Autm Cross Plus,69000.0,Diesel,automatic,2015,230 000 km,Syców,Dolnośląskie,1 956 cm3
+12187,fiat,Fiat 500 (RED),59900.0,Diesel,automatic,2015,230 000 km,Kłodzko,Dolnośląskie,1 956 cm3
+12188,fiat,Fiat 500,63700.0,Diesel,automatic,2016,105 633 km,Warszawa,Mazowieckie,1 956 cm3
+12189,fiat,Fiat Freemont 2.0 Multijet Cross AWD,59500.0,Diesel,automatic,2016,105 633 km,Zabrze,Śląskie,1 956 cm3
+12190,fiat,Fiat Freemont 2.0 Multijet Cross AWD,59900.0,Diesel,automatic,2017,268 000 km,Mysłowice,Śląskie,1 956 cm3
+12191,fiat,Fiat 500 1.4 16V Dualogic Sport,35640.0,Benzyna,automatic,2017,268 000 km,Kraków,Małopolskie,1 598 cm3
+12192,fiat,Fiat 500,45500.0,Benzyna,automatic,2017,17 600 km,Radom,Mazowieckie,1 598 cm3
+12193,fiat,Fiat Tipo,55900.0,Benzyna,automatic,2017,17 600 km,Mińsk Mazowiecki,Mazowieckie,1 368 cm3
+12194,fiat,Fiat 500,59900.0,Benzyna,automatic,2017,54 000 km,Łomianki,Mazowieckie,1 368 cm3
+12195,fiat,Fiat Tipo 1.6 MultiJet 16v S-Design DDCT,27700.0,Benzyna,automatic,2017,54 000 km,Głogoczów,Małopolskie,875 cm3
+12196,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,45900.0,Benzyna,automatic,2015,81 249 km,Brzozów,Podkarpackie,875 cm3
+12197,fiat,Fiat 500X,64900.0,Diesel,automatic,2015,81 249 km,Parczew,Lubelskie,1 248 cm3
+12198,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Cross,52000.0,Diesel,automatic,2017,103 000 km,Białogard,Zachodniopomorskie,1 248 cm3
+12199,fiat,Fiat Ducato,72900.0,240 000 km,automatic,2 287 cm3,Diesel,Rokietnica,Wielkopolskie,2015
+12200,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,58900.0,240 000 km,automatic,2 287 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2015
+12201,fiat,Fiat 500 500e,45900.0,196 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2015
+12202,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,55800.0,196 000 km,automatic,1 956 cm3,Diesel,Paczków,Opolskie,2015
+12203,fiat,Fiat 500,58000.0,85 000 km,automatic,Elektryczny,2015,Miechucino,Pomorskie,2015
+12204,fiat,Fiat Qubo 1.3 Multijet 16V DPF Start&Stop Dualogic Dynamic,28900.0,Elektryczny,automatic,2015,88 000 km,Uraz,Dolnośląskie,85 000 km
+12205,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,44900.0,Diesel,automatic,2015,88 000 km,Bydgoszcz,Kujawsko-pomorskie,1 956 cm3
+12206,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,54900.0,Diesel,automatic,2016,87 520 km,Nowa Wieś,Mazowieckie,1 956 cm3
+12207,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross Plus,62900.0,2016,automatic,87 520 km,Elektryczny,Chojnice,Pomorskie,Elektryczny
+12208,fiat,Fiat Freemont 2.0 Multijet Cross AWD,70900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12209,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,72900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12210,fiat,Fiat 500,52900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12211,fiat,Fiat 500 500e,47900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12212,fiat,Fiat Freemont,43000.0,73 000 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2018
+12213,fiat,Fiat 500,48900.0,73 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2018
+12214,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,49000.0,92 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2017
+12215,fiat,Fiat 500 0.9 8V TwinAir Dualogic Start&Stopp Lounge,19990.0,92 000 km,automatic,1 956 cm3,Diesel,Kościerzyna,Pomorskie,2017
+12216,fiat,Fiat 500X,46000.0,139 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2015
+12217,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59000.0,139 000 km,automatic,1 956 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+12218,fiat,Fiat 500X,52800.0,160 000 km,automatic,1 956 cm3,Diesel,Piekary Śląskie,Śląskie,2015
+12219,fiat,Fiat 500X,55900.0,160 000 km,automatic,1 956 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2015
+12220,fiat,Fiat Tipo,51000.0,62 229 km,automatic,1 598 cm3,Benzyna,Gdańsk,Pomorskie,2017
+12221,fiat,Fiat 500 1.2 Lounge Dualogic,54500.0,62 229 km,automatic,1 598 cm3,Benzyna,Kielce,Świętokrzyskie,2017
+12222,fiat,Fiat 500X,49900.0,22 573 km,automatic,1 242 cm3,Benzyna,Białystok,Podlaskie,2018
+12223,fiat,Fiat 500,34900.0,22 573 km,automatic,1 242 cm3,Benzyna,Chodzież,Wielkopolskie,2018
+12224,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,50900.0,108 000 km,automatic,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2016
+12225,fiat,Fiat 500,48500.0,108 000 km,automatic,1 368 cm3,Benzyna+LPG,Bochnia,Małopolskie,2016
+12226,fiat,Fiat 500,55900.0,37 000 km,automatic,1 242 cm3,Benzyna,Dawidy,Mazowieckie,2019
+12227,fiat,Fiat 500 C 1.2 Dualogic Start&Stopp by Gucci,19500.0,37 000 km,automatic,1 242 cm3,Benzyna,Biała Podlaska,Lubelskie,2019
+12228,fiat,Fiat 500X 1.4 MultiAir Cross Plus AWD AT9,59900.0,96 000 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2017
+12229,fiat,Fiat 500X 1.4 MultiAir S-Design DDCT,69900.0,96 000 km,automatic,1 598 cm3,Benzyna,Wągrowiec,Wielkopolskie,2017
+12230,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,52900.0,32 000 km,automatic,1 368 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2015
+12231,fiat,Fiat 500,49077.0,32 000 km,automatic,1 368 cm3,Benzyna,Łomianki,Mazowieckie,2015
+12232,fiat,Fiat Tipo 1.6 E-Torq 16v,51990.0,34 000 km,automatic,Elektryczny,2017,Lublin,Lubelskie,2017
+12233,fiat,Fiat 500,69900.0,Elektryczny,automatic,2018,25 193 km,Tychy,Śląskie,34 000 km
+12234,fiat,Fiat 500 C 1.2 8V Dualogic 60th,47900.0,Benzyna,automatic,2018,25 193 km,Wągrowiec,Wielkopolskie,1 242 cm3
+12235,fiat,Fiat 500,64999.0,Benzyna,automatic,2015,67 000 km,Izabelin C,Mazowieckie,1 242 cm3
+12236,fiat,Fiat 500X 1.4 Multiair Automatik 4x4 S&S Cross,52900.0,Benzyna,automatic,2015,67 000 km,Alwernia,Małopolskie,1 368 cm3
+12237,fiat,Fiat 500 C 0.9 8V TwinAir Dualogic Start&Stopp Mirror,56000.0,Benzyna,automatic,2018,28 000 km,Bielsko-Biała,Śląskie,1 368 cm3
+12238,fiat,Fiat Fullback 2.4 MJ DC LX Gold +,104550.0,Benzyna,automatic,2018,28 000 km,Dorotowo,Warmińsko-mazurskie,1 368 cm3
+12239,fiat,Fiat 500L,30000.0,Benzyna,automatic,2015,197 000 km,Michałowice,Mazowieckie,1 368 cm3
+12240,fiat,Fiat 500,49900.0,Diesel,automatic,2015,197 000 km,Długołęka,Dolnośląskie,1 956 cm3
+12241,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,59000.0,Diesel,automatic,2015,44 900 km,Gdańsk,Pomorskie,1 956 cm3
+12242,fiat,Fiat 500X 1.6 MultiJet Pop Star DDCT,57900.0,2015,automatic,44 900 km,Elektryczny,Nowy Targ,Małopolskie,Elektryczny
+12243,fiat,Fiat 500X 1.4 MultiAir City Cross DDCT,63500.0,60 362 km,automatic,1 598 cm3,Benzyna,Piła,Wielkopolskie,2017
+12244,fiat,Fiat 500,54850.0,60 362 km,automatic,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+12245,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Cross,56999.0,38 808 km,automatic,1 242 cm3,Benzyna,Zwoleń,Mazowieckie,2018
+12246,fiat,Fiat Tipo,49900.0,38 808 km,automatic,1 242 cm3,Benzyna,Zielona Góra,Lubuskie,2018
+12247,fiat,Fiat 500,51000.0,45 000 km,automatic,1 242 cm3,Benzyna,Trzebinia,Małopolskie,2016
+12248,fiat,Fiat 500X,52000.0,45 000 km,automatic,1 242 cm3,Benzyna,Ujazd,Łódzkie,2016
+12249,fiat,Fiat 500X,28000.0,38 700 km,automatic,Elektryczny,2017,Łódź,Łódzkie,2017
+12250,fiat,Fiat Tipo 1.6 MultiJet 16v Lounge DDCT,51999.0,Elektryczny,automatic,2017,131 907 km,Rzeszów,Podkarpackie,38 700 km
+12251,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,55900.0,Benzyna,automatic,2017,131 907 km,Ostrów Mazowiecka,Mazowieckie,1 368 cm3
+12252,fiat,Fiat 500,27500.0,96 700 km,automatic,1 242 cm3,Benzyna,Wrocław,Dolnośląskie,2011
+12253,fiat,Fiat 500,45900.0,96 700 km,automatic,1 242 cm3,Benzyna,Jarocin,Wielkopolskie,2011
+12254,fiat,Fiat 500,22900.0,123 000 km,automatic,1 368 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+12255,fiat,Fiat Freemont,68000.0,123 000 km,automatic,1 368 cm3,Benzyna,Piaseczno,Mazowieckie,2014
+12256,fiat,Fiat 500L,46900.0,107 000 km,automatic,875 cm3,Benzyna,Jarosław,Podkarpackie,2011
+12257,fiat,Fiat Punto Evo 1.4 8V Dualogic Dynamic Start&Stop,24500.0,107 000 km,automatic,875 cm3,Benzyna,Gliwice,Śląskie,2011
+12258,fiat,Fiat 500,36000.0,84 842 km,automatic,3 604 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,2013
+12259,fiat,Fiat Ducato,68500.0,84 842 km,automatic,3 604 cm3,Benzyna+LPG,Lwówek Śląski,Dolnośląskie,2013
+12260,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,49500.0,82 000 km,automatic,1 368 cm3,Benzyna,Zawiercie,Śląskie,2014
+12261,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,42900.0,82 000 km,automatic,1 368 cm3,Benzyna,Tarnów,Małopolskie,2014
+12262,fiat,Fiat Freemont,50000.0,144 000 km,automatic,1 368 cm3,Benzyna,Pyskowice,Śląskie,2010
+12263,fiat,Fiat Freemont,36000.0,144 000 km,automatic,1 368 cm3,Benzyna,Częstochowa,Śląskie,2010
+12264,fiat,Fiat Freemont 2.0 Multijet Cross AWD,62900.0,78 613 km,automatic,1 242 cm3,Benzyna,Radom,Mazowieckie,2012
+12265,fiat,Fiat Freemont,69900.0,78 613 km,automatic,1 242 cm3,Benzyna,Warszawa,Mazowieckie,2012
+12266,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,39900.0,76 717 km,automatic,2 999 cm3,Diesel,Kacpury,Mazowieckie,2011
+12267,fiat,Fiat 500,49990.0,76 717 km,automatic,2 999 cm3,Diesel,Ełk,Warmińsko-mazurskie,2011
+12268,fiat,Fiat 500,44000.0,182 469 km,automatic,1 956 cm3,Diesel,Czechowice-Dziedzice,Śląskie,2012
+12269,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,42900.0,182 469 km,automatic,1 956 cm3,Diesel,Koło,Wielkopolskie,2012
+12270,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,48900.0,220 011 km,automatic,1 956 cm3,Diesel,Rogozino,Mazowieckie,2012
+12271,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,49900.0,220 011 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2012
+12272,fiat,Fiat 500L 1.3 Multijet Dualogic Start&Stopp Trekking,31900.0,148 000 km,automatic,2 000 cm3,Diesel,Szczecin,Zachodniopomorskie,2014
+12273,fiat,Fiat 500,39999.0,148 000 km,automatic,2 000 cm3,Diesel,Józefosław,Mazowieckie,2014
+12274,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,37900.0,168 000 km,automatic,1 956 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2012
+12275,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,43900.0,168 000 km,automatic,1 956 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2012
+12276,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,42500.0,178 312 km,automatic,1 956 cm3,Diesel,Białobrzegi,Mazowieckie,2014
+12277,fiat,Fiat Ducato L4 Autm,34900.0,178 312 km,automatic,1 956 cm3,Diesel,Drezdenko,Lubuskie,2014
+12278,fiat,Fiat Freemont,42999.0,91 300 km,automatic,1 956 cm3,Diesel,Paczkowo,Wielkopolskie,2014
+12279,fiat,Fiat Qubo,21900.0,91 300 km,automatic,1 956 cm3,Diesel,Sulechów,Lubuskie,2014
+12280,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,41800.0,137 000 km,automatic,1 956 cm3,Diesel,Zwoleń,Mazowieckie,2012
+12281,fiat,Fiat 500,45000.0,137 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2012
+12282,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,44900.0,126 000 km,automatic,Elektryczny,2014,Ostrowiec Świętokrzyski,Świętokrzyskie,2014
+12283,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Lounge,47900.0,Elektryczny,automatic,2014,85 000 km,Tarczyn,Mazowieckie,126 000 km
+12284,fiat,Fiat Ducato,72900.0,240 000 km,automatic,2 287 cm3,Diesel,Rokietnica,Wielkopolskie,2015
+12285,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,58900.0,240 000 km,automatic,2 287 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2015
+12286,fiat,Fiat 500 500e,45900.0,196 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2015
+12287,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,55800.0,196 000 km,automatic,1 956 cm3,Diesel,Paczków,Opolskie,2015
+12288,fiat,Fiat 500,58000.0,85 000 km,automatic,Elektryczny,2015,Miechucino,Pomorskie,2015
+12289,fiat,Fiat Qubo 1.3 Multijet 16V DPF Start&Stop Dualogic Dynamic,28900.0,Elektryczny,automatic,2015,88 000 km,Uraz,Dolnośląskie,85 000 km
+12290,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,44900.0,Diesel,automatic,2015,88 000 km,Bydgoszcz,Kujawsko-pomorskie,1 956 cm3
+12291,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,54900.0,Diesel,automatic,2016,87 520 km,Nowa Wieś,Mazowieckie,1 956 cm3
+12292,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross Plus,62900.0,2016,automatic,87 520 km,Elektryczny,Chojnice,Pomorskie,Elektryczny
+12293,fiat,Fiat Freemont 2.0 Multijet Cross AWD,70900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12294,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,72900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12295,fiat,Fiat 500,52900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12296,fiat,Fiat 500 500e,47900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12297,fiat,Fiat Freemont,43000.0,73 000 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2018
+12298,fiat,Fiat 500,48900.0,73 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2018
+12299,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,49000.0,92 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2017
+12300,fiat,Fiat 500 0.9 8V TwinAir Dualogic Start&Stopp Lounge,19990.0,92 000 km,automatic,1 956 cm3,Diesel,Kościerzyna,Pomorskie,2017
+12301,fiat,Fiat 500X,46000.0,139 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2015
+12302,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59000.0,139 000 km,automatic,1 956 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+12303,fiat,Fiat 500X,52800.0,160 000 km,automatic,1 956 cm3,Diesel,Piekary Śląskie,Śląskie,2015
+12304,fiat,Fiat 500X,55900.0,160 000 km,automatic,1 956 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2015
+12305,fiat,Fiat Ducato,72900.0,240 000 km,automatic,2 287 cm3,Diesel,Rokietnica,Wielkopolskie,2015
+12306,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,58900.0,240 000 km,automatic,2 287 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2015
+12307,fiat,Fiat 500 500e,45900.0,196 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2015
+12308,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,55800.0,196 000 km,automatic,1 956 cm3,Diesel,Paczków,Opolskie,2015
+12309,fiat,Fiat 500,58000.0,85 000 km,automatic,Elektryczny,2015,Miechucino,Pomorskie,2015
+12310,fiat,Fiat Qubo 1.3 Multijet 16V DPF Start&Stop Dualogic Dynamic,28900.0,Elektryczny,automatic,2015,88 000 km,Uraz,Dolnośląskie,85 000 km
+12311,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,44900.0,Diesel,automatic,2015,88 000 km,Bydgoszcz,Kujawsko-pomorskie,1 956 cm3
+12312,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,54900.0,Diesel,automatic,2016,87 520 km,Nowa Wieś,Mazowieckie,1 956 cm3
+12313,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross Plus,62900.0,2016,automatic,87 520 km,Elektryczny,Chojnice,Pomorskie,Elektryczny
+12314,fiat,Fiat Freemont 2.0 Multijet Cross AWD,70900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12315,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,72900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12316,fiat,Fiat 500,52900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12317,fiat,Fiat 500 500e,47900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12318,fiat,Fiat Freemont,43000.0,73 000 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2018
+12319,fiat,Fiat 500,48900.0,73 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2018
+12320,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,49000.0,92 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2017
+12321,fiat,Fiat 500 0.9 8V TwinAir Dualogic Start&Stopp Lounge,19990.0,92 000 km,automatic,1 956 cm3,Diesel,Kościerzyna,Pomorskie,2017
+12322,fiat,Fiat 500X,46000.0,139 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2015
+12323,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59000.0,139 000 km,automatic,1 956 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+12324,fiat,Fiat 500X,52800.0,160 000 km,automatic,1 956 cm3,Diesel,Piekary Śląskie,Śląskie,2015
+12325,fiat,Fiat 500X,55900.0,160 000 km,automatic,1 956 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2015
+12326,fiat,Fiat Ducato,72900.0,240 000 km,automatic,2 287 cm3,Diesel,Rokietnica,Wielkopolskie,2015
+12327,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,58900.0,240 000 km,automatic,2 287 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2015
+12328,fiat,Fiat 500 500e,45900.0,196 000 km,automatic,1 956 cm3,Diesel,Kraków,Małopolskie,2015
+12329,fiat,Fiat Freemont 2.0 Multijet 16V DPF Automatik Allrad Black Code,55800.0,196 000 km,automatic,1 956 cm3,Diesel,Paczków,Opolskie,2015
+12330,fiat,Fiat 500,58000.0,85 000 km,automatic,Elektryczny,2015,Miechucino,Pomorskie,2015
+12331,fiat,Fiat Qubo 1.3 Multijet 16V DPF Start&Stop Dualogic Dynamic,28900.0,Elektryczny,automatic,2015,88 000 km,Uraz,Dolnośląskie,85 000 km
+12332,fiat,Fiat Freemont 2.0 Multijet Lounge AWD,44900.0,Diesel,automatic,2015,88 000 km,Bydgoszcz,Kujawsko-pomorskie,1 956 cm3
+12333,fiat,Fiat Tipo 1.6 E-Torq 16v Lounge,54900.0,Diesel,automatic,2016,87 520 km,Nowa Wieś,Mazowieckie,1 956 cm3
+12334,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross Plus,62900.0,2016,automatic,87 520 km,Elektryczny,Chojnice,Pomorskie,Elektryczny
+12335,fiat,Fiat Freemont 2.0 Multijet Cross AWD,70900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12336,fiat,Fiat Freemont 2.0 Multijet Black Code AWD,72900.0,81 000 km,automatic,1 248 cm3,Diesel,Chełm Śląski,Śląskie,2015
+12337,fiat,Fiat 500,52900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12338,fiat,Fiat 500 500e,47900.0,242 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2015
+12339,fiat,Fiat Freemont,43000.0,73 000 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2018
+12340,fiat,Fiat 500,48900.0,73 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2018
+12341,fiat,Fiat Tipo 1.6 E-Torq 16v Pop,49000.0,92 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2017
+12342,fiat,Fiat 500 0.9 8V TwinAir Dualogic Start&Stopp Lounge,19990.0,92 000 km,automatic,1 956 cm3,Diesel,Kościerzyna,Pomorskie,2017
+12343,fiat,Fiat 500X,46000.0,139 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2015
+12344,fiat,Fiat 500X 1.4 MultiAir Cross Plus Traction+ DDCT,59000.0,139 000 km,automatic,1 956 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+12345,fiat,Fiat 500X,52800.0,160 000 km,automatic,1 956 cm3,Diesel,Piekary Śląskie,Śląskie,2015
+12346,fiat,Fiat 500X,55900.0,160 000 km,automatic,1 956 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2015
+12379,fiat,Fiat 500 3+1 Icon,123000.0,830 km,automatic,Elektryczny,2022,Nałęczów,Lubelskie,2022
+12380,fiat,Fiat 500 (RED),123000.0,Elektryczny,automatic,2022,5 km,Częstochowa,Śląskie,830 km
+12381,fiat,Fiat 500 (RED),117500.0,2022,automatic,5 km,Elektryczny,Lublin,Lubelskie,Elektryczny
+12382,fiat,Fiat 500,114900.0,2 km,automatic,Elektryczny,2022,Piaseczno,Mazowieckie,2022
+12383,fiat,Fiat 500 1.2 8V Dualogic Lounge,59900.0,Elektryczny,automatic,2020,300 km,Kutno,Łódzkie,2 km
+12384,fiat,Fiat 500 3+1 La Prima by Bocelli,155500.0,2020,automatic,300 km,Elektryczny,Opole,Opolskie,Elektryczny
+12385,fiat,Fiat 500X 1.3 FireFly Turbo DCT 4x2 S&S Sport,84900.0,12 865 km,automatic,1 242 cm3,Benzyna,Tarnowskie Góry,Śląskie,2020
+12386,fiat,Fiat 500 Action,99999.0,12 865 km,automatic,1 242 cm3,Benzyna,Częstochowa,Śląskie,2020
+12387,fiat,Fiat 500,149900.0,1 km,automatic,Elektryczny,2023,Szczecin,Zachodniopomorskie,2023
+12388,fiat,Fiat 500,152900.0,Elektryczny,automatic,2021,19 800 km,Zielona Góra,Lubuskie,1 km
+12389,fiat,Fiat 500,152900.0,Benzyna,automatic,2021,19 800 km,Zielona Góra,Lubuskie,1 332 cm3
+12390,fiat,Fiat 500 Icon,156300.0,Benzyna,automatic,2023,5 km,Warszawa,Mazowieckie,1 332 cm3
+12391,fiat,Fiat 500 Standard,172200.0,2023,automatic,5 km,Elektryczny,Katowice,Śląskie,Elektryczny
+12392,fiat,Fiat 500,145900.0,5 km,automatic,Elektryczny,2022,Katowice,Śląskie,2022
+12393,fiat,Fiat Tipo,128900.0,Elektryczny,automatic,2022,5 km,Płock,Mazowieckie,5 km
+12394,fiat,Fiat Tipo,124300.0,2022,automatic,5 km,Elektryczny,Płock,Mazowieckie,Elektryczny
+12395,fiat,Fiat 500X,120900.0,5 km,automatic,Elektryczny,2022,Opole,Opolskie,2022
+12396,fiat,Fiat Tipo,100900.0,Elektryczny,automatic,2022,1 km,Zielona Góra,Lubuskie,5 km
+12397,fiat,Fiat Tipo,100900.0,2022,automatic,1 km,Elektryczny,Zielona Góra,Lubuskie,Elektryczny
+12398,fiat,Fiat Tipo,129990.0,1 km,automatic,Elektryczny,2023,Zielona Góra,Lubuskie,2023
+12399,fiat,Fiat Tipo,129990.0,Elektryczny,automatic,2022,1 km,Zielona Góra,Lubuskie,1 km
+12400,fiat,Fiat 500X,117900.0,2022,automatic,1 km,Elektryczny,Łódź,Łódzkie,Elektryczny
+12401,fiat,Fiat 500,146500.0,12 km,automatic,1 469 cm3,Hybryda,Kalisz,Wielkopolskie,2023
+12402,fiat,Fiat 500 (RED),154160.0,12 km,automatic,1 469 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+12403,fiat,Fiat 500X 1.5 T4 Hybrid Sport DCT,124900.0,15 km,automatic,1 469 cm3,Hybryda,Gdynia,Pomorskie,2023
+12404,fiat,Fiat Tipo,112900.0,15 km,automatic,1 469 cm3,Hybryda,Lublin,Lubelskie,2023
+12405,fiat,Fiat 500,115835.0,5 km,automatic,1 469 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+12406,fiat,Fiat 500 Icon,148200.0,5 km,automatic,1 469 cm3,Hybryda,Tarnów,Małopolskie,2023
+12407,fiat,Fiat 500 1.2 Lounge Dualogic,69000.0,5 km,automatic,1 496 cm3,Hybryda,Józefów,Mazowieckie,2023
+12408,fiat,Fiat Tipo,129750.0,5 km,automatic,1 496 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+12409,fiat,Fiat 500X 1.5 T4 Hybrid (RED) DCT,117900.0,5 km,automatic,1 496 cm3,Hybryda,Stare Bielice,Zachodniopomorskie,2023
+12410,fiat,Fiat Tipo,128900.0,5 km,automatic,1 496 cm3,Hybryda,Płock,Mazowieckie,2023
+12411,fiat,Fiat Tipo,129800.0,3 000 km,automatic,1 496 cm3,Hybryda,Zielona Góra,Lubuskie,2023
+12412,fiat,Fiat 500 Icon,117900.0,3 000 km,automatic,1 496 cm3,Hybryda,Bielsko-Biała,Śląskie,2023
+12413,fiat,Fiat 500,176720.0,14 000 km,automatic,Elektryczny,2021,Warszawa,Mazowieckie,2021
+12414,fiat,Fiat 500X,122890.0,Elektryczny,automatic,2023,7 km,Warszawa,Mazowieckie,14 000 km
+12415,fiat,Fiat 500X 1.5 T4 Hybrid Sport DCT,122900.0,2023,automatic,7 km,Elektryczny,Lublin,Lubelskie,Elektryczny
+12416,fiat,Fiat 500,140500.0,3 km,automatic,1 469 cm3,Hybryda,Gliwice,Śląskie,2023
+12417,fiat,Fiat Tipo,129800.0,3 km,automatic,1 469 cm3,Hybryda,Zielona Góra,Lubuskie,2023
+12418,fiat,Fiat 500,147200.0,300 km,automatic,1 469 cm3,Benzyna,Katowice,Śląskie,2023
+12419,fiat,Fiat 500 Standard,119700.0,300 km,automatic,1 469 cm3,Benzyna,Lublin,Lubelskie,2023
+12420,fiat,Fiat 500X,126911.0,1 km,automatic,Elektryczny,2023,Wrocław,Dolnośląskie,2023
+12421,fiat,Fiat Tipo,134900.0,Elektryczny,automatic,2023,3 000 km,Wrocław,Dolnośląskie,1 km
+12422,fiat,Fiat Tipo,134000.0,Hybryda,automatic,2023,3 000 km,Wrocław,Dolnośląskie,1 496 cm3
+12423,fiat,Fiat 500X 1.5 T4 Hybrid Cross DCT,115900.0,Hybryda,automatic,2022,2 700 km,Gliwice,Śląskie,1 496 cm3
+12424,fiat,Fiat 500,132500.0,2022,automatic,2 700 km,Elektryczny,Lublin,Lubelskie,Elektryczny
+12425,fiat,Fiat 500X 2.0 Multijet Automatik 4x4 S&S Cross,89300.0,2 km,automatic,Elektryczny,2023,Jelenia Góra,Dolnośląskie,2023
+12426,fiat,Fiat Tipo,121900.0,Elektryczny,automatic,2023,1 km,Warszawa,Mazowieckie,2 km
+12427,fiat,Fiat 500 500e Action,52900.0,Hybryda,automatic,2023,1 km,Pleszew,Wielkopolskie,1 469 cm3
+12428,fiat,Fiat 500,161960.0,Hybryda,automatic,2023,1 km,Wrocław,Dolnośląskie,1 469 cm3
+12429,fiat,Fiat 500 La Prima,151900.0,Hybryda,automatic,2023,1 km,Płock,Mazowieckie,1 469 cm3
+12430,fiat,Fiat 500 La Prima,172920.0,Hybryda,automatic,2023,1 km,Sosnowiec,Śląskie,1 469 cm3
+12431,fiat,Fiat 500 Icon,138500.0,Hybryda,automatic,2023,1 km,Słupsk,Pomorskie,1 469 cm3
+12432,fiat,Fiat 500,117000.0,Hybryda,automatic,2023,1 km,Chorzów,Śląskie,1 469 cm3
+12433,fiat,Fiat 500 (RED),158900.0,Benzyna,automatic,2023,1 km,Sosnowiec,Śląskie,1 469 cm3
+12434,fiat,Fiat 500X 1.5 T4 Hybrid Sport DCT,130500.0,Benzyna,automatic,2023,2 km,Włocławek,Kujawsko-pomorskie,1 469 cm3
+12435,fiat,Fiat 500X,125890.0,2023,automatic,2 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+12436,fiat,Fiat Tipo,110900.0,42 000 km,automatic,1 956 cm3,Diesel,Częstochowa,Śląskie,2020
+12437,fiat,Fiat 500 Icon,144000.0,42 000 km,automatic,1 956 cm3,Diesel,Częstochowa,Śląskie,2020
+12438,fiat,Fiat 500,144900.0,6 km,automatic,1 469 cm3,Hybryda,Gorzów Wielkopolski,Lubuskie,2022
+12439,fiat,Fiat Tipo,129800.0,6 km,automatic,1 469 cm3,Hybryda,Gorzów Wielkopolski,Lubuskie,2022
+12440,fiat,Fiat Tipo 1.5 Hybrid City Life DCT,132300.0,7 190 km,automatic,Elektryczny,2022,Konin,Wielkopolskie,2022
+12441,fiat,Fiat 500,165900.0,Elektryczny,automatic,2022,1 km,Konin,Wielkopolskie,7 190 km
+12442,fiat,Fiat 500,138900.0,2022,automatic,1 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+12443,fiat,Fiat 500 Icon,121500.0,1 km,automatic,Elektryczny,2022,Opole,Opolskie,2022
+12444,fiat,Fiat 500 Standard,153900.0,Elektryczny,automatic,2023,1 km,Elbląg,Warmińsko-mazurskie,1 km
+12445,fiat,Fiat 500,136900.0,2023,automatic,1 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+12446,fiat,Fiat Tipo,114879.0,Elektryczny,automatic,2022,Elektryczny,Warszawa,Mazowieckie,2022
+12447,fiat,Fiat Tipo,118900.0,4 km,automatic,1 469 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+12448,fiat,Fiat 500X 1.5 T4 Hybrid (RED) DCT,121900.0,4 km,automatic,1 469 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+12449,fiat,Fiat 500,72800.0,1 km,automatic,1 469 cm3,Hybryda,Ostrów Wielkopolski,Wielkopolskie,2022
+12450,fiat,Fiat 500 1.2 Lounge Dualogic EU6d,63500.0,1 km,automatic,1 469 cm3,Hybryda,Olsztyn,Warmińsko-mazurskie,2022
+12451,fiat,Fiat Talento,79900.0,790 km,automatic,1 469 cm3,Benzyna,Pierzyska,Wielkopolskie,2022
+12452,fiat,Fiat 500,163900.0,790 km,automatic,1 469 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2022
+12453,fiat,Fiat 500X 1.5 T4 Hybrid (RED) DCT,120546.0,7 100 km,automatic,Elektryczny,2021,Wrocław,Dolnośląskie,2021
+12454,fiat,Fiat 500 Icon,112900.0,Elektryczny,automatic,2020,14 500 km,Chorzów,Śląskie,7 100 km
+12455,fiat,Fiat 500 3+1 by Bocelli,140000.0,Benzyna,automatic,2020,14 500 km,Gliwice,Śląskie,1 242 cm3
+12456,fiat,Fiat 500,116705.0,Benzyna,automatic,2021,170 000 km,Wrocław,Dolnośląskie,1 242 cm3
+12457,fiat,Fiat 500X,128651.0,Diesel,automatic,2021,170 000 km,Wrocław,Dolnośląskie,1 997 cm3
+12458,fiat,Fiat 500 La Prima by Bocelli,162900.0,Diesel,automatic,2023,5 km,Częstochowa,Śląskie,1 997 cm3
+12459,fiat,Fiat 500X 1.5 T4 Hybrid DCT,115900.0,2023,automatic,5 km,Elektryczny,Słupsk,Pomorskie,Elektryczny
+12460,fiat,Fiat 500,122900.0,1 213 km,automatic,1 469 cm3,Benzyna,Chorzów,Śląskie,2022
+12461,fiat,Fiat 500 3+1 Icon,139999.0,1 213 km,automatic,1 469 cm3,Benzyna,Częstochowa,Śląskie,2022
+12462,fiat,Fiat 500 Icon,145000.0,1 km,automatic,Elektryczny,2022,Białystok,Podlaskie,2022
+12463,fiat,Fiat 500 500e,47900.0,Elektryczny,automatic,2023,1 km,Raszków,Wielkopolskie,1 km
+12464,fiat,Fiat 500 3+1 Icon,119990.0,2023,automatic,1 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+12465,fiat,Fiat 500 Standard,110452.0,1 km,automatic,Elektryczny,2022,Wrocław,Dolnośląskie,2022
+12466,fiat,Fiat 500X 1.5 T4 Hybrid DCT,112000.0,Elektryczny,automatic,2023,1 km,Pszczyna,Śląskie,1 km
+12467,fiat,Fiat 500,141900.0,Hybryda,automatic,2023,1 km,Gdynia,Pomorskie,1 469 cm3
+12468,fiat,Fiat 500 Icon,139990.0,Hybryda,automatic,2022,2 km,Lublin,Lubelskie,1 469 cm3
+12469,fiat,Fiat Doblo,129000.0,2022,automatic,2 km,Elektryczny,Lublin,Lubelskie,Elektryczny
+12470,fiat,Fiat Tipo 1.6 MultiJet 16v Lounge DDCT,29800.0,2 km,automatic,1 469 cm3,Benzyna,Margonin,Wielkopolskie,2023
+12471,fiat,Fiat Tipo,124300.0,2 km,automatic,1 469 cm3,Benzyna,Gliwice,Śląskie,2023
+12472,fiat,Fiat Tipo,112900.0,48 km,automatic,Elektryczny,2022,Gdańsk,Pomorskie,2022
+12473,fiat,Fiat 500 3+1 La Prima,153900.0,Elektryczny,automatic,2022,2 km,Płock,Mazowieckie,48 km
+12474,fiat,Fiat Tipo,113900.0,2022,automatic,2 km,Elektryczny,Poznań,Wielkopolskie,Elektryczny
+12475,fiat,Fiat 500 3+1 Icon,145240.0,1 km,automatic,Elektryczny,2022,Nowy Targ,Małopolskie,2022
+12476,fiat,Fiat 500 3+1,157500.0,Elektryczny,automatic,2023,1 km,Nowy Targ,Małopolskie,1 km
+12477,fiat,Fiat 500 3+1 Icon,152900.0,2023,automatic,1 km,Elektryczny,Mielec,Podkarpackie,Elektryczny
+12478,fiat,Fiat 500X,119900.0,2 100 km,automatic,Elektryczny,2021,Warszawa,Mazowieckie,2021
+12479,fiat,Fiat 500X 1.5 T4 Hybrid DCT,116900.0,Elektryczny,automatic,2022,6 200 km,Katowice,Śląskie,2 100 km
+12480,fiat,Fiat Tipo 1.5 Hybrid Red DCT,129600.0,Hybryda,automatic,2022,6 200 km,Katowice,Śląskie,1 500 cm3
+12481,fiat,Fiat 500,154900.0,Hybryda,automatic,2023,1 km,Katowice,Śląskie,1 500 cm3
+12482,fiat,Fiat Tipo 1.5 Hybrid Red DCT,132600.0,Benzyna,automatic,2023,1 km,Katowice,Śląskie,1 469 cm3
+12483,fiat,Fiat 500,69000.0,Benzyna,automatic,2023,1 km,Bydgoszcz,Pomorskie,1 469 cm3
+12484,fiat,Fiat 500 (RED),144500.0,Benzyna,automatic,2023,1 km,Katowice,Śląskie,1 469 cm3
+12485,fiat,Fiat 500 Icon,147500.0,Benzyna,automatic,2021,2 700 km,Katowice,Śląskie,1 469 cm3
+12486,fiat,Fiat 500X 1.5 GSE Hybrid RED,117000.0,2021,automatic,2 700 km,Elektryczny,Tarnów,Małopolskie,Elektryczny
+12487,fiat,Fiat 500 Icon,124300.0,1 km,automatic,1 469 cm3,Benzyna,Gliwice,Śląskie,2023
+12488,fiat,Fiat 500 Icon,108500.0,1 km,automatic,1 469 cm3,Benzyna,Gliwice,Śląskie,2023
+12489,fiat,Fiat 500 Icon,128300.0,40 000 km,automatic,Elektryczny,2020,Gliwice,Śląskie,2020
+12490,fiat,Fiat 500 (RED),117900.0,Elektryczny,automatic,2022,1 km,Gliwice,Śląskie,40 000 km
+12491,fiat,Fiat 500 Icon,110800.0,2022,automatic,1 km,Elektryczny,Gliwice,Śląskie,Elektryczny
+12492,fiat,Fiat 500,174000.0,1 km,automatic,Elektryczny,2022,Gdańsk,Pomorskie,2022
+12493,fiat,Fiat 500X,129900.0,Elektryczny,automatic,2022,1 km,Zielona Góra,Lubuskie,1 km
+12494,fiat,Fiat 500X,144000.0,Hybryda,automatic,2022,1 km,Zielona Góra,Lubuskie,1 469 cm3
+12495,fiat,Fiat 500,174000.0,Hybryda,automatic,2022,1 km,Gdańsk,Pomorskie,1 469 cm3
+12496,fiat,Fiat 500,174200.0,2022,automatic,1 km,Elektryczny,Katowice,Śląskie,Elektryczny
+12497,fiat,Fiat 500,192600.0,1 km,automatic,Elektryczny,2023,Gdańsk,Pomorskie,2023
+12498,fiat,Fiat 500 (RED),145900.0,Elektryczny,automatic,2022,1 km,Katowice,Śląskie,1 km
+12499,fiat,Fiat 500X 1.5 T4 Hybrid Cross DCT,121800.0,2022,automatic,1 km,Elektryczny,Włocławek,Kujawsko-pomorskie,Elektryczny
+12500,fiat,Fiat 500,85000.0,1 km,automatic,Elektryczny,2022,Bydgoszcz,Pomorskie,2022
+12501,fiat,Fiat 500,199700.0,Elektryczny,automatic,2023,1 km,Gdańsk,Pomorskie,1 km
+12502,fiat,Fiat Tipo,109900.0,2023,automatic,1 km,Elektryczny,Gdynia,Pomorskie,Elektryczny
+12503,fiat,Fiat Tipo,104900.0,5 km,automatic,Elektryczny,2023,Gdynia,Pomorskie,2023
+12504,fiat,Fiat 500X,142050.0,Elektryczny,automatic,2023,5 km,Gdańsk,Pomorskie,5 km
+12505,fiat,Fiat 500,150900.0,Hybryda,automatic,2023,5 km,Gdańsk,Pomorskie,1 469 cm3
+12506,fiat,Fiat 500 Standard,150900.0,Hybryda,automatic,2023,5 km,Elbląg,Warmińsko-mazurskie,1 469 cm3

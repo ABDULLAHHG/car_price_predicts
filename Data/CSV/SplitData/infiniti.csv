@@ -1,0 +1,374 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+24073,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24074,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24075,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24076,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24077,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24078,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24079,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24080,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24081,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24082,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24083,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24084,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24085,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24086,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24087,infiniti,Infiniti Q50 2.2d,68500.0,144 000 km,manual,2 143 cm3,Diesel,Leszno,Wielkopolskie,2014
+24088,infiniti,Infiniti Q50,56500.0,144 000 km,manual,2 143 cm3,Diesel,Rzgów,Łódzkie,2014
+24089,infiniti,Infiniti Q50 2.2d,68000.0,131 000 km,manual,2 143 cm3,Diesel,Rybnik,Śląskie,2014
+24090,infiniti,Infiniti G G37 S Premium,69000.0,131 000 km,manual,2 143 cm3,Diesel,Otwock,Mazowieckie,2014
+24091,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24092,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24093,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24094,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24095,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24096,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24097,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24098,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24099,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24100,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24101,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24102,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24103,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24104,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24105,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24106,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24107,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24108,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24109,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24110,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24111,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24112,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24113,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24114,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24115,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24116,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24117,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24118,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24119,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24120,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24121,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24122,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24123,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24124,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24125,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24126,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24127,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24128,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24129,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24130,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24131,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24132,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24133,infiniti,Infiniti Q30 1.5d Sport City Black,77000.0,94 000 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2016
+24134,infiniti,Infiniti Q30 1.5d Business Executive,64900.0,94 000 km,manual,1 461 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2016
+24135,infiniti,Infiniti Q30 1.5d,14999.0,159 000 km,manual,1 461 cm3,Diesel,Kolbuszowa,Podkarpackie,2016
+24136,infiniti,Infiniti Q30 1.5d,59500.0,159 000 km,manual,1 461 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24137,infiniti,Infiniti Q30,61700.0,149 000 km,manual,1 461 cm3,Diesel,Łajski,Mazowieckie,2017
+24138,infiniti,Infiniti Q50 2.2d,50000.0,149 000 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2017
+24139,infiniti,Infiniti Q30 1.5d,59900.0,155 000 km,manual,1 461 cm3,Diesel,Wręczyca Wielka,Śląskie,2016
+24140,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24141,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24142,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24143,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24144,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24145,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24146,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24147,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24148,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24149,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24150,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24151,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24152,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24153,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24154,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24155,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24156,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24157,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24158,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24159,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24160,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24161,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24162,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24163,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24164,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24165,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24166,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24167,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24168,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24169,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24170,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24171,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24172,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24173,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24174,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24175,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24176,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24177,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24178,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24179,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24180,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24181,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24182,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24183,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24184,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24185,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24186,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24187,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24188,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24189,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24190,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24191,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24192,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24193,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24194,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24195,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24196,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24197,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24198,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24199,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24200,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24201,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24202,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24203,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24204,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24205,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24206,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24207,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24208,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24209,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24210,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24211,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24212,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24213,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24214,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24215,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24216,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24217,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24218,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24219,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24220,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24221,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24222,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24223,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24224,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24225,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24226,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24227,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24228,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24229,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24230,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24231,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24232,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24233,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24234,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24235,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24236,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24237,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24238,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24239,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24240,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24241,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24242,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24243,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24244,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24245,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24246,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24247,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24248,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24249,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24250,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24251,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24252,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24253,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24254,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24255,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24256,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24257,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24258,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24259,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24260,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24261,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24262,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24263,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24264,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24265,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24266,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24267,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24268,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24269,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24270,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24271,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24272,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24273,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24274,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24275,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24276,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24277,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24278,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24279,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24280,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24281,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24282,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24283,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24284,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24285,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24286,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24287,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24288,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24289,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24290,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24291,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24292,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24293,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24294,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24295,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24296,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24297,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24298,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24299,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24300,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24301,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24302,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24303,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24304,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24305,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24306,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24307,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24308,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24309,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24310,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24311,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24312,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24313,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24314,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24315,infiniti,Infiniti FX FX35,11000.0,144 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2005
+24316,infiniti,Infiniti FX FX35,32900.0,144 000 km,automatic,3 498 cm3,Benzyna,Lublin,Lubelskie,2005
+24317,infiniti,Infiniti FX FX50 S Premium,69700.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+24318,infiniti,Infiniti G G37 AWD GT Premium,30300.0,270 000 km,automatic,3 498 cm3,Benzyna+LPG,Ostrołęka,Mazowieckie,2005
+24319,infiniti,Infiniti G G35 3.5,35000.0,199 000 km,automatic,5 026 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24320,infiniti,Infiniti FX FX35,22500.0,199 000 km,automatic,5 026 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2009
+24321,infiniti,Infiniti G G37,48500.0,221 000 km,automatic,3 696 cm3,Benzyna,Stróża,Łódzkie,2008
+24322,infiniti,Infiniti FX FX45,28000.0,221 000 km,automatic,3 696 cm3,Benzyna,Ostrołęka,Mazowieckie,2008
+24323,infiniti,Infiniti FX FX37 S Premium,72500.0,177 000 km,automatic,3 498 cm3,Benzyna,Gdańsk,Pomorskie,2008
+24324,infiniti,Infiniti FX FX35,47999.0,177 000 km,automatic,3 498 cm3,Benzyna,Gryfice,Zachodniopomorskie,2008
+24325,infiniti,Infiniti EX EX35 4WD,45000.0,114 000 km,automatic,3 498 cm3,Benzyna,Rybnik,Śląskie,2005
+24326,infiniti,Infiniti EX EX35 4WD,42000.0,114 000 km,automatic,3 498 cm3,Benzyna,Jabłonna,Mazowieckie,2005
+24327,infiniti,Infiniti FX FX35,35000.0,214 000 km,automatic,3 696 cm3,Benzyna,Polkowice,Dolnośląskie,2009
+24328,infiniti,Infiniti FX FX37 S,42000.0,214 000 km,automatic,3 696 cm3,Benzyna,Milicz,Dolnośląskie,2009
+24329,infiniti,Infiniti FX FX50 S Premium,69000.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gniezno,Wielkopolskie,2005
+24330,infiniti,Infiniti FX FX50 S Limited Edition,59999.0,128 000 km,automatic,4 494 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2005
+24331,infiniti,Infiniti EX EX37 GT,43900.0,211 000 km,automatic,3 696 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2009
+24332,infiniti,Infiniti G,29900.0,211 000 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2009
+24333,infiniti,Infiniti FX FX45,17500.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Nowa Dęba,Podkarpackie,2008
+24334,infiniti,Infiniti G G35 3.5,43900.0,244 000 km,automatic,3 498 cm3,Benzyna+LPG,Kaleń,Mazowieckie,2008
+24335,infiniti,Infiniti FX FX35,49000.0,196 000 km,automatic,3 498 cm3,Benzyna,Rypin,Kujawsko-pomorskie,2008
+24336,infiniti,Infiniti G G37 AWD,36000.0,196 000 km,automatic,3 498 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2008
+24337,infiniti,Infiniti FX FX37 S,69000.0,186 000 km,automatic,3 498 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2008
+24338,infiniti,Infiniti EX EX37,40900.0,186 000 km,automatic,3 498 cm3,Benzyna,Kamionna,Mazowieckie,2008
+24339,infiniti,Infiniti FX FX35,13000.0,394 524 km,automatic,3 498 cm3,Benzyna+LPG,Sikorzyce,Dolnośląskie,2005
+24340,infiniti,Infiniti QX70 3.7 AWD S Design,89900.0,77 600 km,automatic,3 696 cm3,Benzyna,Słupsk,Pomorskie,2017
+24341,infiniti,Infiniti QX70 3.7 S Premium,108900.0,77 600 km,automatic,3 696 cm3,Benzyna,Nowy Dwór Mazowiecki,Mazowieckie,2017
+24342,infiniti,Infiniti QX,119900.0,184 279 km,automatic,3 696 cm3,Benzyna,Jaworzno,Śląskie,2015
+24343,infiniti,Infiniti Q60 2.0t Sport,112000.0,184 279 km,automatic,3 696 cm3,Benzyna,Piaseczno,Mazowieckie,2015
+24344,infiniti,Infiniti Q30 1.6t Business Executive 7DCT,37900.0,45 000 km,automatic,1 991 cm3,Benzyna,Radzymin,Mazowieckie,2018
+24345,infiniti,Infiniti QX70,131900.0,45 000 km,automatic,1 991 cm3,Benzyna,Kraków,Małopolskie,2018
+24346,infiniti,Infiniti Q50 Q50S 3.0t Sport,105000.0,76 500 km,automatic,1 991 cm3,Benzyna,Kopcie,Mazowieckie,2018
+24347,infiniti,Infiniti QX60 3.5 Hi-Tech,123000.0,76 500 km,automatic,1 991 cm3,Benzyna,Nysa,Opolskie,2018
+24348,infiniti,Infiniti QX70 5.0 S Premium EU6,135298.0,50 000 km,automatic,1 595 cm3,Benzyna,Gryfice,Zachodniopomorskie,2018
+24349,infiniti,Infiniti Q50,56000.0,50 000 km,automatic,1 595 cm3,Benzyna,Dziekanów Polski,Mazowieckie,2018
+24350,infiniti,Infiniti Q70,129900.0,120 936 km,automatic,3 696 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2015
+24351,infiniti,Infiniti Q50 2.0t Sport,111000.0,120 936 km,automatic,3 696 cm3,Benzyna+LPG,Swarzędz,Wielkopolskie,2015
+24352,infiniti,Infiniti Q50 2.0t Sport Tech,105000.0,23 500 km,automatic,2 997 cm3,Benzyna,Warszawa,Mazowieckie,2018
+24353,infiniti,Infiniti Q60 Q60S 2.0t Coupe Sport Tech,137000.0,23 500 km,automatic,2 997 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2018
+24354,infiniti,Infiniti Q30 2.2d Premium Tech Gallery White AWD 7DCT,81000.0,10 700 km,automatic,3 498 cm3,Benzyna,Sobienie Szlacheckie,Mazowieckie,2019
+24355,infiniti,Infiniti Q50 2.2d Premium Executive,68000.0,10 700 km,automatic,3 498 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2019
+24356,infiniti,Infiniti Q70,88900.0,180 962 km,automatic,5 026 cm3,Benzyna,Gubin,Lubuskie,2016
+24357,infiniti,Infiniti QX70,103700.0,180 962 km,automatic,5 026 cm3,Benzyna,Czechy,Łódzkie,2016
+24358,infiniti,Infiniti Q50,89900.0,139 755 km,automatic,2 997 cm3,Benzyna,Warszawa,Mazowieckie,2016
+24359,infiniti,Infiniti Q50,169900.0,139 755 km,automatic,2 997 cm3,Benzyna,Limanowa,Małopolskie,2016
+24360,infiniti,Infiniti Q60,153000.0,108 462 km,automatic,3 498 cm3,Hybryda,Opatów,Świętokrzyskie,2017
+24361,infiniti,Infiniti Q60 2.0t Sport Tech,134900.0,108 462 km,automatic,3 498 cm3,Hybryda,Warszawa,Mazowieckie,2017
+24362,infiniti,Infiniti QX50,69500.0,87 937 km,automatic,1 991 cm3,Benzyna,Koluszki,Łódzkie,2018
+24363,infiniti,Infiniti QX80,162000.0,87 937 km,automatic,1 991 cm3,Benzyna,Węgrzce,Małopolskie,2018
+24364,infiniti,Infiniti Q50,47500.0,56 000 km,automatic,1 991 cm3,Benzyna,Kęty,Małopolskie,2017
+24365,infiniti,Infiniti Q30 1.5d Premium 7DCT,78900.0,56 000 km,automatic,1 991 cm3,Benzyna,Nowy Sącz,Małopolskie,2017
+24366,infiniti,Infiniti Q50,85000.0,107 500 km,automatic,1 991 cm3,Benzyna,Warszawa,Mazowieckie,2017
+24367,infiniti,Infiniti QX,299900.0,107 500 km,automatic,1 991 cm3,Benzyna,Piekary Śląskie,Śląskie,2017
+24368,infiniti,Infiniti Q50,150000.0,157 000 km,automatic,2 143 cm3,Diesel,Nowy Tomyśl,Wielkopolskie,2016
+24369,infiniti,Infiniti Q50 2.0t Premium,71000.0,157 000 km,automatic,2 143 cm3,Diesel,Warszawa,Mazowieckie,2016
+24370,infiniti,Infiniti Q50,48000.0,135 000 km,automatic,2 143 cm3,Diesel,Katowice,Śląskie,2015
+24371,infiniti,Infiniti Q50,49900.0,135 000 km,automatic,2 143 cm3,Diesel,Dziekanów Polski,Mazowieckie,2015
+24372,infiniti,Infiniti QX60,89999.0,131 335 km,automatic,3 498 cm3,Benzyna,Niepruszewo,Wielkopolskie,2016
+24373,infiniti,Infiniti QX70 3.7 S Design,109000.0,131 335 km,automatic,3 498 cm3,Benzyna,Poznań,Wielkopolskie,2016
+24374,infiniti,Infiniti Q50 2.2d Premium Executive,49800.0,143 902 km,automatic,3 696 cm3,Benzyna,Ciechanów,Mazowieckie,2015
+24375,infiniti,Infiniti Q50,76000.0,143 902 km,automatic,3 696 cm3,Benzyna,Sochaczew-Wieś,Mazowieckie,2015
+24376,infiniti,Infiniti Q30 2.0t Sport City Black AWD 7DCT,109900.0,276 000 km,automatic,2 143 cm3,Diesel,Góra Kalwaria,Mazowieckie,2015
+24377,infiniti,Infiniti QX60 3.5 Hi-Tech,119900.0,276 000 km,automatic,2 143 cm3,Diesel,Łapy,Podlaskie,2015
+24378,infiniti,Infiniti QX60 3.5 Hi-Tech,159900.0,149 000 km,automatic,2 997 cm3,Benzyna,Góra Kalwaria,Mazowieckie,2016
+24379,infiniti,Infiniti QX70 3.0d S Premium,79000.0,149 000 km,automatic,2 997 cm3,Benzyna,Zamość,Lubelskie,2016
+24380,infiniti,Infiniti QX60,114800.0,74 900 km,automatic,1 991 cm3,Benzyna,Strzyżew,Mazowieckie,2017
+24381,infiniti,Infiniti Q60 Q60S 3.0t Coupe AWD Sport Tech,135900.0,74 900 km,automatic,1 991 cm3,Benzyna,Kielce,Świętokrzyskie,2017
+24382,infiniti,Infiniti QX70 3.0d S Premium,69999.0,43 800 km,automatic,3 498 cm3,Benzyna,Powidz,Wielkopolskie,2018
+24383,infiniti,Infiniti QX30,83900.0,43 800 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2018
+24384,infiniti,Infiniti QX30 2.0t Premium AWD 7DCT,73999.0,100 600 km,automatic,3 498 cm3,Benzyna,Radwanice,Dolnośląskie,2018
+24385,infiniti,Infiniti QX70 3.7 AWD S Premium,135000.0,100 600 km,automatic,3 498 cm3,Benzyna,Tarnów,Małopolskie,2018
+24386,infiniti,Infiniti QX70 3.0d S Premium,89999.0,268 152 km,automatic,2 993 cm3,Diesel,Turek,Wielkopolskie,2015
+24387,infiniti,Infiniti Q50 Q50S Hybrid AWD,76000.0,268 152 km,automatic,2 993 cm3,Diesel,Ciężkie,Lubelskie,2015
+24388,infiniti,Infiniti Q30,84500.0,96 000 km,automatic,3 498 cm3,Benzyna,Sosnowiec,Śląskie,2016
+24389,infiniti,Infiniti Q50,48900.0,96 000 km,automatic,3 498 cm3,Benzyna,Katowice,Śląskie,2016
+24390,infiniti,Infiniti Q50 2.0t Sport Sound Studio by Bose,114500.0,55 120 km,automatic,2 997 cm3,Benzyna,Białystok,Podlaskie,2017
+24391,infiniti,Infiniti Q60 3.0t AWD Sport Tech,125000.0,55 120 km,automatic,2 997 cm3,Benzyna,Kraśnik,Lubelskie,2017
+24392,infiniti,Infiniti Q30 2.0t Sport AWD 7DCT,98000.0,320 000 km,automatic,2 993 cm3,Diesel,Toruń,Kujawsko-pomorskie,2015
+24393,infiniti,Infiniti QX50,108000.0,320 000 km,automatic,2 993 cm3,Diesel,Mława,Mazowieckie,2015
+24394,infiniti,Infiniti QX60,134000.0,60 000 km,automatic,1 991 cm3,Benzyna,Mława,Mazowieckie,2018
+24395,infiniti,Infiniti Q50 2.0t Premium EU6,89900.0,60 000 km,automatic,1 991 cm3,Benzyna,Wrocław,Dolnośląskie,2018
+24396,infiniti,Infiniti Q70 3.0d S Premium,105000.0,180 000 km,automatic,1 991 cm3,Benzyna,Igołomia,Małopolskie,2017
+24397,infiniti,Infiniti QX60,108000.0,180 000 km,automatic,1 991 cm3,Benzyna,Warszawa,Mazowieckie,2017
+24398,infiniti,Infiniti Q50 Q50S 3.0t Sport,47000.0,83 400 km,automatic,3 696 cm3,Benzyna,Warszawa,Mazowieckie,2017
+24399,infiniti,Infiniti Q30 2.2d Premium 7DCT,39237.0,83 400 km,automatic,3 696 cm3,Benzyna,Ostrzeszów,Wielkopolskie,2017
+24400,infiniti,Infiniti Q50 Q50(S) 3.0t Sport,92496.0,205 000 km,automatic,2 993 cm3,Diesel,Nieporęt,Mazowieckie,2016
+24401,infiniti,Infiniti QX70 5.0 S Premium EU6,159000.0,205 000 km,automatic,2 993 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2016
+24402,infiniti,Infiniti Q70,66500.0,106 000 km,automatic,3 498 cm3,Hybryda,Rzeszów,Podkarpackie,2015
+24403,infiniti,Infiniti QX60,135000.0,106 000 km,automatic,3 498 cm3,Hybryda,Olsztyn,Warmińsko-mazurskie,2015
+24404,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24405,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24406,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24407,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24408,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24409,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24410,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24411,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24412,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24413,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24414,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24415,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24416,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24417,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24418,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24419,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24420,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24421,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24422,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24423,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24424,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24425,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24426,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24427,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24428,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24429,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24430,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24431,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24432,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24433,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24434,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24435,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24436,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24437,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24438,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24439,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24440,infiniti,Infiniti QX80,134000.0,89 986 km,automatic,5 600 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24441,infiniti,Infiniti Q50,114000.0,89 986 km,automatic,5 600 cm3,Benzyna,Tarnów,Małopolskie,2020
+24442,infiniti,Infiniti QX60 3.5 Elite,120000.0,45 352 km,automatic,1 991 cm3,Benzyna,Śrem,Wielkopolskie,2021
+24443,infiniti,Infiniti Q50,95000.0,45 352 km,automatic,1 991 cm3,Benzyna,Tarnów,Małopolskie,2021
+24444,infiniti,Infiniti QX50,126000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+24445,infiniti,Infiniti Q60,119000.0,16 000 km,automatic,3 498 cm3,Benzyna,Warszawa,Mazowieckie,2020

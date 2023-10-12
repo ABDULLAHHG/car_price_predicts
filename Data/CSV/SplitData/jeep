@@ -1,0 +1,889 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+25154,jeep,Jeep Wrangler 4.0 Sahara,59900.0,100 000 km,manual,3 964 cm3,Benzyna,Łódź,Łódzkie,2004
+25155,jeep,Jeep Wrangler,48700.0,100 000 km,manual,3 964 cm3,Benzyna,Warszawa,Mazowieckie,2004
+25156,jeep,Jeep Cherokee,14900.0,210 080 km,manual,3 964 cm3,Benzyna,Busko-Zdrój,Świętokrzyskie,2004
+25157,jeep,Jeep Cherokee 2.5L CRD Limited,22000.0,210 080 km,manual,3 964 cm3,Benzyna,Brzostek,Podkarpackie,2004
+25158,jeep,Jeep Wrangler 4.0 Sport,59500.0,208 000 km,manual,2 499 cm3,Diesel,Lublin,Lubelskie,2004
+25159,jeep,Jeep Cherokee 2.5L CRD Limited,25000.0,208 000 km,manual,2 499 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2004
+25160,jeep,Jeep Wrangler 4.0 Sport,59900.0,186 000 km,manual,2 499 cm3,Diesel,Witaszyczki,Wielkopolskie,2002
+25161,jeep,Jeep Cherokee 2.5L CRD Limited,20500.0,186 000 km,manual,2 499 cm3,Diesel,Mszana Dolna,Małopolskie,2002
+25162,jeep,Jeep Cherokee 2.5L CRD Sport,27499.0,295 000 km,manual,3 964 cm3,Benzyna,Kąty Opolskie,Opolskie,2001
+25163,jeep,Jeep Cherokee 2.5L CRD Limited,26900.0,295 000 km,manual,3 964 cm3,Benzyna,Kraków,Małopolskie,2001
+25164,jeep,Jeep Cherokee 2.4 Sport,30500.0,254 000 km,manual,2 499 cm3,Diesel,Kąty Wrocławskie,Dolnośląskie,2004
+25165,jeep,Jeep Wrangler,33333.0,254 000 km,manual,2 499 cm3,Diesel,Ulkowy,Pomorskie,2004
+25166,jeep,Jeep Cherokee 2.4 Sport,26900.0,161 000 km,manual,3 964 cm3,Benzyna+LPG,Władysławowo,Pomorskie,2000
+25167,jeep,Jeep Wrangler 4.0 Sport,68000.0,161 000 km,manual,3 964 cm3,Benzyna+LPG,Wąbrzeźno,Kujawsko-pomorskie,2000
+25168,jeep,Jeep Wrangler 4.0 Sahara,59000.0,228 200 km,manual,2 499 cm3,Diesel,Czaplinek,Zachodniopomorskie,2001
+25169,jeep,Jeep Cherokee 2.5,17000.0,213 700 km,manual,2 464 cm3,Benzyna,Białystok,Podlaskie,1995
+25170,jeep,Jeep Cherokee 2.5 Sport,38900.0,213 700 km,manual,2 464 cm3,Benzyna,Sulejówek,Mazowieckie,1995
+25171,jeep,Jeep Wrangler 4.0 Sahara,85900.0,163 000 km,manual,2 464 cm3,Benzyna,Nowa Huta,Świętokrzyskie,1999
+25172,jeep,Jeep Wrangler 4.0,75000.0,163 000 km,manual,2 464 cm3,Benzyna,Gliwice,Śląskie,1999
+25173,jeep,Jeep Wrangler 2.5L,48900.0,63 916 km,manual,3 946 cm3,Benzyna,Lipnica Górna,Małopolskie,1999
+25174,jeep,Jeep Wrangler 2.5 Sport,54900.0,63 916 km,manual,3 946 cm3,Benzyna,Poznań,Wielkopolskie,1999
+25175,jeep,Jeep Cherokee 2.5,14900.0,125 000 km,manual,3 964 cm3,Benzyna,Koszalin,Zachodniopomorskie,1996
+25176,jeep,Jeep Wrangler 4.0,90000.0,125 000 km,manual,3 964 cm3,Benzyna,Gliwice,Śląskie,1996
+25177,jeep,Jeep Cherokee 2.5 TD,29900.0,230 852 km,manual,2 464 cm3,Benzyna,Siemiatycze,Podlaskie,1997
+25178,jeep,Jeep Wrangler 4.0,33000.0,230 852 km,manual,2 464 cm3,Benzyna,Koło,Wielkopolskie,1997
+25179,jeep,Jeep Wrangler 4.0 Sport,38500.0,272 000 km,manual,2 464 cm3,Benzyna+LPG,Oświęcim,Małopolskie,1998
+25180,jeep,Jeep Cherokee,26500.0,272 000 km,manual,2 464 cm3,Benzyna+LPG,Mościska,Mazowieckie,1998
+25181,jeep,Jeep Cherokee 2.5 TD,16000.0,190 000 km,manual,2 464 cm3,Benzyna,Gubin,Lubuskie,1997
+25182,jeep,Jeep Wrangler 4.0 Sahara,59900.0,100 000 km,manual,3 964 cm3,Benzyna,Łódź,Łódzkie,2004
+25183,jeep,Jeep Wrangler,48700.0,100 000 km,manual,3 964 cm3,Benzyna,Warszawa,Mazowieckie,2004
+25184,jeep,Jeep Cherokee,14900.0,210 080 km,manual,3 964 cm3,Benzyna,Busko-Zdrój,Świętokrzyskie,2004
+25185,jeep,Jeep Cherokee 2.5L CRD Limited,22000.0,210 080 km,manual,3 964 cm3,Benzyna,Brzostek,Podkarpackie,2004
+25186,jeep,Jeep Wrangler 4.0 Sport,59500.0,208 000 km,manual,2 499 cm3,Diesel,Lublin,Lubelskie,2004
+25187,jeep,Jeep Cherokee 2.5L CRD Limited,25000.0,208 000 km,manual,2 499 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2004
+25188,jeep,Jeep Wrangler 4.0 Sport,59900.0,186 000 km,manual,2 499 cm3,Diesel,Witaszyczki,Wielkopolskie,2002
+25189,jeep,Jeep Cherokee 2.5L CRD Limited,20500.0,186 000 km,manual,2 499 cm3,Diesel,Mszana Dolna,Małopolskie,2002
+25190,jeep,Jeep Cherokee 2.5L CRD Sport,27499.0,295 000 km,manual,3 964 cm3,Benzyna,Kąty Opolskie,Opolskie,2001
+25191,jeep,Jeep Cherokee 2.5L CRD Limited,26900.0,295 000 km,manual,3 964 cm3,Benzyna,Kraków,Małopolskie,2001
+25192,jeep,Jeep Cherokee 2.4 Sport,30500.0,254 000 km,manual,2 499 cm3,Diesel,Kąty Wrocławskie,Dolnośląskie,2004
+25193,jeep,Jeep Wrangler,33333.0,254 000 km,manual,2 499 cm3,Diesel,Ulkowy,Pomorskie,2004
+25194,jeep,Jeep Cherokee 2.4 Sport,26900.0,161 000 km,manual,3 964 cm3,Benzyna+LPG,Władysławowo,Pomorskie,2000
+25195,jeep,Jeep Wrangler 4.0 Sport,68000.0,161 000 km,manual,3 964 cm3,Benzyna+LPG,Wąbrzeźno,Kujawsko-pomorskie,2000
+25196,jeep,Jeep Wrangler 4.0 Sahara,59000.0,228 200 km,manual,2 499 cm3,Diesel,Czaplinek,Zachodniopomorskie,2001
+25261,jeep,Jeep Wrangler 4.0 Sahara,78800.0,144 000 km,manual,3 964 cm3,Benzyna,Świebodzice,Dolnośląskie,2006
+25262,jeep,Jeep Compass 2.0 CRD Sport,20000.0,144 000 km,manual,3 964 cm3,Benzyna,Rybnik,Śląskie,2006
+25263,jeep,Jeep Patriot,25500.0,201 471 km,manual,1 968 cm3,Diesel,Wolin,Zachodniopomorskie,2007
+25264,jeep,Jeep Compass,22900.0,201 471 km,manual,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2007
+25265,jeep,Jeep Wrangler Unlimited 3.8 Sahara,89000.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+25266,jeep,Jeep Compass 2.0 CRD Limited,19900.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Kraków,Małopolskie,2007
+25267,jeep,Jeep Compass,20000.0,130 933 km,manual,1 968 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+25268,jeep,Jeep Patriot,33000.0,130 933 km,manual,1 968 cm3,Diesel,Gorzkowice,Łódzkie,2008
+25269,jeep,Jeep Wrangler 4.0 Sahara,78800.0,144 000 km,manual,3 964 cm3,Benzyna,Świebodzice,Dolnośląskie,2006
+25270,jeep,Jeep Compass 2.0 CRD Sport,20000.0,144 000 km,manual,3 964 cm3,Benzyna,Rybnik,Śląskie,2006
+25271,jeep,Jeep Patriot,25500.0,201 471 km,manual,1 968 cm3,Diesel,Wolin,Zachodniopomorskie,2007
+25272,jeep,Jeep Compass,22900.0,201 471 km,manual,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2007
+25273,jeep,Jeep Wrangler Unlimited 3.8 Sahara,89000.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+25274,jeep,Jeep Compass 2.0 CRD Limited,19900.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Kraków,Małopolskie,2007
+25275,jeep,Jeep Compass,20000.0,130 933 km,manual,1 968 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+25276,jeep,Jeep Patriot,33000.0,130 933 km,manual,1 968 cm3,Diesel,Gorzkowice,Łódzkie,2008
+25277,jeep,Jeep Wrangler 4.0 Sahara,78800.0,144 000 km,manual,3 964 cm3,Benzyna,Świebodzice,Dolnośląskie,2006
+25278,jeep,Jeep Compass 2.0 CRD Sport,20000.0,144 000 km,manual,3 964 cm3,Benzyna,Rybnik,Śląskie,2006
+25279,jeep,Jeep Patriot,25500.0,201 471 km,manual,1 968 cm3,Diesel,Wolin,Zachodniopomorskie,2007
+25280,jeep,Jeep Compass,22900.0,201 471 km,manual,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2007
+25281,jeep,Jeep Wrangler Unlimited 3.8 Sahara,89000.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+25282,jeep,Jeep Compass 2.0 CRD Limited,19900.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Kraków,Małopolskie,2007
+25283,jeep,Jeep Compass,20000.0,130 933 km,manual,1 968 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+25284,jeep,Jeep Patriot,33000.0,130 933 km,manual,1 968 cm3,Diesel,Gorzkowice,Łódzkie,2008
+25285,jeep,Jeep Wrangler 4.0 Sahara,78800.0,144 000 km,manual,3 964 cm3,Benzyna,Świebodzice,Dolnośląskie,2006
+25286,jeep,Jeep Compass 2.0 CRD Sport,20000.0,144 000 km,manual,3 964 cm3,Benzyna,Rybnik,Śląskie,2006
+25287,jeep,Jeep Patriot,25500.0,201 471 km,manual,1 968 cm3,Diesel,Wolin,Zachodniopomorskie,2007
+25288,jeep,Jeep Compass,22900.0,201 471 km,manual,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2007
+25289,jeep,Jeep Wrangler Unlimited 3.8 Sahara,89000.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+25290,jeep,Jeep Compass 2.0 CRD Limited,19900.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Kraków,Małopolskie,2007
+25291,jeep,Jeep Compass,20000.0,130 933 km,manual,1 968 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+25292,jeep,Jeep Patriot,33000.0,130 933 km,manual,1 968 cm3,Diesel,Gorzkowice,Łódzkie,2008
+25293,jeep,Jeep Wrangler 4.0 Sahara,78800.0,144 000 km,manual,3 964 cm3,Benzyna,Świebodzice,Dolnośląskie,2006
+25294,jeep,Jeep Compass 2.0 CRD Sport,20000.0,144 000 km,manual,3 964 cm3,Benzyna,Rybnik,Śląskie,2006
+25295,jeep,Jeep Patriot,25500.0,201 471 km,manual,1 968 cm3,Diesel,Wolin,Zachodniopomorskie,2007
+25296,jeep,Jeep Compass,22900.0,201 471 km,manual,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2007
+25297,jeep,Jeep Wrangler Unlimited 3.8 Sahara,89000.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+25298,jeep,Jeep Compass 2.0 CRD Limited,19900.0,165 456 km,manual,2 359 cm3,Benzyna+LPG,Kraków,Małopolskie,2007
+25299,jeep,Jeep Compass,20000.0,130 933 km,manual,1 968 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+25300,jeep,Jeep Patriot,33000.0,130 933 km,manual,1 968 cm3,Diesel,Gorzkowice,Łódzkie,2008
+25301,jeep,Jeep Renegade 2.0 MultiJet Limited 4WD S&S,61500.0,96 000 km,manual,1 956 cm3,Diesel,Nysa,Opolskie,2014
+25302,jeep,Jeep Renegade 2.0 MultiJet Limited 4WD S&S,53900.0,96 000 km,manual,1 956 cm3,Diesel,Zawiercie,Śląskie,2014
+25303,jeep,Jeep Compass,48000.0,141 600 km,manual,1 956 cm3,Diesel,Piaseczno,Mazowieckie,2014
+25304,jeep,Jeep Compass 2.2 CRD 4x4 Limited,30000.0,141 600 km,manual,1 956 cm3,Diesel,Świedziebnia,Kujawsko-pomorskie,2014
+25305,jeep,Jeep Compass,35900.0,95 451 km,manual,2 143 cm3,Diesel,Paczkowo,Wielkopolskie,2012
+25306,jeep,Jeep Compass,42500.0,95 451 km,manual,2 143 cm3,Diesel,Sosnowiec,Śląskie,2012
+25307,jeep,Jeep Compass 2.0 4x2 Limited,48000.0,290 000 km,manual,2 143 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2012
+25308,jeep,Jeep Cherokee 2.0 MJD Active Drive I Limited,59300.0,290 000 km,manual,2 143 cm3,Diesel,Sędziszów Małopolski,Podkarpackie,2012
+25309,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,54900.0,157 000 km,manual,1 998 cm3,Benzyna,Komorniki,Wielkopolskie,2012
+25310,jeep,Jeep Compass 2.2 CRD 4x4 Limited,39500.0,157 000 km,manual,1 998 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2012
+25311,jeep,Jeep Wrangler Unlimited 3.8 Sahara,149000.0,185 000 km,manual,2 143 cm3,Diesel,Legionowo,Mazowieckie,2014
+25312,jeep,Jeep Renegade,47900.0,185 000 km,manual,2 143 cm3,Diesel,Świdnik,Lubelskie,2014
+25313,jeep,Jeep Wrangler,76900.0,160 235 km,manual,1 998 cm3,Benzyna,Milicz,Dolnośląskie,2012
+25314,jeep,Jeep Wrangler,56900.0,160 235 km,manual,1 998 cm3,Benzyna,Mysłowice,Śląskie,2012
+25315,jeep,Jeep Compass 2.2 CRD 4x4 Limited,36400.0,128 872 km,manual,1 956 cm3,Diesel,Bielawa,Dolnośląskie,2014
+25316,jeep,Jeep Patriot 2.2 CRD Limited,55600.0,128 872 km,manual,1 956 cm3,Diesel,Częstochowa,Śląskie,2014
+25317,jeep,Jeep Renegade 2.0 MultiJet Limited 4WD S&S,59900.0,147 121 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2014
+25318,jeep,Jeep Cherokee,55000.0,147 121 km,manual,1 368 cm3,Benzyna,Ustka,Pomorskie,2014
+25319,jeep,Jeep Cherokee,65900.0,136 000 km,manual,2 143 cm3,Diesel,Mrągowo,Warmińsko-mazurskie,2013
+25320,jeep,Jeep Compass,47700.0,136 000 km,manual,2 143 cm3,Diesel,Płock,Mazowieckie,2013
+25321,jeep,Jeep Cherokee 2.0 MJD Active Drive I Limited,60800.0,140 000 km,manual,3 778 cm3,Benzyna,Tuchola,Kujawsko-pomorskie,2010
+25322,jeep,Jeep Compass 2.0 4x2 Limited,42900.0,140 000 km,manual,3 778 cm3,Benzyna,Katowice,Śląskie,2010
+25323,jeep,Jeep Cherokee,57500.0,182 300 km,manual,1 400 cm3,Benzyna,Łysobyki,Mazowieckie,2014
+25324,jeep,Jeep Compass 2.2 CRD 4x4 Limited,27900.0,182 300 km,manual,1 400 cm3,Benzyna,Bojszów,Śląskie,2014
+25325,jeep,Jeep Patriot 2.2 CRD Limited,25000.0,180 000 km,manual,3 605 cm3,Benzyna,Milicz,Dolnośląskie,2013
+25326,jeep,Jeep Compass,41900.0,180 000 km,manual,3 605 cm3,Benzyna,Mikołów,Śląskie,2013
+25327,jeep,Jeep Wrangler,99000.0,121 000 km,manual,3 778 cm3,Benzyna,Kęty,Małopolskie,2011
+25328,jeep,Jeep Compass 2.2 CRD 4x4 Limited,36500.0,121 000 km,manual,3 778 cm3,Benzyna,Fabianów,Wielkopolskie,2011
+25329,jeep,Jeep Compass 2.2 CRD 4x4 70th Anniv,38600.0,273 000 km,manual,2 143 cm3,Diesel,Pustków-Osiedle,Podkarpackie,2014
+25330,jeep,Jeep Cherokee,70000.0,273 000 km,manual,2 143 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2014
+25331,jeep,Jeep Patriot 2.2 CRD Limited,35000.0,167 000 km,manual,2 143 cm3,Diesel,Wieliczka,Małopolskie,2012
+25332,jeep,Jeep Wrangler 3.8 Sahara,65000.0,167 000 km,manual,2 143 cm3,Diesel,Podkowa Leśna,Mazowieckie,2012
+25333,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35700.0,244 600 km,manual,2 143 cm3,Diesel,Wojkowice,Śląskie,2012
+25334,jeep,Jeep Cherokee,49500.0,244 600 km,manual,2 143 cm3,Diesel,Chodzież,Wielkopolskie,2012
+25335,jeep,Jeep Wrangler,78500.0,123 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2014
+25336,jeep,Jeep Compass,28000.0,123 000 km,manual,1 956 cm3,Diesel,Tarnów,Małopolskie,2014
+25337,jeep,Jeep Compass 2.0 4x2 Limited,30999.0,174 850 km,manual,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25338,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,49900.0,174 850 km,manual,3 605 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+25339,jeep,Jeep Wrangler,109000.0,192 000 km,manual,2 143 cm3,Diesel,Wielogłowy,Małopolskie,2011
+25340,jeep,Jeep Wrangler,85900.0,192 000 km,manual,2 143 cm3,Diesel,Pilica,Śląskie,2011
+25341,jeep,Jeep Renegade,49500.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Słupsk,Pomorskie,2012
+25342,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,65000.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2012
+25343,jeep,Jeep Compass,18000.0,190 100 km,manual,1 956 cm3,Diesel,Radom,Mazowieckie,2014
+25344,jeep,Jeep Compass 2.2 CRD 4x4 Limited,32900.0,190 100 km,manual,1 956 cm3,Diesel,Jelenia Góra,Dolnośląskie,2014
+25345,jeep,Jeep Compass 2.0 4x2 North,48500.0,153 400 km,manual,3 605 cm3,Benzyna,Bytom,Śląskie,2013
+25346,jeep,Jeep Compass,33800.0,153 400 km,manual,3 605 cm3,Benzyna,Alwernia,Małopolskie,2013
+25347,jeep,Jeep Patriot,24000.0,170 000 km,manual,3 605 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2012
+25348,jeep,Jeep Compass 2.2 CRD 4x4 Limited,34900.0,170 000 km,manual,3 605 cm3,Benzyna,Mława,Mazowieckie,2012
+25349,jeep,Jeep Wrangler,89900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2014
+25350,jeep,Jeep Compass 2.2 CRD 4x4 Limited,17900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2014
+25351,jeep,Jeep Compass 2.2 CRD 4x4 Limited,33500.0,90 700 km,manual,1 368 cm3,Benzyna,Pszczyna,Śląskie,2014
+25352,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35999.0,90 700 km,manual,1 368 cm3,Benzyna,Brzozów,Podkarpackie,2014
+25353,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35500.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Spytkowice,Małopolskie,2012
+25354,jeep,Jeep Compass 2.2 CRD 4x4 Limited,48000.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2012
+25355,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35700.0,244 600 km,manual,2 143 cm3,Diesel,Wojkowice,Śląskie,2012
+25356,jeep,Jeep Cherokee,49500.0,244 600 km,manual,2 143 cm3,Diesel,Chodzież,Wielkopolskie,2012
+25357,jeep,Jeep Wrangler,78500.0,123 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2014
+25358,jeep,Jeep Compass,28000.0,123 000 km,manual,1 956 cm3,Diesel,Tarnów,Małopolskie,2014
+25359,jeep,Jeep Compass 2.0 4x2 Limited,30999.0,174 850 km,manual,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25360,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,49900.0,174 850 km,manual,3 605 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+25361,jeep,Jeep Wrangler,109000.0,192 000 km,manual,2 143 cm3,Diesel,Wielogłowy,Małopolskie,2011
+25362,jeep,Jeep Wrangler,85900.0,192 000 km,manual,2 143 cm3,Diesel,Pilica,Śląskie,2011
+25363,jeep,Jeep Renegade,49500.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Słupsk,Pomorskie,2012
+25364,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,65000.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2012
+25365,jeep,Jeep Compass,18000.0,190 100 km,manual,1 956 cm3,Diesel,Radom,Mazowieckie,2014
+25366,jeep,Jeep Compass 2.2 CRD 4x4 Limited,32900.0,190 100 km,manual,1 956 cm3,Diesel,Jelenia Góra,Dolnośląskie,2014
+25367,jeep,Jeep Compass 2.0 4x2 North,48500.0,153 400 km,manual,3 605 cm3,Benzyna,Bytom,Śląskie,2013
+25368,jeep,Jeep Compass,33800.0,153 400 km,manual,3 605 cm3,Benzyna,Alwernia,Małopolskie,2013
+25369,jeep,Jeep Patriot,24000.0,170 000 km,manual,3 605 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2012
+25370,jeep,Jeep Compass 2.2 CRD 4x4 Limited,34900.0,170 000 km,manual,3 605 cm3,Benzyna,Mława,Mazowieckie,2012
+25371,jeep,Jeep Wrangler,89900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2014
+25372,jeep,Jeep Compass 2.2 CRD 4x4 Limited,17900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2014
+25373,jeep,Jeep Compass 2.2 CRD 4x4 Limited,33500.0,90 700 km,manual,1 368 cm3,Benzyna,Pszczyna,Śląskie,2014
+25374,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35999.0,90 700 km,manual,1 368 cm3,Benzyna,Brzozów,Podkarpackie,2014
+25375,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35500.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Spytkowice,Małopolskie,2012
+25376,jeep,Jeep Compass 2.2 CRD 4x4 Limited,48000.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2012
+25377,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35700.0,244 600 km,manual,2 143 cm3,Diesel,Wojkowice,Śląskie,2012
+25378,jeep,Jeep Cherokee,49500.0,244 600 km,manual,2 143 cm3,Diesel,Chodzież,Wielkopolskie,2012
+25379,jeep,Jeep Wrangler,78500.0,123 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2014
+25380,jeep,Jeep Compass,28000.0,123 000 km,manual,1 956 cm3,Diesel,Tarnów,Małopolskie,2014
+25381,jeep,Jeep Compass 2.0 4x2 Limited,30999.0,174 850 km,manual,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25382,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,49900.0,174 850 km,manual,3 605 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+25383,jeep,Jeep Wrangler,109000.0,192 000 km,manual,2 143 cm3,Diesel,Wielogłowy,Małopolskie,2011
+25384,jeep,Jeep Wrangler,85900.0,192 000 km,manual,2 143 cm3,Diesel,Pilica,Śląskie,2011
+25385,jeep,Jeep Renegade,49500.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Słupsk,Pomorskie,2012
+25386,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,65000.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2012
+25387,jeep,Jeep Compass,18000.0,190 100 km,manual,1 956 cm3,Diesel,Radom,Mazowieckie,2014
+25388,jeep,Jeep Compass 2.2 CRD 4x4 Limited,32900.0,190 100 km,manual,1 956 cm3,Diesel,Jelenia Góra,Dolnośląskie,2014
+25389,jeep,Jeep Compass 2.0 4x2 North,48500.0,153 400 km,manual,3 605 cm3,Benzyna,Bytom,Śląskie,2013
+25390,jeep,Jeep Compass,33800.0,153 400 km,manual,3 605 cm3,Benzyna,Alwernia,Małopolskie,2013
+25391,jeep,Jeep Patriot,24000.0,170 000 km,manual,3 605 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2012
+25392,jeep,Jeep Compass 2.2 CRD 4x4 Limited,34900.0,170 000 km,manual,3 605 cm3,Benzyna,Mława,Mazowieckie,2012
+25393,jeep,Jeep Wrangler,89900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2014
+25394,jeep,Jeep Compass 2.2 CRD 4x4 Limited,17900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2014
+25395,jeep,Jeep Compass 2.2 CRD 4x4 Limited,33500.0,90 700 km,manual,1 368 cm3,Benzyna,Pszczyna,Śląskie,2014
+25396,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35999.0,90 700 km,manual,1 368 cm3,Benzyna,Brzozów,Podkarpackie,2014
+25397,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35500.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Spytkowice,Małopolskie,2012
+25398,jeep,Jeep Compass 2.2 CRD 4x4 Limited,48000.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2012
+25399,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35700.0,244 600 km,manual,2 143 cm3,Diesel,Wojkowice,Śląskie,2012
+25400,jeep,Jeep Cherokee,49500.0,244 600 km,manual,2 143 cm3,Diesel,Chodzież,Wielkopolskie,2012
+25401,jeep,Jeep Wrangler,78500.0,123 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2014
+25402,jeep,Jeep Compass,28000.0,123 000 km,manual,1 956 cm3,Diesel,Tarnów,Małopolskie,2014
+25403,jeep,Jeep Compass 2.0 4x2 Limited,30999.0,174 850 km,manual,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25404,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,49900.0,174 850 km,manual,3 605 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+25405,jeep,Jeep Wrangler,109000.0,192 000 km,manual,2 143 cm3,Diesel,Wielogłowy,Małopolskie,2011
+25406,jeep,Jeep Wrangler,85900.0,192 000 km,manual,2 143 cm3,Diesel,Pilica,Śląskie,2011
+25407,jeep,Jeep Renegade,49500.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Słupsk,Pomorskie,2012
+25408,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,65000.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2012
+25409,jeep,Jeep Compass,18000.0,190 100 km,manual,1 956 cm3,Diesel,Radom,Mazowieckie,2014
+25410,jeep,Jeep Compass 2.2 CRD 4x4 Limited,32900.0,190 100 km,manual,1 956 cm3,Diesel,Jelenia Góra,Dolnośląskie,2014
+25411,jeep,Jeep Compass 2.0 4x2 North,48500.0,153 400 km,manual,3 605 cm3,Benzyna,Bytom,Śląskie,2013
+25412,jeep,Jeep Compass,33800.0,153 400 km,manual,3 605 cm3,Benzyna,Alwernia,Małopolskie,2013
+25413,jeep,Jeep Patriot,24000.0,170 000 km,manual,3 605 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2012
+25414,jeep,Jeep Compass 2.2 CRD 4x4 Limited,34900.0,170 000 km,manual,3 605 cm3,Benzyna,Mława,Mazowieckie,2012
+25415,jeep,Jeep Wrangler,89900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2014
+25416,jeep,Jeep Compass 2.2 CRD 4x4 Limited,17900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2014
+25417,jeep,Jeep Compass 2.2 CRD 4x4 Limited,33500.0,90 700 km,manual,1 368 cm3,Benzyna,Pszczyna,Śląskie,2014
+25418,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35999.0,90 700 km,manual,1 368 cm3,Benzyna,Brzozów,Podkarpackie,2014
+25419,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35500.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Spytkowice,Małopolskie,2012
+25420,jeep,Jeep Compass 2.2 CRD 4x4 Limited,48000.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2012
+25421,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35700.0,244 600 km,manual,2 143 cm3,Diesel,Wojkowice,Śląskie,2012
+25422,jeep,Jeep Cherokee,49500.0,244 600 km,manual,2 143 cm3,Diesel,Chodzież,Wielkopolskie,2012
+25423,jeep,Jeep Wrangler,78500.0,123 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2014
+25424,jeep,Jeep Compass,28000.0,123 000 km,manual,1 956 cm3,Diesel,Tarnów,Małopolskie,2014
+25425,jeep,Jeep Compass 2.0 4x2 Limited,30999.0,174 850 km,manual,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25426,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,49900.0,174 850 km,manual,3 605 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+25427,jeep,Jeep Wrangler,109000.0,192 000 km,manual,2 143 cm3,Diesel,Wielogłowy,Małopolskie,2011
+25428,jeep,Jeep Wrangler,85900.0,192 000 km,manual,2 143 cm3,Diesel,Pilica,Śląskie,2011
+25429,jeep,Jeep Renegade,49500.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Słupsk,Pomorskie,2012
+25430,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,65000.0,312 441 km,manual,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2012
+25431,jeep,Jeep Compass,18000.0,190 100 km,manual,1 956 cm3,Diesel,Radom,Mazowieckie,2014
+25432,jeep,Jeep Compass 2.2 CRD 4x4 Limited,32900.0,190 100 km,manual,1 956 cm3,Diesel,Jelenia Góra,Dolnośląskie,2014
+25433,jeep,Jeep Compass 2.0 4x2 North,48500.0,153 400 km,manual,3 605 cm3,Benzyna,Bytom,Śląskie,2013
+25434,jeep,Jeep Compass,33800.0,153 400 km,manual,3 605 cm3,Benzyna,Alwernia,Małopolskie,2013
+25435,jeep,Jeep Patriot,24000.0,170 000 km,manual,3 605 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2012
+25436,jeep,Jeep Compass 2.2 CRD 4x4 Limited,34900.0,170 000 km,manual,3 605 cm3,Benzyna,Mława,Mazowieckie,2012
+25437,jeep,Jeep Wrangler,89900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Kraków,Małopolskie,2014
+25438,jeep,Jeep Compass 2.2 CRD 4x4 Limited,17900.0,203 000 km,manual,1 368 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2014
+25439,jeep,Jeep Compass 2.2 CRD 4x4 Limited,33500.0,90 700 km,manual,1 368 cm3,Benzyna,Pszczyna,Śląskie,2014
+25440,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35999.0,90 700 km,manual,1 368 cm3,Benzyna,Brzozów,Podkarpackie,2014
+25441,jeep,Jeep Compass 2.2 CRD 4x4 Limited,35500.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Spytkowice,Małopolskie,2012
+25442,jeep,Jeep Compass 2.2 CRD 4x4 Limited,48000.0,320 000 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2012
+25443,jeep,Jeep Compass 2.0 MJD Limited 4WD S&S,94900.0,66 000 km,manual,1 956 cm3,Diesel,Świdnik,Lubelskie,2017
+25444,jeep,Jeep Compass 1.4 TMair Limited FWD S&S,95900.0,66 000 km,manual,1 956 cm3,Diesel,Gdańsk,Pomorskie,2017
+25445,jeep,Jeep Compass 1.4 TMair Limited FWD S&S,83900.0,21 516 km,manual,1 368 cm3,Benzyna,Zduńska Wola,Łódzkie,2019
+25446,jeep,Jeep Wrangler,150000.0,21 516 km,manual,1 368 cm3,Benzyna,Szprotawa,Lubuskie,2019
+25447,jeep,Jeep Compass 2.0 MJD Limited 4WD S&S,97900.0,22 514 km,manual,1 368 cm3,Benzyna,Mysłowice,Śląskie,2018
+25448,jeep,Jeep Renegade,58000.0,22 514 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2018
+25449,jeep,Jeep Renegade 1.4 MultiAir Limited FWD S&S,69500.0,42 000 km,manual,3 605 cm3,Benzyna,Czerwonak,Wielkopolskie,2017
+25450,jeep,Jeep Compass 1.4 TMair Longitude FWD S&S,49000.0,42 000 km,manual,3 605 cm3,Benzyna,Zawiercie,Śląskie,2017
+25451,jeep,Jeep Renegade 1.6 E-TorQ Longitude FWD,62400.0,88 000 km,manual,1 956 cm3,Diesel,Kraków,Małopolskie,2018
+25452,jeep,Jeep Renegade 1.6 E-TorQ Sport FWD,64900.0,88 000 km,manual,1 956 cm3,Diesel,Gdańsk,Pomorskie,2018
+25453,jeep,Jeep Compass 1.4 TMair Sport FWD S&S,84000.0,89 590 km,manual,1 598 cm3,Benzyna,Lubliniec,Śląskie,2017
+25454,jeep,Jeep Compass 1.6 MJD Limited FWD S&S,84900.0,89 590 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25455,jeep,Jeep Cherokee,67800.0,71 025 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25456,jeep,Jeep Compass 1.4 TMair Limited FWD S&S,89900.0,71 025 km,manual,1 368 cm3,Benzyna,Białystok,Podlaskie,2017
+25457,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,69700.0,45 000 km,manual,1 368 cm3,Benzyna,Głosków,Mazowieckie,2018
+25458,jeep,Jeep Renegade 1.0 GSE T3 Turbo Sport FWD S&S,61900.0,45 000 km,manual,1 368 cm3,Benzyna,Biała Podlaska,Lubelskie,2018
+25459,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude,62500.0,170 000 km,manual,1 598 cm3,Benzyna+LPG,Konary,Wielkopolskie,2018
+25460,jeep,Jeep Renegade 1.0 GSE T3 Turbo Longitude FWD S&S,67700.0,170 000 km,manual,1 598 cm3,Benzyna+LPG,Kraków,Małopolskie,2018
+25461,jeep,Jeep Renegade,79900.0,126 444 km,manual,1 598 cm3,Benzyna,Czechowice-Dziedzice,Śląskie,2015
+25462,jeep,Jeep Compass,92799.0,126 444 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2015
+25463,jeep,Jeep Compass 1.4 TMair Sport FWD S&S,71000.0,80 000 km,manual,1 368 cm3,Benzyna,Częstochowa,Śląskie,2017
+25464,jeep,Jeep Wrangler,161800.0,80 000 km,manual,1 368 cm3,Benzyna,Świdnica,Dolnośląskie,2017
+25465,jeep,Jeep Compass 1.4 TMair Longitude FWD S&S,88900.0,21 964 km,manual,1 598 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2017
+25466,jeep,Jeep Renegade,50000.0,21 964 km,manual,1 598 cm3,Diesel,Zabrze,Śląskie,2017
+25467,jeep,Jeep Renegade 1.6 E-TorQ Sport FWD,40500.0,220 000 km,manual,1 956 cm3,Diesel,Szubin,Kujawsko-pomorskie,2015
+25468,jeep,Jeep Renegade 1.6 MultiJet Limited FWD S&S EU6,50800.0,220 000 km,manual,1 956 cm3,Diesel,Ziębice,Dolnośląskie,2015
+25469,jeep,Jeep Renegade,67000.0,81 000 km,manual,1 368 cm3,Benzyna,Lublin,Lubelskie,2018
+25470,jeep,Jeep Renegade,66300.0,81 000 km,manual,1 368 cm3,Benzyna,Sędziszów Małopolski,Podkarpackie,2018
+25471,jeep,Jeep Compass 1.6 MJD Longitude FWD S&S,74999.0,54 500 km,manual,1 368 cm3,Benzyna,Tarnowskie Góry,Śląskie,2016
+25472,jeep,Jeep Wrangler,115000.0,54 500 km,manual,1 368 cm3,Benzyna,Janów Lubelski,Lubelskie,2016
+25473,jeep,Jeep Renegade,78900.0,48 000 km,manual,999 cm3,Benzyna,Myślenice,Małopolskie,2018
+25474,jeep,Jeep Compass 1.4 TMair Sport FWD S&S,77900.0,48 000 km,manual,999 cm3,Benzyna,Gdańsk,Pomorskie,2018
+25475,jeep,Jeep Renegade 1.0 GSE T3 Turbo Longitude FWD S&S,98500.0,2 km,manual,999 cm3,Benzyna,Konin,Wielkopolskie,2022
+25476,jeep,Jeep Renegade 1.0 GSE T3 Turbo Night Eagle II FWD S&S,83000.0,2 km,manual,999 cm3,Benzyna,Brzegi,Małopolskie,2022
+25477,jeep,Jeep Renegade 1.0 GSE T3 Turbo Limited FWD S&S,97900.0,8 500 km,manual,999 cm3,Benzyna,Starowa Góra,Łódzkie,2021
+25478,jeep,Jeep Renegade 1.0 GSE T3 Turbo Longitude FWD S&S,101400.0,8 500 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2021
+25479,jeep,Jeep Compass 1.3 TMair Limited FWD S&S,152900.0,20 550 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+25480,jeep,Jeep Compass 1.3 TMair Longitude FWD S&S,129900.0,20 550 km,manual,999 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2022
+25481,jeep,Jeep Compass 1.3 TMair Longitude FWD S&S,129600.0,1 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+25482,jeep,Jeep Renegade 1.0 GSE T3 Turbo Limited FWD S&S,112500.0,1 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+25483,jeep,Jeep Avenger 1.2 GSE T3 Summit FWD,129900.0,1 km,manual,1 332 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2022
+25484,jeep,Jeep Avenger 1.2 GSE T3 Altitude FWD,133488.0,1 km,manual,1 332 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2022
+25485,jeep,Jeep Compass 1.3 TMair Night Eagle FWD S&S,153900.0,5 km,manual,1 332 cm3,Benzyna,Tychy,Śląskie,2022
+25486,jeep,Jeep Renegade 1.6 MultiJet Limited FWD S&S,117250.0,5 km,manual,1 332 cm3,Benzyna,Gaj,Małopolskie,2022
+25487,jeep,Jeep Compass 1.6 MJD Limited FWD S&S,144150.0,1 km,manual,1 332 cm3,Benzyna,Gaj,Małopolskie,2022
+25488,jeep,Jeep Renegade 1.0 GSE T3 Turbo Longitude FWD S&S,104150.0,1 km,manual,1 332 cm3,Benzyna,Gaj,Małopolskie,2022
+25489,jeep,Jeep Avenger,118072.0,1 553 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2022
+25490,jeep,Jeep Avenger,136900.0,1 553 km,manual,999 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+25491,jeep,Jeep Avenger,136900.0,817 km,manual,1 199 cm3,Benzyna,Zielona Góra,Lubuskie,2023
+25492,jeep,Jeep Avenger,118072.0,817 km,manual,1 199 cm3,Benzyna,Poznań,Wielkopolskie,2023
+25493,jeep,Jeep Avenger,118072.0,5 km,manual,1 199 cm3,Benzyna,Poznań,Wielkopolskie,2023
+25494,jeep,Jeep Renegade,97900.0,5 km,manual,1 199 cm3,Benzyna,Starowa Góra,Łódzkie,2023
+25495,jeep,Jeep Avenger 1.2 GSE T3 Altitude FWD,127500.0,100 km,manual,1 332 cm3,Benzyna,Konin,Wielkopolskie,2022
+25496,jeep,Jeep Avenger,119847.0,100 km,manual,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2022
+25497,jeep,Jeep Avenger,119847.0,1 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2022
+25498,jeep,Jeep Avenger,124306.0,1 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2022
+25499,jeep,Jeep Avenger,124306.0,1 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2022
+25500,jeep,Jeep Avenger 1.2 GSE T3 Altitude FWD,121900.0,1 km,manual,1 598 cm3,Diesel,Libertów,Małopolskie,2022
+25501,jeep,Jeep Avenger,127721.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+25502,jeep,Jeep Avenger,127721.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+25503,jeep,Jeep Avenger,127721.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+25504,jeep,Jeep Avenger,127721.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+25505,jeep,Jeep Avenger,124308.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+25506,jeep,Jeep Avenger,127721.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+25507,jeep,Jeep Compass,74000.0,70 939 km,manual,1 368 cm3,Benzyna,Piaseczno,Mazowieckie,2017
+25508,jeep,Jeep Renegade 1.6 E-TorQ Longitude FWD,69999.0,70 939 km,manual,1 368 cm3,Benzyna,Tarnowskie Góry,Śląskie,2017
+25509,jeep,Jeep Renegade 1.0 GSE T3 Turbo Longitude FWD S&S,73000.0,56 000 km,manual,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2017
+25510,jeep,Jeep Compass 1.4 TMair Sport FWD S&S,74999.0,56 000 km,manual,1 598 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2017
+25511,jeep,Jeep Renegade 1.0 GSE T3 Turbo Limited FWD S&S,74799.0,35 000 km,manual,999 cm3,Benzyna,Modlniczka,Małopolskie,2019
+25512,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude EU6,71900.0,35 000 km,manual,999 cm3,Benzyna,Trzebinia,Małopolskie,2019
+25513,jeep,Jeep Wrangler,111000.0,42 970 km,manual,1 368 cm3,Benzyna,Radziejowice,Mazowieckie,2017
+25514,jeep,Jeep Wrangler,89000.0,42 970 km,manual,1 368 cm3,Benzyna,Dziekanów Polski,Mazowieckie,2017
+25515,jeep,Jeep Compass 1.6 MJD Limited FWD S&S,76900.0,57 524 km,manual,999 cm3,Benzyna,Ponikiew Duża,Mazowieckie,2019
+25516,jeep,Jeep Compass 1.6 MJD Limited FWD S&S,114000.0,57 524 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2019
+25517,jeep,Jeep Renegade,58000.0,102 500 km,manual,1 956 cm3,Diesel,Brzegi,Małopolskie,2016
+25518,jeep,Jeep Renegade,84900.0,102 500 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2016
+25519,jeep,Jeep Compass,84900.0,99 300 km,manual,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25520,jeep,Jeep Renegade,67900.0,99 300 km,manual,3 605 cm3,Benzyna,Łódź,Łódzkie,2017
+25521,jeep,Jeep Compass 2.0 MJD Limited 4WD S&S,88888.0,85 666 km,manual,3 605 cm3,Benzyna,Gliwice,Śląskie,2018
+25522,jeep,Jeep Renegade,79900.0,85 666 km,manual,3 605 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2018
+25523,jeep,Jeep Renegade,54900.0,130 000 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2018
+25524,jeep,Jeep Cherokee 2.0 MJD 4x2 Longitude,65000.0,130 000 km,manual,1 598 cm3,Diesel,Stalowa Wola,Podkarpackie,2018
+25525,jeep,Jeep Renegade 2.0 MultiJet Longitude 4WD S&S,62900.0,38 km,manual,1 598 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2017
+25526,jeep,Jeep Compass 1.6 MJD Longitude FWD S&S,81500.0,38 km,manual,1 598 cm3,Diesel,Strzałkowo,Wielkopolskie,2017
+25527,jeep,Jeep Renegade 1.4 MultiAir Limited FWD S&S,75900.0,59 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2015
+25528,jeep,Jeep Compass 1.6 MJD Longitude FWD S&S,79000.0,59 000 km,manual,1 368 cm3,Benzyna,Waksmund,Małopolskie,2015
+25529,jeep,Jeep Compass 1.6 MJD Limited FWD S&S,75000.0,33 600 km,manual,999 cm3,Benzyna,Jaworzno,Śląskie,2019
+25530,jeep,Jeep Renegade 1.4 MultiAir Longitude FWD S&S,72000.0,33 600 km,manual,999 cm3,Benzyna,Opole,Opolskie,2019
+25531,jeep,Jeep Wrangler,169000.0,112 000 km,manual,1 600 cm3,Diesel,Nysa,Opolskie,2017
+25532,jeep,Jeep Compass,99850.0,112 000 km,manual,1 600 cm3,Diesel,Warszawa,Mazowieckie,2017
+25533,jeep,Jeep Renegade 1.6 E-TorQ Sport FWD,65500.0,98 819 km,manual,1 368 cm3,Benzyna,Przysucha,Mazowieckie,2016
+25534,jeep,Jeep Wrangler,169900.0,98 819 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2016
+25535,jeep,Jeep Compass 1.4 TMair Longitude FWD S&S,85900.0,83 000 km,manual,1 956 cm3,Diesel,Kraków,Małopolskie,2017
+25536,jeep,Jeep Renegade 1.6 E-TorQ Longitude FWD,63500.0,83 000 km,manual,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2017
+25537,jeep,Jeep Compass,79900.0,87 000 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25538,jeep,Jeep Renegade 1.4 MultiAir Limited FWD S&S,66900.0,87 000 km,manual,999 cm3,Benzyna,Humniska,Podkarpackie,2018
+25539,jeep,Jeep Grand Cherokee Gr 5.2 Limited,8900.0,239 000 km,automatic,5 210 cm3,Benzyna+LPG,Stromiec,Mazowieckie,1995
+25540,jeep,Jeep Grand Cherokee 4.7 Limited,32000.0,239 000 km,automatic,5 210 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+25541,jeep,Jeep Grand Cherokee 4.7 Limited,40000.0,312 000 km,automatic,4 701 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1999
+25542,jeep,Jeep Grand Cherokee Gr 5.9 Limited,41700.0,312 000 km,automatic,4 701 cm3,Benzyna+LPG,Skaryszew,Mazowieckie,1999
+25543,jeep,Jeep Wrangler,79800.0,245 500 km,automatic,4 701 cm3,Benzyna+LPG,Strzyżew,Mazowieckie,1999
+25544,jeep,Jeep Grand Cherokee Gr 5.2 Limited,19999.0,245 500 km,automatic,4 701 cm3,Benzyna+LPG,Gorzów Wielkopolski,Lubuskie,1999
+25545,jeep,Jeep Grand Cherokee Gr 5.2 Limited,25999.0,208 995 km,automatic,5 900 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,1998
+25546,jeep,Jeep Grand Cherokee 4.7 Limited,220000.0,208 995 km,automatic,5 900 cm3,Benzyna,Józefów,Mazowieckie,1998
+25547,jeep,Jeep Cherokee 4.0 Limited,49900.0,256 000 km,automatic,3 964 cm3,Benzyna,Tyczyn,Podkarpackie,1995
+25548,jeep,Jeep Grand Cherokee Gr 5.2 Limited,37900.0,256 000 km,automatic,3 964 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+25549,jeep,Jeep Grand Cherokee Gr 5.2 Limited,7500.0,271 323 km,automatic,5 210 cm3,Benzyna,Gniewino,Pomorskie,1996
+25550,jeep,Jeep Grand Cherokee Gr 5.9 Limited,32900.0,271 323 km,automatic,5 210 cm3,Benzyna,Jedlińsk,Mazowieckie,1996
+25551,jeep,Jeep Grand Cherokee 4.7 Limited,36500.0,204 000 km,automatic,5 210 cm3,Benzyna,Kolbuszowa,Podkarpackie,1997
+25552,jeep,Jeep Cherokee 4.0 Limited,27000.0,204 000 km,automatic,5 210 cm3,Benzyna,Warszawa,Mazowieckie,1997
+25553,jeep,Jeep Grand Cherokee Gr 5.9 Limited,39500.0,339 206 km,automatic,4 701 cm3,Benzyna,Garwolin,Mazowieckie,1999
+25554,jeep,Jeep Grand Cherokee Gr 5.2 Limited,19000.0,339 206 km,automatic,4 701 cm3,Benzyna,Mrocza,Kujawsko-pomorskie,1999
+25555,jeep,Jeep Grand Cherokee Gr 5.2 Limited,25666.0,200 400 km,automatic,3 960 cm3,Benzyna,Osjaków,Łódzkie,1998
+25556,jeep,Jeep Grand Cherokee Gr 4.0 Limited,34000.0,200 400 km,automatic,3 960 cm3,Benzyna,Rybnik,Śląskie,1998
+25557,jeep,Jeep Wrangler 4.0 Sport,59700.0,160 000 km,automatic,5 210 cm3,Benzyna,Gdańsk,Pomorskie,1996
+25558,jeep,Jeep Grand Cherokee Gr 4.0 Laredo,29900.0,160 000 km,automatic,5 210 cm3,Benzyna,Wieliczka,Małopolskie,1996
+25559,jeep,Jeep Cherokee 4.0 Limited,41000.0,300 000 km,automatic,5 210 cm3,Benzyna+LPG,Rybnik,Śląskie,1995
+25560,jeep,Jeep Grand Cherokee 4.7 Limited,13500.0,300 000 km,automatic,5 210 cm3,Benzyna+LPG,Ostrów Wielkopolski,Wielkopolskie,1995
+25561,jeep,Jeep Cherokee 4.0 Limited,28000.0,257 620 km,automatic,5 900 cm3,Benzyna,Bielsko-Biała,Śląskie,1997
+25562,jeep,Jeep Grand Cherokee Gr 5.2 Limited,39900.0,257 620 km,automatic,5 900 cm3,Benzyna,Dołuje,Zachodniopomorskie,1997
+25563,jeep,Jeep Grand Cherokee Gr 5.9 Limited,79900.0,297 000 km,automatic,4 701 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,1999
+25564,jeep,Jeep Grand Cherokee,48000.0,297 000 km,automatic,4 701 cm3,Benzyna+LPG,Biłgoraj,Lubelskie,1999
+25565,jeep,Jeep Grand Cherokee,10500.0,234 289 km,automatic,3 960 cm3,Benzyna+LPG,Odolanów,Wielkopolskie,1998
+25566,jeep,Jeep Grand Cherokee Gr 5.2 Limited,49900.0,234 289 km,automatic,3 960 cm3,Benzyna+LPG,Rosko,Wielkopolskie,1998
+25567,jeep,Jeep Grand Cherokee Gr 5.9 Limited,38000.0,158 835 km,automatic,5 900 cm3,Benzyna,Przemyśl,Podkarpackie,1998
+25568,jeep,Jeep Grand Cherokee,19500.0,158 835 km,automatic,5 900 cm3,Benzyna,Krasnobród,Lubelskie,1998
+25569,jeep,Jeep Grand Cherokee Gr 5.2 Limited,43900.0,323 000 km,automatic,5 210 cm3,Benzyna,Laskowa,Małopolskie,1998
+25570,jeep,Jeep Wrangler 4.0 Sport,69900.0,323 000 km,automatic,5 210 cm3,Benzyna,Nowy Sącz,Małopolskie,1998
+25571,jeep,Jeep Cherokee,29900.0,198 800 km,automatic,2 800 cm3,Diesel,Mszana Górna,Małopolskie,2004
+25572,jeep,Jeep Grand Cherokee 4.0 Laredo,19990.0,198 800 km,automatic,2 800 cm3,Diesel,Bychawa,Lubelskie,2004
+25573,jeep,Jeep Cherokee 3.7L Limited,21900.0,227 000 km,automatic,3 958 cm3,Benzyna+LPG,Nidzica,Warmińsko-mazurskie,2004
+25574,jeep,Jeep Grand Cherokee 4.0 Laredo,34900.0,227 000 km,automatic,3 958 cm3,Benzyna+LPG,Kiełczów,Dolnośląskie,2004
+25575,jeep,Jeep Grand Cherokee 2.7 CRD Laredo,25999.0,237 253 km,automatic,3 700 cm3,Benzyna+LPG,Mszana Dolna,Małopolskie,2002
+25576,jeep,Jeep Grand Cherokee 3.1L TD Limited,19500.0,237 253 km,automatic,3 700 cm3,Benzyna+LPG,Trzebinia,Małopolskie,2002
+25577,jeep,Jeep Grand Cherokee 4.0 Laredo,28499.0,238 458 km,automatic,3 958 cm3,Benzyna+LPG,Chylice,Mazowieckie,2000
+25578,jeep,Jeep Grand Cherokee 4.7 Limited,69999.0,238 458 km,automatic,3 958 cm3,Benzyna+LPG,Janki,Mazowieckie,2000
+25579,jeep,Jeep Cherokee 2.8L CRD Limited,35000.0,323 638 km,automatic,2 685 cm3,Diesel,Gliwice,Śląskie,2002
+25580,jeep,Jeep Grand Cherokee 4.0 Laredo,19500.0,323 638 km,automatic,2 685 cm3,Diesel,Rozwady,Mazowieckie,2002
+25581,jeep,Jeep Grand Cherokee 2.7 CRD Limited,25000.0,270 000 km,automatic,3 125 cm3,Diesel,Legnica,Dolnośląskie,2003
+25582,jeep,Jeep Grand Cherokee 2.7 CRD Limited,29500.0,270 000 km,automatic,3 125 cm3,Diesel,Gostwica,Małopolskie,2003
+25583,jeep,Jeep Grand Cherokee 2.7 CRD Overland,22000.0,173 939 km,automatic,3 958 cm3,Benzyna+LPG,Chobienice,Wielkopolskie,2000
+25584,jeep,Jeep Liberty 3.7 4x4,27900.0,173 939 km,automatic,3 958 cm3,Benzyna+LPG,Pielgrzymka,Podkarpackie,2000
+25585,jeep,Jeep Grand Cherokee 4.7 Limited,26500.0,222 000 km,automatic,4 701 cm3,Benzyna,Jarosław,Podkarpackie,2001
+25586,jeep,Jeep Wrangler,62000.0,222 000 km,automatic,4 701 cm3,Benzyna,Kunowice,Lubuskie,2001
+25587,jeep,Jeep Grand Cherokee 2.7 CRD Laredo,31000.0,150 000 km,automatic,2 800 cm3,Diesel,Radlin,Śląskie,2004
+25588,jeep,Jeep Liberty 3.7 4x4,21500.0,150 000 km,automatic,2 800 cm3,Diesel,Lubin,Dolnośląskie,2004
+25589,jeep,Jeep Grand Cherokee 2.7 CRD Limited,23300.0,178 000 km,automatic,3 958 cm3,Benzyna+LPG,Będzin,Śląskie,2004
+25590,jeep,Jeep Grand Cherokee 4.7 Overland,39800.0,178 000 km,automatic,3 958 cm3,Benzyna+LPG,Września,Wielkopolskie,2004
+25591,jeep,Jeep Grand Cherokee 2.7 CRD Limited,18000.0,242 000 km,automatic,2 685 cm3,Diesel,Pliszczyn,Lubelskie,2002
+25592,jeep,Jeep Grand Cherokee 4.7 Limited,16900.0,242 000 km,automatic,2 685 cm3,Diesel,Luboń,Wielkopolskie,2002
+25593,jeep,Jeep Grand Cherokee 2.7 CRD Limited,27000.0,203 000 km,automatic,2 685 cm3,Diesel,Kielce,Świętokrzyskie,2002
+25594,jeep,Jeep Wrangler Unlimited 2.8 CRD Rubicon,94500.0,104 900 km,automatic,2 777 cm3,Diesel,Gdańsk,Pomorskie,2008
+25595,jeep,Jeep Commander 5.7 V8 Limited,44900.0,104 900 km,automatic,2 777 cm3,Diesel,Częstochowa,Śląskie,2008
+25596,jeep,Jeep Cherokee,28000.0,328 237 km,automatic,5 654 cm3,Benzyna,Limanowa,Małopolskie,2006
+25597,jeep,Jeep Wrangler,69900.0,328 237 km,automatic,5 654 cm3,Benzyna,Bytom,Śląskie,2006
+25598,jeep,Jeep Grand Cherokee Gr 5.7 V8 Limited,32000.0,220 000 km,automatic,2 776 cm3,Diesel,Katowice,Śląskie,2005
+25599,jeep,Jeep Grand Cherokee Gr 3.7 4x2 Laredo,26800.0,220 000 km,automatic,2 776 cm3,Diesel,Poręba,Śląskie,2005
+25600,jeep,Jeep Commander,21900.0,250 000 km,automatic,3 778 cm3,Benzyna,Wieliczka,Małopolskie,2008
+25601,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,33700.0,250 000 km,automatic,3 778 cm3,Benzyna,Żuromin,Mazowieckie,2008
+25602,jeep,Jeep Grand Cherokee Gr 3.0 CRD Laredo,35800.0,170 000 km,automatic,5 654 cm3,Benzyna+LPG,Kiekrz,Wielkopolskie,2006
+25603,jeep,Jeep Grand Cherokee,44000.0,170 000 km,automatic,5 654 cm3,Benzyna+LPG,Koszalin,Zachodniopomorskie,2006
+25604,jeep,Jeep Grand Cherokee,35000.0,250 000 km,automatic,3 701 cm3,Benzyna+LPG,Kraków,Małopolskie,2005
+25605,jeep,Jeep Wrangler,35000.0,250 000 km,automatic,3 701 cm3,Benzyna+LPG,Tarnów,Małopolskie,2005
+25606,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,35500.0,230 000 km,automatic,4 700 cm3,Benzyna,Czerwonak,Wielkopolskie,2006
+25607,jeep,Jeep Grand Cherokee Gr 4.7 V8 Limited,38900.0,230 000 km,automatic,4 700 cm3,Benzyna,Sulechów,Lubuskie,2006
+25608,jeep,Jeep Wrangler 2.8 CRD Sport,63900.0,219 000 km,automatic,2 987 cm3,Diesel,Puszczykowo,Wielkopolskie,2007
+25609,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,28000.0,219 000 km,automatic,2 987 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2007
+25610,jeep,Jeep Grand Cherokee Gr 3.7 4x4 Laredo,27000.0,310 000 km,automatic,2 987 cm3,Diesel,Swarzędz,Wielkopolskie,2007
+25611,jeep,Jeep Commander 3.0 CRD Overland,16900.0,310 000 km,automatic,2 987 cm3,Diesel,Krzywka,Warmińsko-mazurskie,2007
+25612,jeep,Jeep Cherokee 2.8 CRD Limited,43500.0,247 000 km,automatic,5 654 cm3,Benzyna+LPG,Dymaczewo Stare,Wielkopolskie,2005
+25613,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,19999.0,247 000 km,automatic,5 654 cm3,Benzyna+LPG,Ostrów Mazowiecka,Mazowieckie,2005
+25614,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,29999.0,215 125 km,automatic,2 987 cm3,Diesel,Bytom,Śląskie,2006
+25615,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,42000.0,215 125 km,automatic,2 987 cm3,Diesel,Serock,Mazowieckie,2006
+25616,jeep,Jeep Grand Cherokee,41900.0,141 730 km,automatic,3 778 cm3,Benzyna,Rogóźnia,Mazowieckie,2007
+25617,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,29000.0,141 730 km,automatic,3 778 cm3,Benzyna,Radom,Mazowieckie,2007
+25618,jeep,Jeep Commander 4.7 V8,55000.0,213 500 km,automatic,2 987 cm3,Diesel,Zawiercie,Śląskie,2007
+25619,jeep,Jeep Compass 2.4 Limited CVT2,21900.0,213 500 km,automatic,2 987 cm3,Diesel,Jedlnia-Letnisko,Mazowieckie,2007
+25620,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,49900.0,133 000 km,automatic,4 701 cm3,Benzyna,Zamość,Lubelskie,2006
+25621,jeep,Jeep Cherokee 2.8 CRD Limited,27900.0,133 000 km,automatic,4 701 cm3,Benzyna,Przebieczany,Małopolskie,2006
+25622,jeep,Jeep Grand Cherokee Gr 6.1 V8 SRT8,69900.0,126 000 km,automatic,2 777 cm3,Diesel,Sławków,Śląskie,2008
+25623,jeep,Jeep Grand Cherokee Gr 4.7 V8 Limited,41900.0,126 000 km,automatic,2 777 cm3,Diesel,Siedlce,Mazowieckie,2008
+25624,jeep,Jeep Grand Cherokee,39000.0,354 112 km,automatic,2 987 cm3,Diesel,Lublin,Lubelskie,2006
+25625,jeep,Jeep Grand Cherokee Gr 6.1 V8 SRT8,45000.0,354 112 km,automatic,2 987 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2006
+25626,jeep,Jeep Grand Cherokee,65000.0,201 500 km,automatic,3 604 cm3,Benzyna+LPG,Katowice,Śląskie,2011
+25627,jeep,Jeep Cherokee,69900.0,201 500 km,automatic,3 604 cm3,Benzyna+LPG,Liszki,Małopolskie,2011
+25628,jeep,Jeep Grand Cherokee,89900.0,152 000 km,automatic,1 956 cm3,Diesel,Rumia,Pomorskie,2014
+25629,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,96999.0,152 000 km,automatic,1 956 cm3,Diesel,Poznań,Wielkopolskie,2014
+25630,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8 Alpine,118000.0,137 000 km,automatic,3 604 cm3,Benzyna+LPG,Bydgoszcz,Kujawsko-pomorskie,2014
+25631,jeep,Jeep Liberty,39900.0,137 000 km,automatic,3 604 cm3,Benzyna+LPG,Sławno,Zachodniopomorskie,2014
+25632,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,76500.0,102 000 km,automatic,3 239 cm3,Benzyna+LPG,Sanok,Podkarpackie,2014
+25633,jeep,Jeep Grand Cherokee,52900.0,102 000 km,automatic,3 239 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2014
+25634,jeep,Jeep Grand Cherokee,44990.0,122 000 km,automatic,6 417 cm3,Benzyna,Chodzież,Wielkopolskie,2012
+25635,jeep,Jeep Wrangler,140000.0,122 000 km,automatic,6 417 cm3,Benzyna,Ostrzeszów,Wielkopolskie,2012
+25636,jeep,Jeep Cherokee 2.0 MJD Active Drive II Limited,76900.0,188 000 km,automatic,3 700 cm3,Benzyna,Bolesławiec,Dolnośląskie,2012
+25637,jeep,Jeep Grand Cherokee,86500.0,188 000 km,automatic,3 700 cm3,Benzyna,Warszawa,Mazowieckie,2012
+25638,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,74000.0,175 500 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2013
+25639,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,69900.0,175 500 km,automatic,2 987 cm3,Diesel,Łódź,Łódzkie,2013
+25640,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,99000.0,171 000 km,automatic,3 604 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2014
+25641,jeep,Jeep Wrangler 3.6 Unlim Sahara,109900.0,171 000 km,automatic,3 604 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2014
+25642,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,57195.0,211 052 km,automatic,2 987 cm3,Diesel,Gdynia,Pomorskie,2010
+25643,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,104999.0,211 052 km,automatic,2 987 cm3,Diesel,Wilkowice,Wielkopolskie,2010
+25644,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,81500.0,121 200 km,automatic,2 777 cm3,Diesel,Częstochowa,Śląskie,2012
+25645,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,99630.0,121 200 km,automatic,2 777 cm3,Diesel,Wieluń,Łódzkie,2012
+25646,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland EU6,80000.0,105 000 km,automatic,1 956 cm3,Diesel,Ciechocinek,Kujawsko-pomorskie,2014
+25647,jeep,Jeep Cherokee 2.0 MJD Active Drive I Longitude,40555.0,105 000 km,automatic,1 956 cm3,Diesel,Jasienica,Śląskie,2014
+25648,jeep,Jeep Wrangler,104000.0,209 000 km,automatic,5 654 cm3,Benzyna,Malbork,Pomorskie,2014
+25649,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,85900.0,209 000 km,automatic,5 654 cm3,Benzyna,Rydzewo,Podlaskie,2014
+25650,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,47000.0,102 700 km,automatic,3 604 cm3,Benzyna+LPG,Przebieczany,Małopolskie,2011
+25651,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,79900.0,102 700 km,automatic,3 604 cm3,Benzyna+LPG,Ostrów Wielkopolski,Wielkopolskie,2011
+25652,jeep,Jeep Wrangler,115500.0,284 922 km,automatic,5 654 cm3,Benzyna,Suwałki,Podlaskie,2011
+25653,jeep,Jeep Wrangler,68500.0,284 922 km,automatic,5 654 cm3,Benzyna,Warszawa,Mazowieckie,2011
+25654,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,65000.0,280 000 km,automatic,2 987 cm3,Diesel,Turek,Wielkopolskie,2014
+25655,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,99500.0,280 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2014
+25656,jeep,Jeep Wrangler 2.8 CRD Unlim Sahara,116000.0,115 010 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2013
+25657,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,87330.0,115 010 km,automatic,3 605 cm3,Benzyna,Piła,Wielkopolskie,2013
+25658,jeep,Jeep Commander 3.7 V6,33900.0,171 000 km,automatic,3 700 cm3,Benzyna,Białystok,Podlaskie,2010
+25659,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,97000.0,171 000 km,automatic,3 700 cm3,Benzyna,Lubowidz,Mazowieckie,2010
+25660,jeep,Jeep Wrangler Unlimited 2.8 CRD Sport,99900.0,199 630 km,automatic,2 987 cm3,Diesel,Sochaczew,Mazowieckie,2013
+25661,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,180000.0,199 630 km,automatic,2 987 cm3,Diesel,Łódź,Łódzkie,2013
+25662,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,109900.0,220 000 km,automatic,2 777 cm3,Diesel,Łódź,Łódzkie,2010
+25663,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,89000.0,220 000 km,automatic,2 777 cm3,Diesel,Gdańsk,Pomorskie,2010
+25664,jeep,Jeep Grand Cherokee,29000.0,129 000 km,automatic,6 417 cm3,Benzyna+LPG,Gręzów,Mazowieckie,2014
+25665,jeep,Jeep Grand Cherokee,37900.0,129 000 km,automatic,6 417 cm3,Benzyna+LPG,Żywiec,Śląskie,2014
+25666,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland Summit,106000.0,131 000 km,automatic,2 987 cm3,Diesel,Rzeszów,Podkarpackie,2014
+25667,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,90000.0,131 000 km,automatic,2 987 cm3,Diesel,Oleśnica,Dolnośląskie,2014
+25668,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,88000.0,32 375 km,automatic,6 417 cm3,Benzyna,Zgierz,Łódzkie,2014
+25669,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,114800.0,32 375 km,automatic,6 417 cm3,Benzyna,Nowa Huta,Świętokrzyskie,2014
+25670,jeep,Jeep Wrangler 3.6 Unlim Rubicon,179900.0,60 000 km,automatic,3 604 cm3,Benzyna,Poznań,Wielkopolskie,2014
+25671,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland EU6,99800.0,60 000 km,automatic,3 604 cm3,Benzyna,Środa Śląska,Dolnośląskie,2014
+25672,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,38900.0,152 887 km,automatic,3 604 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+25673,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,195000.0,152 887 km,automatic,3 604 cm3,Benzyna,Węgrzce,Małopolskie,2012
+25674,jeep,Jeep Grand Cherokee,83000.0,125 233 km,automatic,5 654 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2014
+25675,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,84900.0,125 233 km,automatic,5 654 cm3,Benzyna,Opole,Opolskie,2014
+25676,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,255000.0,186 000 km,automatic,2 987 cm3,Diesel,Lębork,Pomorskie,2014
+25677,jeep,Jeep Cherokee,59900.0,186 000 km,automatic,2 987 cm3,Diesel,Mścice,Zachodniopomorskie,2014
+25678,jeep,Jeep Wrangler Unlimited 3.8 Sahara,69600.0,187 000 km,automatic,5 654 cm3,Benzyna+LPG,Pilica,Śląskie,2014
+25679,jeep,Jeep Grand Cherokee,43900.0,187 000 km,automatic,5 654 cm3,Benzyna+LPG,Tomaszów Mazowiecki,Łódzkie,2014
+25680,jeep,Jeep Grand Cherokee,89000.0,115 000 km,automatic,2 987 cm3,Diesel,Gdańsk,Pomorskie,2014
+25681,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,69000.0,115 000 km,automatic,2 987 cm3,Diesel,Bochnia,Małopolskie,2014
+25682,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,72570.0,42 000 km,automatic,3 605 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2014
+25683,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,100000.0,42 000 km,automatic,3 605 cm3,Benzyna,Kraków,Małopolskie,2014
+25684,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,95000.0,221 100 km,automatic,2 987 cm3,Diesel,Jarosław,Podkarpackie,2013
+25685,jeep,Jeep Grand Cherokee,105001.0,221 100 km,automatic,2 987 cm3,Diesel,Łódź,Łódzkie,2013
+25686,jeep,Jeep Cherokee 3.2 V6 Active Drive Lock Trailhawk,65000.0,243 000 km,automatic,3 239 cm3,Benzyna,Białystok,Podlaskie,2014
+25687,jeep,Jeep Wrangler 3.6 Unlim Sahara,60000.0,243 000 km,automatic,3 239 cm3,Benzyna,Warszawa,Mazowieckie,2014
+25688,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,67000.0,84 000 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2014
+25689,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,65000.0,84 000 km,automatic,6 417 cm3,Benzyna,Konin,Wielkopolskie,2014
+25690,jeep,Jeep Wrangler 3.6 Unlim Sahara,56000.0,180 000 km,automatic,3 605 cm3,Benzyna,Sosnowiec,Śląskie,2012
+25691,jeep,Jeep Wrangler Unlimited 3.8 Rubicon,99999.0,180 000 km,automatic,3 605 cm3,Benzyna,Strobice,Opolskie,2012
+25692,jeep,Jeep Wrangler,106500.0,140 000 km,automatic,3 778 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2011
+25693,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,64000.0,140 000 km,automatic,3 778 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2011
+25694,jeep,Jeep Grand Cherokee,70000.0,123 500 km,automatic,3 605 cm3,Benzyna,Łódź,Łódzkie,2014
+25695,jeep,Jeep Wrangler,79999.0,123 500 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2014
+25696,jeep,Jeep Grand Cherokee,67000.0,303 000 km,automatic,5 654 cm3,Benzyna,Gościcino,Pomorskie,2011
+25697,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit Platinum,95000.0,303 000 km,automatic,5 654 cm3,Benzyna,Chojnice,Pomorskie,2011
+25698,jeep,Jeep Grand Cherokee,99000.0,229 356 km,automatic,2 987 cm3,Diesel,Dobczyce,Małopolskie,2012
+25699,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,97000.0,229 356 km,automatic,2 987 cm3,Diesel,Inowrocław,Kujawsko-pomorskie,2012
+25700,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,64900.0,284 000 km,automatic,3 605 cm3,Benzyna,Sokołów Podlaski,Mazowieckie,2014
+25701,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,99000.0,284 000 km,automatic,3 605 cm3,Benzyna,Ostaszewo,Pomorskie,2014
+25702,jeep,Jeep Grand Cherokee Gr 3.0 CRD S-Limited,75000.0,185 000 km,automatic,2 987 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2012
+25703,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,112900.0,185 000 km,automatic,2 987 cm3,Diesel,Radom,Mazowieckie,2012
+25704,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,85999.0,173 000 km,automatic,2 987 cm3,Diesel,Raciborowice,Małopolskie,2014
+25705,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,169000.0,173 000 km,automatic,2 987 cm3,Diesel,Sopot,Pomorskie,2014
+25706,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,88880.0,235 000 km,automatic,5 654 cm3,Benzyna+LPG,Płock,Mazowieckie,2014
+25707,jeep,Jeep Wrangler 2.8 CRD Rubicon,95000.0,235 000 km,automatic,5 654 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2014
+25708,jeep,Jeep Wrangler 3.6 Unlim Sahara,105000.0,159 000 km,automatic,2 987 cm3,Diesel,Wińsko,Dolnośląskie,2014
+25709,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland Summit,109900.0,159 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2014
+25710,jeep,Jeep Grand Cherokee,82500.0,256 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2012
+25711,jeep,Jeep Grand Cherokee,69900.0,256 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2012
+25712,jeep,Jeep Grand Cherokee,90000.0,170 000 km,automatic,2 987 cm3,Diesel,Radom,Mazowieckie,2013
+25713,jeep,Jeep Grand Cherokee,76900.0,170 000 km,automatic,2 987 cm3,Diesel,Smolnica,Śląskie,2013
+25714,jeep,Jeep Grand Cherokee,72900.0,210 000 km,automatic,2 987 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2012
+25715,jeep,Jeep Grand Cherokee,73000.0,210 000 km,automatic,2 987 cm3,Diesel,Poznań,Wielkopolskie,2012
+25716,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit,109000.0,95 409 km,automatic,3 604 cm3,Benzyna,Gaszowice,Śląskie,2014
+25717,jeep,Jeep Grand Cherokee Gr 5.7 V8 Summit,102900.0,95 409 km,automatic,3 604 cm3,Benzyna,Zgierz,Łódzkie,2014
+25718,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8 Alpine,142000.0,222 255 km,automatic,5 654 cm3,Benzyna,Łódź,Łódzkie,2014
+25719,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,95000.0,222 255 km,automatic,5 654 cm3,Benzyna,Lublin,Lubelskie,2014
+25720,jeep,Jeep Grand Cherokee,65900.0,195 000 km,automatic,6 417 cm3,Benzyna,Sławno,Zachodniopomorskie,2014
+25721,jeep,Jeep Grand Cherokee,69900.0,195 000 km,automatic,6 417 cm3,Benzyna,Kadzidło,Mazowieckie,2014
+25722,jeep,Jeep Cherokee,93900.0,67 900 km,automatic,3 239 cm3,Benzyna,Limanowa,Małopolskie,2019
+25723,jeep,Jeep Renegade,97900.0,67 900 km,automatic,3 239 cm3,Benzyna,Bielsko-Biała,Śląskie,2019
+25724,jeep,Jeep Wrangler,129500.0,87 401 km,automatic,1 956 cm3,Diesel,Rawicz,Wielkopolskie,2019
+25725,jeep,Jeep Grand Cherokee,119900.0,87 401 km,automatic,1 956 cm3,Diesel,Rumia,Pomorskie,2019
+25726,jeep,Jeep Cherokee 3.2 V6 Active Drive I Overland,75900.0,71 000 km,automatic,3 605 cm3,Benzyna,Łódź,Łódzkie,2016
+25727,jeep,Jeep Compass,89900.0,71 000 km,automatic,3 605 cm3,Benzyna,Zgierz,Łódzkie,2016
+25728,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit EU6,118000.0,99 000 km,automatic,5 654 cm3,Benzyna,Chełmica Mała,Kujawsko-pomorskie,2017
+25729,jeep,Jeep Renegade 1.3 GSE T4 Turbo Longitude FWD S&S,79800.0,99 000 km,automatic,5 654 cm3,Benzyna,Poznań,Wielkopolskie,2017
+25730,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit EU6,135000.0,112 590 km,automatic,3 239 cm3,Benzyna+LPG,Hanulin,Wielkopolskie,2016
+25731,jeep,Jeep Wrangler,62000.0,112 590 km,automatic,3 239 cm3,Benzyna+LPG,Katowice,Śląskie,2016
+25732,jeep,Jeep Wrangler 3.6 Unlim Sahara,90000.0,175 500 km,automatic,2 400 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25733,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,33000.0,175 500 km,automatic,2 400 cm3,Benzyna,Katowice,Śląskie,2018
+25734,jeep,Jeep Compass,56900.0,141 200 km,automatic,2 987 cm3,Diesel,Białystok,Podlaskie,2015
+25735,jeep,Jeep Grand Cherokee,124500.0,141 200 km,automatic,2 987 cm3,Diesel,Kuriany,Podlaskie,2015
+25736,jeep,Jeep Grand Cherokee,110500.0,78 300 km,automatic,1 332 cm3,Benzyna,Nowogród,Podlaskie,2018
+25737,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,219000.0,78 300 km,automatic,1 332 cm3,Benzyna,Lublin,Lubelskie,2018
+25738,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,149900.0,126 000 km,automatic,2 987 cm3,Diesel,Rumia,Pomorskie,2017
+25739,jeep,Jeep Compass,104900.0,126 000 km,automatic,2 987 cm3,Diesel,Białystok,Podlaskie,2017
+25740,jeep,Jeep Compass 1.4 TMair Opening Edition 4WD S&S,87900.0,107 718 km,automatic,3 605 cm3,Benzyna,Kielce,Świętokrzyskie,2015
+25741,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,129148.0,107 718 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2015
+25742,jeep,Jeep Grand Cherokee,118850.0,63 546 km,automatic,3 605 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+25743,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,118900.0,63 546 km,automatic,3 605 cm3,Benzyna,Jawornik,Małopolskie,2019
+25744,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,162500.0,88 000 km,automatic,1 368 cm3,Benzyna,Kielce,Świętokrzyskie,2017
+25745,jeep,Jeep Renegade 1.3 GSE T4 Turbo Limited FWD S&S,86799.0,88 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25746,jeep,Jeep Grand Cherokee Gr 3.6 V6 Trailhawk,70000.0,47 500 km,automatic,2 400 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25747,jeep,Jeep Renegade,32900.0,47 500 km,automatic,2 400 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25748,jeep,Jeep Cherokee 2.2 MJD Active Drive I Limited,88900.0,79 377 km,automatic,3 604 cm3,Benzyna,Łask,Łódzkie,2017
+25749,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sport,85000.0,79 377 km,automatic,3 604 cm3,Benzyna,Zakopane,Małopolskie,2017
+25750,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,73700.0,127 000 km,automatic,3 604 cm3,Benzyna,Lublin,Lubelskie,2017
+25751,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,47500.0,127 000 km,automatic,3 604 cm3,Benzyna,Gręzów,Mazowieckie,2017
+25752,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,205000.0,30 000 km,automatic,6 417 cm3,Benzyna,Gliwice,Śląskie,2016
+25753,jeep,Jeep Cherokee 2.0 MJD Active Drive I Limited,74999.0,30 000 km,automatic,6 417 cm3,Benzyna,Tarnowskie Góry,Śląskie,2016
+25754,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,115000.0,190 000 km,automatic,6 417 cm3,Benzyna,Gręzów,Mazowieckie,2015
+25755,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,109850.0,190 000 km,automatic,6 417 cm3,Benzyna,Poznań,Wielkopolskie,2015
+25756,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,225000.0,44 848 km,automatic,1 368 cm3,Benzyna,Radomsko,Łódzkie,2019
+25757,jeep,Jeep Cherokee,47500.0,44 848 km,automatic,1 368 cm3,Benzyna,Gręzów,Mazowieckie,2019
+25758,jeep,Jeep Wrangler 3.6 Unlim Rubicon,155000.0,71 800 km,automatic,2 987 cm3,Diesel,Rutki-Kossaki,Podlaskie,2019
+25759,jeep,Jeep Renegade,88850.0,71 800 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2019
+25760,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,33500.0,150 000 km,automatic,2 400 cm3,Benzyna,Gręzów,Mazowieckie,2016
+25761,jeep,Jeep Grand Cherokee,99500.0,150 000 km,automatic,2 400 cm3,Benzyna,Kopaszyn,Wielkopolskie,2016
+25762,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,77700.0,82 000 km,automatic,3 605 cm3,Benzyna,Września,Wielkopolskie,2016
+25763,jeep,Jeep Wrangler,121770.0,82 000 km,automatic,3 605 cm3,Benzyna,Sierakowice,Pomorskie,2016
+25764,jeep,Jeep Renegade 1.3 GSE T4 Turbo Longitude FWD S&S,74900.0,56 000 km,automatic,1 332 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2019
+25765,jeep,Jeep Compass 2.0 MJD Limited 4WD S&S,96000.0,56 000 km,automatic,1 332 cm3,Benzyna,Będzin,Śląskie,2019
+25766,jeep,Jeep Cherokee,69800.0,120 000 km,automatic,3 239 cm3,Benzyna,Lubartów,Lubelskie,2018
+25767,jeep,Jeep Compass,104900.0,120 000 km,automatic,3 239 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25768,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,59999.0,109 000 km,automatic,3 604 cm3,Benzyna,Słupiec,Małopolskie,2015
+25769,jeep,Jeep Cherokee,62800.0,109 000 km,automatic,3 604 cm3,Benzyna,Repki,Mazowieckie,2015
+25770,jeep,Jeep Grand Cherokee,63000.0,209 727 km,automatic,3 239 cm3,Benzyna,Warszawa,Mazowieckie,2016
+25771,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sahara,199900.0,209 727 km,automatic,3 239 cm3,Benzyna,Rumia,Pomorskie,2016
+25772,jeep,Jeep Grand Cherokee,192000.0,106 700 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25773,jeep,Jeep Cherokee,85000.0,106 700 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25774,jeep,Jeep Cherokee,108000.0,55 000 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25775,jeep,Jeep Grand Cherokee,105000.0,55 000 km,automatic,1 332 cm3,Benzyna,Krosno,Podkarpackie,2018
+25776,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited,102700.0,135 000 km,automatic,1 956 cm3,Diesel,Grabów nad Prosną,Wielkopolskie,2018
+25777,jeep,Jeep Cherokee 2.0 GME Active Drive I Limited,114988.0,135 000 km,automatic,1 956 cm3,Diesel,Pabianice,Łódzkie,2018
+25778,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,125000.0,179 450 km,automatic,3 239 cm3,Benzyna,Zambrów,Podlaskie,2016
+25779,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,109999.0,179 450 km,automatic,3 239 cm3,Benzyna,Tarnowskie Góry,Śląskie,2016
+25780,jeep,Jeep Wrangler 3.6 Unlim Rubicon,125999.0,81 306 km,automatic,1 368 cm3,Benzyna,Izabelin C,Mazowieckie,2019
+25781,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8 EU6,229000.0,81 306 km,automatic,1 368 cm3,Benzyna,Poznań,Wielkopolskie,2019
+25782,jeep,Jeep Compass 1.4 TMair Opening Edition 4WD S&S,98000.0,145 640 km,automatic,3 604 cm3,Benzyna,Kraków,Małopolskie,2017
+25783,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,99799.0,145 640 km,automatic,3 604 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25784,jeep,Jeep Renegade,74000.0,224 000 km,automatic,3 239 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2015
+25785,jeep,Jeep Grand Cherokee,98500.0,224 000 km,automatic,3 239 cm3,Benzyna,Głogoczów,Małopolskie,2015
+25786,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,105900.0,81 290 km,automatic,3 239 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2019
+25787,jeep,Jeep Compass,111900.0,81 290 km,automatic,3 239 cm3,Benzyna,Kraków,Małopolskie,2019
+25788,jeep,Jeep Wrangler 3.6 Unlim Sahara,93500.0,46 478 km,automatic,1 368 cm3,Benzyna,Bogumiłowice,Małopolskie,2019
+25789,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,299997.0,46 478 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2019
+25790,jeep,Jeep Grand Cherokee,69000.0,196 000 km,automatic,3 605 cm3,Benzyna,Gdańsk,Pomorskie,2015
+25791,jeep,Jeep Grand Cherokee Gr 6.2 V8 Trackhawk,179000.0,196 000 km,automatic,3 605 cm3,Benzyna,Gdańsk,Pomorskie,2015
+25792,jeep,Jeep Compass,83000.0,36 000 km,automatic,6 417 cm3,Benzyna,Tychy,Śląskie,2019
+25793,jeep,Jeep Grand Cherokee,119900.0,36 000 km,automatic,6 417 cm3,Benzyna,Kampinos,Mazowieckie,2019
+25794,jeep,Jeep Cherokee,79999.0,60 018 km,automatic,3 604 cm3,Benzyna,Puszczykowo,Wielkopolskie,2018
+25795,jeep,Jeep Compass 2.0 MJD Limited 4WD S&S,86500.0,60 018 km,automatic,3 604 cm3,Benzyna,Poznań,Wielkopolskie,2018
+25796,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,77900.0,30 666 km,automatic,6 166 cm3,Benzyna,Puławy,Lubelskie,2018
+25797,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,144900.0,30 666 km,automatic,6 166 cm3,Benzyna,Białystok,Podlaskie,2018
+25798,jeep,Jeep Wrangler,88900.0,144 500 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25799,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,239000.0,144 500 km,automatic,1 368 cm3,Benzyna,Jarosław,Podkarpackie,2018
+25800,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,96799.0,135 000 km,automatic,3 604 cm3,Benzyna,Modlniczka,Małopolskie,2018
+25801,jeep,Jeep Cherokee,102900.0,135 000 km,automatic,3 604 cm3,Benzyna,Wojkowice,Dolnośląskie,2018
+25802,jeep,Jeep Grand Cherokee,65000.0,31 975 km,automatic,1 994 cm3,Benzyna,Katowice,Śląskie,2019
+25803,jeep,Jeep Grand Cherokee Gr 5.7 V8 Summit,69000.0,31 975 km,automatic,1 994 cm3,Benzyna,Gręzów,Mazowieckie,2019
+25804,jeep,Jeep Compass 1.4 TMair Limited 4WD S&S,96900.0,139 000 km,automatic,1 956 cm3,Diesel,Radom,Mazowieckie,2017
+25805,jeep,Jeep Wrangler 3.6 Unlim Sahara,154900.0,139 000 km,automatic,1 956 cm3,Diesel,Szczecinek,Zachodniopomorskie,2017
+25806,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,92000.0,139 947 km,automatic,3 239 cm3,Benzyna+LPG,Lublin,Lubelskie,2016
+25807,jeep,Jeep Wrangler 3.6 Unlim Rubicon,92000.0,139 947 km,automatic,3 239 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2016
+25808,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,129500.0,47 000 km,automatic,3 604 cm3,Benzyna,Solec Kujawski,Kujawsko-pomorskie,2018
+25809,jeep,Jeep Cherokee,70000.0,47 000 km,automatic,3 604 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25810,jeep,Jeep Grand Cherokee,85000.0,49 360 km,automatic,3 605 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25811,jeep,Jeep Cherokee,118900.0,49 360 km,automatic,3 605 cm3,Benzyna,Siedlce,Mazowieckie,2017
+25812,jeep,Jeep Renegade,68900.0,31 000 km,automatic,1 995 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2019
+25813,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,84255.0,31 000 km,automatic,1 995 cm3,Benzyna,Rzeszów,Podkarpackie,2019
+25814,jeep,Jeep Compass,125900.0,57 568 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25815,jeep,Jeep Grand Cherokee Gr 3.6 V6 Trailhawk,70100.0,57 568 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25816,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sport,169900.0,20 200 km,automatic,1 994 cm3,Benzyna,Tarnów,Małopolskie,2019
+25817,jeep,Jeep Renegade 2.0 MultiJet Trailhawk 4WD S&S,79900.0,20 200 km,automatic,1 994 cm3,Benzyna,Pszczyna,Śląskie,2019
+25818,jeep,Jeep Grand Cherokee,118000.0,109 000 km,automatic,3 604 cm3,Benzyna,Sławno,Zachodniopomorskie,2016
+25819,jeep,Jeep Grand Cherokee,119850.0,109 000 km,automatic,3 604 cm3,Benzyna,Wrocław,Dolnośląskie,2016
+25820,jeep,Jeep Cherokee 2.2 MJD Active Drive I Limited,77900.0,178 968 km,automatic,3 604 cm3,Benzyna,Rumia,Pomorskie,2017
+25821,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,34500.0,178 968 km,automatic,3 604 cm3,Benzyna,Radom,Mazowieckie,2017
+25822,jeep,Jeep Grand Cherokee Gr 3.0 CRD Summit,134500.0,108 000 km,automatic,2 184 cm3,Diesel,Poznań,Wielkopolskie,2015
+25823,jeep,Jeep Grand Cherokee,118900.0,108 000 km,automatic,2 184 cm3,Diesel,Łąkta Dolna,Małopolskie,2015
+25824,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,259000.0,131 000 km,automatic,3 604 cm3,Benzyna,Słubice,Lubuskie,2015
+25825,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,289900.0,131 000 km,automatic,3 604 cm3,Benzyna,Gdańsk,Pomorskie,2015
+25826,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,104500.0,185 992 km,automatic,2 987 cm3,Diesel,Sławno,Zachodniopomorskie,2016
+25827,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,79999.0,185 992 km,automatic,2 987 cm3,Diesel,Nysa,Opolskie,2016
+25828,jeep,Jeep Grand Cherokee Gr 3.0 CRD 75th Anniver,128999.0,102 597 km,automatic,3 604 cm3,Benzyna,Wilkowice,Wielkopolskie,2017
+25829,jeep,Jeep Compass,84500.0,102 597 km,automatic,3 604 cm3,Benzyna,Puławy,Lubelskie,2017
+25830,jeep,Jeep Wrangler,259900.0,86 000 km,automatic,6 417 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2018
+25831,jeep,Jeep Grand Cherokee,95000.0,86 000 km,automatic,6 417 cm3,Benzyna+LPG,Kleczew,Wielkopolskie,2018
+25832,jeep,Jeep Grand Cherokee Gr 3.0 CRD Night Eagle,147598.0,34 500 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2019
+25833,jeep,Jeep Grand Cherokee,124900.0,34 500 km,automatic,1 995 cm3,Benzyna,Choroszcz,Podlaskie,2019
+25834,jeep,Jeep Renegade 1.4 MultiAir Limited FWD S&S,59900.0,16 000 km,automatic,3 239 cm3,Benzyna,Gdańsk,Pomorskie,2019
+25835,jeep,Jeep Renegade,67000.0,16 000 km,automatic,3 239 cm3,Benzyna,Sulejówek,Mazowieckie,2019
+25836,jeep,Jeep Wrangler,60000.0,195 000 km,automatic,3 604 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2015
+25837,jeep,Jeep Cherokee,36000.0,195 000 km,automatic,3 604 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2015
+25838,jeep,Jeep Grand Cherokee,70000.0,149 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2016
+25839,jeep,Jeep Cherokee 2.0 GME Active Drive I Limited,95500.0,149 000 km,automatic,2 987 cm3,Diesel,Lubartów,Lubelskie,2016
+25840,jeep,Jeep Renegade 1.4 MultiAir Limited 4WD S&S,74000.0,58 500 km,automatic,2 360 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25841,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland,59500.0,58 500 km,automatic,2 360 cm3,Benzyna,Turek,Wielkopolskie,2018
+25842,jeep,Jeep Cherokee 2.2 MJD Active Drive II Limited,89900.0,61 000 km,automatic,3 778 cm3,Benzyna,Kraśnik,Lubelskie,2019
+25843,jeep,Jeep Grand Cherokee Gr 6.4 V8 SRT8,159000.0,61 000 km,automatic,3 778 cm3,Benzyna,Nowe Miasteczko,Lubuskie,2019
+25844,jeep,Jeep Cherokee,109990.0,157 509 km,automatic,3 604 cm3,Benzyna,Paniówki,Śląskie,2016
+25845,jeep,Jeep Cherokee,89000.0,157 509 km,automatic,3 604 cm3,Benzyna,Mława,Mazowieckie,2016
+25846,jeep,Jeep Renegade,94900.0,134 854 km,automatic,2 987 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2017
+25847,jeep,Jeep Grand Cherokee Gr 3.0 CRD Limited EU6,123000.0,134 854 km,automatic,2 987 cm3,Diesel,Tarnów,Małopolskie,2017
+25848,jeep,Jeep Cherokee 3.2 V6 Active Drive I Limited,55000.0,103 894 km,automatic,3 604 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2017
+25849,jeep,Jeep Grand Cherokee Gr 3.0 CRD Overland Summit EU6,123000.0,103 894 km,automatic,3 604 cm3,Benzyna+LPG,Bytom,Śląskie,2017
+25850,jeep,Jeep Compass 1.3 T4 PHEV 4xe Limited S&S,190900.0,5 000 km,automatic,1 332 cm3,Hybryda,Opole,Opolskie,2022
+25851,jeep,Jeep Renegade,138900.0,5 000 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25852,jeep,Jeep Compass 1.5 T4 mHEV S FWD S&S DCT,187000.0,1 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2023
+25853,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,139900.0,1 km,automatic,1 332 cm3,Hybryda,Legnica,Dolnośląskie,2023
+25854,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,151900.0,1 km,automatic,1 469 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+25855,jeep,Jeep Renegade,134900.0,1 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2023
+25856,jeep,Jeep Wrangler GME 2.0 Turbo Rubicon,299998.0,3 km,automatic,1 469 cm3,Benzyna,Skomlin,Łódzkie,2022
+25857,jeep,Jeep Grand Cherokee Gr 5.7 V8 Summit,195000.0,3 km,automatic,1 469 cm3,Benzyna,Białystok,Podlaskie,2022
+25858,jeep,Jeep Grand Cherokee,179000.0,1 269 km,automatic,1 469 cm3,Benzyna,Szarów,Małopolskie,2022
+25859,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,131500.0,1 269 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2022
+25860,jeep,Jeep Renegade,97900.0,10 km,automatic,1 469 cm3,Hybryda,Tarnobrzeg,Podkarpackie,2022
+25861,jeep,Jeep Compass,145000.0,10 km,automatic,1 469 cm3,Hybryda,Kraków,Małopolskie,2022
+25862,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,309700.0,17 376 km,automatic,1 995 cm3,Benzyna,Płock,Mazowieckie,2021
+25863,jeep,Jeep Gladiator,284000.0,17 376 km,automatic,1 995 cm3,Benzyna,Katowice,Śląskie,2021
+25864,jeep,Jeep Grand Cherokee,139500.0,36 500 km,automatic,5 654 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+25865,jeep,Jeep Renegade,84850.0,36 500 km,automatic,5 654 cm3,Benzyna,Andrychów,Małopolskie,2020
+25866,jeep,Jeep Wrangler,180000.0,27 000 km,automatic,3 604 cm3,Benzyna+LPG,Debrzno,Pomorskie,2021
+25867,jeep,Jeep Cherokee,119900.0,27 000 km,automatic,3 604 cm3,Benzyna+LPG,Chorzów,Śląskie,2021
+25868,jeep,Jeep Renegade 1.3 GSE T4 Turbo Longitude FWD S&S,99900.0,1 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2022
+25869,jeep,Jeep Compass,159900.0,1 km,automatic,1 469 cm3,Benzyna,Gdańsk,Pomorskie,2022
+25870,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sahara,224900.0,32 750 km,automatic,1 332 cm3,Benzyna+LPG,Gdynia,Pomorskie,2021
+25871,jeep,Jeep Cherokee 2.0 GME Active Drive I Limited,105000.0,32 750 km,automatic,1 332 cm3,Benzyna+LPG,Płoskie,Lubelskie,2021
+25872,jeep,Jeep Grand Cherokee,163000.0,25 594 km,automatic,1 332 cm3,Benzyna,Wołomin,Mazowieckie,2022
+25873,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,130800.0,25 594 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2022
+25874,jeep,Jeep Renegade 1.3 GSE T4 Turbo PHEV 4xe Limited S&S,159900.0,37 300 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2021
+25875,jeep,Jeep Wrangler,238000.0,37 300 km,automatic,1 995 cm3,Hybryda,Ostrzeszów,Wielkopolskie,2021
+25876,jeep,Jeep Grand Cherokee,294000.0,21 670 km,automatic,3 604 cm3,Benzyna,Kozy,Śląskie,2020
+25877,jeep,Jeep Renegade 1.3 GSE T4 Turbo Night Eagle II FWD S&S,99900.0,21 670 km,automatic,3 604 cm3,Benzyna,Mogilany,Małopolskie,2020
+25878,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,379900.0,31 900 km,automatic,3 604 cm3,Benzyna,Libertów,Małopolskie,2020
+25879,jeep,Jeep Grand Cherokee Gr 3.6 V6 Summit,139000.0,31 900 km,automatic,3 604 cm3,Benzyna,Rzeszów,Podkarpackie,2020
+25880,jeep,Jeep Renegade 1.3 GSE T4 Turbo Limited 4x4 S&S,86000.0,77 900 km,automatic,1 332 cm3,Benzyna,Lublin,Lubelskie,2020
+25881,jeep,Jeep Gladiator,396200.0,77 900 km,automatic,1 332 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2020
+25882,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,167580.0,5 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2023
+25883,jeep,Jeep Gladiator,345664.0,5 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2023
+25884,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,132000.0,6 km,automatic,2 987 cm3,Diesel,Katowice,Śląskie,2022
+25885,jeep,Jeep Wrangler Unlimited 2.2 CRD Sport,170000.0,6 km,automatic,2 987 cm3,Diesel,Płock,Mazowieckie,2022
+25886,jeep,Jeep Compass 1.3 T4 PHEV 4xe S S&S,189000.0,1 km,automatic,1 469 cm3,Benzyna,Lublin,Lubelskie,2022
+25887,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Overland,478900.0,1 km,automatic,1 469 cm3,Benzyna,Gliwice,Śląskie,2022
+25888,jeep,Jeep Renegade,147900.0,99 000 km,automatic,2 143 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2020
+25889,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,325900.0,99 000 km,automatic,2 143 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2020
+25890,jeep,Jeep Gladiator 3.0 V6 MultiJet Launch Edition,185000.0,5 000 km,automatic,1 332 cm3,Hybryda,Mielec,Podkarpackie,2022
+25891,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,146400.0,5 000 km,automatic,1 332 cm3,Hybryda,Toruń,Kujawsko-pomorskie,2022
+25892,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,152350.0,2 km,automatic,1 995 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+25893,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,141000.0,2 km,automatic,1 995 cm3,Hybryda,Toruń,Kujawsko-pomorskie,2023
+25894,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,350000.0,1 km,automatic,1 332 cm3,Hybryda,Ksawerów,Łódzkie,2022
+25895,jeep,Jeep Compass 1.3 T4 PHEV 4xe Upland S&S,191900.0,1 km,automatic,1 332 cm3,Hybryda,Elbląg,Warmińsko-mazurskie,2022
+25896,jeep,Jeep Compass 1.3 T4 PHEV 4xe Trailhawk S&S,198500.0,1 km,automatic,2 987 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2022
+25897,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,319900.0,1 km,automatic,2 987 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2022
+25898,jeep,Jeep Compass,79000.0,35 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2021
+25899,jeep,Jeep Grand Cherokee,159500.0,35 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2021
+25900,jeep,Jeep Renegade,139900.0,1 km,automatic,1 469 cm3,Benzyna,Gdynia,Pomorskie,2022
+25901,jeep,Jeep Renegade,147900.0,1 km,automatic,1 469 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+25902,jeep,Jeep Wrangler,349900.0,5 km,automatic,1 469 cm3,Benzyna,Gdynia,Pomorskie,2023
+25903,jeep,Jeep Compass 1.3 T4 PHEV 4xe Limited S&S,71900.0,5 km,automatic,1 469 cm3,Benzyna,Nowy Targ,Małopolskie,2023
+25904,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,125160.0,1 km,automatic,1 469 cm3,Benzyna,Bytom,Śląskie,2022
+25905,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,131270.0,1 km,automatic,1 469 cm3,Benzyna,Bytom,Śląskie,2022
+25906,jeep,Jeep Compass 1.3 T4 PHEV 4xe S S&S,206900.0,7 000 km,automatic,3 604 cm3,Benzyna,Gdańsk,Pomorskie,2021
+25907,jeep,Jeep Wrangler,346900.0,7 000 km,automatic,3 604 cm3,Benzyna,Nowy Targ,Małopolskie,2021
+25908,jeep,Jeep Compass,91500.0,1 km,automatic,1 332 cm3,Hybryda,Wysokie Mazowieckie,Podlaskie,2022
+25909,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,353900.0,1 km,automatic,1 332 cm3,Hybryda,Nowy Targ,Małopolskie,2022
+25910,jeep,Jeep Compass 1.5 T4 mHEV S FWD S&S DCT,175500.0,9 300 km,automatic,1 332 cm3,Hybryda,Nowy Targ,Małopolskie,2022
+25911,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe 80th Anniversary,285000.0,9 300 km,automatic,1 332 cm3,Hybryda,Wrocław,Dolnośląskie,2022
+25912,jeep,Jeep Compass 1.3 T4 PHEV 4xe Upland S&S,237469.0,1 250 km,automatic,2 987 cm3,Diesel,Sosnowiec,Śląskie,2022
+25913,jeep,Jeep Grand Cherokee,116000.0,1 250 km,automatic,2 987 cm3,Diesel,Tarnów,Małopolskie,2022
+25914,jeep,Jeep Compass,93900.0,2 400 km,automatic,2 360 cm3,Benzyna,Wojkowice,Dolnośląskie,2020
+25915,jeep,Jeep Compass,114900.0,2 400 km,automatic,2 360 cm3,Benzyna,Warszawa,Mazowieckie,2020
+25916,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sport,119000.0,32 458 km,automatic,1 332 cm3,Benzyna,Rzeszów,Podkarpackie,2021
+25917,jeep,Jeep Wrangler,154800.0,32 458 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2021
+25918,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,390000.0,27 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2021
+25919,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,359000.0,27 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2021
+25920,jeep,Jeep Wrangler,209990.0,10 498 km,automatic,1 995 cm3,Hybryda,Mysłowice,Śląskie,2021
+25921,jeep,Jeep Renegade 1.3 GSE T4 Turbo Limited FWD S&S,99900.0,10 498 km,automatic,1 995 cm3,Hybryda,Rumia,Pomorskie,2021
+25922,jeep,Jeep Compass,203900.0,1 km,automatic,2 987 cm3,Diesel,Starowa Góra,Łódzkie,2023
+25923,jeep,Jeep Compass,199500.0,1 km,automatic,2 987 cm3,Diesel,Starowa Góra,Łódzkie,2023
+25924,jeep,Jeep Compass,141900.0,1 km,automatic,2 987 cm3,Diesel,Starowa Góra,Łódzkie,2022
+25925,jeep,Jeep Renegade,179900.0,1 km,automatic,2 987 cm3,Diesel,Kraków,Małopolskie,2022
+25926,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,142500.0,17 000 km,automatic,1 995 cm3,Benzyna,Kalisz,Wielkopolskie,2021
+25927,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,339000.0,17 000 km,automatic,1 995 cm3,Benzyna,Lublin,Lubelskie,2021
+25928,jeep,Jeep Compass 1.3 T4 PHEV 4xe Trailhawk S&S,197000.0,15 000 km,automatic,1 332 cm3,Benzyna,Żory,Śląskie,2020
+25929,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,288000.0,15 000 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2020
+25930,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,359700.0,5 km,automatic,1 332 cm3,Hybryda,Gdańsk,Pomorskie,2023
+25931,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,156400.0,5 km,automatic,1 332 cm3,Hybryda,Poznań,Wielkopolskie,2023
+25932,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,165900.0,5 km,automatic,1 332 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+25933,jeep,Jeep Renegade,189900.0,5 km,automatic,1 332 cm3,Hybryda,Kraków,Małopolskie,2023
+25934,jeep,Jeep Gladiator,265000.0,4 km,automatic,1 469 cm3,Benzyna,Lublin,Lubelskie,2023
+25935,jeep,Jeep Cherokee,44500.0,4 km,automatic,1 469 cm3,Benzyna,Radom,Mazowieckie,2023
+25936,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,335000.0,1 km,automatic,1 332 cm3,Hybryda,Żory,Śląskie,2023
+25937,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Overland,472900.0,1 km,automatic,1 332 cm3,Hybryda,Katowice,Śląskie,2023
+25938,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Overland,472900.0,1 000 km,automatic,1 469 cm3,Benzyna,Katowice,Śląskie,2023
+25939,jeep,Jeep Wrangler,309900.0,1 000 km,automatic,1 469 cm3,Benzyna,Gdynia,Pomorskie,2023
+25940,jeep,Jeep Renegade,189900.0,700 km,automatic,1 995 cm3,Benzyna,Gdynia,Pomorskie,2022
+25941,jeep,Jeep Renegade,132900.0,700 km,automatic,1 995 cm3,Benzyna,Gdynia,Pomorskie,2022
+25942,jeep,Jeep Compass,139900.0,227 km,automatic,1 332 cm3,Hybryda,Gdynia,Pomorskie,2022
+25943,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,275000.0,227 km,automatic,1 332 cm3,Hybryda,Białystok,Podlaskie,2022
+25944,jeep,Jeep Compass 1.3 T4 PHEV 4xe Trailhawk S&S,221400.0,27 000 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2021
+25945,jeep,Jeep Renegade,134900.0,27 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2021
+25957,jeep,Jeep Renegade,105500.0,25 490 km,automatic,2 360 cm3,Benzyna,Kolbuszowa,Podkarpackie,2020
+25958,jeep,Jeep Wrangler,352890.0,25 490 km,automatic,2 360 cm3,Benzyna,Warszawa,Mazowieckie,2020
+25959,jeep,Jeep Wrangler,355900.0,857 km,automatic,1 995 cm3,Hybryda,Starowa Góra,Łódzkie,2022
+25960,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Summit Reserve,479900.0,857 km,automatic,1 995 cm3,Hybryda,Wrocław,Dolnośląskie,2022
+25961,jeep,Jeep Wagoneer,889800.0,82 km,automatic,1 995 cm3,Hybryda,Józefów,Mazowieckie,2022
+25962,jeep,Jeep Wrangler,397050.0,82 km,automatic,1 995 cm3,Hybryda,Gdańsk,Pomorskie,2022
+25963,jeep,Jeep Renegade 1.5 T4 mHEV Upland FWD S&S DCT,136600.0,5 km,automatic,1 995 cm3,Hybryda,Kielce,Świętokrzyskie,2023
+25964,jeep,Jeep Compass,141900.0,5 km,automatic,1 995 cm3,Hybryda,Kraków,Małopolskie,2023
+25965,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,139500.0,20 km,automatic,6 417 cm3,Benzyna,Katowice,Śląskie,2023
+25966,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,366500.0,20 km,automatic,6 417 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+25967,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,383500.0,5 km,automatic,1 995 cm3,Hybryda,Kraków,Małopolskie,2023
+25968,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,183500.0,5 km,automatic,1 995 cm3,Hybryda,Włocławek,Kujawsko-pomorskie,2023
+25969,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,338700.0,1 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2022
+25970,jeep,Jeep Compass,160900.0,1 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2022
+25971,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,167658.0,4 km,automatic,1 469 cm3,Benzyna,Słupsk,Pomorskie,2023
+25972,jeep,Jeep Grand Cherokee,119000.0,4 km,automatic,1 469 cm3,Benzyna,Sulejówek,Mazowieckie,2023
+25973,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,133500.0,1 km,automatic,1 469 cm3,Benzyna,Legnica,Dolnośląskie,2022
+25974,jeep,Jeep Avenger,175000.0,1 km,automatic,1 469 cm3,Benzyna,Katowice,Śląskie,2022
+25975,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,131900.0,5 km,automatic,1 995 cm3,Hybryda,Legnica,Dolnośląskie,2023
+25976,jeep,Jeep Renegade,126000.0,5 km,automatic,1 995 cm3,Hybryda,Częstochowa,Śląskie,2023
+25977,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,299900.0,1 km,automatic,2 987 cm3,Diesel,Częstochowa,Śląskie,2023
+25978,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,134500.0,1 km,automatic,2 987 cm3,Diesel,Legnica,Dolnośląskie,2023
+25979,jeep,Jeep Renegade 1.5 T4 mHEV Upland FWD S&S DCT,131400.0,5 km,automatic,1 469 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+25980,jeep,Jeep Wrangler,299900.0,5 km,automatic,1 469 cm3,Benzyna,Częstochowa,Śląskie,2023
+25981,jeep,Jeep Compass,170900.0,750 km,automatic,1 995 cm3,Hybryda,Poznań,Wielkopolskie,2022
+25982,jeep,Jeep Compass 1.3 TMair 80th Anniversary FWD S&S DDCT,130509.0,750 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25983,jeep,Jeep Renegade,69950.0,10 km,automatic,1 469 cm3,Benzyna,Bielany-Jarosławy,Mazowieckie,2023
+25984,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,129000.0,10 km,automatic,1 469 cm3,Benzyna,Lublin,Lubelskie,2023
+25985,jeep,Jeep Wrangler,213000.0,2 km,automatic,1 469 cm3,Benzyna,Mława,Mazowieckie,2023
+25986,jeep,Jeep Gladiator,309900.0,2 km,automatic,1 469 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+25987,jeep,Jeep Compass,179500.0,32 006 km,automatic,3 600 cm3,Benzyna,Poznań,Wielkopolskie,2021
+25988,jeep,Jeep Compass 1.3 T4 PHEV 4xe S S&S,199900.0,32 006 km,automatic,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+25989,jeep,Jeep Renegade,149900.0,1 km,automatic,1 469 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25990,jeep,Jeep Renegade,139900.0,1 km,automatic,1 469 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25991,jeep,Jeep Renegade,129000.0,1 km,automatic,1 469 cm3,Hybryda,Tychy,Śląskie,2022
+25992,jeep,Jeep Renegade,169900.0,1 km,automatic,1 469 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25993,jeep,Jeep Renegade,129900.0,1 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25994,jeep,Jeep Wrangler,339900.0,1 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25995,jeep,Jeep Avenger,185700.0,1 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2022
+25996,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,148900.0,1 km,automatic,1 332 cm3,Hybryda,Kalisz,Wielkopolskie,2022
+25997,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,381700.0,1 km,automatic,1 469 cm3,Hybryda,Gliwice,Śląskie,2022
+25998,jeep,Jeep Renegade,119900.0,1 km,automatic,1 469 cm3,Hybryda,Wielogłowy,Małopolskie,2022
+25999,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Summit Reserve,484650.0,2 790 km,automatic,1 995 cm3,Hybryda,Bydgoszcz,Kujawsko-pomorskie,2022
+26000,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,148900.0,2 790 km,automatic,1 995 cm3,Hybryda,Kalisz,Wielkopolskie,2022
+26001,jeep,Jeep Gladiator,269900.0,Elektryczny,automatic,2023,Elektryczny,Warszawa,Mazowieckie,2023
+26002,jeep,Jeep Gladiator,299900.0,5 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2023
+26003,jeep,Jeep Compass,163900.0,5 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2023
+26004,jeep,Jeep Wrangler,380900.0,1 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26005,jeep,Jeep Compass,148800.0,1 km,automatic,1 995 cm3,Hybryda,Wielogłowy,Małopolskie,2023
+26006,jeep,Jeep Renegade 1.3 GSE T4 Turbo S 4x4 S&S,165000.0,1 km,automatic,1 332 cm3,Hybryda,Lublin,Lubelskie,2023
+26007,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,158197.0,1 km,automatic,1 332 cm3,Hybryda,Sosnowiec,Śląskie,2023
+26008,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,159900.0,5 km,automatic,1 995 cm3,Hybryda,Bydgoszcz,Kujawsko-pomorskie,2023
+26009,jeep,Jeep Renegade,133000.0,5 km,automatic,1 995 cm3,Hybryda,Wielogłowy,Małopolskie,2023
+26010,jeep,Jeep Renegade,136900.0,5 km,automatic,1 469 cm3,Benzyna,Wielogłowy,Małopolskie,2023
+26011,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,157929.0,5 km,automatic,1 469 cm3,Benzyna,Sosnowiec,Śląskie,2023
+26012,jeep,Jeep Compass 1.3 T4 PHEV 4xe Upland S&S,237496.0,5 414 km,automatic,3 000 cm3,Diesel,Sosnowiec,Śląskie,2020
+26013,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,339900.0,5 414 km,automatic,3 000 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2020
+26014,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,319900.0,1 km,automatic,3 000 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2022
+26015,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,159900.0,1 km,automatic,3 000 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2022
+26016,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,319900.0,1 km,automatic,1 500 cm3,Hybryda,Olsztyn,Warmińsko-mazurskie,2022
+26017,jeep,Jeep Renegade 1.5 T4 mHEV Longitude FWD S&S DCT,119900.0,1 km,automatic,1 500 cm3,Hybryda,Olsztyn,Warmińsko-mazurskie,2022
+26018,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,163900.0,23 km,automatic,1 995 cm3,Hybryda,Nowy Targ,Małopolskie,2023
+26019,jeep,Jeep Wrangler,345900.0,23 km,automatic,1 995 cm3,Hybryda,Kraków,Małopolskie,2023
+26020,jeep,Jeep Wrangler GME 2.0 Turbo Sport,162000.0,1 km,automatic,1 332 cm3,Hybryda,Rabka-Zdrój,Małopolskie,2023
+26021,jeep,Jeep Avenger,207300.0,1 km,automatic,Elektryczny,2023,Starowa Góra,Łódzkie,2023
+26022,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,155000.0,Elektryczny,automatic,2023,1 km,Katowice,Śląskie,1 km
+26023,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,160000.0,Benzyna,automatic,2023,1 km,Tychy,Śląskie,1 469 cm3
+26024,jeep,Jeep Compass,179900.0,Benzyna,automatic,2021,39 918 km,Zielona Góra,Lubuskie,1 469 cm3
+26025,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Overland,499900.0,Hybryda,automatic,2021,39 918 km,Starowa Góra,Łódzkie,1 995 cm3
+26026,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Summit Reserve,494500.0,Hybryda,automatic,2023,5 km,Starowa Góra,Łódzkie,1 995 cm3
+26027,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,129900.0,Hybryda,automatic,2023,5 km,Bydgoszcz,Kujawsko-pomorskie,1 500 cm3
+26028,jeep,Jeep Avenger 54kWh Summit,203000.0,Hybryda,automatic,2023,1 km,Gliwice,Śląskie,1 500 cm3
+26029,jeep,Jeep Grand Cherokee,134500.0,Hybryda,automatic,2023,1 km,Mińsk Mazowiecki,Mazowieckie,1 995 cm3
+26030,jeep,Jeep Renegade,209900.0,Hybryda,automatic,2023,1 km,Starowa Góra,Łódzkie,1 995 cm3
+26031,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,177987.0,Hybryda,automatic,2023,1 km,Sosnowiec,Śląskie,1 995 cm3
+26032,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,152000.0,Hybryda,automatic,2022,4 km,Katowice,Śląskie,1 995 cm3
+26033,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,391590.0,Benzyna,automatic,2022,4 km,Bytom,Śląskie,1 469 cm3
+26034,jeep,Jeep Grand Cherokee,486890.0,Benzyna,automatic,2023,2 km,Warszawa,Mazowieckie,1 469 cm3
+26035,jeep,Jeep Grand Cherokee,486890.0,2023,automatic,2 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+26036,jeep,Jeep Grand Cherokee,486890.0,34 400 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2022
+26037,jeep,Jeep Wrangler,370890.0,34 400 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2022
+26038,jeep,Jeep Wrangler,199950.0,6 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26039,jeep,Jeep Wrangler,370890.0,6 km,automatic,1 332 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26040,jeep,Jeep Wrangler,370890.0,6 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2023
+26041,jeep,Jeep Compass 1.3 TMair Limited FWD S&S DDCT,119900.0,6 km,automatic,1 469 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+26042,jeep,Jeep Avenger,209000.0,1 km,automatic,1 469 cm3,Benzyna,Katowice,Śląskie,2023
+26043,jeep,Jeep Grand Cherokee Gr 2.0 4xe PHEV Limited,386900.0,1 km,automatic,1 469 cm3,Benzyna,Katowice,Śląskie,2023
+26044,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,140000.0,1 995 cm3,automatic,Hybryda,2023,Katowice,Śląskie,2023
+26045,jeep,Jeep Grand Cherokee,294900.0,Hybryda,automatic,2023,2 km,Poznań,Wielkopolskie,1 995 cm3
+26046,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,383900.0,Hybryda,automatic,2023,2 km,Katowice,Śląskie,2 000 cm3
+26047,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,138900.0,Hybryda,automatic,2023,2 km,Bydgoszcz,Kujawsko-pomorskie,2 000 cm3
+26048,jeep,Jeep Renegade 1.3 GSE T4 Turbo Limited FWD S&S,112900.0,Hybryda,automatic,2023,2 km,Piekary Śląskie,Śląskie,2 000 cm3
+26049,jeep,Jeep Grand Cherokee Gr 5.7 V8 Overland,168900.0,Hybryda,automatic,2023,2 km,Sławno,Zachodniopomorskie,2 000 cm3
+26050,jeep,Jeep Compass,159900.0,Hybryda,automatic,2023,2 km,Poznań,Wielkopolskie,2 000 cm3
+26051,jeep,Jeep Compass,152900.0,Hybryda,automatic,2023,6 km,Gdynia,Pomorskie,2 000 cm3
+26052,jeep,Jeep Gladiator,294900.0,Hybryda,automatic,2023,6 km,Warszawa,Mazowieckie,1 995 cm3
+26053,jeep,Jeep Compass,205900.0,6 km,automatic,1 332 cm3,Hybryda,Starowa Góra,Łódzkie,2022
+26054,jeep,Jeep Renegade,100001.0,6 km,automatic,1 332 cm3,Hybryda,Łódź,Łódzkie,2022
+26055,jeep,Jeep Grand Cherokee Gr 6.2 V8 Trackhawk,259000.0,38 030 km,automatic,1 332 cm3,Benzyna,Gdańsk,Pomorskie,2021
+26056,jeep,Jeep Grand Cherokee,132900.0,38 030 km,automatic,1 332 cm3,Benzyna,Łomianki,Mazowieckie,2021
+26057,jeep,Jeep Wrangler,428000.0,24 828 km,automatic,6 166 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2020
+26058,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,119000.0,24 828 km,automatic,6 166 cm3,Benzyna,Tarnów,Małopolskie,2020
+26059,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Sahara,384650.0,63 400 km,automatic,3 604 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2020
+26060,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,169318.0,63 400 km,automatic,3 604 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2020
+26061,jeep,Jeep Renegade 1.3 GSE T4 Turbo 80th Anniversary FWD S&S,110900.0,6 200 km,automatic,6 400 cm3,Benzyna,Tychy,Śląskie,2021
+26062,jeep,Jeep Compass,160000.0,6 200 km,automatic,6 400 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2021
+26063,jeep,Jeep Compass,139900.0,51 500 km,automatic,3 604 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2021
+26064,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,315000.0,51 500 km,automatic,3 604 cm3,Benzyna,Lublin,Lubelskie,2021
+26065,jeep,Jeep Gladiator,133700.0,5 km,automatic,1 995 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26066,jeep,Jeep Gladiator 3.0 V6 MultiJet Overland,369000.0,5 km,automatic,1 995 cm3,Hybryda,Toruń,Kujawsko-pomorskie,2023
+26067,jeep,Jeep Renegade,134900.0,5 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2023
+26068,jeep,Jeep Wrangler,220000.0,5 km,automatic,1 469 cm3,Benzyna,Gdynia,Pomorskie,2023
+26069,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,177836.0,11 150 km,automatic,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2021
+26070,jeep,Jeep Renegade,61400.0,11 150 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2021
+26071,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Sport,189000.0,1 km,automatic,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2022
+26072,jeep,Jeep Renegade,135900.0,1 km,automatic,1 332 cm3,Benzyna,Starowa Góra,Łódzkie,2022
+26073,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,365000.0,32 517 km,automatic,1 332 cm3,Benzyna,Gaj,Małopolskie,2021
+26074,jeep,Jeep Compass,206900.0,32 517 km,automatic,1 332 cm3,Benzyna,Zielona Góra,Lubuskie,2021
+26075,jeep,Jeep Compass 1.3 TMair Limited FWD S&S DDCT,129900.0,5 km,automatic,2 987 cm3,Diesel,Gaj,Małopolskie,2022
+26076,jeep,Jeep Compass,206900.0,5 km,automatic,2 987 cm3,Diesel,Zielona Góra,Lubuskie,2022
+26077,jeep,Jeep Compass 1.5 T4 mHEV S FWD S&S DCT,179900.0,68 874 km,automatic,2 987 cm3,Diesel,Poznań,Wielkopolskie,2020
+26078,jeep,Jeep Gladiator,329400.0,68 874 km,automatic,2 987 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2020
+26079,jeep,Jeep Grand Cherokee,486890.0,5 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2022
+26080,jeep,Jeep Gladiator,329000.0,5 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2022
+26081,jeep,Jeep Avenger,205700.0,1 km,automatic,1 469 cm3,Hybryda,Starowa Góra,Łódzkie,2023
+26082,jeep,Jeep Compass,219900.0,1 km,automatic,1 469 cm3,Hybryda,Zielona Góra,Lubuskie,2023
+26083,jeep,Jeep Wrangler,396900.0,33 000 km,automatic,1 995 cm3,Benzyna,Zielona Góra,Lubuskie,2021
+26084,jeep,Jeep Compass,219900.0,33 000 km,automatic,1 995 cm3,Benzyna,Zielona Góra,Lubuskie,2021
+26085,jeep,Jeep Grand Cherokee,486890.0,2 km,automatic,2 000 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26086,jeep,Jeep Grand Cherokee,486890.0,2 km,automatic,2 000 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26087,jeep,Jeep Grand Cherokee,486890.0,2 km,automatic,2 000 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26088,jeep,Jeep Wrangler GME 2.0 Turbo Rubicon,219900.0,2 km,automatic,2 000 cm3,Hybryda,Warszawa,Mazowieckie,2023
+26089,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,129900.0,2 km,automatic,2 000 cm3,Hybryda,Gdynia,Pomorskie,2023
+26090,jeep,Jeep Compass 1.5 T4 mHEV Upland FWD S&S DCT,156400.0,2 km,automatic,2 000 cm3,Hybryda,Poznań,Wielkopolskie,2023
+26091,jeep,Jeep Renegade 1.3 GSE T4 Turbo Limited FWD S&S,97800.0,2 900 km,automatic,1 995 cm3,Benzyna,Gdańsk,Pomorskie,2021
+26092,jeep,Jeep Grand Cherokee Gr 3.6 V6 Overland,44000.0,2 900 km,automatic,1 995 cm3,Benzyna,Gręzów,Mazowieckie,2021
+26093,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,156000.0,1 km,automatic,1 469 cm3,Benzyna,Żory,Śląskie,2022
+26094,jeep,Jeep Renegade 1.5 T4 mHEV Longitude FWD S&S DCT,124900.0,1 km,automatic,1 469 cm3,Benzyna,Gdynia,Pomorskie,2022
+26095,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,383900.0,617 km,automatic,1 469 cm3,Benzyna,Gliwice,Śląskie,2022
+26096,jeep,Jeep Renegade 1.5 T4 mHEV Limited FWD S&S DCT,139000.0,617 km,automatic,1 469 cm3,Benzyna,Lublin,Lubelskie,2022
+26097,jeep,Jeep Renegade 1.3 GSE T4 Turbo PHEV 4xe S S&S,149900.0,79 870 km,automatic,1 332 cm3,Benzyna,Rzeszów,Podkarpackie,2021
+26098,jeep,Jeep Renegade 1.5 T4 mHEV S FWD S&S DCT,134000.0,79 870 km,automatic,1 332 cm3,Benzyna,Konin,Wielkopolskie,2021
+26099,jeep,Jeep Compass 1.3 TMair Limited FWD S&S DDCT,118900.0,115 000 km,automatic,3 604 cm3,Benzyna,Kielce,Świętokrzyskie,2020
+26100,jeep,Jeep Compass,157890.0,115 000 km,automatic,3 604 cm3,Benzyna,Warszawa,Mazowieckie,2020
+26101,jeep,Jeep Compass,157890.0,1 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2022
+26102,jeep,Jeep Compass,59900.0,1 km,automatic,1 469 cm3,Benzyna,Warszawa,Mazowieckie,2022
+26103,jeep,Jeep Compass,225980.0,1 km,automatic,1 469 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+26104,jeep,Jeep Gladiator,275000.0,1 km,automatic,1 469 cm3,Benzyna,Turek,Wielkopolskie,2022
+26105,jeep,Jeep Renegade,128900.0,1 km,automatic,1 995 cm3,Hybryda,Gdynia,Pomorskie,2023
+26106,jeep,Jeep Renegade,89000.0,1 km,automatic,1 995 cm3,Hybryda,Brzegi,Małopolskie,2023
+26107,jeep,Jeep Wrangler Unlimited GME 2.0 Turbo Rubicon,472954.0,5 km,automatic,1 469 cm3,Benzyna,Szklarska Poręba,Dolnośląskie,2023
+26108,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,355900.0,5 km,automatic,1 469 cm3,Benzyna,Kraków,Małopolskie,2023
+26109,jeep,Jeep Compass 1.3 T4 PHEV 4xe S S&S,214900.0,9 000 km,automatic,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2020
+26110,jeep,Jeep Compass 1.5 T4 mHEV Limited FWD S&S DCT,158624.0,9 000 km,automatic,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2020
+26111,jeep,Jeep Wrangler,744851.0,2 km,automatic,1 469 cm3,Benzyna,Poznań,Wielkopolskie,2022
+26112,jeep,Jeep Wrangler Unlimited 2.0 Turbo PHEV 4xe Rubicon,346900.0,2 km,automatic,1 469 cm3,Benzyna,Nowy Targ,Małopolskie,2022
+26113,jeep,Jeep Compass 1.3 T4 PHEV 4xe Upland S&S,192650.0,45 725 km,automatic,1 332 cm3,Benzyna,Nowy Targ,Małopolskie,2020
+26114,jeep,Jeep Renegade 1.5 T4 mHEV Longitude FWD S&S DCT,122900.0,45 725 km,automatic,1 332 cm3,Benzyna,Kielce,Świętokrzyskie,2020
+26115,jeep,Jeep Compass 1.3 T4 PHEV 4xe Limited S&S,203500.0,1 km,automatic,1 469 cm3,Hybryda,Kielce,Świętokrzyskie,2023
+26116,jeep,Jeep Compass 1.3 T4 PHEV 4xe Upland S&S,199990.0,1 km,automatic,1 469 cm3,Hybryda,Kielce,Świętokrzyskie,2023

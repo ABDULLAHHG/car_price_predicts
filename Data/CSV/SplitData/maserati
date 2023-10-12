@@ -1,0 +1,120 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+29765,maserati,Maserati 3200,149800.0,86 000 km,automatic,3 217 cm3,Benzyna,Janikowo,Wielkopolskie,2001
+29766,maserati,Maserati 3200,69999.0,86 000 km,automatic,3 217 cm3,Benzyna,Zwoleń,Mazowieckie,2001
+29767,maserati,Maserati Quattroporte,79900.0,138 123 km,automatic,3 217 cm3,Benzyna,Warszawa,Mazowieckie,2000
+29768,maserati,Maserati Coupe 4200 Cambiocorsa,99000.0,138 123 km,automatic,3 217 cm3,Benzyna,Warszawa,Mazowieckie,2000
+29769,maserati,Maserati Quattroporte Sport GT DuoSelect,69999.0,133 000 km,automatic,4 244 cm3,Benzyna,Lublin,Lubelskie,2005
+29770,maserati,Maserati Quattroporte Sport GT Automatica,183999.0,133 000 km,automatic,4 244 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,2005
+29771,maserati,Maserati Quattroporte DuoSelect,99000.0,30 600 km,automatic,4 244 cm3,Benzyna,Poznań,Wielkopolskie,2008
+29772,maserati,Maserati Quattroporte Standard,99900.0,30 600 km,automatic,4 244 cm3,Benzyna,Koło,Wielkopolskie,2008
+29773,maserati,Maserati GranTurismo,135177.0,78 000 km,automatic,4 244 cm3,Benzyna,Kraków,Małopolskie,2005
+29774,maserati,Maserati Quattroporte Automatic,129000.0,78 000 km,automatic,4 244 cm3,Benzyna,Falenty Nowe,Mazowieckie,2005
+29775,maserati,Maserati Quattroporte S,115000.0,101 200 km,automatic,4 244 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2007
+29776,maserati,Maserati GranTurismo Standard,159450.0,101 200 km,automatic,4 244 cm3,Benzyna,Kraków,Małopolskie,2007
+29777,maserati,Maserati Quattroporte DuoSelect,99000.0,66 750 km,automatic,4 244 cm3,Benzyna,Zielona Góra,Lubuskie,2008
+29778,maserati,Maserati Levante S Granlusso,287000.0,64 780 km,automatic,2 979 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+29779,maserati,Maserati Levante S,340000.0,64 780 km,automatic,2 979 cm3,Benzyna,Kraków,Małopolskie,2017
+29780,maserati,Maserati Quattroporte S Q4,236000.0,78 300 km,automatic,2 979 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2018
+29781,maserati,Maserati Ghibli Diesel Automatik,145000.0,78 300 km,automatic,2 979 cm3,Benzyna,Sosnowiec,Śląskie,2018
+29782,maserati,Maserati Ghibli Standard,179900.0,24 567 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29783,maserati,Maserati Levante,189000.0,24 567 km,automatic,2 979 cm3,Benzyna,Paszyn,Małopolskie,2018
+29784,maserati,Maserati Ghibli Standard,70000.0,80 000 km,automatic,2 987 cm3,Diesel,Kielce,Świętokrzyskie,2015
+29785,maserati,Maserati Ghibli S Q4,184999.0,80 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2015
+29786,maserati,Maserati Ghibli S GranSport,199700.0,40 390 km,automatic,2 979 cm3,Benzyna,Kuriany,Podlaskie,2015
+29787,maserati,Maserati Quattroporte Diesel GranSport,249900.0,40 390 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2015
+29788,maserati,Maserati Levante S,120000.0,65 235 km,automatic,2 979 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+29789,maserati,Maserati Ghibli S Modena,67000.0,65 235 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2017
+29790,maserati,Maserati Ghibli S,58500.0,73 231 km,automatic,2 979 cm3,Benzyna,Tychy,Śląskie,2016
+29791,maserati,Maserati Ghibli S Q4 Granlusso,245000.0,73 231 km,automatic,2 979 cm3,Benzyna,Skierniewice,Łódzkie,2016
+29792,maserati,Maserati Levante S Q4,126000.0,72 000 km,automatic,2 979 cm3,Benzyna,Kozienice,Mazowieckie,2016
+29793,maserati,Maserati Levante S,210000.0,72 000 km,automatic,2 979 cm3,Benzyna,Stęszew,Wielkopolskie,2016
+29794,maserati,Maserati Ghibli S Q4 GranSport,249999.0,55 500 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29795,maserati,Maserati Quattroporte Q4 GranLusso,389000.0,55 500 km,automatic,2 979 cm3,Benzyna,Gdańsk,Pomorskie,2019
+29796,maserati,Maserati Ghibli S Q4,119700.0,130 000 km,automatic,2 987 cm3,Diesel,Podleńce,Podlaskie,2018
+29797,maserati,Maserati Ghibli,49900.0,130 000 km,automatic,2 987 cm3,Diesel,Dobrzyniewo Duże,Podlaskie,2018
+29798,maserati,Maserati Ghibli S Q4,45500.0,62 223 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29799,maserati,Maserati Quattroporte S,239000.0,62 223 km,automatic,2 979 cm3,Benzyna,Biesiekierz,Zachodniopomorskie,2019
+29800,maserati,Maserati GranCabrio Sport,329000.0,67 254 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29801,maserati,Maserati Levante,349999.0,67 254 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29802,maserati,Maserati Ghibli S,139000.0,143 000 km,automatic,2 979 cm3,Benzyna,Poznań,Wielkopolskie,2015
+29803,maserati,Maserati GranTurismo S Automat,259000.0,143 000 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2015
+29804,maserati,Maserati Levante,197000.0,30 000 km,automatic,2 979 cm3,Benzyna,Radom,Mazowieckie,2019
+29805,maserati,Maserati Ghibli,179899.0,30 000 km,automatic,2 979 cm3,Benzyna,Tychy,Śląskie,2019
+29806,maserati,Maserati GranCabrio Sport,495000.0,112 773 km,automatic,2 979 cm3,Benzyna,Krzywaczka,Małopolskie,2017
+29807,maserati,Maserati Ghibli,75000.0,112 773 km,automatic,2 979 cm3,Benzyna,Sulejówek,Mazowieckie,2017
+29808,maserati,Maserati Levante,340000.0,63 500 km,automatic,2 979 cm3,Benzyna,Katowice,Śląskie,2016
+29809,maserati,Maserati GranCabrio Sport,490000.0,63 500 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2016
+29810,maserati,Maserati GranTurismo MC Stradale,257000.0,84 000 km,automatic,4 691 cm3,Benzyna,Kraków,Małopolskie,2011
+29811,maserati,Maserati Quattroporte Diesel,199800.0,84 000 km,automatic,4 691 cm3,Benzyna,Poznań,Wielkopolskie,2011
+29812,maserati,Maserati Quattroporte S Q4,144900.0,83 632 km,automatic,2 987 cm3,Diesel,Łódź,Łódzkie,2014
+29813,maserati,Maserati GranCabrio Standard,240000.0,83 632 km,automatic,2 987 cm3,Diesel,Sulejów,Łódzkie,2014
+29814,maserati,Maserati GranTurismo S Automatica,159000.0,72 640 km,automatic,2 979 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+29815,maserati,Maserati GranTurismo MC Stradale,449497.0,72 640 km,automatic,2 979 cm3,Benzyna,Gdańsk,Pomorskie,2014
+29816,maserati,Maserati Ghibli Diesel,30750.0,30 000 km,automatic,4 691 cm3,Benzyna,Międzychód,Wielkopolskie,2010
+29817,maserati,Maserati Ghibli S Q4,97000.0,30 000 km,automatic,4 691 cm3,Benzyna,Kraków,Małopolskie,2010
+29818,maserati,Maserati GranTurismo S,239000.0,84 342 km,automatic,4 691 cm3,Benzyna,Piekary Śląskie,Śląskie,2011
+29819,maserati,Maserati Ghibli,54000.0,84 342 km,automatic,4 691 cm3,Benzyna,Warszawa,Mazowieckie,2011
+29820,maserati,Maserati GranTurismo S,195000.0,69 999 km,automatic,4 691 cm3,Benzyna,Lublin,Lubelskie,2011
+29821,maserati,Maserati GranTurismo S Automat,235000.0,69 999 km,automatic,4 691 cm3,Benzyna,Częstochowa,Śląskie,2011
+29822,maserati,Maserati Ghibli,115900.0,151 665 km,automatic,2 987 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2014
+29823,maserati,Maserati GranCabrio Sport,379900.0,151 665 km,automatic,2 987 cm3,Diesel,Pruszków,Mazowieckie,2014
+29824,maserati,Maserati Ghibli Diesel,99000.0,80 000 km,automatic,2 979 cm3,Benzyna,Nowe Łagiewniki,Łódzkie,2014
+29825,maserati,Maserati Ghibli Automatik S Q4,109000.0,80 000 km,automatic,2 979 cm3,Benzyna,Sobolew,Mazowieckie,2014
+29826,maserati,Maserati GranTurismo S Automat,174900.0,65 000 km,automatic,4 691 cm3,Benzyna,Kraków,Małopolskie,2014
+29827,maserati,Maserati Ghibli Automatik S Q4,111900.0,65 000 km,automatic,4 691 cm3,Benzyna,Szczecinek,Zachodniopomorskie,2014
+29828,maserati,Maserati GranTurismo,155000.0,64 000 km,automatic,3 000 cm3,Benzyna,Łódź,Łódzkie,2014
+29829,maserati,Maserati GranTurismo S Automatik,155000.0,64 000 km,automatic,3 000 cm3,Benzyna,Warszawa,Mazowieckie,2014
+29830,maserati,Maserati Quattroporte GTS,225000.0,123 000 km,automatic,4 691 cm3,Benzyna,Końskie,Świętokrzyskie,2014
+29831,maserati,Maserati GranTurismo S,109000.0,123 000 km,automatic,4 691 cm3,Benzyna,Gdańsk,Pomorskie,2014
+29832,maserati,Maserati Quattroporte GTS,183000.0,36 000 km,automatic,4 691 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2013
+29833,maserati,Maserati Quattroporte S Q4,148000.0,36 000 km,automatic,4 691 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,2013
+29834,maserati,Maserati Quattroporte S,135000.0,98 000 km,automatic,3 000 cm3,Benzyna,Szydłów,Opolskie,2014
+29835,maserati,Maserati Ghibli Automatik S Q4,96000.0,98 000 km,automatic,3 000 cm3,Benzyna,Jezioro,Lubelskie,2014
+29836,maserati,Maserati Ghibli S Q4,125500.0,23 500 km,automatic,4 691 cm3,Benzyna,Białystok,Podlaskie,2012
+29837,maserati,Maserati Quattroporte S Q4 Automatik,149000.0,23 500 km,automatic,4 691 cm3,Benzyna,Krzemienica,Podkarpackie,2012
+29838,maserati,Maserati Ghibli S Q4,140000.0,215 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2014
+29839,maserati,Maserati Ghibli S Q4,158000.0,215 000 km,automatic,2 987 cm3,Diesel,Skarżysko-Kamienna,Świętokrzyskie,2014
+29840,maserati,Maserati Quattroporte GTS GranLusso,76000.0,150 000 km,automatic,2 979 cm3,Benzyna,Lubartów,Lubelskie,2014
+29841,maserati,Maserati Ghibli Diesel Automatik,32900.0,150 000 km,automatic,2 979 cm3,Benzyna,Turek,Wielkopolskie,2014
+29842,maserati,Maserati GranTurismo S Automatik,184900.0,166 200 km,automatic,4 691 cm3,Benzyna,Ropczyce,Podkarpackie,2012
+29843,maserati,Maserati Ghibli,120000.0,166 200 km,automatic,4 691 cm3,Benzyna,Jabłonka,Małopolskie,2012
+29844,maserati,Maserati GranTurismo Sport,188000.0,108 000 km,automatic,2 879 cm3,Benzyna,Warszawa,Mazowieckie,2014
+29845,maserati,Maserati Quattroporte S Q4,199900.0,108 000 km,automatic,2 879 cm3,Benzyna,Kraków,Małopolskie,2014
+29846,maserati,Maserati Ghibli Standard,122631.0,64 000 km,automatic,4 691 cm3,Benzyna,Janki,Mazowieckie,2014
+29847,maserati,Maserati GranTurismo S Automatik,225000.0,64 000 km,automatic,4 691 cm3,Benzyna,Poznań,Wielkopolskie,2014
+29848,maserati,Maserati Quattroporte S Q4,199800.0,110 440 km,automatic,2 979 cm3,Benzyna,Krzywaczka,Małopolskie,2013
+29849,maserati,Maserati GranTurismo Sport,187000.0,110 440 km,automatic,2 979 cm3,Benzyna,Czernichów,Małopolskie,2013
+29850,maserati,Maserati Ghibli S Q4,135000.0,52 100 km,automatic,2 979 cm3,Benzyna,Radkowice,Świętokrzyskie,2014
+29851,maserati,Maserati GranTurismo Sport,180000.0,52 100 km,automatic,2 979 cm3,Benzyna,Płońsk,Mazowieckie,2014
+29852,maserati,Maserati Quattroporte GTS,197000.0,53 000 km,automatic,4 691 cm3,Benzyna,Warszawa,Mazowieckie,2013
+29853,maserati,Maserati Ghibli Diesel Automatik,38000.0,53 000 km,automatic,4 691 cm3,Benzyna,Grzegorzew,Wielkopolskie,2013
+29854,maserati,Maserati Quattroporte S Q4 Automatik,155000.0,41 105 km,automatic,2 979 cm3,Benzyna,Głosków,Mazowieckie,2014
+29855,maserati,Maserati Quattroporte,195000.0,41 105 km,automatic,2 979 cm3,Benzyna,Katowice,Śląskie,2014
+29856,maserati,Maserati Quattroporte Trofeo,289000.0,145 000 km,automatic,4 691 cm3,Benzyna,Warszawa,Mazowieckie,2013
+29857,maserati,Maserati GranTurismo S Automat,246000.0,145 000 km,automatic,4 691 cm3,Benzyna,Strzyżów,Podkarpackie,2013
+29858,maserati,Maserati Ghibli Diesel,142000.0,85 000 km,automatic,2 979 cm3,Benzyna,Katowice,Śląskie,2014
+29859,maserati,Maserati Levante S Q4 GranSport,294900.0,80 412 km,automatic,2 979 cm3,Benzyna,Rumia,Pomorskie,2018
+29860,maserati,Maserati Ghibli Modena S Q4,219900.0,80 412 km,automatic,2 979 cm3,Benzyna,Łódź,Łódzkie,2018
+29861,maserati,Maserati Ghibli,149900.0,45 000 km,automatic,2 979 cm3,Benzyna,Wojkowice,Dolnośląskie,2018
+29862,maserati,Maserati Ghibli Standard,63000.0,45 000 km,automatic,2 979 cm3,Benzyna,Lublin,Lubelskie,2018
+29863,maserati,Maserati Ghibli Standard,60000.0,42 500 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2017
+29864,maserati,Maserati GranTurismo S,299000.0,42 500 km,automatic,2 979 cm3,Benzyna,Białystok,Podlaskie,2017
+29865,maserati,Maserati Levante Diesel,222600.0,101 398 km,automatic,2 979 cm3,Benzyna,Warszawa,Mazowieckie,2015
+29866,maserati,Maserati GranTurismo S Automat,239800.0,101 398 km,automatic,2 979 cm3,Benzyna,Radzymin,Mazowieckie,2015
+29867,maserati,Maserati Ghibli,139999.0,76 954 km,automatic,2 979 cm3,Benzyna,Głogów Małopolski,Podkarpackie,2015
+29868,maserati,Maserati Ghibli Standard,123900.0,76 954 km,automatic,2 979 cm3,Benzyna,Kielce,Świętokrzyskie,2015
+29869,maserati,Maserati Levante,469000.0,18 700 km,automatic,4 691 cm3,Benzyna,Katowice,Śląskie,2016
+29870,maserati,Maserati GranCabrio,115000.0,18 700 km,automatic,4 691 cm3,Benzyna,Jaworzno,Śląskie,2016
+29871,maserati,Maserati Ghibli,189000.0,83 000 km,automatic,2 987 cm3,Diesel,Plewnia,Wielkopolskie,2017
+29872,maserati,Maserati Ghibli,164900.0,83 000 km,automatic,2 987 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2017
+29873,maserati,Maserati Quattroporte S GranSport,249999.0,34 258 km,automatic,4 691 cm3,Benzyna,Nowy Targ,Małopolskie,2015
+29874,maserati,Maserati Quattroporte Q4 GranLusso,209000.0,34 258 km,automatic,4 691 cm3,Benzyna,Poznań,Wielkopolskie,2015
+29875,maserati,Maserati Levante S,315000.0,55 000 km,automatic,2 979 cm3,Benzyna,Niepołomice,Małopolskie,2017
+29876,maserati,Maserati Ghibli S Q4,109000.0,55 000 km,automatic,2 979 cm3,Benzyna,Katowice,Śląskie,2017
+29877,maserati,Maserati Levante,299000.0,93 718 km,automatic,2 979 cm3,Benzyna,Białobrzegi,Mazowieckie,2015
+29878,maserati,Maserati Quattroporte Q4,255000.0,93 718 km,automatic,2 979 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2015
+29879,maserati,Maserati Ghibli,64900.0,41 000 km,automatic,2 987 cm3,Diesel,Bilcza,Świętokrzyskie,2019
+29880,maserati,Maserati Quattroporte S,159887.0,41 000 km,automatic,2 987 cm3,Diesel,Warszawa,Mazowieckie,2019
+29881,maserati,Maserati Ghibli,189900.0,46 436 km,automatic,4 691 cm3,Benzyna,Mścice,Zachodniopomorskie,2016
+29882,maserati,Maserati Ghibli S Q4,127920.0,46 436 km,automatic,4 691 cm3,Benzyna,Dorotowo,Warmińsko-mazurskie,2016
+29885,maserati,Maserati Levante,530000.0,15 000 km,automatic,1 995 cm3,Hybryda,Katowice,Śląskie,2021

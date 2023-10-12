@@ -1,0 +1,489 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+68328,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68329,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68330,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68331,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68332,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68333,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68334,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68335,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68336,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68337,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68338,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68339,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68340,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68341,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68342,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68343,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68344,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68345,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68346,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68347,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68348,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68349,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68350,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68351,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68352,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68353,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68354,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68355,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68356,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68357,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68358,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68359,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68360,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68361,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68362,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68363,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68364,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68365,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68366,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68367,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68368,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68369,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68370,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68371,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68372,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68373,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68374,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68375,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68376,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68377,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68378,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68379,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68380,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68381,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68382,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68383,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68384,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68385,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68386,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68387,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68388,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68389,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68390,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68391,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68392,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68393,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68394,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68395,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68396,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68397,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68398,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68399,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68400,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68401,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68402,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68403,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68404,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68405,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68406,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68407,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68408,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68409,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68410,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68411,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68412,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68413,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68414,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68415,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68416,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68417,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68418,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68419,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68420,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68421,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68422,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68423,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68424,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68425,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68426,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68427,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68428,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68429,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68430,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68431,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68432,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68433,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68434,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68435,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68436,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68437,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68438,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68439,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68440,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68441,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68442,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68443,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68444,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68445,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68446,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68447,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68448,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68449,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68450,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68451,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68452,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68453,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68454,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68455,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68456,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68457,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68458,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68459,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68460,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68461,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68462,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68463,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68464,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68465,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68466,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68467,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68468,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68469,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68470,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68471,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68472,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68473,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68474,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68475,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68476,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68477,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68478,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68479,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68480,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68481,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68482,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68483,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68484,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68485,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68486,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68487,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68488,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68489,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68490,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68491,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68492,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68493,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68494,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68495,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68496,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68497,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68498,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68499,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68500,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68501,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68502,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68503,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68504,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68505,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68506,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68507,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68508,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68509,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68510,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68511,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68512,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68513,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68514,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68515,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68516,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68517,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68518,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68519,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68520,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68521,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68522,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68523,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68524,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68525,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68526,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68527,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68528,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68529,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68530,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68531,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68532,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68533,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68534,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68535,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68536,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68537,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68538,smart,Smart Forfour passion,9900.0,247 000 km,manual,1 332 cm3,Benzyna,Lidzbark Warmiński,Warmińsko-mazurskie,2004
+68539,smart,Smart Forfour,10900.0,247 000 km,manual,1 332 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68540,smart,Smart Forfour passion,9900.0,225 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+68541,smart,Smart Forfour pulse,8000.0,225 000 km,manual,1 332 cm3,Benzyna,Chybie,Śląskie,2004
+68542,smart,Smart Fortwo & pure,9717.0,170 300 km,manual,1 499 cm3,Benzyna,Kartuzy,Pomorskie,2004
+68543,smart,Smart Forfour pulse,8100.0,170 300 km,manual,1 499 cm3,Benzyna,Dębno,Zachodniopomorskie,2004
+68544,smart,Smart Fortwo & pure,5999.0,204 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+68545,smart,Smart Forfour,7990.0,204 000 km,manual,1 124 cm3,Benzyna,Paniówki,Śląskie,2004
+68546,smart,Smart Forfour passion,10400.0,172 000 km,manual,599 cm3,Benzyna,Jarosław,Podkarpackie,2003
+68547,smart,Smart Forfour passion,11400.0,172 000 km,manual,599 cm3,Benzyna,Wojkowice,Śląskie,2003
+68548,smart,Smart Roadster Standard,21900.0,193 377 km,manual,1 124 cm3,Benzyna,Gostyń,Wielkopolskie,2004
+68549,smart,Smart Forfour passion cdi,6900.0,193 377 km,manual,1 124 cm3,Benzyna,Budzyń,Wielkopolskie,2004
+68550,smart,Smart Forfour,5000.0,149 000 km,manual,599 cm3,Benzyna,Poznań,Wielkopolskie,2003
+68551,smart,Smart Forfour passion,9900.0,149 000 km,manual,599 cm3,Benzyna,Chojnice,Pomorskie,2003
+68552,smart,Smart Fortwo,4900.0,226 035 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2004
+68553,smart,Smart Forfour pulse,7200.0,226 035 km,manual,1 124 cm3,Benzyna,Głuszyca,Dolnośląskie,2004
+68554,smart,Smart Forfour passion,9990.0,185 000 km,manual,1 124 cm3,Benzyna,Buczek,Łódzkie,2004
+68555,smart,Smart Forfour pulse,6750.0,185 000 km,manual,1 124 cm3,Benzyna,Gryfice,Zachodniopomorskie,2004
+68556,smart,Smart Forfour passion,7500.0,17 800 km,manual,1 332 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+68557,smart,Smart Forfour passion,5600.0,17 800 km,manual,1 332 cm3,Benzyna,Pleszew,Wielkopolskie,2004
+68558,smart,Smart Forfour pulse,6700.0,150 000 km,manual,698 cm3,Benzyna,Chojnice,Pomorskie,2004
+68559,smart,Smart Fortwo,35000.0,45 650 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2014
+68560,smart,Smart Fortwo & passion,32000.0,45 650 km,manual,999 cm3,Benzyna,Jelcz-Laskowice,Dolnośląskie,2014
+68561,smart,Smart Fortwo coupe,40000.0,26 900 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2014
+68562,smart,Smart Forfour,10999.0,204 000 km,manual,1 124 cm3,Benzyna,Kisielice,Warmińsko-mazurskie,2006
+68563,smart,Smart Forfour pure,12999.0,204 000 km,manual,1 124 cm3,Benzyna,Szczecin,Zachodniopomorskie,2006
+68564,smart,Smart Forfour pulse,7900.0,119 111 km,manual,1 124 cm3,Benzyna,Piła,Wielkopolskie,2005
+68565,smart,Smart Forfour passion,9900.0,119 111 km,manual,1 124 cm3,Benzyna,Trzebnica,Dolnośląskie,2005
+68566,smart,Smart Fortwo & pulse cdi,15300.0,227 000 km,manual,1 124 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2006
+68567,smart,Smart Forfour passion,4400.0,227 000 km,manual,1 124 cm3,Benzyna,Pruszków,Mazowieckie,2006
+68568,smart,Smart Forfour passion,9900.0,188 065 km,manual,1 332 cm3,Benzyna,Kutno,Łódzkie,2006
+68569,smart,Smart Forfour,9500.0,188 065 km,manual,1 332 cm3,Benzyna,Radom,Mazowieckie,2006
+68570,smart,Smart Forfour,9800.0,132 901 km,manual,799 cm3,Diesel,Sieradz,Łódzkie,2008
+68571,smart,Smart Forfour pulse,8500.0,132 901 km,manual,799 cm3,Diesel,Rybnik,Śląskie,2008
+68572,smart,Smart Forfour passion cdi,6900.0,184 300 km,manual,1 332 cm3,Benzyna,Wolbrom,Małopolskie,2005
+68573,smart,Smart Forfour pulse,11900.0,184 300 km,manual,1 332 cm3,Benzyna,Lębork,Pomorskie,2005
+68574,smart,Smart Fortwo & pure,13999.0,160 000 km,manual,1 332 cm3,Benzyna,Swarzędz,Wielkopolskie,2005
+68575,smart,Smart Forfour,5999.0,160 000 km,manual,1 332 cm3,Benzyna,Piła,Wielkopolskie,2005
+68576,smart,Smart Forfour passion,10700.0,156 000 km,manual,1 332 cm3,Benzyna,Żary,Lubuskie,2006
+68577,smart,Smart Forfour,9800.0,156 000 km,manual,1 332 cm3,Benzyna,Biała Podlaska,Lubelskie,2006
+68578,smart,Smart Forfour,5800.0,187 332 km,manual,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2006
+68579,smart,Smart Forfour pulse,6999.0,187 332 km,manual,1 332 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2006
+68580,smart,Smart Forfour BRABUS,55350.0,192 084 km,manual,1 124 cm3,Benzyna,Katowice,Śląskie,2006
+68581,smart,Smart Forfour passion,11600.0,192 084 km,manual,1 124 cm3,Benzyna,Bełchatów,Łódzkie,2006
+68582,smart,Smart Forfour pure,7900.0,190 000 km,manual,1 500 cm3,Diesel,Borucino,Pomorskie,2006
+68583,smart,Smart Forfour pure cdi,8800.0,190 000 km,manual,1 500 cm3,Diesel,Koryta,Wielkopolskie,2006
+68584,smart,Smart Forfour passion,6900.0,167 700 km,manual,1 332 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2006
+68585,smart,Smart Forfour pulse,9999.0,167 700 km,manual,1 332 cm3,Benzyna,Żory,Śląskie,2006
+68586,smart,Smart Forfour pulse,6700.0,117 000 km,manual,999 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2008
+68587,smart,Smart Forfour passion,6900.0,117 000 km,manual,999 cm3,Benzyna,Góra Kalwaria,Mazowieckie,2008
+68588,smart,Smart Forfour pure,8900.0,199 900 km,manual,1 100 cm3,Benzyna,Częstochowa,Śląskie,2005
+68589,smart,Smart Forfour passion,9900.0,199 900 km,manual,1 100 cm3,Benzyna,Jaworze,Śląskie,2005
+68590,smart,Smart Forfour,10999.0,204 000 km,manual,1 124 cm3,Benzyna,Kisielice,Warmińsko-mazurskie,2006
+68591,smart,Smart Forfour pure,12999.0,204 000 km,manual,1 124 cm3,Benzyna,Szczecin,Zachodniopomorskie,2006
+68592,smart,Smart Forfour pulse,7900.0,119 111 km,manual,1 124 cm3,Benzyna,Piła,Wielkopolskie,2005
+68593,smart,Smart Forfour passion,9900.0,119 111 km,manual,1 124 cm3,Benzyna,Trzebnica,Dolnośląskie,2005
+68594,smart,Smart Fortwo & pulse cdi,15300.0,227 000 km,manual,1 124 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2006
+68595,smart,Smart Forfour passion,4400.0,227 000 km,manual,1 124 cm3,Benzyna,Pruszków,Mazowieckie,2006
+68596,smart,Smart Forfour passion,9900.0,188 065 km,manual,1 332 cm3,Benzyna,Kutno,Łódzkie,2006
+68597,smart,Smart Forfour,9500.0,188 065 km,manual,1 332 cm3,Benzyna,Radom,Mazowieckie,2006
+68598,smart,Smart Forfour,9800.0,132 901 km,manual,799 cm3,Diesel,Sieradz,Łódzkie,2008
+68599,smart,Smart Forfour pulse,8500.0,132 901 km,manual,799 cm3,Diesel,Rybnik,Śląskie,2008
+68600,smart,Smart Forfour passion cdi,6900.0,184 300 km,manual,1 332 cm3,Benzyna,Wolbrom,Małopolskie,2005
+68601,smart,Smart Forfour pulse,11900.0,184 300 km,manual,1 332 cm3,Benzyna,Lębork,Pomorskie,2005
+68602,smart,Smart Fortwo & pure,13999.0,160 000 km,manual,1 332 cm3,Benzyna,Swarzędz,Wielkopolskie,2005
+68603,smart,Smart Forfour,5999.0,160 000 km,manual,1 332 cm3,Benzyna,Piła,Wielkopolskie,2005
+68604,smart,Smart Forfour passion,10700.0,156 000 km,manual,1 332 cm3,Benzyna,Żary,Lubuskie,2006
+68605,smart,Smart Forfour,9800.0,156 000 km,manual,1 332 cm3,Benzyna,Biała Podlaska,Lubelskie,2006
+68606,smart,Smart Forfour,5800.0,187 332 km,manual,1 332 cm3,Benzyna,Poznań,Wielkopolskie,2006
+68607,smart,Smart Forfour pulse,6999.0,187 332 km,manual,1 332 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2006
+68608,smart,Smart Forfour BRABUS,55350.0,192 084 km,manual,1 124 cm3,Benzyna,Katowice,Śląskie,2006
+68609,smart,Smart Forfour passion,11600.0,192 084 km,manual,1 124 cm3,Benzyna,Bełchatów,Łódzkie,2006
+68610,smart,Smart Forfour pure,7900.0,190 000 km,manual,1 500 cm3,Diesel,Borucino,Pomorskie,2006
+68611,smart,Smart Forfour pure cdi,8800.0,190 000 km,manual,1 500 cm3,Diesel,Koryta,Wielkopolskie,2006
+68612,smart,Smart Forfour passion,6900.0,167 700 km,manual,1 332 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2006
+68613,smart,Smart Forfour pulse,9999.0,167 700 km,manual,1 332 cm3,Benzyna,Żory,Śląskie,2006
+68614,smart,Smart Forfour pulse,6700.0,117 000 km,manual,999 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2008
+68615,smart,Smart Forfour passion,6900.0,117 000 km,manual,999 cm3,Benzyna,Góra Kalwaria,Mazowieckie,2008
+68616,smart,Smart Forfour pure,8900.0,199 900 km,manual,1 100 cm3,Benzyna,Częstochowa,Śląskie,2005
+68617,smart,Smart Forfour passion,9900.0,199 900 km,manual,1 100 cm3,Benzyna,Jaworze,Śląskie,2005
+68618,smart,Smart Fortwo & passion,5200.0,146 000 km,automatic,599 cm3,Benzyna,Kalisz,Wielkopolskie,1998
+68619,smart,Smart Fortwo,2499.0,146 000 km,automatic,599 cm3,Benzyna,Legnica,Dolnośląskie,1998
+68620,smart,Smart,4700.0,140 000 km,automatic,598 cm3,Benzyna,Zakrzew,Lubelskie,1999
+68621,smart,Smart Fortwo & passion,2500.0,140 000 km,automatic,598 cm3,Benzyna,Słupsk,Pomorskie,1999
+68622,smart,Smart Fortwo,7900.0,198 320 km,automatic,599 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,1999
+68623,smart,Smart Fortwo & passion,5400.0,198 320 km,automatic,599 cm3,Benzyna,Świerklaniec,Śląskie,1999
+68624,smart,Smart Fortwo & BRABUS,8500.0,109 902 km,automatic,599 cm3,Benzyna,Łódź,Łódzkie,1999
+68625,smart,Smart Fortwo,4700.0,109 902 km,automatic,599 cm3,Benzyna,Czarne,Pomorskie,1999
+68626,smart,Smart Fortwo,5999.0,96 000 km,automatic,599 cm3,Benzyna,Rzeszów,Podkarpackie,1999
+68627,smart,Smart Fortwo & passion,5200.0,146 000 km,automatic,599 cm3,Benzyna,Kalisz,Wielkopolskie,1998
+68628,smart,Smart Fortwo,2499.0,146 000 km,automatic,599 cm3,Benzyna,Legnica,Dolnośląskie,1998
+68629,smart,Smart,4700.0,140 000 km,automatic,598 cm3,Benzyna,Zakrzew,Lubelskie,1999
+68630,smart,Smart Fortwo & passion,2500.0,140 000 km,automatic,598 cm3,Benzyna,Słupsk,Pomorskie,1999
+68631,smart,Smart Fortwo,7900.0,198 320 km,automatic,599 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,1999
+68632,smart,Smart Fortwo & passion,5400.0,198 320 km,automatic,599 cm3,Benzyna,Świerklaniec,Śląskie,1999
+68633,smart,Smart Fortwo & BRABUS,8500.0,109 902 km,automatic,599 cm3,Benzyna,Łódź,Łódzkie,1999
+68634,smart,Smart Fortwo,4700.0,109 902 km,automatic,599 cm3,Benzyna,Czarne,Pomorskie,1999
+68635,smart,Smart Fortwo,5999.0,96 000 km,automatic,599 cm3,Benzyna,Rzeszów,Podkarpackie,1999
+68636,smart,Smart Fortwo,11000.0,134 000 km,automatic,599 cm3,Benzyna,Opole,Opolskie,2001
+68637,smart,Smart Fortwo,1800.0,134 000 km,automatic,599 cm3,Benzyna,Warszawa,Mazowieckie,2001
+68638,smart,Smart Fortwo,6300.0,235 000 km,automatic,799 cm3,Diesel,Warszawa,Mazowieckie,2001
+68639,smart,Smart Fortwo & passion,5500.0,235 000 km,automatic,799 cm3,Diesel,Poznań,Wielkopolskie,2001
+68640,smart,Smart Fortwo,13500.0,116 000 km,automatic,599 cm3,Benzyna,Słupsk,Pomorskie,2003
+68641,smart,Smart Roadster coupe,17900.0,116 000 km,automatic,599 cm3,Benzyna,Człuchów,Pomorskie,2003
+68642,smart,Smart Roadster Standard,15000.0,196 000 km,automatic,599 cm3,Benzyna,Łużna,Małopolskie,2001
+68643,smart,Smart Fortwo & passion,5100.0,196 000 km,automatic,599 cm3,Benzyna,Warszawa,Mazowieckie,2001
+68644,smart,Smart Fortwo,6500.0,127 000 km,automatic,698 cm3,Benzyna,Warszawa,Mazowieckie,2003
+68645,smart,Smart Fortwo & passion cdi,5900.0,127 000 km,automatic,698 cm3,Benzyna,Warszawa,Mazowieckie,2003
+68646,smart,Smart Fortwo & passion cdi,6900.0,91 000 km,automatic,698 cm3,Diesel,Chojnice,Pomorskie,2003
+68647,smart,Smart Roadster,25700.0,91 000 km,automatic,698 cm3,Diesel,Zamość,Lubelskie,2003
+68648,smart,Smart Fortwo & pure,9900.0,163 500 km,automatic,698 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2004
+68649,smart,Smart Fortwo,5900.0,163 500 km,automatic,698 cm3,Benzyna,Gdańsk,Pomorskie,2004
+68650,smart,Smart Fortwo & passion,4200.0,181 751 km,automatic,599 cm3,Benzyna,Poznań,Wielkopolskie,2002
+68651,smart,Smart Fortwo & BRABUS,12500.0,181 751 km,automatic,599 cm3,Benzyna,Kośmin,Mazowieckie,2002
+68652,smart,Smart Fortwo,6500.0,158 650 km,automatic,599 cm3,Benzyna,Łódź,Łódzkie,2000
+68653,smart,Smart Fortwo,6500.0,158 650 km,automatic,599 cm3,Benzyna,Ząbki,Mazowieckie,2000
+68654,smart,Smart Roadster,20300.0,237 000 km,automatic,799 cm3,Diesel,Jaworzno,Śląskie,2004
+68655,smart,Smart Fortwo & passion,6900.0,237 000 km,automatic,799 cm3,Diesel,Zakrzew,Lubelskie,2004
+68656,smart,Smart Fortwo & passion cdi,15000.0,104 000 km,automatic,799 cm3,Diesel,Warszawa,Mazowieckie,2003
+68657,smart,Smart Fortwo,8999.0,104 000 km,automatic,799 cm3,Diesel,Celejów,Lubelskie,2003
+68658,smart,Smart Roadster coupe,18900.0,190 780 km,automatic,698 cm3,Benzyna,Kraków,Małopolskie,2004
+68659,smart,Smart Fortwo,5900.0,190 780 km,automatic,698 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2004
+68660,smart,Smart Fortwo,8500.0,140 000 km,automatic,698 cm3,Benzyna,Psary,Śląskie,2004
+68661,smart,Smart Forfour,12500.0,140 000 km,automatic,698 cm3,Benzyna,Józefów,Mazowieckie,2004
+68662,smart,Smart,5900.0,187 000 km,automatic,599 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2002
+68663,smart,Smart Fortwo & passion,1999.0,187 000 km,automatic,599 cm3,Benzyna,Chodzież,Wielkopolskie,2002
+68664,smart,Smart Fortwo,6900.0,109 000 km,automatic,599 cm3,Benzyna,Bolków,Dolnośląskie,2000
+68665,smart,Smart Fortwo & passion cdi,8200.0,109 000 km,automatic,599 cm3,Benzyna,Swarzędz,Wielkopolskie,2000
+68666,smart,Smart Fortwo,7300.0,120 000 km,automatic,698 cm3,Benzyna,Grodzisko,Wielkopolskie,2004
+68667,smart,Smart Fortwo & passion cdi,12300.0,120 000 km,automatic,698 cm3,Benzyna,Jędrzejewo,Wielkopolskie,2004
+68668,smart,Smart Fortwo & passion mhd,13900.0,162 000 km,automatic,999 cm3,Benzyna,Wykroty,Dolnośląskie,2008
+68669,smart,Smart Forfour,10500.0,162 000 km,automatic,999 cm3,Benzyna,Maszewo,Lubuskie,2008
+68670,smart,Smart Fortwo & passion,14500.0,279 700 km,automatic,1 500 cm3,Diesel,Glinno,Wielkopolskie,2006
+68671,smart,Smart Forfour,10900.0,279 700 km,automatic,1 500 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2006
+68672,smart,Smart Fortwo & BRABUS Xclusive,30900.0,164 000 km,automatic,999 cm3,Benzyna,Pruszcz Gdański,Pomorskie,2008
+68673,smart,Smart Fortwo,12600.0,164 000 km,automatic,999 cm3,Benzyna,Skawina,Małopolskie,2008
+68674,smart,Smart Fortwo & passion mhd,13900.0,149 300 km,automatic,1 332 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2005
+68675,smart,Smart Fortwo,8200.0,149 300 km,automatic,1 332 cm3,Benzyna,Łomża,Podlaskie,2005
+68676,smart,Smart Fortwo cdi coupe softouch passion dpf,15999.0,199 000 km,automatic,999 cm3,Benzyna,Człuchów,Pomorskie,2009
+68677,smart,Smart Fortwo,13900.0,199 000 km,automatic,999 cm3,Benzyna,Straszyn,Pomorskie,2009
+68678,smart,Smart Fortwo & passion,14900.0,186 000 km,automatic,999 cm3,Benzyna,Sopot,Pomorskie,2008
+68679,smart,Smart Fortwo & passion cdi,12500.0,186 000 km,automatic,999 cm3,Benzyna,Lenarczyce,Świętokrzyskie,2008
+68680,smart,Smart Fortwo,9900.0,154 000 km,automatic,999 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,2009
+68681,smart,Smart Fortwo & passion mhd,15900.0,154 000 km,automatic,999 cm3,Benzyna,Kraków,Małopolskie,2009
+68682,smart,Smart Fortwo & pulse,11900.0,181 790 km,automatic,799 cm3,Diesel,Książenice,Śląskie,2007
+68683,smart,Smart Fortwo coupe softouch pure micro hybrid drive,5500.0,181 790 km,automatic,799 cm3,Diesel,Poznań,Wielkopolskie,2007
+68684,smart,Smart Fortwo cabrio softouch,25900.0,179 000 km,automatic,799 cm3,Diesel,Nowy Targ,Małopolskie,2008
+68685,smart,Smart,7900.0,179 000 km,automatic,799 cm3,Diesel,Kraków,Małopolskie,2008
+68686,smart,Smart Fortwo & passion,8000.0,182 937 km,automatic,999 cm3,Benzyna,Wrząsowice,Małopolskie,2009
+68687,smart,Smart Fortwo,14999.0,182 937 km,automatic,999 cm3,Benzyna,Wrocław,Dolnośląskie,2009
+68688,smart,Smart Roadster,14500.0,133 078 km,automatic,698 cm3,Benzyna,Dąbrowa Zielona,Śląskie,2005
+68689,smart,Smart Fortwo,17600.0,133 078 km,automatic,698 cm3,Benzyna,Smolechy,Mazowieckie,2005
+68690,smart,Smart Fortwo,17900.0,199 450 km,automatic,799 cm3,Diesel,Żory,Śląskie,2008
+68691,smart,Smart Fortwo,14900.0,199 450 km,automatic,799 cm3,Diesel,Trzebinia,Małopolskie,2008
+68692,smart,Smart Fortwo & passion,6500.0,169 000 km,automatic,999 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+68693,smart,Smart Fortwo,7999.0,169 000 km,automatic,999 cm3,Benzyna,Warszawa,Mazowieckie,2008
+68694,smart,Smart Fortwo,9500.0,213 400 km,automatic,999 cm3,Benzyna,Pleszew,Wielkopolskie,2008
+68695,smart,Smart Fortwo & passion,9999.0,213 400 km,automatic,999 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2008
+68696,smart,Smart Fortwo,18900.0,90 000 km,automatic,698 cm3,Benzyna,Olecko,Warmińsko-mazurskie,2005
+68697,smart,Smart Fortwo,11931.0,90 000 km,automatic,698 cm3,Benzyna,Lubin,Dolnośląskie,2005
+68698,smart,Smart Fortwo & passion,4000.0,139 000 km,automatic,698 cm3,Benzyna,Wołów,Dolnośląskie,2006
+68699,smart,Smart Fortwo & passion cdi,4100.0,139 000 km,automatic,698 cm3,Benzyna,Legnica,Dolnośląskie,2006
+68700,smart,Smart Fortwo,13000.0,96 006 km,automatic,698 cm3,Benzyna,Poznań,Wielkopolskie,2005
+68701,smart,Smart Fortwo,16499.0,96 006 km,automatic,698 cm3,Benzyna,Witkowo,Wielkopolskie,2005
+68702,smart,Smart Fortwo,11900.0,112 500 km,automatic,698 cm3,Benzyna,Mały Klincz,Pomorskie,2006
+68703,smart,Smart Fortwo,21999.0,112 500 km,automatic,698 cm3,Benzyna,Świebodzin,Lubuskie,2006
+68704,smart,Smart Fortwo & passion,14500.0,110 000 km,automatic,800 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2008
+68705,smart,Smart Fortwo & passion,19900.0,110 000 km,automatic,800 cm3,Diesel,Warszawa,Mazowieckie,2008
+68706,smart,Smart Fortwo,9900.0,90 000 km,automatic,698 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,2006
+68707,smart,Smart Fortwo,7999.0,90 000 km,automatic,698 cm3,Benzyna,Warszawa,Mazowieckie,2006
+68708,smart,Smart Fortwo & passion,15990.0,150 000 km,automatic,698 cm3,Benzyna,Warszawa,Mazowieckie,2005
+68709,smart,Smart Fortwo & pure,7999.0,150 000 km,automatic,698 cm3,Benzyna,Gębice,Kujawsko-pomorskie,2005
+68710,smart,Smart Fortwo,14800.0,230 000 km,automatic,799 cm3,Diesel,Bytom,Śląskie,2006
+68711,smart,Smart Fortwo,14500.0,230 000 km,automatic,799 cm3,Diesel,Chodzież,Wielkopolskie,2006
+68712,smart,Smart Fortwo & pure,5900.0,90 000 km,automatic,999 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68713,smart,Smart Fortwo & pure,6600.0,90 000 km,automatic,999 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68714,smart,Smart Fortwo & passion mhd,13900.0,94 787 km,automatic,999 cm3,Benzyna,Gębice,Kujawsko-pomorskie,2009
+68715,smart,Smart Fortwo,14500.0,94 787 km,automatic,999 cm3,Benzyna,Kielce,Świętokrzyskie,2009
+68716,smart,Smart Forfour,15900.0,186 231 km,automatic,799 cm3,Diesel,Częstochowa,Śląskie,2007
+68717,smart,Smart Fortwo & BRABUS,17600.0,186 231 km,automatic,799 cm3,Diesel,Luboń,Wielkopolskie,2007
+68718,smart,Smart Fortwo & passion,9200.0,92 000 km,automatic,999 cm3,Benzyna,Luboń,Wielkopolskie,2009
+68719,smart,Smart Forfour,15500.0,92 000 km,automatic,999 cm3,Benzyna,Częstochowa,Śląskie,2009
+68720,smart,Smart Fortwo electric drive,34900.0,56 390 km,automatic,Elektryczny,2014,Jaworzno,Śląskie,2014
+68721,smart,Smart Fortwo,22900.0,Elektryczny,automatic,2013,145 620 km,Warszawa,Mazowieckie,56 390 km
+68722,smart,Smart Fortwo passion twinamic,19999.0,Benzyna,automatic,2013,145 620 km,Kobiór,Śląskie,999 cm3
+68723,smart,Smart Fortwo & passion mhd,13000.0,Benzyna,automatic,2012,116 600 km,Toruń,Kujawsko-pomorskie,999 cm3
+68724,smart,Smart Fortwo,18500.0,Benzyna,automatic,2012,116 600 km,Piła,Wielkopolskie,999 cm3
+68725,smart,Smart Fortwo,24300.0,Benzyna,automatic,2010,90 060 km,Częstochowa,Śląskie,999 cm3
+68726,smart,Smart Fortwo & passion mhd,15999.0,Benzyna,automatic,2010,90 060 km,Gowarzewo,Wielkopolskie,999 cm3
+68727,smart,Smart Fortwo,14900.0,Benzyna,automatic,2010,123 600 km,Lubcz,Kujawsko-pomorskie,999 cm3
+68728,smart,Smart Fortwo cdi coupe softouch passion dpf,12980.0,Benzyna,automatic,2010,123 600 km,Więcbork,Kujawsko-pomorskie,999 cm3
+68729,smart,Smart Fortwo & passion mhd,26500.0,Benzyna,automatic,2011,105 000 km,Warszawa,Mazowieckie,999 cm3
+68730,smart,Smart Fortwo & passion,26500.0,Benzyna,automatic,2011,105 000 km,Połajewo,Wielkopolskie,999 cm3
+68731,smart,Smart Fortwo coupe softouch pure micro hybrid drive,17500.0,Benzyna,automatic,2010,110 000 km,Borkowo,Pomorskie,999 cm3
+68732,smart,Smart Fortwo & passion mhd,25900.0,Benzyna,automatic,2010,110 000 km,Warszawa,Mazowieckie,999 cm3
+68733,smart,Smart Fortwo,19000.0,Benzyna,automatic,2010,83 000 km,Warszawa,Mazowieckie,999 cm3
+68734,smart,Smart Fortwo & passion mhd,19900.0,Benzyna,automatic,2010,83 000 km,Trzebnica,Dolnośląskie,999 cm3
+68735,smart,Smart Fortwo,24700.0,Benzyna,automatic,2010,145 000 km,Wołomin,Mazowieckie,999 cm3
+68736,smart,Smart Fortwo coupe electric drive,38499.0,Diesel,automatic,2010,145 000 km,Rawa Mazowiecka,Łódzkie,799 cm3
+68737,smart,Smart Fortwo & passion,15500.0,Diesel,automatic,2013,80 100 km,Tarnowo Podgórne,Wielkopolskie,799 cm3
+68738,smart,Smart Fortwo,19900.0,Benzyna,automatic,2013,80 100 km,Szydłowiec,Mazowieckie,999 cm3
+68739,smart,Smart Fortwo & passion mhd,24900.0,Benzyna,automatic,2013,66 074 km,Pyrzowice,Śląskie,999 cm3
+68740,smart,Smart Fortwo,27900.0,Benzyna,automatic,2013,66 074 km,Janki,Mazowieckie,999 cm3
+68741,smart,Smart Fortwo & passion mhd,23000.0,Benzyna,automatic,2012,103 000 km,Bytom,Śląskie,999 cm3
+68742,smart,Smart Fortwo,19900.0,Benzyna,automatic,2012,103 000 km,Pruszków,Mazowieckie,999 cm3
+68743,smart,Smart Fortwo & passion,11900.0,Benzyna,automatic,2011,62 000 km,Bibice,Małopolskie,999 cm3
+68744,smart,Smart Fortwo & passion,14600.0,Benzyna,automatic,2011,62 000 km,Oleśnica,Świętokrzyskie,999 cm3
+68745,smart,Smart Fortwo,30000.0,Benzyna,automatic,2012,84 000 km,Warszawa,Mazowieckie,999 cm3
+68746,smart,Smart Fortwo,26700.0,Benzyna,automatic,2012,84 000 km,Częstochowa,Śląskie,999 cm3
+68747,smart,Smart Fortwo coupe softouch black&white limited micro hybrid drive,21500.0,Benzyna,automatic,2013,73 285 km,Łagów,Dolnośląskie,999 cm3
+68748,smart,Smart Fortwo coupe electric drive,39900.0,Benzyna,automatic,2013,73 285 km,Siedlec,Małopolskie,999 cm3
+68749,smart,Smart Fortwo electric drive,42000.0,Benzyna,automatic,2014,63 882 km,Budy Janowskie,Mazowieckie,999 cm3
+68750,smart,Smart Fortwo & passion,20999.0,Benzyna,automatic,2014,63 882 km,Lublin,Lubelskie,999 cm3
+68751,smart,Smart Fortwo,12900.0,Benzyna,automatic,2014,47 500 km,Sulejówek,Mazowieckie,999 cm3
+68752,smart,Smart Fortwo electric drive,34900.0,56 390 km,automatic,Elektryczny,2014,Jaworzno,Śląskie,2014
+68753,smart,Smart Fortwo,22900.0,Elektryczny,automatic,2013,145 620 km,Warszawa,Mazowieckie,56 390 km
+68754,smart,Smart Fortwo passion twinamic,19999.0,Benzyna,automatic,2013,145 620 km,Kobiór,Śląskie,999 cm3
+68755,smart,Smart Fortwo & passion mhd,13000.0,Benzyna,automatic,2012,116 600 km,Toruń,Kujawsko-pomorskie,999 cm3
+68756,smart,Smart Fortwo,18500.0,Benzyna,automatic,2012,116 600 km,Piła,Wielkopolskie,999 cm3
+68757,smart,Smart Fortwo,24300.0,Benzyna,automatic,2010,90 060 km,Częstochowa,Śląskie,999 cm3
+68758,smart,Smart Fortwo & passion mhd,15999.0,Benzyna,automatic,2010,90 060 km,Gowarzewo,Wielkopolskie,999 cm3
+68759,smart,Smart Fortwo,14900.0,Benzyna,automatic,2010,123 600 km,Lubcz,Kujawsko-pomorskie,999 cm3
+68760,smart,Smart Fortwo cdi coupe softouch passion dpf,12980.0,Benzyna,automatic,2010,123 600 km,Więcbork,Kujawsko-pomorskie,999 cm3
+68761,smart,Smart Fortwo & passion mhd,26500.0,Benzyna,automatic,2011,105 000 km,Warszawa,Mazowieckie,999 cm3
+68762,smart,Smart Fortwo & passion,26500.0,Benzyna,automatic,2011,105 000 km,Połajewo,Wielkopolskie,999 cm3
+68763,smart,Smart Fortwo coupe softouch pure micro hybrid drive,17500.0,Benzyna,automatic,2010,110 000 km,Borkowo,Pomorskie,999 cm3
+68764,smart,Smart Fortwo & passion mhd,25900.0,Benzyna,automatic,2010,110 000 km,Warszawa,Mazowieckie,999 cm3
+68765,smart,Smart Fortwo,19000.0,Benzyna,automatic,2010,83 000 km,Warszawa,Mazowieckie,999 cm3
+68766,smart,Smart Fortwo & passion mhd,19900.0,Benzyna,automatic,2010,83 000 km,Trzebnica,Dolnośląskie,999 cm3
+68767,smart,Smart Fortwo,24700.0,Benzyna,automatic,2010,145 000 km,Wołomin,Mazowieckie,999 cm3
+68768,smart,Smart Fortwo coupe electric drive,38499.0,Diesel,automatic,2010,145 000 km,Rawa Mazowiecka,Łódzkie,799 cm3
+68769,smart,Smart Fortwo & passion,15500.0,Diesel,automatic,2013,80 100 km,Tarnowo Podgórne,Wielkopolskie,799 cm3
+68770,smart,Smart Fortwo,19900.0,Benzyna,automatic,2013,80 100 km,Szydłowiec,Mazowieckie,999 cm3
+68771,smart,Smart Fortwo & passion mhd,24900.0,Benzyna,automatic,2013,66 074 km,Pyrzowice,Śląskie,999 cm3
+68772,smart,Smart Fortwo,27900.0,Benzyna,automatic,2013,66 074 km,Janki,Mazowieckie,999 cm3
+68773,smart,Smart Fortwo & passion mhd,23000.0,Benzyna,automatic,2012,103 000 km,Bytom,Śląskie,999 cm3
+68774,smart,Smart Fortwo,19900.0,Benzyna,automatic,2012,103 000 km,Pruszków,Mazowieckie,999 cm3
+68775,smart,Smart Fortwo & passion,11900.0,Benzyna,automatic,2011,62 000 km,Bibice,Małopolskie,999 cm3
+68776,smart,Smart Fortwo & passion,14600.0,Benzyna,automatic,2011,62 000 km,Oleśnica,Świętokrzyskie,999 cm3
+68777,smart,Smart Fortwo,30000.0,Benzyna,automatic,2012,84 000 km,Warszawa,Mazowieckie,999 cm3
+68778,smart,Smart Fortwo,26700.0,Benzyna,automatic,2012,84 000 km,Częstochowa,Śląskie,999 cm3
+68779,smart,Smart Fortwo coupe softouch black&white limited micro hybrid drive,21500.0,Benzyna,automatic,2013,73 285 km,Łagów,Dolnośląskie,999 cm3
+68780,smart,Smart Fortwo coupe electric drive,39900.0,Benzyna,automatic,2013,73 285 km,Siedlec,Małopolskie,999 cm3
+68781,smart,Smart Fortwo electric drive,42000.0,Benzyna,automatic,2014,63 882 km,Budy Janowskie,Mazowieckie,999 cm3
+68782,smart,Smart Fortwo & passion,20999.0,Benzyna,automatic,2014,63 882 km,Lublin,Lubelskie,999 cm3
+68783,smart,Smart Fortwo,12900.0,Benzyna,automatic,2014,47 500 km,Sulejówek,Mazowieckie,999 cm3
+68784,smart,Smart Fortwo electric drive,34900.0,56 390 km,automatic,Elektryczny,2014,Jaworzno,Śląskie,2014
+68785,smart,Smart Fortwo,22900.0,Elektryczny,automatic,2013,145 620 km,Warszawa,Mazowieckie,56 390 km
+68786,smart,Smart Fortwo passion twinamic,19999.0,Benzyna,automatic,2013,145 620 km,Kobiór,Śląskie,999 cm3
+68787,smart,Smart Fortwo & passion mhd,13000.0,Benzyna,automatic,2012,116 600 km,Toruń,Kujawsko-pomorskie,999 cm3
+68788,smart,Smart Fortwo,18500.0,Benzyna,automatic,2012,116 600 km,Piła,Wielkopolskie,999 cm3
+68789,smart,Smart Fortwo,24300.0,Benzyna,automatic,2010,90 060 km,Częstochowa,Śląskie,999 cm3
+68790,smart,Smart Fortwo & passion mhd,15999.0,Benzyna,automatic,2010,90 060 km,Gowarzewo,Wielkopolskie,999 cm3
+68791,smart,Smart Fortwo,14900.0,Benzyna,automatic,2010,123 600 km,Lubcz,Kujawsko-pomorskie,999 cm3
+68792,smart,Smart Fortwo cdi coupe softouch passion dpf,12980.0,Benzyna,automatic,2010,123 600 km,Więcbork,Kujawsko-pomorskie,999 cm3
+68793,smart,Smart Fortwo & passion mhd,26500.0,Benzyna,automatic,2011,105 000 km,Warszawa,Mazowieckie,999 cm3
+68794,smart,Smart Fortwo & passion,26500.0,Benzyna,automatic,2011,105 000 km,Połajewo,Wielkopolskie,999 cm3
+68795,smart,Smart Fortwo coupe softouch pure micro hybrid drive,17500.0,Benzyna,automatic,2010,110 000 km,Borkowo,Pomorskie,999 cm3
+68796,smart,Smart Fortwo & passion mhd,25900.0,Benzyna,automatic,2010,110 000 km,Warszawa,Mazowieckie,999 cm3
+68797,smart,Smart Fortwo,19000.0,Benzyna,automatic,2010,83 000 km,Warszawa,Mazowieckie,999 cm3
+68798,smart,Smart Fortwo & passion mhd,19900.0,Benzyna,automatic,2010,83 000 km,Trzebnica,Dolnośląskie,999 cm3
+68799,smart,Smart Fortwo,24700.0,Benzyna,automatic,2010,145 000 km,Wołomin,Mazowieckie,999 cm3
+68800,smart,Smart Fortwo coupe electric drive,38499.0,Diesel,automatic,2010,145 000 km,Rawa Mazowiecka,Łódzkie,799 cm3
+68801,smart,Smart Fortwo & passion,15500.0,Diesel,automatic,2013,80 100 km,Tarnowo Podgórne,Wielkopolskie,799 cm3
+68802,smart,Smart Fortwo,19900.0,Benzyna,automatic,2013,80 100 km,Szydłowiec,Mazowieckie,999 cm3
+68803,smart,Smart Fortwo & passion mhd,24900.0,Benzyna,automatic,2013,66 074 km,Pyrzowice,Śląskie,999 cm3
+68804,smart,Smart Fortwo,27900.0,Benzyna,automatic,2013,66 074 km,Janki,Mazowieckie,999 cm3
+68805,smart,Smart Fortwo & passion mhd,23000.0,Benzyna,automatic,2012,103 000 km,Bytom,Śląskie,999 cm3
+68806,smart,Smart Fortwo,19900.0,Benzyna,automatic,2012,103 000 km,Pruszków,Mazowieckie,999 cm3
+68807,smart,Smart Fortwo & passion,11900.0,Benzyna,automatic,2011,62 000 km,Bibice,Małopolskie,999 cm3
+68808,smart,Smart Fortwo & passion,14600.0,Benzyna,automatic,2011,62 000 km,Oleśnica,Świętokrzyskie,999 cm3
+68809,smart,Smart Fortwo,30000.0,Benzyna,automatic,2012,84 000 km,Warszawa,Mazowieckie,999 cm3
+68810,smart,Smart Fortwo,26700.0,Benzyna,automatic,2012,84 000 km,Częstochowa,Śląskie,999 cm3
+68811,smart,Smart Fortwo coupe softouch black&white limited micro hybrid drive,21500.0,Benzyna,automatic,2013,73 285 km,Łagów,Dolnośląskie,999 cm3
+68812,smart,Smart Fortwo coupe electric drive,39900.0,Benzyna,automatic,2013,73 285 km,Siedlec,Małopolskie,999 cm3
+68813,smart,Smart Fortwo electric drive,42000.0,Benzyna,automatic,2014,63 882 km,Budy Janowskie,Mazowieckie,999 cm3
+68814,smart,Smart Fortwo & passion,20999.0,Benzyna,automatic,2014,63 882 km,Lublin,Lubelskie,999 cm3
+68815,smart,Smart Fortwo,12900.0,Benzyna,automatic,2014,47 500 km,Sulejówek,Mazowieckie,999 cm3

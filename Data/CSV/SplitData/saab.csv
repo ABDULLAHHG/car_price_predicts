@@ -1,0 +1,232 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+64802,saab,Saab 900 2.3 S,6900.0,236 000 km,manual,2 290 cm3,Benzyna,Warszawa,Mazowieckie,1997
+64803,saab,Saab 9-3 SE 2.0T,8500.0,236 000 km,manual,2 290 cm3,Benzyna,Marki,Mazowieckie,1997
+64804,saab,Saab 900 Coupe 2.0 S,9900.0,280 000 km,manual,1 985 cm3,Benzyna,Maszewo Duże,Mazowieckie,1999
+64805,saab,Saab 9-3 Viggen 2.3TS,69900.0,280 000 km,manual,1 985 cm3,Benzyna,Warszawa,Mazowieckie,1999
+64806,saab,Saab 9-3,3500.0,218 000 km,manual,1 985 cm3,Benzyna,Parczew,Lubelskie,1995
+64807,saab,Saab 900 Coupe 2.0 S,11500.0,218 000 km,manual,1 985 cm3,Benzyna,Strzelin,Dolnośląskie,1995
+64808,saab,Saab 9-5 Aero 2.3 TS,11700.0,222 222 km,manual,2 290 cm3,Benzyna,Żerniki Górne,Świętokrzyskie,1999
+64809,saab,Saab 900 Coupe 2.3 S,7900.0,222 222 km,manual,2 290 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1999
+64810,saab,Saab 9-3 Viggen 2.3TS,62000.0,330 750 km,manual,2 200 cm3,Diesel,Lublin,Lubelskie,1998
+64811,saab,Saab 9-3,17800.0,330 750 km,manual,2 200 cm3,Diesel,Gdańsk,Pomorskie,1998
+64812,saab,Saab 900 Cabriolet 2.3 SE,15500.0,212 000 km,manual,1 985 cm3,Benzyna,Kutno,Łódzkie,1995
+64813,saab,Saab 900 2.0 SE Turbo,9800.0,212 000 km,manual,1 985 cm3,Benzyna,Antoniów,Śląskie,1995
+64814,saab,Saab 9-3,4000.0,254 399 km,manual,2 290 cm3,Benzyna,Piaseczno,Mazowieckie,1999
+64815,saab,Saab 900 Cabriolet 2.3 SE,19900.0,254 399 km,manual,2 290 cm3,Benzyna,Sochaczew,Mazowieckie,1999
+64816,saab,Saab 9-3 SE 2.0LPT,8999.0,190 000 km,manual,2 290 cm3,Benzyna,Chełmno,Kujawsko-pomorskie,1995
+64817,saab,Saab 9-3 SE 2.0i,5800.0,190 000 km,manual,2 290 cm3,Benzyna,Legionowo,Mazowieckie,1995
+64818,saab,Saab 900 2.0 SE Turbo,11900.0,238 954 km,manual,2 290 cm3,Benzyna,Chełm,Lubelskie,1999
+64819,saab,Saab 9-5,7500.0,238 954 km,manual,2 290 cm3,Benzyna,Lutynia,Dolnośląskie,1999
+64820,saab,Saab 9-5 2.0 TTiD PF Vector,24999.0,212 000 km,manual,1 956 cm3,Diesel,Gniezno,Wielkopolskie,2012
+64821,saab,Saab 9-3,31250.0,212 000 km,manual,1 956 cm3,Diesel,Katowice,Śląskie,2012
+64822,saab,Saab 9-3,24700.0,165 000 km,manual,1 998 cm3,Benzyna,Puławy,Lubelskie,2010
+64823,saab,Saab 9-5 2.0TiD Vector,36900.0,165 000 km,manual,1 998 cm3,Benzyna,Ponikiew Duża,Mazowieckie,2010
+64824,saab,Saab 9-3 2.0T Aero XWD,27900.0,258 722 km,manual,1 910 cm3,Diesel,Konstancin-Jeziorna,Mazowieckie,2010
+64825,saab,Saab 9-3 1.9 TiD Sport Kombi DPF Vector,15999.0,258 722 km,manual,1 910 cm3,Diesel,Podwarpie,Śląskie,2010
+64826,saab,Saab 9-3 2.0T Vector BioPower,10900.0,267 000 km,manual,1 956 cm3,Diesel,Starogard Gdański,Pomorskie,2010
+64827,saab,Saab 9-3,9500.0,267 000 km,manual,1 956 cm3,Diesel,Gdańsk,Pomorskie,2010
+64828,saab,Saab 9-3 1.8i Linear,24900.0,287 000 km,manual,1 998 cm3,Benzyna,Koluszki,Łódzkie,2011
+64829,saab,Saab 9-5 2.0 TiD PF Vector,32900.0,287 000 km,manual,1 998 cm3,Benzyna,Koluszki,Łódzkie,2011
+64830,saab,Saab 9-3X 1.9TTiD PF,34500.0,228 614 km,manual,1 910 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2010
+64831,saab,Saab 9-3 1.9TTiD PF Vector Euro5,27999.0,228 614 km,manual,1 910 cm3,Diesel,Warszawa,Mazowieckie,2010
+64832,saab,Saab 9-3,10000.0,402 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2010
+64833,saab,Saab 9-3X 1.9TTiD PF FWD,31500.0,402 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2010
+64834,saab,Saab 9-5 2.0 TTiD PF Aero,45000.0,333 920 km,manual,1 910 cm3,Diesel,Żary,Lubuskie,2010
+64835,saab,Saab 9-3,27900.0,333 920 km,manual,1 910 cm3,Diesel,Częstochowa,Śląskie,2010
+64836,saab,Saab 9-3,16500.0,220 000 km,manual,1 796 cm3,Benzyna,Okulice,Małopolskie,2010
+64837,saab,Saab 9-5 2.0 TiD PF Linear,36999.0,220 000 km,manual,1 796 cm3,Benzyna,Warszawa,Mazowieckie,2010
+64838,saab,Saab 9-5 2.0 TTiD PF Vector,24999.0,212 000 km,manual,1 956 cm3,Diesel,Gniezno,Wielkopolskie,2012
+64839,saab,Saab 9-3,31250.0,212 000 km,manual,1 956 cm3,Diesel,Katowice,Śląskie,2012
+64840,saab,Saab 9-3,24700.0,165 000 km,manual,1 998 cm3,Benzyna,Puławy,Lubelskie,2010
+64841,saab,Saab 9-5 2.0TiD Vector,36900.0,165 000 km,manual,1 998 cm3,Benzyna,Ponikiew Duża,Mazowieckie,2010
+64842,saab,Saab 9-3 2.0T Aero XWD,27900.0,258 722 km,manual,1 910 cm3,Diesel,Konstancin-Jeziorna,Mazowieckie,2010
+64843,saab,Saab 9-3 1.9 TiD Sport Kombi DPF Vector,15999.0,258 722 km,manual,1 910 cm3,Diesel,Podwarpie,Śląskie,2010
+64844,saab,Saab 9-3 2.0T Vector BioPower,10900.0,267 000 km,manual,1 956 cm3,Diesel,Starogard Gdański,Pomorskie,2010
+64845,saab,Saab 9-3,9500.0,267 000 km,manual,1 956 cm3,Diesel,Gdańsk,Pomorskie,2010
+64846,saab,Saab 9-3 1.8i Linear,24900.0,287 000 km,manual,1 998 cm3,Benzyna,Koluszki,Łódzkie,2011
+64847,saab,Saab 9-5 2.0 TiD PF Vector,32900.0,287 000 km,manual,1 998 cm3,Benzyna,Koluszki,Łódzkie,2011
+64848,saab,Saab 9-3X 1.9TTiD PF,34500.0,228 614 km,manual,1 910 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2010
+64849,saab,Saab 9-3 1.9TTiD PF Vector Euro5,27999.0,228 614 km,manual,1 910 cm3,Diesel,Warszawa,Mazowieckie,2010
+64850,saab,Saab 9-3,10000.0,402 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2010
+64851,saab,Saab 9-3X 1.9TTiD PF FWD,31500.0,402 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2010
+64852,saab,Saab 9-5 2.0 TTiD PF Aero,45000.0,333 920 km,manual,1 910 cm3,Diesel,Żary,Lubuskie,2010
+64853,saab,Saab 9-3,27900.0,333 920 km,manual,1 910 cm3,Diesel,Częstochowa,Śląskie,2010
+64854,saab,Saab 9-3,16500.0,220 000 km,manual,1 796 cm3,Benzyna,Okulice,Małopolskie,2010
+64855,saab,Saab 9-5 2.0 TiD PF Linear,36999.0,220 000 km,manual,1 796 cm3,Benzyna,Warszawa,Mazowieckie,2010
+64856,saab,Saab 9-3,16555.0,259 000 km,automatic,1 985 cm3,Benzyna,Zgorzała,Mazowieckie,2002
+64857,saab,Saab 9-5,7900.0,259 000 km,automatic,1 985 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2002
+64858,saab,Saab 9-5,8000.0,115 000 km,automatic,2 290 cm3,Benzyna,Orzesze,Śląskie,2002
+64859,saab,Saab 9-5,19900.0,115 000 km,automatic,2 290 cm3,Benzyna,Warszawa,Mazowieckie,2002
+64860,saab,Saab 9-3,21900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Zofiówka,Łódzkie,2002
+64861,saab,Saab 9-3,12900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2002
+64862,saab,Saab 9-5 3.0T Arc,8000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Olsztyn,Warmińsko-mazurskie,2002
+64863,saab,Saab 9-3,10000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Ciechanów,Mazowieckie,2002
+64864,saab,Saab 9-5,25000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2004
+64865,saab,Saab 9-3,20000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2004
+64866,saab,Saab 9-3,9900.0,266 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64867,saab,Saab 9-3,29499.0,266 000 km,automatic,1 998 cm3,Benzyna,Lubin,Dolnośląskie,2003
+64868,saab,Saab 9-3,25800.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Sochaczew,Mazowieckie,2002
+64869,saab,Saab 9-3,16700.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Radom,Mazowieckie,2002
+64870,saab,Saab 9-3,7900.0,123 213 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64871,saab,Saab 9-5,6000.0,123 213 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2003
+64872,saab,Saab 9-5,9000.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Skarżysko-Kamienna,Świętokrzyskie,2003
+64873,saab,Saab 9-3 2.0T Bio Power Aero,15999.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2003
+64874,saab,Saab 9-3 2.0T Cabrio Aero,25900.0,254 000 km,automatic,1 985 cm3,Benzyna,Warszawa,Mazowieckie,2000
+64875,saab,Saab 9-3,16200.0,254 000 km,automatic,1 985 cm3,Benzyna,Stary Sącz,Małopolskie,2000
+64876,saab,Saab 9-3,16555.0,259 000 km,automatic,1 985 cm3,Benzyna,Zgorzała,Mazowieckie,2002
+64877,saab,Saab 9-5,7900.0,259 000 km,automatic,1 985 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2002
+64878,saab,Saab 9-5,8000.0,115 000 km,automatic,2 290 cm3,Benzyna,Orzesze,Śląskie,2002
+64879,saab,Saab 9-5,19900.0,115 000 km,automatic,2 290 cm3,Benzyna,Warszawa,Mazowieckie,2002
+64880,saab,Saab 9-3,21900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Zofiówka,Łódzkie,2002
+64881,saab,Saab 9-3,12900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2002
+64882,saab,Saab 9-5 3.0T Arc,8000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Olsztyn,Warmińsko-mazurskie,2002
+64883,saab,Saab 9-3,10000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Ciechanów,Mazowieckie,2002
+64884,saab,Saab 9-5,25000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2004
+64885,saab,Saab 9-3,20000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2004
+64886,saab,Saab 9-3,9900.0,266 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64887,saab,Saab 9-3,29499.0,266 000 km,automatic,1 998 cm3,Benzyna,Lubin,Dolnośląskie,2003
+64888,saab,Saab 9-3,25800.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Sochaczew,Mazowieckie,2002
+64889,saab,Saab 9-3,16700.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Radom,Mazowieckie,2002
+64890,saab,Saab 9-3,7900.0,123 213 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64891,saab,Saab 9-5,6000.0,123 213 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2003
+64892,saab,Saab 9-5,9000.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Skarżysko-Kamienna,Świętokrzyskie,2003
+64893,saab,Saab 9-3 2.0T Bio Power Aero,15999.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2003
+64894,saab,Saab 9-3 2.0T Cabrio Aero,25900.0,254 000 km,automatic,1 985 cm3,Benzyna,Warszawa,Mazowieckie,2000
+64895,saab,Saab 9-3,16200.0,254 000 km,automatic,1 985 cm3,Benzyna,Stary Sącz,Małopolskie,2000
+64896,saab,Saab 9-3,16555.0,259 000 km,automatic,1 985 cm3,Benzyna,Zgorzała,Mazowieckie,2002
+64897,saab,Saab 9-5,7900.0,259 000 km,automatic,1 985 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2002
+64898,saab,Saab 9-5,8000.0,115 000 km,automatic,2 290 cm3,Benzyna,Orzesze,Śląskie,2002
+64899,saab,Saab 9-5,19900.0,115 000 km,automatic,2 290 cm3,Benzyna,Warszawa,Mazowieckie,2002
+64900,saab,Saab 9-3,21900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Zofiówka,Łódzkie,2002
+64901,saab,Saab 9-3,12900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2002
+64902,saab,Saab 9-5 3.0T Arc,8000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Olsztyn,Warmińsko-mazurskie,2002
+64903,saab,Saab 9-3,10000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Ciechanów,Mazowieckie,2002
+64904,saab,Saab 9-5,25000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2004
+64905,saab,Saab 9-3,20000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2004
+64906,saab,Saab 9-3,9900.0,266 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64907,saab,Saab 9-3,29499.0,266 000 km,automatic,1 998 cm3,Benzyna,Lubin,Dolnośląskie,2003
+64908,saab,Saab 9-3,25800.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Sochaczew,Mazowieckie,2002
+64909,saab,Saab 9-3,16700.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Radom,Mazowieckie,2002
+64910,saab,Saab 9-3,7900.0,123 213 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+64911,saab,Saab 9-5,6000.0,123 213 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2003
+64912,saab,Saab 9-5,9000.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Skarżysko-Kamienna,Świętokrzyskie,2003
+64913,saab,Saab 9-3 2.0T Bio Power Aero,15999.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2003
+64914,saab,Saab 9-3 2.0T Cabrio Aero,25900.0,254 000 km,automatic,1 985 cm3,Benzyna,Warszawa,Mazowieckie,2000
+64915,saab,Saab 9-3,16200.0,254 000 km,automatic,1 985 cm3,Benzyna,Stary Sącz,Małopolskie,2000
+64916,saab,Saab 9-3 2.0T Vector,10000.0,348 000 km,automatic,1 998 cm3,Benzyna+LPG,Nowogrodziec,Dolnośląskie,2007
+64917,saab,Saab 9-3 2.0T Cabrio Aero,45999.0,348 000 km,automatic,1 998 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2007
+64918,saab,Saab 9-3 2.0T Vector,22900.0,170 000 km,automatic,1 998 cm3,Benzyna,Nowy Sącz,Małopolskie,2008
+64919,saab,Saab 9-7X,28290.0,170 000 km,automatic,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2008
+64920,saab,Saab 9-3,13900.0,320 000 km,automatic,1 998 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2008
+64921,saab,Saab 9-3,14900.0,320 000 km,automatic,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2008
+64922,saab,Saab 9-3 1.9 Cabriolet TiD DPF Vector,29900.0,166 000 km,automatic,5 328 cm3,Benzyna+LPG,Luboń,Wielkopolskie,2006
+64923,saab,Saab 9-3,18700.0,166 000 km,automatic,5 328 cm3,Benzyna+LPG,Wałbrzych,Dolnośląskie,2006
+64924,saab,Saab 9-3,12600.0,256 000 km,automatic,1 910 cm3,Diesel,Ełk,Warmińsko-mazurskie,2006
+64925,saab,Saab 9-5 2.3t Linear Griffin Edition,8999.0,256 000 km,automatic,1 910 cm3,Diesel,Kobyłka,Mazowieckie,2006
+64926,saab,Saab 9-5,19800.0,187 000 km,automatic,1 998 cm3,Benzyna,Kutno,Łódzkie,2005
+64927,saab,Saab 9-3,21900.0,187 000 km,automatic,1 998 cm3,Benzyna,Budzyń,Wielkopolskie,2005
+64928,saab,Saab 9-3,14700.0,208 031 km,automatic,1 910 cm3,Diesel,Nowy Dwór Mazowiecki,Mazowieckie,2007
+64929,saab,Saab 9-3,18000.0,208 031 km,automatic,1 910 cm3,Diesel,Kamienna Góra,Dolnośląskie,2007
+64930,saab,Saab 9-3,16500.0,197 000 km,automatic,1 998 cm3,Benzyna,Łęka,Małopolskie,2007
+64931,saab,Saab 9-3 1.9 TiD Sport Kombi DPF Vector,16960.0,197 000 km,automatic,1 998 cm3,Benzyna,Antoniew,Łódzkie,2007
+64932,saab,Saab 9-3,21900.0,185 580 km,automatic,1 998 cm3,Benzyna+LPG,Kraków,Małopolskie,2009
+64933,saab,Saab 9-5,14900.0,185 580 km,automatic,1 998 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2009
+64934,saab,Saab 9-3,12900.0,249 000 km,automatic,2 290 cm3,Benzyna,Mielec,Podkarpackie,2006
+64935,saab,Saab 9-5,8900.0,249 000 km,automatic,2 290 cm3,Benzyna,Mysłowice,Śląskie,2006
+64936,saab,Saab 9-7X 4.2i,23900.0,235 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2008
+64937,saab,Saab 9-3,69999.0,235 000 km,automatic,1 910 cm3,Diesel,Tarnowskie Góry,Śląskie,2008
+64938,saab,Saab 9-3 2.0T Cabrio Spezial Edition,32500.0,213 000 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2007
+64939,saab,Saab 9-3,15500.0,213 000 km,automatic,1 998 cm3,Benzyna,Korytków,Wielkopolskie,2007
+64940,saab,Saab 9-3,47900.0,364 000 km,automatic,2 792 cm3,Benzyna,Warszawa,Mazowieckie,2005
+64941,saab,Saab 9-3,8000.0,364 000 km,automatic,2 792 cm3,Benzyna,Garwolin,Mazowieckie,2005
+64942,saab,Saab 9-3,11900.0,150 200 km,automatic,1 910 cm3,Diesel,Jarosław,Podkarpackie,2008
+64943,saab,Saab 9-3 1.9 TiD DPF Linear,19900.0,150 200 km,automatic,1 910 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2008
+64944,saab,Saab 9-3 1.9 TTiD Sport Kombi DPF Aero Griffin,21500.0,220 000 km,automatic,1 910 cm3,Diesel,Radom,Mazowieckie,2007
+64945,saab,Saab 9-5,6000.0,220 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2007
+64946,saab,Saab 9-3 2.0T Sport-Kombi Vector,23500.0,249 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2008
+64947,saab,Saab 9-3 1.9 TTiD Cabriolet DPF Aero,35700.0,249 000 km,automatic,1 910 cm3,Diesel,Częstochowa,Śląskie,2008
+64948,saab,Saab 9-5 1.9 TiD Vector Griffin Edition,11200.0,333 614 km,automatic,1 910 cm3,Diesel,Piaseczno,Mazowieckie,2007
+64949,saab,Saab 9-3 2.0T Aero,19900.0,333 614 km,automatic,1 910 cm3,Diesel,Radom,Mazowieckie,2007
+64950,saab,Saab 9-3,59900.0,238 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2006
+64951,saab,Saab 9-3,12999.0,238 000 km,automatic,1 998 cm3,Benzyna,Mielec,Podkarpackie,2006
+64952,saab,Saab 9-3 1.9 TiD DPF Vector,16900.0,187 324 km,automatic,1 910 cm3,Diesel,Płock,Mazowieckie,2008
+64953,saab,Saab 9-3,18800.0,187 324 km,automatic,1 910 cm3,Diesel,Orzesze,Śląskie,2008
+64954,saab,Saab 9-3 1.9 TiD Sport Kombi DPF,17900.0,247 000 km,automatic,1 910 cm3,Diesel,Dojazdów,Małopolskie,2006
+64955,saab,Saab 9-3,52000.0,247 000 km,automatic,1 910 cm3,Diesel,Gdynia,Pomorskie,2006
+64956,saab,Saab 9-3,17700.0,315 000 km,automatic,1 910 cm3,Diesel,Grójec,Mazowieckie,2007
+64957,saab,Saab 9-3,26500.0,315 000 km,automatic,1 910 cm3,Diesel,Szczurowa,Małopolskie,2007
+64958,saab,Saab 9-5,5000.0,163 000 km,automatic,1 910 cm3,Diesel,Koszalin,Zachodniopomorskie,2008
+64959,saab,Saab 9-5 1.9 TiD Linear Griffin Edition,21900.0,163 000 km,automatic,1 910 cm3,Diesel,Szczecin,Zachodniopomorskie,2008
+64960,saab,Saab 9-5,18500.0,228 000 km,automatic,1 910 cm3,Diesel,Pruszków,Mazowieckie,2008
+64961,saab,Saab 9-5,20500.0,228 000 km,automatic,1 910 cm3,Diesel,Nadarzyn,Mazowieckie,2008
+64962,saab,Saab 9-3 1.8t Sport-Kombi Vector,14500.0,235 000 km,automatic,1 910 cm3,Diesel,Rogów,Łódzkie,2009
+64963,saab,Saab 9-3,38000.0,235 000 km,automatic,1 910 cm3,Diesel,Myślenice,Małopolskie,2009
+64964,saab,Saab 9-3,21500.0,293 800 km,automatic,1 910 cm3,Diesel,Nowy Targ,Małopolskie,2008
+64965,saab,Saab 9-3,17000.0,293 800 km,automatic,1 910 cm3,Diesel,Siedlce,Mazowieckie,2008
+64966,saab,Saab 9-3,10900.0,220 000 km,automatic,2 792 cm3,Benzyna,Płock,Mazowieckie,2006
+64967,saab,Saab 9-5 Kombi 1.9 TiD Linear Griffin Edition,7900.0,220 000 km,automatic,2 792 cm3,Benzyna,Rogów Opolski,Opolskie,2006
+64968,saab,Saab 9-5,11900.0,486 500 km,automatic,1 910 cm3,Diesel,Kobielice,Śląskie,2006
+64969,saab,Saab 9-5,7500.0,486 500 km,automatic,1 910 cm3,Diesel,Legionowo,Mazowieckie,2006
+64970,saab,Saab 9-3 1.9 Cabriolet TiD DPF Vector,23900.0,250 000 km,automatic,1 910 cm3,Diesel,Dąbrowa Zielona,Śląskie,2008
+64971,saab,Saab 9-3,22000.0,250 000 km,automatic,1 910 cm3,Diesel,Liszki,Małopolskie,2008
+64972,saab,Saab 9-3,43900.0,232 700 km,automatic,2 290 cm3,Benzyna+LPG,Olkusz,Małopolskie,2007
+64973,saab,Saab 9-3 1.8t Linear,3999.0,232 700 km,automatic,2 290 cm3,Benzyna+LPG,Wałbrzych,Dolnośląskie,2007
+64974,saab,Saab 9-3,59000.0,190 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2006
+64975,saab,Saab 9-5 1.9 TiD Vector Griffin Edition,11200.0,333 614 km,automatic,1 910 cm3,Diesel,Piaseczno,Mazowieckie,2007
+64976,saab,Saab 9-3 2.0T Aero,19900.0,333 614 km,automatic,1 910 cm3,Diesel,Radom,Mazowieckie,2007
+64977,saab,Saab 9-3,59900.0,238 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2006
+64978,saab,Saab 9-3,12999.0,238 000 km,automatic,1 998 cm3,Benzyna,Mielec,Podkarpackie,2006
+64979,saab,Saab 9-3 1.9 TiD DPF Vector,16900.0,187 324 km,automatic,1 910 cm3,Diesel,Płock,Mazowieckie,2008
+64980,saab,Saab 9-3,18800.0,187 324 km,automatic,1 910 cm3,Diesel,Orzesze,Śląskie,2008
+64981,saab,Saab 9-3 1.9 TiD Sport Kombi DPF,17900.0,247 000 km,automatic,1 910 cm3,Diesel,Dojazdów,Małopolskie,2006
+64982,saab,Saab 9-3,52000.0,247 000 km,automatic,1 910 cm3,Diesel,Gdynia,Pomorskie,2006
+64983,saab,Saab 9-3,17700.0,315 000 km,automatic,1 910 cm3,Diesel,Grójec,Mazowieckie,2007
+64984,saab,Saab 9-3,26500.0,315 000 km,automatic,1 910 cm3,Diesel,Szczurowa,Małopolskie,2007
+64985,saab,Saab 9-5,5000.0,163 000 km,automatic,1 910 cm3,Diesel,Koszalin,Zachodniopomorskie,2008
+64986,saab,Saab 9-5 1.9 TiD Linear Griffin Edition,21900.0,163 000 km,automatic,1 910 cm3,Diesel,Szczecin,Zachodniopomorskie,2008
+64987,saab,Saab 9-5,18500.0,228 000 km,automatic,1 910 cm3,Diesel,Pruszków,Mazowieckie,2008
+64988,saab,Saab 9-5,20500.0,228 000 km,automatic,1 910 cm3,Diesel,Nadarzyn,Mazowieckie,2008
+64989,saab,Saab 9-3 1.8t Sport-Kombi Vector,14500.0,235 000 km,automatic,1 910 cm3,Diesel,Rogów,Łódzkie,2009
+64990,saab,Saab 9-3,38000.0,235 000 km,automatic,1 910 cm3,Diesel,Myślenice,Małopolskie,2009
+64991,saab,Saab 9-3,21500.0,293 800 km,automatic,1 910 cm3,Diesel,Nowy Targ,Małopolskie,2008
+64992,saab,Saab 9-3,17000.0,293 800 km,automatic,1 910 cm3,Diesel,Siedlce,Mazowieckie,2008
+64993,saab,Saab 9-3,10900.0,220 000 km,automatic,2 792 cm3,Benzyna,Płock,Mazowieckie,2006
+64994,saab,Saab 9-5 Kombi 1.9 TiD Linear Griffin Edition,7900.0,220 000 km,automatic,2 792 cm3,Benzyna,Rogów Opolski,Opolskie,2006
+64995,saab,Saab 9-5,11900.0,486 500 km,automatic,1 910 cm3,Diesel,Kobielice,Śląskie,2006
+64996,saab,Saab 9-5,7500.0,486 500 km,automatic,1 910 cm3,Diesel,Legionowo,Mazowieckie,2006
+64997,saab,Saab 9-3 1.9 Cabriolet TiD DPF Vector,23900.0,250 000 km,automatic,1 910 cm3,Diesel,Dąbrowa Zielona,Śląskie,2008
+64998,saab,Saab 9-3,22000.0,250 000 km,automatic,1 910 cm3,Diesel,Liszki,Małopolskie,2008
+64999,saab,Saab 9-3,43900.0,232 700 km,automatic,2 290 cm3,Benzyna+LPG,Olkusz,Małopolskie,2007
+65000,saab,Saab 9-3 1.8t Linear,3999.0,232 700 km,automatic,2 290 cm3,Benzyna+LPG,Wałbrzych,Dolnośląskie,2007
+65001,saab,Saab 9-3,59000.0,190 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2006
+65002,saab,Saab 9-3,24000.0,234 958 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2010
+65003,saab,Saab 9-5 2.0 TiD PF Linear,29999.0,234 958 km,automatic,1 910 cm3,Diesel,Wałbrzych,Dolnośląskie,2010
+65004,saab,Saab 9-3X,33500.0,295 000 km,automatic,1 956 cm3,Diesel,Lutogniew,Wielkopolskie,2011
+65005,saab,Saab 9-5 2.0T XWD Aero,69900.0,295 000 km,automatic,1 956 cm3,Diesel,Gózd,Mazowieckie,2011
+65006,saab,Saab 9-5,31900.0,90 700 km,automatic,1 998 cm3,Benzyna,Gniezno,Wielkopolskie,2011
+65007,saab,Saab 9-5 2.0TiD Vector,44000.0,90 700 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2011
+65008,saab,Saab 9-5 2.8 Turbo Aero XWD,75000.0,196 000 km,automatic,1 998 cm3,Benzyna,Gdynia,Pomorskie,2010
+65009,saab,Saab 9-5,33000.0,196 000 km,automatic,1 998 cm3,Benzyna,Ciele,Kujawsko-pomorskie,2010
+65010,saab,Saab 9-3 2.0T XWD Linear,36900.0,279 000 km,automatic,1 956 cm3,Diesel,Białystok,Podlaskie,2010
+65011,saab,Saab,94000.0,279 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2010
+65012,saab,Saab 9-5,39900.0,282 000 km,automatic,1 956 cm3,Diesel,Warszawa,Mazowieckie,2010
+65013,saab,Saab 9-3,16555.0,259 000 km,automatic,1 985 cm3,Benzyna,Zgorzała,Mazowieckie,2002
+65014,saab,Saab 9-5,7900.0,259 000 km,automatic,1 985 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2002
+65015,saab,Saab 9-5,8000.0,115 000 km,automatic,2 290 cm3,Benzyna,Orzesze,Śląskie,2002
+65016,saab,Saab 9-5,19900.0,115 000 km,automatic,2 290 cm3,Benzyna,Warszawa,Mazowieckie,2002
+65017,saab,Saab 9-3,21900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Zofiówka,Łódzkie,2002
+65018,saab,Saab 9-3,12900.0,410 000 km,automatic,2 290 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2002
+65019,saab,Saab 9-5 3.0T Arc,8000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Olsztyn,Warmińsko-mazurskie,2002
+65020,saab,Saab 9-3,10000.0,264 357 km,automatic,1 985 cm3,Benzyna+LPG,Ciechanów,Mazowieckie,2002
+65021,saab,Saab 9-5,25000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2004
+65022,saab,Saab 9-3,20000.0,180 000 km,automatic,1 998 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2004
+65023,saab,Saab 9-3,9900.0,266 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+65024,saab,Saab 9-3,29499.0,266 000 km,automatic,1 998 cm3,Benzyna,Lubin,Dolnośląskie,2003
+65025,saab,Saab 9-3,25800.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Sochaczew,Mazowieckie,2002
+65026,saab,Saab 9-3,16700.0,303 000 km,automatic,2 962 cm3,Benzyna+LPG,Radom,Mazowieckie,2002
+65027,saab,Saab 9-3,7900.0,123 213 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2003
+65028,saab,Saab 9-5,6000.0,123 213 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2003
+65029,saab,Saab 9-5,9000.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Skarżysko-Kamienna,Świętokrzyskie,2003
+65030,saab,Saab 9-3 2.0T Bio Power Aero,15999.0,303 000 km,automatic,2 290 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2003
+65031,saab,Saab 9-3 2.0T Cabrio Aero,25900.0,254 000 km,automatic,1 985 cm3,Benzyna,Warszawa,Mazowieckie,2000
+65032,saab,Saab 9-3,16200.0,254 000 km,automatic,1 985 cm3,Benzyna,Stary Sącz,Małopolskie,2000

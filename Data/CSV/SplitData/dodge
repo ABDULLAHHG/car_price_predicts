@@ -1,0 +1,322 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+11412,dodge,Dodge Dakota 2.5,18699.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,1997
+11413,dodge,Dodge Stealth 3.0 R/T,42500.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Inowrocław,Kujawsko-pomorskie,1997
+11414,dodge,Dodge Viper 8.0 GTS,389660.0,118 300 km,manual,2 972 cm3,Benzyna,Gdańsk,Pomorskie,1995
+11415,dodge,Dodge RAM,32500.0,118 300 km,manual,2 972 cm3,Benzyna,Wiśniewo,Mazowieckie,1995
+11416,dodge,Dodge Dakota 2.5,18699.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,1997
+11417,dodge,Dodge Stealth 3.0 R/T,42500.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Inowrocław,Kujawsko-pomorskie,1997
+11418,dodge,Dodge Viper 8.0 GTS,389660.0,118 300 km,manual,2 972 cm3,Benzyna,Gdańsk,Pomorskie,1995
+11419,dodge,Dodge RAM,32500.0,118 300 km,manual,2 972 cm3,Benzyna,Wiśniewo,Mazowieckie,1995
+11420,dodge,Dodge Dakota 2.5,18699.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,1997
+11421,dodge,Dodge Stealth 3.0 R/T,42500.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Inowrocław,Kujawsko-pomorskie,1997
+11422,dodge,Dodge Viper 8.0 GTS,389660.0,118 300 km,manual,2 972 cm3,Benzyna,Gdańsk,Pomorskie,1995
+11423,dodge,Dodge RAM,32500.0,118 300 km,manual,2 972 cm3,Benzyna,Wiśniewo,Mazowieckie,1995
+11424,dodge,Dodge Dakota 2.5,18699.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,1997
+11425,dodge,Dodge Stealth 3.0 R/T,42500.0,174 000 km,manual,2 464 cm3,Benzyna+LPG,Inowrocław,Kujawsko-pomorskie,1997
+11426,dodge,Dodge Viper 8.0 GTS,389660.0,118 300 km,manual,2 972 cm3,Benzyna,Gdańsk,Pomorskie,1995
+11427,dodge,Dodge RAM,32500.0,118 300 km,manual,2 972 cm3,Benzyna,Wiśniewo,Mazowieckie,1995
+11428,dodge,Dodge Caliber,19222.0,195 000 km,manual,1 798 cm3,Benzyna+LPG,Wilkowice,Wielkopolskie,2007
+11429,dodge,Dodge Challenger,73500.0,195 000 km,manual,1 798 cm3,Benzyna+LPG,Brzezinka,Małopolskie,2007
+11430,dodge,Dodge Caliber 2.0 CRD SE,12999.0,154 000 km,manual,5 654 cm3,Benzyna,Kostrzyn,Wielkopolskie,2009
+11431,dodge,Dodge Nitro 2.8 CRD SE,24999.0,154 000 km,manual,5 654 cm3,Benzyna,Starogard Gdański,Pomorskie,2009
+11432,dodge,Dodge Caliber 2.0 CRD SE,14000.0,236 000 km,manual,1 968 cm3,Diesel,Kołobrzeg,Zachodniopomorskie,2006
+11433,dodge,Dodge Caliber,17800.0,236 000 km,manual,1 968 cm3,Diesel,Świdnica,Dolnośląskie,2006
+11434,dodge,Dodge Caliber 1.8 SE,14500.0,170 000 km,manual,2 776 cm3,Diesel,Brok,Mazowieckie,2007
+11435,dodge,Dodge Caliber,22700.0,170 000 km,manual,2 776 cm3,Diesel,Czechy,Łódzkie,2007
+11436,dodge,Dodge Caliber,8900.0,237 000 km,manual,1 968 cm3,Diesel,Poznań,Wielkopolskie,2007
+11437,dodge,Dodge Nitro 2.8 CRD SE,33500.0,237 000 km,manual,1 968 cm3,Diesel,Spytkowice,Małopolskie,2007
+11438,dodge,Dodge Caliber,16500.0,270 000 km,manual,1 968 cm3,Diesel,Wieszowa,Śląskie,2007
+11439,dodge,Dodge Caliber,21000.0,270 000 km,manual,1 968 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2007
+11440,dodge,Dodge Caliber,18500.0,187 000 km,manual,1 798 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2007
+11441,dodge,Dodge Caliber,15000.0,187 000 km,manual,1 798 cm3,Benzyna,Lublin,Lubelskie,2007
+11442,dodge,Dodge Avenger 2.0 CRD SXT,13900.0,184 000 km,manual,1 798 cm3,Benzyna,Olesno,Małopolskie,2009
+11443,dodge,Dodge Avenger,14990.0,184 000 km,manual,1 798 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2009
+11444,dodge,Dodge Caliber,18999.0,190 000 km,manual,1 968 cm3,Diesel,Warszawa,Mazowieckie,2006
+11445,dodge,Dodge Caliber,21900.0,190 000 km,manual,1 968 cm3,Diesel,Lublin,Lubelskie,2006
+11446,dodge,Dodge RAM,80000.0,220 000 km,manual,2 776 cm3,Diesel,Parzniew,Mazowieckie,2007
+11447,dodge,Dodge Avenger 2.0 SE,13999.0,220 000 km,manual,2 776 cm3,Diesel,Koszalin,Zachodniopomorskie,2007
+11448,dodge,Dodge Caliber,18800.0,214 576 km,manual,1 968 cm3,Diesel,Witaszyce,Wielkopolskie,2008
+11449,dodge,Dodge Avenger 2.0 SE,21900.0,214 576 km,manual,1 968 cm3,Diesel,Bytom,Śląskie,2008
+11450,dodge,Dodge Caliber,15000.0,141 318 km,manual,1 798 cm3,Benzyna,Piaseczno,Mazowieckie,2009
+11451,dodge,Dodge Caliber 2.0 CRD SXT,15900.0,141 318 km,manual,1 798 cm3,Benzyna,Płock,Mazowieckie,2009
+11452,dodge,Dodge Caliber,10800.0,171 000 km,manual,1 798 cm3,Benzyna,Wodzymin,Mazowieckie,2009
+11453,dodge,Dodge Caliber 1.8 SE,19900.0,171 000 km,manual,1 798 cm3,Benzyna,Łagów,Świętokrzyskie,2009
+11454,dodge,Dodge Caliber,25000.0,260 000 km,manual,1 798 cm3,Benzyna+LPG,Lublin,Lubelskie,2009
+11455,dodge,Dodge Caliber 2.0 CRD SE,19999.0,260 000 km,manual,1 798 cm3,Benzyna+LPG,Gdynia,Pomorskie,2009
+11456,dodge,Dodge Caliber 1.8 SXT,18999.0,210 000 km,manual,1 968 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2008
+11457,dodge,Dodge Caliber 2.0 CRD SXT,23000.0,210 000 km,manual,1 968 cm3,Diesel,Legnica,Dolnośląskie,2008
+11458,dodge,Dodge Caliber 2.0 CRD SXT,13900.0,255 112 km,manual,1 968 cm3,Diesel,Budzyń,Wielkopolskie,2008
+11459,dodge,Dodge Caliber,16900.0,255 112 km,manual,1 968 cm3,Diesel,Opole,Opolskie,2008
+11460,dodge,Dodge RAM,190000.0,48 845 km,manual,8 300 cm3,Benzyna,Kobierzyce,Dolnośląskie,2004
+11461,dodge,Dodge Durango,16250.0,48 845 km,manual,8 300 cm3,Benzyna,Łukówiec,Mazowieckie,2004
+11462,dodge,Dodge RAM 1500 4.7,29900.0,121 000 km,manual,4 701 cm3,Benzyna+LPG,Kalisz,Wielkopolskie,2001
+11463,dodge,Dodge RAM 2500 5.9TD,56000.0,121 000 km,manual,4 701 cm3,Benzyna+LPG,Olszyny,Podlaskie,2001
+11464,dodge,Dodge RAM 1500 5.2,36900.0,122 000 km,manual,4 701 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,2003
+11465,dodge,Dodge Caliber 2.0 CRD SE,18900.0,245 000 km,manual,1 968 cm3,Diesel,Starachowice,Świętokrzyskie,2007
+11466,dodge,Dodge Caliber 1.8 SE,19900.0,245 000 km,manual,1 968 cm3,Diesel,Imielin,Śląskie,2007
+11467,dodge,Dodge Caliber 1.8 SE,26800.0,187 000 km,manual,1 798 cm3,Benzyna,Ludwinów,Mazowieckie,2009
+11468,dodge,Dodge Caliber 1.8 SXT,13900.0,187 000 km,manual,1 798 cm3,Benzyna,Legnica,Dolnośląskie,2009
+11469,dodge,Dodge Caliber,10550.0,170 000 km,manual,1 798 cm3,Benzyna,Gdynia,Pomorskie,2009
+11470,dodge,Dodge Caliber 2.0 CRD SXT,13000.0,170 000 km,manual,1 798 cm3,Benzyna,Spytkowice,Małopolskie,2009
+11471,dodge,Dodge Caliber,20000.0,187 000 km,manual,1 800 cm3,Benzyna,Katowice,Śląskie,2007
+11472,dodge,Dodge Caliber,17400.0,187 000 km,manual,1 800 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+11473,dodge,Dodge Journey 2.4 SXT,24999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Kościerzyna-Wybudowanie,Pomorskie,2006
+11474,dodge,Dodge Caliber 2.0 CRD SXT,8999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Świebodzin,Lubuskie,2006
+11475,dodge,Dodge Caliber,12900.0,255 993 km,manual,1 968 cm3,Diesel,Świdnica,Dolnośląskie,2007
+11476,dodge,Dodge Caliber,5000.0,255 993 km,manual,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2007
+11477,dodge,Dodge RAM 1500 3.7,50000.0,132 036 km,manual,1 968 cm3,Diesel,Ostrów Lubelski,Lubelskie,2007
+11478,dodge,Dodge Caliber 1.8 SXT,19399.0,132 036 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2007
+11479,dodge,Dodge Journey 2.0 CRD SE,23900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Zawiercie,Śląskie,2009
+11480,dodge,Dodge Caliber 2.0 CRD SXT,14900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Pogórska Wola,Małopolskie,2009
+11481,dodge,Dodge Caliber 2.0 CRD SE,19900.0,240 000 km,manual,2 360 cm3,Benzyna,Łódź,Łódzkie,2009
+11482,dodge,Dodge Journey 2.4 SXT,26900.0,240 000 km,manual,2 360 cm3,Benzyna,Swarzędz,Wielkopolskie,2009
+11483,dodge,Dodge Avenger 2.0 SE,18900.0,179 483 km,manual,1 968 cm3,Diesel,Płochocin Osiedle,Mazowieckie,2006
+11484,dodge,Dodge Caliber 2.0 CRD SXT,13500.0,179 483 km,manual,1 968 cm3,Diesel,Biała Podlaska,Lubelskie,2006
+11485,dodge,Dodge Caliber 2.0 CRD SXT,8900.0,178 405 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2008
+11486,dodge,Dodge Caliber 1.8 S,19900.0,178 405 km,manual,1 968 cm3,Diesel,Dęblin,Lubelskie,2008
+11487,dodge,Dodge Caliber 2.0 CRD SE,12999.0,250 500 km,manual,1 798 cm3,Benzyna,Kostrzyn,Wielkopolskie,2007
+11488,dodge,Dodge Caliber 2.0 CRD SXT,19500.0,250 500 km,manual,1 798 cm3,Benzyna,Lubartów,Lubelskie,2007
+11489,dodge,Dodge Caliber 1.8 SXT,19900.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Włocławek,Kujawsko-pomorskie,2008
+11490,dodge,Dodge Caliber 1.8 SXT,22500.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Nowe Zawady,Mazowieckie,2008
+11491,dodge,Dodge Caliber SRT4,30499.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2008
+11492,dodge,Dodge Journey,23900.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Staszów,Świętokrzyskie,2008
+11493,dodge,Dodge Avenger 2.0 CRD SE,10000.0,181 000 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2009
+11494,dodge,Dodge Caliber 2.0 CRD SXT,14500.0,181 000 km,manual,1 968 cm3,Diesel,Świnoujście,Zachodniopomorskie,2009
+11495,dodge,Dodge Caliber 1.8 SE,7000.0,200 000 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2006
+11496,dodge,Dodge Caliber,21900.0,200 000 km,manual,1 968 cm3,Diesel,Kłodzko,Dolnośląskie,2006
+11497,dodge,Dodge Caliber 2.0 CRD SE,18900.0,245 000 km,manual,1 968 cm3,Diesel,Starachowice,Świętokrzyskie,2007
+11498,dodge,Dodge Caliber 1.8 SE,19900.0,245 000 km,manual,1 968 cm3,Diesel,Imielin,Śląskie,2007
+11499,dodge,Dodge Caliber 1.8 SE,26800.0,187 000 km,manual,1 798 cm3,Benzyna,Ludwinów,Mazowieckie,2009
+11500,dodge,Dodge Caliber 1.8 SXT,13900.0,187 000 km,manual,1 798 cm3,Benzyna,Legnica,Dolnośląskie,2009
+11501,dodge,Dodge Caliber,10550.0,170 000 km,manual,1 798 cm3,Benzyna,Gdynia,Pomorskie,2009
+11502,dodge,Dodge Caliber 2.0 CRD SXT,13000.0,170 000 km,manual,1 798 cm3,Benzyna,Spytkowice,Małopolskie,2009
+11503,dodge,Dodge Caliber,20000.0,187 000 km,manual,1 800 cm3,Benzyna,Katowice,Śląskie,2007
+11504,dodge,Dodge Caliber,17400.0,187 000 km,manual,1 800 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+11505,dodge,Dodge Journey 2.4 SXT,24999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Kościerzyna-Wybudowanie,Pomorskie,2006
+11506,dodge,Dodge Caliber 2.0 CRD SXT,8999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Świebodzin,Lubuskie,2006
+11507,dodge,Dodge Caliber,12900.0,255 993 km,manual,1 968 cm3,Diesel,Świdnica,Dolnośląskie,2007
+11508,dodge,Dodge Caliber,5000.0,255 993 km,manual,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2007
+11509,dodge,Dodge RAM 1500 3.7,50000.0,132 036 km,manual,1 968 cm3,Diesel,Ostrów Lubelski,Lubelskie,2007
+11510,dodge,Dodge Caliber 1.8 SXT,19399.0,132 036 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2007
+11511,dodge,Dodge Journey 2.0 CRD SE,23900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Zawiercie,Śląskie,2009
+11512,dodge,Dodge Caliber 2.0 CRD SXT,14900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Pogórska Wola,Małopolskie,2009
+11513,dodge,Dodge Caliber 2.0 CRD SE,19900.0,240 000 km,manual,2 360 cm3,Benzyna,Łódź,Łódzkie,2009
+11514,dodge,Dodge Journey 2.4 SXT,26900.0,240 000 km,manual,2 360 cm3,Benzyna,Swarzędz,Wielkopolskie,2009
+11515,dodge,Dodge Avenger 2.0 SE,18900.0,179 483 km,manual,1 968 cm3,Diesel,Płochocin Osiedle,Mazowieckie,2006
+11516,dodge,Dodge Caliber 2.0 CRD SXT,13500.0,179 483 km,manual,1 968 cm3,Diesel,Biała Podlaska,Lubelskie,2006
+11517,dodge,Dodge Caliber 2.0 CRD SXT,8900.0,178 405 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2008
+11518,dodge,Dodge Caliber 1.8 S,19900.0,178 405 km,manual,1 968 cm3,Diesel,Dęblin,Lubelskie,2008
+11519,dodge,Dodge Caliber 2.0 CRD SE,12999.0,250 500 km,manual,1 798 cm3,Benzyna,Kostrzyn,Wielkopolskie,2007
+11520,dodge,Dodge Caliber 2.0 CRD SXT,19500.0,250 500 km,manual,1 798 cm3,Benzyna,Lubartów,Lubelskie,2007
+11521,dodge,Dodge Caliber 1.8 SXT,19900.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Włocławek,Kujawsko-pomorskie,2008
+11522,dodge,Dodge Caliber 1.8 SXT,22500.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Nowe Zawady,Mazowieckie,2008
+11523,dodge,Dodge Caliber SRT4,30499.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2008
+11524,dodge,Dodge Journey,23900.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Staszów,Świętokrzyskie,2008
+11525,dodge,Dodge Avenger 2.0 CRD SE,10000.0,181 000 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2009
+11526,dodge,Dodge Caliber 2.0 CRD SXT,14500.0,181 000 km,manual,1 968 cm3,Diesel,Świnoujście,Zachodniopomorskie,2009
+11527,dodge,Dodge Caliber 1.8 SE,7000.0,200 000 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2006
+11528,dodge,Dodge Caliber,21900.0,200 000 km,manual,1 968 cm3,Diesel,Kłodzko,Dolnośląskie,2006
+11529,dodge,Dodge Challenger,119999.0,83 000 km,manual,5 654 cm3,Benzyna,Prusice,Dolnośląskie,2016
+11530,dodge,Dodge Viper,349000.0,83 000 km,manual,5 654 cm3,Benzyna,Mysłowice,Śląskie,2016
+11531,dodge,Dodge Challenger,159900.0,20 000 km,manual,8 300 cm3,Benzyna,Grybów,Małopolskie,2016
+11532,dodge,Dodge Challenger,59999.0,301 628 km,manual,5 654 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2013
+11533,dodge,Dodge Journey 2.0 CRD SXT,20900.0,301 628 km,manual,5 654 cm3,Benzyna,Janów Lubelski,Lubelskie,2013
+11534,dodge,Dodge Journey 2.0 CRD SXT,11900.0,204 000 km,manual,1 968 cm3,Diesel,Sławsk,Wielkopolskie,2010
+11535,dodge,Dodge Caliber 1.8 SXT,24500.0,204 000 km,manual,1 968 cm3,Diesel,Celestynów,Mazowieckie,2010
+11536,dodge,Dodge Caliber,33700.0,140 000 km,manual,1 968 cm3,Diesel,Zwoleń,Mazowieckie,2010
+11537,dodge,Dodge Journey 2.0 CRD SE,19900.0,140 000 km,manual,1 968 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2010
+11538,dodge,Dodge Challenger,99900.0,184 000 km,manual,1 798 cm3,Benzyna+LPG,Jarosław,Podkarpackie,2010
+11539,dodge,Dodge Dart,34999.0,184 000 km,manual,1 798 cm3,Benzyna+LPG,Kraków,Małopolskie,2010
+11540,dodge,Dodge Journey 2.0 CRD SXT,29900.0,190 000 km,manual,2 400 cm3,Benzyna,Płock,Mazowieckie,2010
+11541,dodge,Dodge Viper,699900.0,190 000 km,manual,2 400 cm3,Benzyna,Chełm,Lubelskie,2010
+11542,dodge,Dodge Caliber 2.0 SXT,24900.0,268 000 km,manual,1 968 cm3,Diesel,Rzeszów,Podkarpackie,2010
+11543,dodge,Dodge Caliber,17900.0,268 000 km,manual,1 968 cm3,Diesel,Raszyn,Mazowieckie,2010
+11544,dodge,Dodge Journey,26500.0,231 500 km,manual,5 654 cm3,Benzyna,Żychlin,Łódzkie,2014
+11545,dodge,Dodge Caliber 2.0 CRD SXT,25000.0,231 500 km,manual,5 654 cm3,Benzyna,Krapkowice,Opolskie,2014
+11546,dodge,Dodge Journey 2.4 SXT,33000.0,183 000 km,manual,1 369 cm3,Benzyna+LPG,Łódź,Łódzkie,2013
+11547,dodge,Dodge Journey 2.0 CRD Cool Family,22999.0,183 000 km,manual,1 369 cm3,Benzyna+LPG,Stasin,Lubelskie,2013
+11548,dodge,Dodge Journey 2.0 CRD SXT,31900.0,266 000 km,manual,1 968 cm3,Diesel,Lublin,Lubelskie,2010
+11549,dodge,Dodge Challenger,269000.0,6 150 km,manual,6 417 cm3,Benzyna,Kórnik,Wielkopolskie,2021
+11550,dodge,Dodge Challenger,179000.0,6 150 km,manual,6 417 cm3,Benzyna,Lublin,Lubelskie,2021
+11551,dodge,Dodge Challenger,119999.0,83 000 km,manual,5 654 cm3,Benzyna,Prusice,Dolnośląskie,2016
+11552,dodge,Dodge Viper,349000.0,83 000 km,manual,5 654 cm3,Benzyna,Mysłowice,Śląskie,2016
+11553,dodge,Dodge Challenger,159900.0,20 000 km,manual,8 300 cm3,Benzyna,Grybów,Małopolskie,2016
+11554,dodge,Dodge Challenger,269000.0,6 150 km,manual,6 417 cm3,Benzyna,Kórnik,Wielkopolskie,2021
+11555,dodge,Dodge Challenger,179000.0,6 150 km,manual,6 417 cm3,Benzyna,Lublin,Lubelskie,2021
+11556,dodge,Dodge Challenger,269000.0,6 150 km,manual,6 417 cm3,Benzyna,Kórnik,Wielkopolskie,2021
+11557,dodge,Dodge Challenger,179000.0,6 150 km,manual,6 417 cm3,Benzyna,Lublin,Lubelskie,2021
+11558,dodge,Dodge Caliber 2.0 CRD SE,18900.0,245 000 km,manual,1 968 cm3,Diesel,Starachowice,Świętokrzyskie,2007
+11559,dodge,Dodge Caliber 1.8 SE,19900.0,245 000 km,manual,1 968 cm3,Diesel,Imielin,Śląskie,2007
+11560,dodge,Dodge Caliber 1.8 SE,26800.0,187 000 km,manual,1 798 cm3,Benzyna,Ludwinów,Mazowieckie,2009
+11561,dodge,Dodge Caliber 1.8 SXT,13900.0,187 000 km,manual,1 798 cm3,Benzyna,Legnica,Dolnośląskie,2009
+11562,dodge,Dodge Caliber,10550.0,170 000 km,manual,1 798 cm3,Benzyna,Gdynia,Pomorskie,2009
+11563,dodge,Dodge Caliber 2.0 CRD SXT,13000.0,170 000 km,manual,1 798 cm3,Benzyna,Spytkowice,Małopolskie,2009
+11564,dodge,Dodge Caliber,20000.0,187 000 km,manual,1 800 cm3,Benzyna,Katowice,Śląskie,2007
+11565,dodge,Dodge Caliber,17400.0,187 000 km,manual,1 800 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+11566,dodge,Dodge Journey 2.4 SXT,24999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Kościerzyna-Wybudowanie,Pomorskie,2006
+11567,dodge,Dodge Caliber 2.0 CRD SXT,8999.0,254 753 km,manual,1 798 cm3,Benzyna+LPG,Świebodzin,Lubuskie,2006
+11568,dodge,Dodge Caliber,12900.0,255 993 km,manual,1 968 cm3,Diesel,Świdnica,Dolnośląskie,2007
+11569,dodge,Dodge Caliber,5000.0,255 993 km,manual,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2007
+11570,dodge,Dodge RAM 1500 3.7,50000.0,132 036 km,manual,1 968 cm3,Diesel,Ostrów Lubelski,Lubelskie,2007
+11571,dodge,Dodge Caliber 1.8 SXT,19399.0,132 036 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2007
+11572,dodge,Dodge Journey 2.0 CRD SE,23900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Zawiercie,Śląskie,2009
+11573,dodge,Dodge Caliber 2.0 CRD SXT,14900.0,282 000 km,manual,1 798 cm3,Benzyna+LPG,Pogórska Wola,Małopolskie,2009
+11574,dodge,Dodge Caliber 2.0 CRD SE,19900.0,240 000 km,manual,2 360 cm3,Benzyna,Łódź,Łódzkie,2009
+11575,dodge,Dodge Journey 2.4 SXT,26900.0,240 000 km,manual,2 360 cm3,Benzyna,Swarzędz,Wielkopolskie,2009
+11576,dodge,Dodge Avenger 2.0 SE,18900.0,179 483 km,manual,1 968 cm3,Diesel,Płochocin Osiedle,Mazowieckie,2006
+11577,dodge,Dodge Caliber 2.0 CRD SXT,13500.0,179 483 km,manual,1 968 cm3,Diesel,Biała Podlaska,Lubelskie,2006
+11578,dodge,Dodge Caliber 2.0 CRD SXT,8900.0,178 405 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2008
+11579,dodge,Dodge Caliber 1.8 S,19900.0,178 405 km,manual,1 968 cm3,Diesel,Dęblin,Lubelskie,2008
+11580,dodge,Dodge Caliber 2.0 CRD SE,12999.0,250 500 km,manual,1 798 cm3,Benzyna,Kostrzyn,Wielkopolskie,2007
+11581,dodge,Dodge Caliber 2.0 CRD SXT,19500.0,250 500 km,manual,1 798 cm3,Benzyna,Lubartów,Lubelskie,2007
+11582,dodge,Dodge Caliber 1.8 SXT,19900.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Włocławek,Kujawsko-pomorskie,2008
+11583,dodge,Dodge Caliber 1.8 SXT,22500.0,192 000 km,manual,3 701 cm3,Benzyna+LPG,Nowe Zawady,Mazowieckie,2008
+11584,dodge,Dodge Caliber SRT4,30499.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2008
+11585,dodge,Dodge Journey,23900.0,204 512 km,manual,1 798 cm3,Benzyna+LPG,Staszów,Świętokrzyskie,2008
+11586,dodge,Dodge Avenger 2.0 CRD SE,10000.0,181 000 km,manual,1 968 cm3,Diesel,Pabianice,Łódzkie,2009
+11587,dodge,Dodge Caliber 2.0 CRD SXT,14500.0,181 000 km,manual,1 968 cm3,Diesel,Świnoujście,Zachodniopomorskie,2009
+11588,dodge,Dodge Caliber 1.8 SE,7000.0,200 000 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2006
+11589,dodge,Dodge Caliber,21900.0,200 000 km,manual,1 968 cm3,Diesel,Kłodzko,Dolnośląskie,2006
+11590,dodge,Dodge RAM,31000.0,200 000 km,automatic,5 208 cm3,Benzyna,Konin,Wielkopolskie,1999
+11591,dodge,Dodge Durango 5.9,58900.0,200 000 km,automatic,5 208 cm3,Benzyna,Gliwice,Śląskie,1999
+11592,dodge,Dodge,120000.0,91 642 km,automatic,5 895 cm3,Benzyna,Gliwice,Śląskie,1999
+11593,dodge,Dodge RAM,32000.0,91 642 km,automatic,5 895 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+11594,dodge,Dodge RAM,37000.0,198 600 km,automatic,4 701 cm3,Benzyna+LPG,Legnica,Dolnośląskie,2003
+11595,dodge,Dodge RAM,169000.0,198 600 km,automatic,4 701 cm3,Benzyna+LPG,Wilkszyn,Dolnośląskie,2003
+11596,dodge,Dodge Durango 5.9,25500.0,98 000 km,automatic,8 000 cm3,Benzyna,Świnoujście,Zachodniopomorskie,2004
+11597,dodge,Dodge RAM 1500 5.9 4WD,47500.0,98 000 km,automatic,8 000 cm3,Benzyna,Chełmno,Kujawsko-pomorskie,2004
+11598,dodge,Dodge Durango,36900.0,136 400 km,automatic,5 895 cm3,Benzyna,Szczecin,Zachodniopomorskie,2002
+11599,dodge,Dodge RAM,59900.0,136 400 km,automatic,5 895 cm3,Benzyna,Warszawa,Mazowieckie,2002
+11600,dodge,Dodge RAM,53500.0,277 000 km,automatic,5 895 cm3,Benzyna+LPG,Kłodzko,Dolnośląskie,2002
+11601,dodge,Dodge Caravan Base 3.0,5290.0,277 000 km,automatic,5 895 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2002
+11602,dodge,Dodge Grand Caravan 3.3,18500.0,159 000 km,automatic,5 896 cm3,Benzyna,Kwidzyn,Pomorskie,2000
+11603,dodge,Dodge Intrepid 2.7 ES,8900.0,159 000 km,automatic,5 896 cm3,Benzyna,Kielce,Świętokrzyskie,2000
+11604,dodge,Dodge Dakota,28000.0,235 584 km,automatic,4 701 cm3,Benzyna,Oborniki Śląskie,Dolnośląskie,2004
+11605,dodge,Dodge Grand Caravan,78500.0,141 000 km,automatic,3 605 cm3,Benzyna,Białystok,Podlaskie,2018
+11606,dodge,Dodge Grand Caravan,81000.0,141 000 km,automatic,3 605 cm3,Benzyna,Zakopane,Małopolskie,2018
+11607,dodge,Dodge Charger 6.4 Scat Pack Widebody,210000.0,179 000 km,automatic,3 605 cm3,Benzyna,Kraków,Małopolskie,2017
+11608,dodge,Dodge Challenger Automatik R/T Plus Scat Pack,147000.0,179 000 km,automatic,3 605 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2017
+11609,dodge,Dodge RAM 1500 5.7 4x4,278800.0,97 000 km,automatic,6 417 cm3,Benzyna,Świdnica,Dolnośląskie,2017
+11610,dodge,Dodge Charger,76900.0,97 000 km,automatic,6 417 cm3,Benzyna,Koźminek,Wielkopolskie,2017
+11611,dodge,Dodge Charger 6.4 Scat Pack,165000.0,37 000 km,automatic,6 417 cm3,Benzyna,Łomianki,Mazowieckie,2015
+11612,dodge,Dodge Challenger,168000.0,37 000 km,automatic,6 417 cm3,Benzyna,Radzymin,Mazowieckie,2015
+11613,dodge,Dodge Challenger,109000.0,55 205 km,automatic,5 654 cm3,Benzyna,Werbkowice,Lubelskie,2019
+11614,dodge,Dodge Challenger Automatik SXT Plus,125000.0,55 205 km,automatic,5 654 cm3,Benzyna,Łańcut,Podkarpackie,2019
+11615,dodge,Dodge Grand Caravan,80500.0,171 000 km,automatic,3 604 cm3,Benzyna,Gliwice,Śląskie,2015
+11616,dodge,Dodge RAM 1500 5.7 4x4,188800.0,171 000 km,automatic,3 604 cm3,Benzyna,Raszyn,Mazowieckie,2015
+11617,dodge,Dodge Challenger 6.2 Hellcat Widebody,277777.0,35 000 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2019
+11618,dodge,Dodge Challenger 6.4 Scat PackWidebody,309900.0,35 000 km,automatic,6 417 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+11619,dodge,Dodge Challenger Automatik SXT Plus,96700.0,97 070 km,automatic,5 654 cm3,Benzyna,Drezdenko,Lubuskie,2018
+11620,dodge,Dodge Charger 3.6 GT,88000.0,97 070 km,automatic,5 654 cm3,Benzyna,Dobużek,Lubelskie,2018
+11621,dodge,Dodge Challenger,123999.0,147 000 km,automatic,5 654 cm3,Benzyna,Nowy Sącz,Małopolskie,2017
+11622,dodge,Dodge Challenger 3.6 SXT Plus,119000.0,147 000 km,automatic,5 654 cm3,Benzyna,Gdynia,Pomorskie,2017
+11623,dodge,Dodge Challenger 3.6 GT Plus AWD,114999.0,49 100 km,automatic,3 604 cm3,Benzyna,Grójec,Mazowieckie,2019
+11624,dodge,Dodge RAM 1500 4.7 4x4,119310.0,49 100 km,automatic,3 604 cm3,Benzyna,Krapkowice,Opolskie,2019
+11625,dodge,Dodge Charger 5.7 R/T,89000.0,135 000 km,automatic,3 605 cm3,Benzyna,Grodzisk Mazowiecki,Mazowieckie,2019
+11626,dodge,"Dodge Durango 3,6 Limited",82900.0,135 000 km,automatic,3 605 cm3,Benzyna,Nowy Sącz,Małopolskie,2019
+11627,dodge,Dodge Challenger 3.6 SXT,50000.0,107 130 km,automatic,5 654 cm3,Benzyna,Warszawa,Mazowieckie,2016
+11628,dodge,Dodge Journey,68900.0,107 130 km,automatic,5 654 cm3,Benzyna,Białystok,Podlaskie,2016
+11629,dodge,Dodge Challenger,132000.0,85 454 km,automatic,6 166 cm3,Benzyna,Chojnice,Pomorskie,2018
+11630,dodge,Dodge Grand Caravan 3.6 Express,47950.0,85 454 km,automatic,6 166 cm3,Benzyna,Juchnowiec Dolny,Podlaskie,2018
+11631,dodge,Dodge Charger Automatik SRT 392,120000.0,47 000 km,automatic,6 417 cm3,Benzyna,Starogard Gdański,Pomorskie,2019
+11632,dodge,Dodge RAM 1500 5.7 4x4,156000.0,47 000 km,automatic,6 417 cm3,Benzyna,Radomsko,Łódzkie,2019
+11633,dodge,Dodge RAM 1500 5.7 4x4,118000.0,125 300 km,automatic,3 604 cm3,Benzyna,Szczecin,Zachodniopomorskie,2016
+11634,dodge,Dodge Challenger 6.2 Hellcat,269000.0,125 300 km,automatic,3 604 cm3,Benzyna,Gubin,Lubuskie,2016
+11635,dodge,Dodge Challenger Automatik SXT Plus,85900.0,155 000 km,automatic,3 604 cm3,Benzyna,Kaliska,Pomorskie,2017
+11636,dodge,Dodge Grand Caravan 3.6 R/T,63900.0,155 000 km,automatic,3 604 cm3,Benzyna,Białystok,Podlaskie,2017
+11637,dodge,Dodge Durango,67777.0,290 000 km,automatic,5 700 cm3,Benzyna,Gdańsk,Pomorskie,2011
+11638,dodge,Dodge RAM 1500 5.7 4x4,92000.0,290 000 km,automatic,5 700 cm3,Benzyna,Brzeziny,Łódzkie,2011
+11639,dodge,Dodge Charger,35000.0,272 000 km,automatic,5 654 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2013
+11640,dodge,Dodge Charger Automatik Rally,79000.0,272 000 km,automatic,5 654 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2013
+11641,dodge,Dodge Durango,65000.0,248 000 km,automatic,3 604 cm3,Benzyna,Słupsk,Pomorskie,2013
+11642,dodge,Dodge RAM 1500 5.7 4x4,67000.0,248 000 km,automatic,3 604 cm3,Benzyna,Złotoryja,Dolnośląskie,2013
+11643,dodge,Dodge Journey,47900.0,140 000 km,automatic,3 604 cm3,Benzyna,Pierwoszyno,Pomorskie,2012
+11644,dodge,Dodge RAM,86100.0,140 000 km,automatic,3 604 cm3,Benzyna,Biłgoraj,Lubelskie,2012
+11645,dodge,Dodge Challenger,65000.0,244 000 km,automatic,3 604 cm3,Benzyna,Łódź,Łódzkie,2013
+11646,dodge,Dodge,51000.0,244 000 km,automatic,3 604 cm3,Benzyna,Nysa,Opolskie,2013
+11647,dodge,Dodge RAM 1500 5.7 4x4,67650.0,138 000 km,automatic,5 654 cm3,Benzyna,Nysa,Opolskie,2013
+11648,dodge,Dodge Grand Caravan 3.6 Express,56900.0,138 000 km,automatic,5 654 cm3,Benzyna,Żory,Śląskie,2013
+11649,dodge,Dodge RAM 1500 4.7 4x4,34999.0,221 600 km,automatic,3 600 cm3,Benzyna+LPG,Kielce,Świętokrzyskie,2012
+11650,dodge,Dodge Challenger Automatik SXT Plus,36000.0,221 600 km,automatic,3 600 cm3,Benzyna+LPG,Tarnów,Małopolskie,2012
+11651,dodge,Dodge Nitro 4.0 V6 RT,50900.0,99 000 km,automatic,4 701 cm3,Benzyna,Kraków,Małopolskie,2014
+11652,dodge,Dodge Charger,32500.0,99 000 km,automatic,4 701 cm3,Benzyna,Warszawa,Mazowieckie,2014
+11653,dodge,Dodge Journey,58900.0,117 766 km,automatic,5 654 cm3,Benzyna,Radom,Mazowieckie,2011
+11654,dodge,Dodge Charger Automatik Rally,51000.0,117 766 km,automatic,5 654 cm3,Benzyna,Józefosław,Mazowieckie,2011
+11655,dodge,Dodge Charger,69500.0,250 000 km,automatic,2 999 cm3,Diesel,Białystok,Podlaskie,2014
+11656,dodge,Dodge Charger 5.7 V8 RT,93900.0,250 000 km,automatic,2 999 cm3,Diesel,Kowale,Pomorskie,2014
+11657,dodge,Dodge RAM 1500 5.7 4x4,79000.0,300 000 km,automatic,5 654 cm3,Benzyna,Sierakowice,Pomorskie,2013
+11658,dodge,Dodge Durango,65000.0,300 000 km,automatic,5 654 cm3,Benzyna,Różyny,Pomorskie,2013
+11659,dodge,Dodge Journey,50900.0,142 000 km,automatic,3 605 cm3,Benzyna+LPG,Lublin,Lubelskie,2012
+11660,dodge,Dodge Durango 5.7 R/T,94000.0,142 000 km,automatic,3 605 cm3,Benzyna+LPG,Milicz,Dolnośląskie,2012
+11661,dodge,Dodge Durango,27000.0,435 000 km,automatic,4 701 cm3,Benzyna,Gręzów,Mazowieckie,2012
+11662,dodge,Dodge Charger 3.6 GT,61000.0,435 000 km,automatic,4 701 cm3,Benzyna,Gniezno,Wielkopolskie,2012
+11663,dodge,Dodge Durango,99900.0,124 172 km,automatic,3 604 cm3,Benzyna,Kraków,Małopolskie,2014
+11664,dodge,"Dodge Durango 5,7 R/T",39000.0,124 172 km,automatic,3 604 cm3,Benzyna,Gręzów,Mazowieckie,2014
+11665,dodge,Dodge Charger,80000.0,205 603 km,automatic,3 952 cm3,Benzyna,Łódź,Łódzkie,2011
+11666,dodge,Dodge Charger 5.7 R/T,33000.0,205 603 km,automatic,3 952 cm3,Benzyna,Katowice,Śląskie,2011
+11667,dodge,Dodge Challenger,76000.0,133 792 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2014
+11668,dodge,Dodge Charger 3.6 GT,49500.0,133 792 km,automatic,3 600 cm3,Benzyna,Zaręby Kościelne,Mazowieckie,2014
+11669,dodge,Dodge Charger Automatik SRT 392,229990.0,16 870 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11670,dodge,Dodge Challenger 3.6 SXT,269900.0,16 870 km,automatic,6 417 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+11671,dodge,Dodge RAM 1500 5.7 4x4,339900.0,20 km,automatic,3 604 cm3,Benzyna,Katowice,Śląskie,2022
+11672,dodge,Dodge RAM 5.7 4x4,166000.0,20 km,automatic,3 604 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2022
+11673,dodge,Dodge Challenger 5.7 R/T,369900.0,30 km,automatic,5 654 cm3,Benzyna,Chorzów,Śląskie,2023
+11674,dodge,Dodge Charger 6.4 Scat Pack,189900.0,30 km,automatic,5 654 cm3,Benzyna,Rzeszów,Podkarpackie,2023
+11675,dodge,Dodge Charger,124000.0,45 600 km,automatic,5 654 cm3,Benzyna,Mława,Mazowieckie,2020
+11676,dodge,Dodge Charger,134000.0,45 600 km,automatic,5 654 cm3,Benzyna,Mława,Mazowieckie,2020
+11677,dodge,Dodge Charger 5.7 R/T,179000.0,10 km,automatic,5 654 cm3,Benzyna,Ostrołęka,Mazowieckie,2022
+11678,dodge,Dodge Challenger,459900.0,10 km,automatic,5 654 cm3,Benzyna,Wejherowo,Pomorskie,2022
+11679,dodge,Dodge Challenger 3.6 SXT,137777.0,2 900 km,automatic,6 417 cm3,Benzyna,Siemianowice Śląskie,Śląskie,2020
+11680,dodge,Dodge Challenger 6.2 Hellcat,369000.0,2 900 km,automatic,6 417 cm3,Benzyna,Białystok,Podlaskie,2020
+11681,dodge,Dodge Journey,48000.0,7 734 km,automatic,3 600 cm3,Benzyna,Tarnów,Małopolskie,2022
+11682,dodge,Dodge Durango,498000.0,7 734 km,automatic,3 600 cm3,Benzyna,Łódź,Łódzkie,2022
+11683,dodge,Dodge Challenger 6.4 Scat Pack,91000.0,23 275 km,automatic,3 600 cm3,Benzyna,Tychy,Śląskie,2022
+11684,dodge,Dodge Durango 6.4 SRT,235000.0,23 275 km,automatic,3 600 cm3,Benzyna,Tychy,Śląskie,2022
+11685,dodge,Dodge RAM,570000.0,2 300 km,automatic,5 654 cm3,Benzyna,Tarnów,Małopolskie,2021
+11686,dodge,Dodge Durango 5.7 R/T,99000.0,2 300 km,automatic,5 654 cm3,Benzyna,Daleszynek,Wielkopolskie,2021
+11687,dodge,Dodge Durango,89000.0,16 km,automatic,6 400 cm3,Benzyna,Daleszynek,Wielkopolskie,2022
+11688,dodge,Dodge Challenger 6.4 Scat PackWidebody,139300.0,16 km,automatic,6 400 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11689,dodge,Dodge RAM 1500 5.7 4x4,499900.0,39 000 km,automatic,3 604 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11690,dodge,Dodge Durango 5.7 R/T,399900.0,39 000 km,automatic,3 604 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+11691,dodge,Dodge Charger,369990.0,21 800 km,automatic,6 166 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+11692,dodge,Dodge RAM 1500 5.7 4x4,509900.0,21 800 km,automatic,6 166 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+11693,dodge,Dodge Durango,91300.0,50 658 km,automatic,2 360 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11694,dodge,Dodge Charger 6.4 Scat Pack Widebody,239000.0,50 658 km,automatic,2 360 cm3,Benzyna,Sulejów,Łódzkie,2020
+11695,dodge,Dodge RAM 1500 5.7 4x4,349900.0,23 061 km,automatic,6 200 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+11696,dodge,Dodge RAM 1500 5.7 4x4,539990.0,23 061 km,automatic,6 200 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+11697,dodge,Dodge Durango 5.7 R/T,199999.0,13 722 km,automatic,6 417 cm3,Benzyna,Różyny,Pomorskie,2021
+11698,dodge,Dodge Durango 5.7 R/T,399900.0,13 722 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2021
+11699,dodge,Dodge Challenger 3.6 SXT Plus,298000.0,38 479 km,automatic,6 417 cm3,Benzyna,Katowice,Śląskie,2021
+11700,dodge,Dodge Challenger 3.6 GT AWD,189900.0,38 479 km,automatic,6 417 cm3,Benzyna,Tychy,Śląskie,2021
+11701,dodge,Dodge RAM 5.7 4x4,339000.0,29 900 km,automatic,5 654 cm3,Benzyna+LPG,Suchy Las,Wielkopolskie,2020
+11702,dodge,Dodge Charger 6.4 Scat Pack Widebody,235000.0,29 900 km,automatic,5 654 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2020
+11703,dodge,Dodge Challenger 6.2 Redeye Widebody,398999.0,42 500 km,automatic,6 417 cm3,Benzyna,Rybnik,Śląskie,2020
+11704,dodge,Dodge Challenger 5.7 R/T,199000.0,42 500 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11705,dodge,Dodge Challenger 5.7 R/T,179000.0,5 000 km,automatic,6 166 cm3,Benzyna,Werbkowice,Lubelskie,2020
+11706,dodge,Dodge Challenger 5.7 R/T,179000.0,5 000 km,automatic,6 166 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2020
+11707,dodge,Dodge Durango,232000.0,11 250 km,automatic,5 654 cm3,Benzyna,Rzezawa,Małopolskie,2021
+11708,dodge,Dodge Durango,749990.0,11 250 km,automatic,5 654 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+11709,dodge,Dodge Challenger 6.4 Scat PackWidebody,260000.0,21 000 km,automatic,5 654 cm3,Benzyna,Łódź,Łódzkie,2020
+11710,dodge,Dodge RAM 1500 5.7 4x4,349935.0,21 000 km,automatic,5 654 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+11711,dodge,Dodge,550000.0,34 000 km,automatic,5 654 cm3,Benzyna,Sanok,Podkarpackie,2020
+11712,dodge,Dodge Challenger 6.4 Scat PackWidebody,399800.0,34 000 km,automatic,5 654 cm3,Benzyna,Józefów,Mazowieckie,2020
+11713,dodge,Dodge RAM 1500 5.7 4x4,255000.0,29 000 km,automatic,3 604 cm3,Benzyna,Skarżysko-Kamienna,Świętokrzyskie,2021
+11714,dodge,Dodge Durango 5.7 R/T,150000.0,29 000 km,automatic,3 604 cm3,Benzyna,Świeszyno,Zachodniopomorskie,2021
+11715,dodge,Dodge Charger 6.4 Scat Pack,379900.0,10 km,automatic,6 166 cm3,Benzyna,Warszawa,Mazowieckie,2021
+11716,dodge,Dodge Durango 5.7 R/T,166500.0,10 km,automatic,6 166 cm3,Benzyna,Konin,Wielkopolskie,2021
+11717,dodge,Dodge RAM 1500 5.7 4x4,519900.0,18 500 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11718,dodge,Dodge RAM 1500 5.7 4x4,529000.0,18 500 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11719,dodge,Dodge RAM 1500 5.7 4x4,449000.0,40 000 km,automatic,5 654 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11720,dodge,Dodge Challenger Automatik SXT Plus,136000.0,40 000 km,automatic,5 654 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2020
+11721,dodge,Dodge Durango,359900.0,10 300 km,automatic,6 200 cm3,Benzyna,Warszawa,Mazowieckie,2021
+11722,dodge,Dodge RAM 1500 5.7 4x4,459000.0,10 300 km,automatic,6 200 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+11723,dodge,Dodge RAM 1500 5.7 4x4,529900.0,15 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11724,dodge,Dodge Durango,829990.0,15 km,automatic,6 417 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+11725,dodge,Dodge Challenger,329000.0,2 640 km,automatic,5 654 cm3,Benzyna,Warszawa,Mazowieckie,2021
+11726,dodge,Dodge RAM 1500 5.7 4x4,165000.0,2 640 km,automatic,5 654 cm3,Benzyna,Człuchów,Pomorskie,2021
+11727,dodge,Dodge Durango 5.7 R/T,217000.0,68 811 km,automatic,5 654 cm3,Benzyna,Różyny,Pomorskie,2021
+11728,dodge,Dodge RAM 1500 5.7 4x4,282900.0,68 811 km,automatic,5 654 cm3,Benzyna,Białystok,Podlaskie,2021
+11729,dodge,Dodge Charger,179700.0,10 km,automatic,6 417 cm3,Benzyna,Wyszków,Mazowieckie,2022
+11730,dodge,Dodge RAM 1500 5.7 4x4,308900.0,10 km,automatic,6 417 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11731,dodge,Dodge Challenger 5.7 R/T,354900.0,68 000 km,automatic,5 654 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+11732,dodge,Dodge Challenger,329900.0,68 000 km,automatic,5 654 cm3,Benzyna,Długołęka,Dolnośląskie,2020

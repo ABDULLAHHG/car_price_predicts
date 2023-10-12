@@ -1,0 +1,1233 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+67096,skoda,Skoda Fabia 1.2 12V Classic,7500.0,223 338 km,manual,1 198 cm3,Benzyna+LPG,Łódź,Łódzkie,2003
+67097,skoda,Skoda Superb 2.8 V6 Elegance,14800.0,223 338 km,manual,1 198 cm3,Benzyna+LPG,Ozorków,Łódzkie,2003
+67098,skoda,Skoda Octavia 1.6 Elegance,12500.0,310 000 km,manual,2 771 cm3,Benzyna+LPG,Chęciny,Świętokrzyskie,2002
+67099,skoda,Skoda Fabia 1.2 12V Comfort,6900.0,310 000 km,manual,2 771 cm3,Benzyna+LPG,Legionowo,Mazowieckie,2002
+67100,skoda,Skoda Superb 1.9 TDI Classic,8900.0,147 000 km,manual,1 595 cm3,Benzyna,Szczecin,Zachodniopomorskie,2002
+67101,skoda,Skoda Octavia 1.9 SDI Classic,5450.0,147 000 km,manual,1 595 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2002
+67102,skoda,Skoda Fabia 1.2 HTP Ice Classic +,3499.0,196 000 km,manual,1 198 cm3,Benzyna,Garwolin,Mazowieckie,2004
+67103,skoda,Skoda Fabia 1.2 12V Classic,4900.0,196 000 km,manual,1 198 cm3,Benzyna,Pszczyna,Śląskie,2004
+67104,skoda,Skoda Octavia 1.9 TDI Ice,6000.0,260 000 km,manual,1 896 cm3,Diesel,Wieliczka,Małopolskie,2003
+67105,skoda,Skoda Fabia 1.4 Classic,6950.0,260 000 km,manual,1 896 cm3,Diesel,Gostynin,Mazowieckie,2003
+67106,skoda,Skoda Fabia 1.4,5400.0,254 500 km,manual,1 896 cm3,Diesel,Juszkowo,Pomorskie,2001
+67107,skoda,Skoda Octavia 1.6 Combi Tour,10900.0,254 500 km,manual,1 896 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2001
+67108,skoda,Skoda Octavia 1.9 TDI Classic,16300.0,198 000 km,manual,1 198 cm3,Benzyna+LPG,Gostynin,Mazowieckie,2004
+67109,skoda,Skoda Octavia 2.0 Ambiente,9500.0,198 000 km,manual,1 198 cm3,Benzyna+LPG,Racibórz,Śląskie,2004
+67110,skoda,Skoda Fabia,6000.0,310 000 km,manual,1 198 cm3,Benzyna+LPG,Myszków,Śląskie,2004
+67111,skoda,Skoda Fabia 1.4 16V Classic,10900.0,310 000 km,manual,1 198 cm3,Benzyna+LPG,Gostynin,Mazowieckie,2004
+67112,skoda,Skoda Octavia 1.8T SLX,8400.0,251 000 km,manual,1 896 cm3,Diesel,Wrocław,Dolnośląskie,2002
+67113,skoda,Skoda Fabia 1.9 SDI Ambiente,9900.0,251 000 km,manual,1 896 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2002
+67114,skoda,Skoda Octavia 1.6 Elegance,14900.0,90 000 km,manual,1 397 cm3,Benzyna,Wolbórz,Łódzkie,2001
+67115,skoda,Skoda Octavia,8300.0,90 000 km,manual,1 397 cm3,Benzyna,Brzeg,Opolskie,2001
+67116,skoda,Skoda Superb,8900.0,289 130 km,manual,1 397 cm3,Benzyna+LPG,Szczodrów,Dolnośląskie,2001
+67117,skoda,Skoda Fabia 1.2 HTP Classic,4900.0,289 130 km,manual,1 397 cm3,Benzyna+LPG,Klepacze,Podlaskie,2001
+67118,skoda,Skoda Fabia,7999.0,186 000 km,manual,1 595 cm3,Benzyna,Płońsk,Mazowieckie,2003
+67119,skoda,Skoda Octavia 1.4 Classic,6500.0,186 000 km,manual,1 595 cm3,Benzyna,Przysieka Polska,Wielkopolskie,2003
+67120,skoda,Skoda Octavia 2.0 SLX,5500.0,266 400 km,manual,1 896 cm3,Diesel,Warszawa,Mazowieckie,2004
+67121,skoda,Skoda Octavia 1.6 Ambiente,4900.0,266 400 km,manual,1 896 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2004
+67122,skoda,Skoda Fabia 1.4,4900.0,295 000 km,manual,1 984 cm3,Benzyna+LPG,Wyczechy,Pomorskie,2004
+67123,skoda,Skoda Octavia 1.9 TDI Ambiente,4299.0,295 000 km,manual,1 984 cm3,Benzyna+LPG,Złoty Stok,Dolnośląskie,2004
+67124,skoda,Skoda Fabia 1.9 TDI Ambiente,9900.0,220 000 km,manual,1 390 cm3,Benzyna,Złotów,Wielkopolskie,2003
+67125,skoda,Skoda Octavia 1.6 Ambiente,6200.0,220 000 km,manual,1 390 cm3,Benzyna,Oleśnica,Dolnośląskie,2003
+67126,skoda,Skoda Fabia,8300.0,181 000 km,manual,1 390 cm3,Benzyna,Łódź,Łódzkie,2004
+67127,skoda,Skoda Fabia,5500.0,181 000 km,manual,1 390 cm3,Benzyna,Piaseczno,Mazowieckie,2004
+67128,skoda,Skoda Superb 1.8 TSI 4x4 Elegance,63000.0,108 000 km,manual,1 798 cm3,Benzyna,Kraków,Małopolskie,2014
+67129,skoda,Skoda Fabia 1.6 TDI DPF Ambition,19680.0,108 000 km,manual,1 798 cm3,Benzyna,Kraków,Małopolskie,2014
+67130,skoda,Skoda RAPID 1.6 TDI DPF Active,21000.0,181 753 km,manual,1 598 cm3,Diesel,Bąków,Śląskie,2014
+67131,skoda,Skoda Fabia 1.2 TSI Style,18000.0,181 753 km,manual,1 598 cm3,Diesel,Szczecin,Zachodniopomorskie,2014
+67132,skoda,Skoda Yeti 2.0 TDI DPF 4x4 Ambition,34700.0,375 376 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2014
+67133,skoda,Skoda Yeti 2.0 TDI SCR 4x2 Active,33500.0,375 376 km,manual,1 598 cm3,Diesel,Brzeźnica,Podkarpackie,2014
+67134,skoda,Skoda Octavia 2.0 TDI DPF 4x4 Cross,24750.0,163 000 km,manual,1 197 cm3,Benzyna,Sosnowiec,Śląskie,2010
+67135,skoda,Skoda Octavia 1.6 TDI Ambiente,26700.0,163 000 km,manual,1 197 cm3,Benzyna,Głuchołazy,Opolskie,2010
+67136,skoda,Skoda Octavia 2.0 TDI Ambiente,34999.0,197 000 km,manual,1 968 cm3,Diesel,Kąty Opolskie,Opolskie,2010
+67137,skoda,Skoda Octavia 1.6 Ambiente,37900.0,197 000 km,manual,1 968 cm3,Diesel,Białystok,Podlaskie,2010
+67138,skoda,Skoda Superb 1.6 TDI GreenLine,44500.0,114 000 km,manual,1 968 cm3,Diesel,Gniezno,Wielkopolskie,2012
+67139,skoda,Skoda Octavia 1.6 FAMILY,24600.0,114 000 km,manual,1 968 cm3,Diesel,Konradów,Łódzkie,2012
+67140,skoda,Skoda Octavia 1.6 TDI Elegance,28500.0,273 800 km,manual,1 968 cm3,Diesel,Opole,Opolskie,2013
+67141,skoda,Skoda Fabia,25500.0,273 800 km,manual,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2013
+67142,skoda,Skoda Octavia 2.0 TDI Ambition,35000.0,251 000 km,manual,1 598 cm3,Diesel,Bolesławiec,Dolnośląskie,2013
+67143,skoda,Skoda Superb 2.0 TDI Comfort,31999.0,251 000 km,manual,1 598 cm3,Diesel,Pasłęk,Warmińsko-mazurskie,2013
+67144,skoda,Skoda Octavia 2.0 TDI Ambition,45000.0,193 700 km,manual,1 968 cm3,Diesel,Tychy,Śląskie,2011
+67145,skoda,Skoda Fabia 1.2 TDI DPF Greenline,16800.0,193 700 km,manual,1 968 cm3,Diesel,Straszyn,Pomorskie,2011
+67146,skoda,Skoda Fabia 1.2 TSI Active,25900.0,155 000 km,manual,1 595 cm3,Benzyna+LPG,Suchożebry,Mazowieckie,2012
+67147,skoda,Skoda Superb 2.0 TDI Ambition,35900.0,155 000 km,manual,1 595 cm3,Benzyna+LPG,Płock,Mazowieckie,2012
+67148,skoda,Skoda Octavia,25900.0,153 400 km,manual,1 598 cm3,Diesel,Skoczów,Śląskie,2011
+67149,skoda,Skoda RAPID 1.6 TDI DPF Elegance,24900.0,153 400 km,manual,1 598 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2011
+67150,skoda,Skoda Yeti 2.0 TDI 4x4 Ambition,35900.0,306 000 km,manual,1 595 cm3,Benzyna+LPG,Nowy Sącz,Małopolskie,2012
+67151,skoda,Skoda Fabia,18700.0,306 000 km,manual,1 595 cm3,Benzyna+LPG,Twardogóra,Dolnośląskie,2012
+67152,skoda,Skoda Fabia 1.2 12V Classic,17900.0,237 000 km,manual,1 598 cm3,Diesel,Szamotuły,Wielkopolskie,2013
+67153,skoda,Skoda Roomster,36000.0,237 000 km,manual,1 598 cm3,Diesel,Katowice,Śląskie,2013
+67154,skoda,Skoda Octavia 1.6 TDI Ambition,33500.0,92 886 km,manual,1 198 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+67155,skoda,Skoda Octavia,35000.0,92 886 km,manual,1 198 cm3,Benzyna,Lublin,Lubelskie,2014
+67156,skoda,Skoda RAPID 1.2 TSI Ambition,38900.0,256 000 km,manual,1 968 cm3,Diesel,Trzebinia,Małopolskie,2013
+67157,skoda,Skoda Octavia 2.0 TDI Ambition,44900.0,256 000 km,manual,1 968 cm3,Diesel,Warszawa,Mazowieckie,2013
+67158,skoda,Skoda Roomster 1.4 16V Scout,19900.0,359 000 km,manual,1 968 cm3,Diesel,Pierzchnica,Świętokrzyskie,2012
+67159,skoda,Skoda Superb 1.8 TSI Ambition,51999.0,359 000 km,manual,1 968 cm3,Diesel,Olecko,Warmińsko-mazurskie,2012
+67160,skoda,Skoda Felicia,7800.0,210 676 km,manual,1 289 cm3,Benzyna,Prochowice,Dolnośląskie,1998
+67161,skoda,Skoda Felicia,5000.0,210 676 km,manual,1 289 cm3,Benzyna,Kraków,Małopolskie,1998
+67162,skoda,Skoda Felicia,1550.0,155 000 km,manual,1 289 cm3,Benzyna,Gubin,Lubuskie,1997
+67163,skoda,Skoda Octavia 1.6 GLX,4300.0,155 000 km,manual,1 289 cm3,Benzyna,Kraków,Małopolskie,1997
+67164,skoda,Skoda Octavia,5999.0,200 000 km,manual,1 598 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,1996
+67165,skoda,Skoda Felicia 1.6 GLXi,2800.0,200 000 km,manual,1 598 cm3,Benzyna,Józefów,Mazowieckie,1996
+67166,skoda,Skoda Felicia,2900.0,260 000 km,manual,1 598 cm3,Benzyna+LPG,Łódź,Łódzkie,1997
+67167,skoda,Skoda Octavia 1.9 TDI GLX,1900.0,260 000 km,manual,1 598 cm3,Benzyna+LPG,Sieradz,Łódzkie,1997
+67168,skoda,Skoda Felicia,1500.0,215 000 km,manual,1 595 cm3,Benzyna,Katowice,Śląskie,1998
+67169,skoda,Skoda Felicia,2200.0,215 000 km,manual,1 595 cm3,Benzyna,Katowice,Śląskie,1998
+67170,skoda,Skoda Felicia Kombi 1.3 LXi MPI,2500.0,106 000 km,manual,1 598 cm3,Benzyna,Łódź,Łódzkie,1999
+67171,skoda,Skoda Octavia 1.8 SLX,3999.0,106 000 km,manual,1 598 cm3,Benzyna,Krzywizna,Opolskie,1999
+67172,skoda,Skoda Octavia 1.9 TDI GLX,3199.0,142 000 km,manual,1 598 cm3,Benzyna,Rzeszów,Podkarpackie,1999
+67173,skoda,Skoda Octavia 1.6 GLX,2299.0,142 000 km,manual,1 598 cm3,Benzyna,Nowogrodziec,Dolnośląskie,1999
+67174,skoda,Skoda Felicia 1.3 LXi MPI,20000.0,370 000 km,manual,1 896 cm3,Diesel,Poręba,Śląskie,1999
+67175,skoda,Skoda Octavia 2.0 GLX,4900.0,370 000 km,manual,1 896 cm3,Diesel,Łowicz,Łódzkie,1999
+67176,skoda,Skoda Felicia 1.3 LX,3899.0,209 000 km,manual,1 289 cm3,Benzyna,Oława,Dolnośląskie,1995
+67177,skoda,Skoda Felicia 1.3 LX,1999.0,209 000 km,manual,1 289 cm3,Benzyna,Psary,Śląskie,1995
+67178,skoda,Skoda Octavia 1.9 TDI GLX,6950.0,176 000 km,manual,1 289 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,1997
+67179,skoda,Skoda Octavia 2.0 SLX,3499.0,176 000 km,manual,1 289 cm3,Benzyna,Kraków,Małopolskie,1997
+67180,skoda,Skoda Octavia,5999.0,168 000 km,manual,1 289 cm3,Benzyna,Wielogóra,Mazowieckie,1996
+67181,skoda,Skoda Octavia,3700.0,168 000 km,manual,1 289 cm3,Benzyna,Kraków,Małopolskie,1996
+67182,skoda,Skoda Octavia 1.9 TDI GLX,2600.0,190 000 km,manual,1 781 cm3,Benzyna,Radostowice,Śląskie,1999
+67183,skoda,Skoda Octavia 1.9 TDI SLX,10999.0,190 000 km,manual,1 781 cm3,Benzyna,Zamość,Lubelskie,1999
+67184,skoda,Skoda Octavia 1.6 GLX,3300.0,292 162 km,manual,1 896 cm3,Diesel,Warszawa,Mazowieckie,1999
+67185,skoda,Skoda Felicia,2000.0,292 162 km,manual,1 896 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,1999
+67186,skoda,Skoda Octavia,1800.0,272 000 km,manual,1 595 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1999
+67187,skoda,Skoda Felicia,2700.0,272 000 km,manual,1 595 cm3,Benzyna+LPG,Łódź,Łódzkie,1999
+67188,skoda,Skoda Felicia 1.3 LXi,3200.0,15 000 km,manual,1 289 cm3,Benzyna,Rzeszów,Podkarpackie,1997
+67189,skoda,Skoda Octavia 1.6 LX,5900.0,15 000 km,manual,1 289 cm3,Benzyna,Szczecin,Zachodniopomorskie,1997
+67190,skoda,Skoda Felicia 1.3 LXi,8500.0,189 150 km,manual,1 984 cm3,Benzyna,Pyrzyce,Zachodniopomorskie,1999
+67191,skoda,Skoda Octavia 1.8 SLX,4500.0,189 150 km,manual,1 984 cm3,Benzyna,Warszawa,Mazowieckie,1999
+67192,skoda,Skoda Octavia 2.0 TDI Ambition,124450.0,7 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+67193,skoda,Skoda Octavia 1.5 TSI ACT Ambition,119950.0,7 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+67194,skoda,Skoda Karoq 1.5 TSI ACT GPF 4x2 Ambition,129900.0,7 km,manual,1 498 cm3,Benzyna,Łódź,Łódzkie,2023
+67195,skoda,Skoda Kamiq 1.0 TSI Ambition,93702.0,7 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+67196,skoda,Skoda Octavia 1.5 TSI ACT Ambition,131020.0,7 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2023
+67197,skoda,Skoda Fabia 1.0 TSI Ambition,79350.0,7 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67198,skoda,Skoda Fabia 1.0 TSI Ambition,51500.0,1 km,manual,999 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2023
+67199,skoda,Skoda Octavia 2.0 TDI Ambition,138500.0,1 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67200,skoda,Skoda Scala 1.5 TSI Monte Carlo,120834.0,4 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+67201,skoda,Skoda Fabia 1.0 TSI Style,83650.0,4 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+67202,skoda,Skoda Kamiq,86000.0,1 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2023
+67203,skoda,Skoda Octavia 1.5 TSI ACT Ambition,111500.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67204,skoda,Skoda Scala 1.0 TSI Ambition,91700.0,83 839 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2021
+67205,skoda,Skoda Fabia 1.0 TSI Style,88500.0,83 839 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2021
+67206,skoda,Skoda Fabia 1.0 TSI Style,91000.0,5 km,manual,1 968 cm3,Diesel,Chorzów,Śląskie,2023
+67207,skoda,Skoda Scala 1.0 TSI Ambition,79900.0,5 km,manual,1 968 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2023
+67208,skoda,Skoda Octavia 2.0 TDI Ambition,131670.0,1 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2023
+67209,skoda,Skoda Fabia 1.0 Style,83615.0,1 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+67210,skoda,Skoda Fabia 1.0 TSI Ambition,49900.0,1 km,manual,999 cm3,Benzyna,Rzeszów,Podkarpackie,2023
+67211,skoda,Skoda Scala,110200.0,1 km,manual,999 cm3,Benzyna,Dobroń,Łódzkie,2023
+67212,skoda,Skoda Scala 1.5 TSI Style,99990.0,31 876 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2020
+67213,skoda,Skoda Superb 2.0 TDI SCR Style,124900.0,31 876 km,manual,999 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2020
+67214,skoda,Skoda Fabia 1.0 TSI Ambition,46900.0,23 000 km,manual,1 498 cm3,Benzyna,Sokołów,Mazowieckie,2020
+67215,skoda,Skoda Octavia,97800.0,23 000 km,manual,1 498 cm3,Benzyna,Sosnowiec,Śląskie,2020
+67216,skoda,Skoda Karoq 1.5 TSI ACT Ambition,133900.0,1 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67217,skoda,Skoda Octavia 1.5 TSI ACT Ambition,125900.0,1 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67218,skoda,Skoda Octavia 2.0 TDI Ambition,132600.0,12 000 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2021
+67219,skoda,Skoda Octavia 1.5 TSI ACT Ambition,126200.0,12 000 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2021
+67220,skoda,Skoda Octavia 1.5 TSI ACT Style,134100.0,1 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67221,skoda,Skoda Octavia 1.5 TSI ACT Style,109800.0,1 km,manual,999 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2023
+67222,skoda,Skoda Superb,118970.0,37 700 km,manual,999 cm3,Benzyna,Piła,Wielkopolskie,2021
+67223,skoda,Skoda Octavia,105000.0,37 700 km,manual,999 cm3,Benzyna,Zabrze,Śląskie,2021
+67224,skoda,Skoda Octavia 2.0 TDI Ambition,94900.0,77 104 km,manual,1 968 cm3,Diesel,Gdańsk,Pomorskie,2021
+67225,skoda,Skoda Fabia 1.0 Ambition,43500.0,77 104 km,manual,1 968 cm3,Diesel,Śrem,Wielkopolskie,2021
+67226,skoda,Skoda Kamiq,98500.0,86 000 km,manual,999 cm3,Benzyna+LPG,Świętochłowice,Śląskie,2020
+67227,skoda,Skoda Kamiq,111500.0,86 000 km,manual,999 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2020
+67228,skoda,Skoda Scala,103100.0,999 cm3,manual,Benzyna,2023,Szczecin,Zachodniopomorskie,2023
+67229,skoda,Skoda Fabia 1.0 TSI Ambition,51900.0,Benzyna,manual,2023,999 cm3,Wrocław,Dolnośląskie,999 cm3
+67230,skoda,Skoda Kamiq,111500.0,2023,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,Benzyna
+67231,skoda,Skoda Scala 1.0 TSI Ambition,67900.0,999 cm3,manual,Benzyna,2023,Gdańsk,Pomorskie,2023
+67232,skoda,Skoda Octavia,120850.0,Benzyna,manual,2020,114 000 km,Świętochłowice,Śląskie,999 cm3
+67233,skoda,Skoda Kamiq 1.0 TSI Ambition,102650.0,Benzyna,manual,2020,114 000 km,Łódź,Łódzkie,999 cm3
+67234,skoda,Skoda Fabia 1.0 TSI Ambition,49900.0,Benzyna,manual,2023,999 cm3,Elbląg,Warmińsko-mazurskie,999 cm3
+67235,skoda,Skoda Octavia 1.5 TSI ACT Ambition,99900.0,2023,manual,999 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,Benzyna
+67236,skoda,Skoda Octavia 1.5 TSI ACT Style,109900.0,87 000 km,manual,999 cm3,Benzyna,Mysłowice,Śląskie,2020
+67237,skoda,Skoda Fabia,89000.0,87 000 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2020
+67238,skoda,Skoda Kamiq,102050.0,1 498 cm3,manual,Benzyna,2023,Poznań,Wielkopolskie,2023
+67239,skoda,Skoda Fabia,89000.0,Benzyna,manual,2023,7 km,Poznań,Wielkopolskie,1 498 cm3
+67240,skoda,Skoda Kamiq,112300.0,Benzyna,manual,2023,7 km,Poznań,Wielkopolskie,999 cm3
+67241,skoda,Skoda Scala,65900.0,Benzyna,manual,2020,127 000 km,Bydgoszcz,Kujawsko-pomorskie,999 cm3
+67242,skoda,Skoda Octavia 1.6 TDI Ambition,69900.0,Benzyna,manual,2020,127 000 km,Warszawa,Mazowieckie,999 cm3
+67243,skoda,Skoda Fabia,53900.0,Benzyna,manual,2020,72 291 km,Gdańsk,Pomorskie,999 cm3
+67244,skoda,Skoda Octavia 1.5 TSI ACT Ambition,98900.0,Benzyna,manual,2020,72 291 km,Świdnica,Dolnośląskie,1 498 cm3
+67245,skoda,Skoda Fabia,53900.0,Benzyna,manual,2020,45 800 km,Gdańsk,Pomorskie,1 498 cm3
+67246,skoda,Skoda Karoq 1.5 TSI ACT GPF 4x2 Sportline,146900.0,Benzyna,manual,2020,45 800 km,Płock,Mazowieckie,1 498 cm3
+67247,skoda,Skoda Octavia 1.5 TSI ACT Style,129000.0,Benzyna,manual,2022,999 cm3,Płock,Mazowieckie,1 498 cm3
+67248,skoda,Skoda Kamiq 1.0 TSI Ambition,99100.0,2022,manual,999 cm3,Benzyna,Świętochłowice,Śląskie,Benzyna
+67249,skoda,Skoda Octavia,130900.0,999 cm3,manual,Benzyna,2022,Świętochłowice,Śląskie,2022
+67250,skoda,Skoda Scala 1.5 TSI Ambition,97500.0,Benzyna,manual,2022,1 km,Włocławek,Kujawsko-pomorskie,999 cm3
+67251,skoda,Skoda Kamiq 1.0 TSI Ambition,92850.0,Benzyna,manual,2022,1 km,Gdańsk,Pomorskie,999 cm3
+67252,skoda,Skoda Scala 1.5 TSI Style,114350.0,Benzyna,manual,2022,1 498 cm3,Gdynia,Pomorskie,999 cm3
+67253,skoda,Skoda Scala,104400.0,2022,manual,1 498 cm3,Benzyna,Szczecin,Zachodniopomorskie,Benzyna
+67254,skoda,Skoda Kamiq 1.5 TSI Ambition,109950.0,113 543 km,manual,999 cm3,Benzyna,Nowy Sącz,Małopolskie,2020
+67255,skoda,Skoda Superb 1.5 TSI Ambition,107900.0,113 543 km,manual,999 cm3,Benzyna,Mysłowice,Śląskie,2020
+67256,skoda,Skoda Octavia,104900.0,55 184 km,manual,1 498 cm3,Benzyna,Gdańsk,Pomorskie,2021
+67257,skoda,Skoda Kamiq 1.5 TSI Ambition,115100.0,55 184 km,manual,1 498 cm3,Benzyna,Koszalin,Zachodniopomorskie,2021
+67258,skoda,Skoda Kamiq 1.0 TSI Ambition,97250.0,10 km,manual,1 498 cm3,Benzyna,Lublin,Lubelskie,2023
+67259,skoda,Skoda Kamiq 1.5 TSI Ambition,109700.0,10 km,manual,1 498 cm3,Benzyna,Koszalin,Zachodniopomorskie,2023
+67260,skoda,Skoda Octavia 1.5 TSI ACT Style,96900.0,7 km,manual,999 cm3,Benzyna,Gdynia,Pomorskie,2023
+67261,skoda,Skoda Octavia 1.5 TSI ACT Ambition,114900.0,7 km,manual,999 cm3,Benzyna,Tarnów,Małopolskie,2023
+67262,skoda,Skoda Kamiq,111900.0,10 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67263,skoda,Skoda Kamiq,107900.0,10 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67264,skoda,Skoda Fabia 1.0 Ambition,77200.0,22 163 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2020
+67265,skoda,Skoda Kamiq 1.0 TSI Style,106000.0,22 163 km,manual,1 498 cm3,Benzyna,Świdnik,Lubelskie,2020
+67266,skoda,Skoda Kamiq,102750.0,5 088 km,manual,1 498 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+67267,skoda,Skoda Fabia 1.0 TSI Style,81000.0,5 088 km,manual,1 498 cm3,Benzyna,Świdnik,Lubelskie,2022
+67268,skoda,Skoda Scala 1.0 TSI Active,58900.0,5 km,manual,1 498 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+67269,skoda,Skoda Octavia 1.5 TSI ACT Ambition,119900.0,5 km,manual,1 498 cm3,Benzyna,Łęczyca,Łódzkie,2023
+67270,skoda,Skoda Octavia 1.6 TDI SCR Ambition,64900.0,5 km,manual,1 498 cm3,Benzyna,Andrychów,Małopolskie,2023
+67271,skoda,Skoda Octavia,160520.0,5 km,manual,1 498 cm3,Benzyna,Koszalin,Zachodniopomorskie,2023
+67272,skoda,Skoda Octavia 2.0 TSI RS,191820.0,1 km,manual,999 cm3,Benzyna,Koszalin,Zachodniopomorskie,2023
+67273,skoda,Skoda Fabia 1.0 TSI Ambition,49899.0,1 km,manual,999 cm3,Benzyna,Wyśmierzyce,Mazowieckie,2023
+67274,skoda,Skoda Octavia 1.5 TSI ACT Ambition,99900.0,1 376 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+67275,skoda,Skoda Fabia,78000.0,1 376 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+67276,skoda,Skoda Octavia 2.0 TDI Ambition,131700.0,999 cm3,manual,Benzyna,2023,Sosnowiec,Śląskie,2023
+67277,skoda,Skoda Octavia 1.5 TSI ACT Ambition,128150.0,Benzyna,manual,2022,338 km,Wrocław,Dolnośląskie,999 cm3
+67278,skoda,Skoda Octavia 1.5 TSI ACT Ambition,128000.0,Benzyna,manual,2022,338 km,Wrocław,Dolnośląskie,999 cm3
+67279,skoda,Skoda Octavia 2.0 TDI Ambition,128900.0,Benzyna,manual,2020,130 541 km,Lubin,Dolnośląskie,999 cm3
+67280,skoda,Skoda Fabia 1.0 Ambition,76400.0,Benzyna,manual,2020,130 541 km,Łódź,Łódzkie,999 cm3
+67281,skoda,Skoda Fabia 1.0 TSI Ambition,54900.0,Benzyna,manual,2023,7 km,Tychy,Śląskie,999 cm3
+67282,skoda,Skoda Fabia,54900.0,Benzyna,manual,2023,7 km,Tychy,Śląskie,1 498 cm3
+67283,skoda,Skoda Octavia,119900.0,Benzyna,manual,2020,156 812 km,Szczecin,Zachodniopomorskie,1 498 cm3
+67284,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Ambition,99900.0,Diesel,manual,2020,156 812 km,Olsztyn,Warmińsko-mazurskie,1 598 cm3
+67285,skoda,Skoda Fabia 1.0 TSI Ambition,81400.0,Diesel,manual,2023,10 km,Wrocław,Dolnośląskie,1 598 cm3
+67286,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Style,142420.0,Benzyna,manual,2023,10 km,Chorzów,Śląskie,1 498 cm3
+67287,skoda,Skoda Superb 2.0 TDI Ambition,175000.0,Benzyna,manual,2023,10 km,Lubin,Dolnośląskie,1 498 cm3
+67288,skoda,Skoda Octavia 1.5 TSI ACT Style,96000.0,45 430 km,manual,1 498 cm3,Benzyna,Pobiedziska,Wielkopolskie,2020
+67289,skoda,Skoda Octavia 2.0 TDI Ambition,59900.0,45 430 km,manual,1 498 cm3,Benzyna,Dobrzyniewo Duże,Podlaskie,2020
+67290,skoda,Skoda Kamiq 1.0 TSI Ambition,99999.0,32 407 km,manual,1 968 cm3,Diesel,Kielce,Świętokrzyskie,2020
+67291,skoda,Skoda Scala 1.0 TSI Active,77900.0,32 407 km,manual,1 968 cm3,Diesel,Falenty,Mazowieckie,2020
+67292,skoda,Skoda Scala 1.5 TSI Style,109998.0,3 600 km,manual,999 cm3,Benzyna,Miedziana Góra,Świętokrzyskie,2022
+67293,skoda,Skoda Octavia 1.5 TSI ACT Style,141050.0,3 600 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2022
+67294,skoda,Skoda Fabia 1.0 TSI Ambition,55799.0,5 km,manual,999 cm3,Benzyna,Łajski,Mazowieckie,2023
+67295,skoda,Skoda Fabia 1.0 TSI Style,89950.0,5 km,manual,999 cm3,Benzyna,Koszalin,Zachodniopomorskie,2023
+67296,skoda,Skoda Octavia 2.0 TDI Active,114900.0,820 km,manual,1 498 cm3,Benzyna,Falenty,Mazowieckie,2022
+67297,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,820 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2022
+67298,skoda,Skoda Fabia 1.0 TSI Ambition,80900.0,5 km,manual,1 498 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2023
+67299,skoda,Skoda Octavia 2.0 TDI Ambition,122900.0,5 km,manual,1 498 cm3,Benzyna,Falenty,Mazowieckie,2023
+67300,skoda,Skoda Fabia,46999.0,42 956 km,manual,999 cm3,Benzyna,Tarnowskie Góry,Śląskie,2021
+67301,skoda,Skoda Scala 1.0 TSI Ambition,74799.0,42 956 km,manual,999 cm3,Benzyna,Modlniczka,Małopolskie,2021
+67302,skoda,Skoda Octavia 1.5 TSI ACT Ambition,129600.0,10 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+67303,skoda,Skoda Octavia 1.5 TSI ACT Ambition,126900.0,10 km,manual,999 cm3,Benzyna,Falenty,Mazowieckie,2023
+67304,skoda,Skoda Superb 2.0 TDI Ambition,77920.0,7 km,manual,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+67305,skoda,Skoda Fabia 1.0 TSI Ambition,52900.0,7 km,manual,1 968 cm3,Diesel,Przeźmierowo,Wielkopolskie,2023
+67306,skoda,Skoda Octavia,141050.0,5 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67307,skoda,Skoda Octavia,92999.0,5 km,manual,1 498 cm3,Benzyna,Świebodzin,Lubuskie,2023
+67308,skoda,Skoda Scala 1.5 TSI Style,117224.0,10 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2023
+67309,skoda,Skoda Octavia 1.5 TSI ACT Ambition,131020.0,10 km,manual,999 cm3,Benzyna,Gdynia,Pomorskie,2023
+67310,skoda,Skoda Octavia,111000.0,7 km,manual,1 968 cm3,Diesel,Poznań,Wielkopolskie,2023
+67311,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Style,126900.0,7 km,manual,1 968 cm3,Diesel,Poznań,Wielkopolskie,2023
+67312,skoda,Skoda Octavia 1.5 TSI ACT Sportline,145500.0,198 km,manual,999 cm3,Benzyna+LPG,Łódź,Łódzkie,2021
+67313,skoda,Skoda Octavia 1.5 TSI ACT Ambition,128150.0,198 km,manual,999 cm3,Benzyna+LPG,Łódź,Łódzkie,2021
+67314,skoda,Skoda Fabia 1.0 TSI Active,41999.0,59 621 km,manual,999 cm3,Benzyna,Pępowo,Pomorskie,2021
+67315,skoda,Skoda Octavia 1.5 TSI ACT Ambition,123801.0,59 621 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2021
+67316,skoda,Skoda Octavia 1.5 TSI ACT Ambition,128301.0,1 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67317,skoda,Skoda Octavia 1.6 TDI Ambition,71900.0,1 km,manual,1 498 cm3,Benzyna,Płock,Mazowieckie,2023
+67318,skoda,Skoda Octavia 1.5 TSI ACT Ambition,119900.0,7 km,manual,1 498 cm3,Benzyna,Łódź,Łódzkie,2023
+67319,skoda,Skoda Octavia 1.5 TSI ACT Ambition,118850.0,7 km,manual,1 498 cm3,Benzyna,Klaudyn,Mazowieckie,2023
+67320,skoda,Skoda Karoq,156990.0,1 498 cm3,manual,Benzyna,2023,Kraków,Małopolskie,2023
+67321,skoda,Skoda Kamiq 1.5 TSI Ambition,85900.0,Benzyna,manual,2020,93 754 km,Piła,Wielkopolskie,1 498 cm3
+67322,skoda,Skoda Octavia 1.5 TSI ACT Style,143000.0,Benzyna,manual,2020,93 754 km,Nowy Targ,Małopolskie,1 498 cm3
+67323,skoda,Skoda Scala 1.0 TSI Style,74700.0,Benzyna,manual,2023,1 km,Katowice,Śląskie,1 498 cm3
+67324,skoda,Skoda Octavia,99900.0,Benzyna,manual,2023,1 km,Gdańsk,Pomorskie,1 498 cm3
+67325,skoda,Skoda Octavia,93900.0,Benzyna,manual,2020,45 703 km,Gdańsk,Pomorskie,1 498 cm3
+67326,skoda,Skoda Octavia 2.0 TDI Ambition,132050.0,Benzyna,manual,2020,45 703 km,Warszawa,Mazowieckie,999 cm3
+67327,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,Benzyna,manual,2021,24 863 km,Warszawa,Mazowieckie,999 cm3
+67328,skoda,Skoda Kamiq 1.5 TSI Style,123050.0,Benzyna,manual,2021,24 863 km,Piła,Wielkopolskie,1 498 cm3
+67329,skoda,Skoda Octavia 1.5 TSI ACT Style,95900.0,Benzyna,manual,2021,66 866 km,Warszawa,Mazowieckie,1 498 cm3
+67330,skoda,Skoda Kamiq 1.5 TSI Style,118990.0,Benzyna,manual,2021,66 866 km,Wieliczka,Małopolskie,1 498 cm3
+67331,skoda,Skoda Octavia 1.6 TDI Ambition,74900.0,Benzyna,manual,2023,5 km,Modlniczka,Małopolskie,1 498 cm3
+67332,skoda,Skoda Octavia 1.5 TSI ACT Ambition,116800.0,Diesel,manual,2023,5 km,Gliwice,Śląskie,1 968 cm3
+67333,skoda,Skoda Kamiq 1.5 TSI Style,118200.0,Diesel,manual,2023,5 km,Kalisz,Wielkopolskie,1 968 cm3
+67334,skoda,Skoda Scala 1.5 TSI Style,99990.0,Benzyna,manual,2023,5 km,Libertów,Małopolskie,1 498 cm3
+67335,skoda,Skoda Kamiq,96250.0,Benzyna,manual,2023,6 km,Szczecin,Zachodniopomorskie,1 498 cm3
+67336,skoda,Skoda Kodiaq,109900.0,Benzyna,manual,2023,6 km,Bolesławice,Pomorskie,1 498 cm3
+67337,skoda,Skoda Octavia 1.6 TDI SCR Ambition,57899.0,Benzyna,manual,2020,72 900 km,Rybnik,Śląskie,1 498 cm3
+67338,skoda,Skoda Fabia 1.0 TSI Ambition,53900.0,Benzyna,manual,2020,72 900 km,Białystok,Podlaskie,1 498 cm3
+67339,skoda,Skoda Fabia 1.0 Ambition,33898.0,Benzyna,manual,2023,1 km,Rybnik,Śląskie,1 498 cm3
+67340,skoda,Skoda Octavia 1.5 TSI ACT Ambition,102900.0,Benzyna,manual,2023,1 km,Warszawa,Mazowieckie,1 498 cm3
+67341,skoda,Skoda Octavia 1.5 TSI ACT Style,142970.0,Benzyna,manual,2020,96 010 km,Gdynia,Pomorskie,1 498 cm3
+67342,skoda,Skoda Karoq 1.0 TSI GPF 4x2 Ambition,124800.0,Diesel,manual,2020,96 010 km,Poznań,Wielkopolskie,1 598 cm3
+67343,skoda,Skoda Octavia 1.5 TSI ACT Style,136650.0,Diesel,manual,2022,7 996 km,Poznań,Wielkopolskie,1 598 cm3
+67344,skoda,Skoda Octavia 1.5 TSI ACT Style,138900.0,Benzyna,manual,2022,7 996 km,Rzeszów,Podkarpackie,1 498 cm3
+67345,skoda,Skoda Karoq 1.5 TSI ACT Style,140200.0,Benzyna,manual,2023,5 km,Łódź,Łódzkie,1 498 cm3
+67346,skoda,Skoda Octavia,99900.0,Benzyna,manual,2023,5 km,Słupca,Wielkopolskie,1 498 cm3
+67347,skoda,Skoda Kamiq 1.5 TSI Style,121500.0,Benzyna,manual,2022,9 588 km,Chorzów,Śląskie,1 498 cm3
+67348,skoda,Skoda Octavia,134300.0,Benzyna,manual,2022,9 588 km,Łódź,Łódzkie,1 498 cm3
+67349,skoda,Skoda Fabia 1.0 TSI Style,89500.0,Benzyna,manual,2023,999 cm3,Poznań,Wielkopolskie,1 498 cm3
+67350,skoda,Skoda Scala 1.0 TSI Ambition,83900.0,2023,manual,999 cm3,Benzyna,Gliwice,Śląskie,Benzyna
+67351,skoda,Skoda Octavia 1.5 TSI ACT Style,124500.0,66 915 km,manual,1 498 cm3,Benzyna,Gliwice,Śląskie,2020
+67352,skoda,Skoda Scala 1.0 TSI Ambition,69000.0,81 000 km,manual,999 cm3,Benzyna,Mława,Mazowieckie,2020
+67353,skoda,Skoda Octavia 1.5 TSI ACT Style,39900.0,81 000 km,manual,999 cm3,Benzyna,Dobrzyniewo Duże,Podlaskie,2020
+67354,skoda,Skoda Octavia 1.5 TSI ACT Ambition,99900.0,64 067 km,manual,1 498 cm3,Benzyna,Radom,Mazowieckie,2020
+67355,skoda,Skoda Scala,79000.0,64 067 km,manual,1 498 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2020
+67356,skoda,Skoda Superb 1.5 TSI Active,84799.0,29 056 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+67357,skoda,Skoda Scala 1.5 TSI Ambition,84900.0,29 056 km,manual,1 498 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2020
+67358,skoda,Skoda Octavia 1.5 TSI ACT Style,111000.0,34 766 km,manual,999 cm3,Benzyna,Wałbrzych,Dolnośląskie,2021
+67359,skoda,Skoda Fabia 1.0 TSI Ambition,82500.0,34 766 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+67360,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Style,141510.0,123 376 km,manual,1 498 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2020
+67361,skoda,Skoda Superb 2.0 TDI SCR Style,170000.0,123 376 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+67362,skoda,Skoda Octavia,94900.0,59 644 km,manual,1 498 cm3,Benzyna,Opole,Opolskie,2020
+67363,skoda,Skoda Scala 1.0 TSI Ambition,74900.0,59 644 km,manual,1 498 cm3,Benzyna,Kalisz,Wielkopolskie,2020
+67364,skoda,Skoda Octavia 1.5 TSI ACT Ambition,79500.0,34 600 km,manual,1 498 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2020
+67365,skoda,Skoda Kamiq 1.5 TSI Ambition,102900.0,34 600 km,manual,1 498 cm3,Benzyna,Tarnowskie Góry,Śląskie,2020
+67366,skoda,Skoda Scala 1.5 TSI Style,110000.0,9 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67367,skoda,Skoda Scala 1.5 TSI Style,110000.0,9 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67368,skoda,Skoda Octavia 1.5 TSI ACT Style,138200.0,4 km,manual,1 968 cm3,Diesel,Starogard Gdański,Pomorskie,2023
+67369,skoda,Skoda Octavia 2.0 TDI Ambition,99900.0,4 km,manual,1 968 cm3,Diesel,Opole,Opolskie,2023
+67370,skoda,Skoda Octavia 1.5 TSI ACT Style,133970.0,1 km,manual,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2022
+67371,skoda,Skoda Octavia 1.5 TSI ACT Style,134510.0,1 km,manual,1 968 cm3,Diesel,Chorzów,Śląskie,2022
+67372,skoda,Skoda Octavia,134930.0,42 197 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2020
+67373,skoda,Skoda Octavia 1.5 TSI ACT Style,140150.0,42 197 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2020
+67374,skoda,Skoda Fabia 1.0 TSI Ambition,54900.0,4 117 km,manual,999 cm3,Benzyna,Wieliczka,Małopolskie,2021
+67375,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121185.0,4 117 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2021
+67376,skoda,Skoda Kamiq 1.5 TSI Style,126990.0,145 000 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2020
+67377,skoda,Skoda Octavia 1.0 TSI Ambition,115100.0,145 000 km,manual,1 498 cm3,Benzyna,Tychy,Śląskie,2020
+67378,skoda,Skoda Octavia 1.5 TSI ACT Style,134510.0,4 700 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2022
+67379,skoda,Skoda Octavia 2.0 TDI Ambition,133801.0,4 700 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+67380,skoda,Skoda Kamiq 1.0 TSI Ambition,101108.0,1 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67381,skoda,Skoda Octavia,128301.0,1 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67382,skoda,Skoda Octavia 1.5 TSI ACT Ambition,123951.0,1 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67383,skoda,Skoda Octavia 1.5 TSI ACT Ambition,123951.0,1 km,manual,1 498 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67384,skoda,Skoda Kamiq,88900.0,18 551 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+67385,skoda,Skoda Octavia,109900.0,18 551 km,manual,999 cm3,Benzyna,Gdańsk,Pomorskie,2020
+67386,skoda,Skoda Octavia 1.5 TSI ACT Style,129400.0,37 829 km,manual,1 498 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2021
+67387,skoda,Skoda Fabia 1.0 TSI Ambition,80950.0,37 829 km,manual,1 498 cm3,Benzyna,Starogard Gdański,Pomorskie,2021
+67388,skoda,Skoda Fabia 1.0 TSI Ambition,38900.0,7 km,manual,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+67389,skoda,Skoda Fabia 1.0 Ambition,55900.0,7 km,manual,1 498 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2023
+67390,skoda,Skoda Octavia 1.5 TSI GPF ACT Ambition,105800.0,9 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+67391,skoda,Skoda Octavia 1.0 TSI Active,89900.0,9 km,manual,999 cm3,Benzyna,Opole,Opolskie,2023
+67392,skoda,Skoda Scala,113350.0,134 039 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+67393,skoda,Skoda Octavia 1.0 TSI Active,82900.0,134 039 km,manual,999 cm3,Benzyna,Radom,Mazowieckie,2020
+67394,skoda,Skoda Scala 1.0 TSI Ambition,80900.0,89 070 km,manual,999 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2021
+67395,skoda,Skoda Octavia,109900.0,89 070 km,manual,999 cm3,Benzyna+LPG,Bydgoszcz,Kujawsko-pomorskie,2021
+67396,skoda,Skoda Octavia,138300.0,13 499 km,manual,1 498 cm3,Benzyna,Częstochowa,Śląskie,2020
+67397,skoda,Skoda Fabia 1.0 TSI Ambition,56900.0,13 499 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2020
+67398,skoda,Skoda Kamiq 1.0 TSI Style,117100.0,30 660 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2020
+67399,skoda,Skoda Kamiq,102050.0,30 660 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2020
+67400,skoda,Skoda Kamiq,102050.0,1 498 cm3,manual,Benzyna,2023,Poznań,Wielkopolskie,2023
+67401,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Style,134900.0,Benzyna,manual,2020,86 800 km,Chorzów,Śląskie,1 498 cm3
+67402,skoda,Skoda Octavia 1.5 TSI ACT Ambition,116000.0,Benzyna,manual,2020,86 800 km,Pisz,Warmińsko-mazurskie,999 cm3
+67403,skoda,Skoda Scala 1.0 TSI Active,85550.0,Benzyna,manual,2021,30 000 km,Koszalin,Zachodniopomorskie,999 cm3
+67404,skoda,Skoda Octavia 1.5 TSI ACT Ambition,129920.0,Benzyna,manual,2021,30 000 km,Koszalin,Zachodniopomorskie,999 cm3
+67405,skoda,Skoda Octavia 1.5 TSI ACT Ambition,97800.0,Benzyna,manual,2020,70 500 km,Gorzów Wielkopolski,Lubuskie,999 cm3
+67406,skoda,Skoda Kamiq 1.5 TSI Monte Carlo,140300.0,Benzyna,manual,2020,70 500 km,Koszalin,Zachodniopomorskie,1 498 cm3
+67407,skoda,Skoda Fabia 1.0 TSI Ambition,76300.0,Benzyna,manual,2023,1 km,Kalisz,Wielkopolskie,1 498 cm3
+67408,skoda,Skoda Scala,101800.0,Benzyna,manual,2023,1 km,Świętochłowice,Śląskie,1 500 cm3
+67409,skoda,Skoda Scala 1.5 TSI Monte Carlo,111500.0,Benzyna,manual,2020,79 673 km,Pisz,Warmińsko-mazurskie,1 500 cm3
+67410,skoda,Skoda Fabia 1.0 TSI Ambition,59900.0,Benzyna,manual,2020,79 673 km,Opole,Opolskie,999 cm3
+67411,skoda,Skoda Scala,102400.0,Benzyna,manual,2022,999 cm3,Świętochłowice,Śląskie,999 cm3
+67412,skoda,Skoda Fabia 1.0 TSI Style,82900.0,2022,manual,999 cm3,Benzyna,Starogard Gdański,Pomorskie,Benzyna
+67413,skoda,Skoda Fabia 1.0 TSI Style,79990.0,999 cm3,manual,Benzyna,2023,Wieliczka,Małopolskie,2023
+67414,skoda,Skoda Octavia,89900.0,Benzyna,manual,2023,999 cm3,Konstantynów Łódzki,Łódzkie,999 cm3
+67415,skoda,Skoda Octavia,142970.0,2023,manual,999 cm3,Benzyna,Kraków,Małopolskie,Benzyna
+67416,skoda,Skoda Kamiq,101900.0,999 cm3,manual,Benzyna,2023,Świętochłowice,Śląskie,2023
+67417,skoda,Skoda Scala,102400.0,Benzyna,manual,2023,1 498 cm3,Świętochłowice,Śląskie,999 cm3
+67418,skoda,Skoda Superb 2.0 TDI Ambition,103900.0,2023,manual,1 498 cm3,Benzyna,Mysłowice,Śląskie,Benzyna
+67419,skoda,Skoda Kamiq,103100.0,129 000 km,manual,1 968 cm3,Diesel,Świętochłowice,Śląskie,2020
+67420,skoda,Skoda Octavia 1.5 TSI ACT Style,142000.0,129 000 km,manual,1 968 cm3,Diesel,Siedlce,Mazowieckie,2020
+67421,skoda,Skoda Fabia 1.0 TSI Monte Carlo,63500.0,999 cm3,manual,Benzyna,2023,Lublin,Lubelskie,2023
+67422,skoda,Skoda Octavia 2.0 TDI Style,137700.0,Benzyna,manual,2023,10 km,Lublin,Lubelskie,999 cm3
+67423,skoda,Skoda Fabia,49900.0,Benzyna,manual,2023,10 km,Wolica,Mazowieckie,1 498 cm3
+67424,skoda,Skoda Scala 1.0 TSI Style,101900.0,Benzyna,manual,2020,25 600 km,Wałbrzych,Dolnośląskie,1 498 cm3
+67425,skoda,Skoda Octavia 2.0 TDI Ambition,99900.0,Benzyna,manual,2020,25 600 km,Opole,Opolskie,999 cm3
+67426,skoda,Skoda Scala 1.0 TSI Ambition,75900.0,Benzyna,manual,2022,579 km,Wrocław,Dolnośląskie,999 cm3
+67427,skoda,Skoda Octavia 1.5 TSI ACT Style,141050.0,Diesel,manual,2022,579 km,Starogard Gdański,Pomorskie,1 968 cm3
+67428,skoda,Skoda Fabia,82450.0,Diesel,manual,2021,116 593 km,Gorzów Wielkopolski,Lubuskie,1 968 cm3
+67429,skoda,Skoda Fabia,47900.0,Benzyna,manual,2021,116 593 km,Poznań,Wielkopolskie,999 cm3
+67430,skoda,Skoda Fabia,48900.0,Benzyna,manual,2023,5 km,Tychy,Śląskie,999 cm3
+67431,skoda,Skoda Octavia 2.0 TDI Ambition,139650.0,Benzyna,manual,2023,5 km,Łódź,Łódzkie,999 cm3
+67432,skoda,Skoda Scala 1.0 TSI Ambition,74900.0,Benzyna,manual,2020,74 624 km,Kędzierzyn-Koźle,Opolskie,999 cm3
+67433,skoda,Skoda Octavia 1.5 TSI ACT Style,102900.0,Diesel,manual,2020,74 624 km,Mikołów,Śląskie,1 968 cm3
+67434,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,Diesel,manual,2020,44 000 km,Wrocław,Dolnośląskie,1 968 cm3
+67435,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,Benzyna,manual,2020,44 000 km,Starogard Gdański,Pomorskie,999 cm3
+67436,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,Benzyna,manual,2023,9 km,Starogard Gdański,Pomorskie,999 cm3
+67437,skoda,Skoda Scala 1.0 TSI Style,89900.0,Benzyna,manual,2023,9 km,Łódź,Łódzkie,1 498 cm3
+67438,skoda,Skoda Fabia 1.0 TSI Ambition,52799.0,Benzyna,manual,2021,2 055 km,Warszawa,Mazowieckie,1 498 cm3
+67439,skoda,Skoda Octavia 1.5 TSI ACT Style,104799.0,Benzyna,manual,2021,2 055 km,Warszawa,Mazowieckie,999 cm3
+67440,skoda,Skoda Octavia 1.5 TSI ACT Ambition,123620.0,Benzyna,manual,2021,85 100 km,Koszalin,Zachodniopomorskie,999 cm3
+67441,skoda,Skoda Superb 2.0 TDI SCR Style,182320.0,Benzyna,manual,2021,85 100 km,Koszalin,Zachodniopomorskie,999 cm3
+67442,skoda,Skoda Octavia 1.5 TSI ACT Style,142970.0,Benzyna,manual,2020,78 458 km,Koszalin,Zachodniopomorskie,999 cm3
+67443,skoda,Skoda Octavia,163270.0,Benzyna,manual,2020,78 458 km,Koszalin,Zachodniopomorskie,999 cm3
+67444,skoda,Skoda Scala,120850.0,Benzyna,manual,2023,1 km,Koszalin,Zachodniopomorskie,999 cm3
+67445,skoda,Skoda Scala 1.5 TSI Ambition,102300.0,Diesel,manual,2023,1 km,Kalisz,Wielkopolskie,1 968 cm3
+67446,skoda,Skoda Scala 1.5 TSI Style,100000.0,Diesel,manual,2021,78 307 km,Sulechów,Lubuskie,1 968 cm3
+67447,skoda,Skoda Scala 1.5 TSI Monte Carlo,120350.0,Benzyna,manual,2021,78 307 km,Wrocław,Dolnośląskie,999 cm3
+67448,skoda,Skoda Kamiq 1.5 TSI Ambition,99900.0,5 637 km,manual,1 498 cm3,Benzyna,Rybnik,Śląskie,2021
+67449,skoda,Skoda Octavia 2.0 TDI Ambition,121159.0,5 637 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2021
+67450,skoda,Skoda Octavia,121700.0,4 km,manual,1 968 cm3,Diesel,Dobroń,Łódzkie,2023
+67451,skoda,Skoda Superb,107900.0,4 km,manual,1 968 cm3,Diesel,Myślenice,Małopolskie,2023
+67452,skoda,Skoda Fabia 1.0 TSI Ambition,76900.0,5 km,manual,1 500 cm3,Benzyna,Katowice,Śląskie,2023
+67453,skoda,Skoda Fabia 1.0 TSI Style,88850.0,5 km,manual,1 500 cm3,Benzyna,Łódź,Łódzkie,2023
+67454,skoda,Skoda Karoq,58700.0,62 700 km,manual,1 500 cm3,Benzyna,Warszawa,Mazowieckie,2020
+67455,skoda,Skoda Kamiq 1.0 TSI Style,115300.0,62 700 km,manual,1 500 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+67456,skoda,Skoda Fabia 1.0 Ambition,44500.0,4 565 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+67457,skoda,Skoda Octavia 2.0 TDI Ambition,136600.0,4 565 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+67458,skoda,Skoda Fabia 1.0 Style,79600.0,7 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2023
+67459,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Ambition,133172.0,7 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2023
+67460,skoda,Skoda Kamiq 1.0 TSI Ambition,94461.0,15 000 km,manual,999 cm3,Benzyna,Chorzów,Śląskie,2021
+67461,skoda,Skoda Fabia 1.0 TSI Ambition Plus,56900.0,15 000 km,manual,999 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2021
+67462,skoda,Skoda Octavia 1.5 TSI ACT Ambition,118900.0,10 km,manual,999 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2023
+67463,skoda,Skoda Fabia 1.0 TSI Style,89900.0,10 km,manual,999 cm3,Benzyna,Falenty,Mazowieckie,2023
+67464,skoda,Skoda Octavia 1.5 TSI ACT Style,131150.0,38 000 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2020
+67465,skoda,Skoda Octavia 1.5 TSI ACT Style,129250.0,38 000 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2020
+67466,skoda,Skoda Fabia 1.0 TSI Style,89990.0,10 km,manual,1 968 cm3,Diesel,Wieliczka,Małopolskie,2023
+67467,skoda,Skoda Fabia 1.0 TSI Style,88990.0,10 km,manual,1 968 cm3,Diesel,Wieliczka,Małopolskie,2023
+67468,skoda,Skoda Octavia,97000.0,1 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2023
+67469,skoda,Skoda Octavia 1.5 TSI ACT Style,97900.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67470,skoda,Skoda Octavia 1.5 TSI ACT Ambition,124300.0,1 km,manual,1 498 cm3,Benzyna,Katowice,Śląskie,2023
+67471,skoda,Skoda Fabia 1.0 TSI Ambition,86650.0,1 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67472,skoda,Skoda Kamiq 1.5 TSI Style,121100.0,1 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67473,skoda,Skoda Octavia 1.5 TSI ACT Style,132400.0,1 km,manual,999 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2023
+67474,skoda,Skoda Kamiq 1.0 TSI Ambition,85900.0,75 724 km,manual,999 cm3,Benzyna,Brzeg,Opolskie,2021
+67475,skoda,Skoda Octavia 1.5 TSI ACT Ambition,120650.0,75 724 km,manual,999 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2021
+67476,skoda,Skoda Kamiq 1.5 TSI Style,119750.0,21 618 km,manual,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+67477,skoda,Skoda Kamiq 1.0 TSI Ambition,91900.0,21 618 km,manual,1 498 cm3,Benzyna,Zabrze,Śląskie,2022
+67478,skoda,Skoda Octavia 1.5 TSI ACT Ambition,122050.0,5 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67479,skoda,Skoda Octavia 1.5 TSI ACT Ambition,122050.0,5 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2023
+67480,skoda,Skoda Octavia,120850.0,1 498 cm3,manual,Benzyna,2023,Poznań,Wielkopolskie,2023
+67481,skoda,Skoda Kamiq,91800.0,Benzyna,manual,2021,14 220 km,Gliwice,Śląskie,1 498 cm3
+67482,skoda,Skoda Scala,87900.0,Benzyna,manual,2021,14 220 km,Przeźmierowo,Wielkopolskie,999 cm3
+67483,skoda,Skoda Kamiq 1.5 TSI Style,121200.0,Benzyna,manual,2021,32 740 km,Poznań,Wielkopolskie,999 cm3
+67484,skoda,Skoda Fabia 1.0 Ambition,76600.0,Benzyna,manual,2021,32 740 km,Poznań,Wielkopolskie,1 499 cm3
+67485,skoda,Skoda Kamiq 1.5 TSI Style,123500.0,Benzyna,manual,2023,5 km,Tychy,Śląskie,1 499 cm3
+67486,skoda,Skoda Octavia 1.5 TSI ACT Ambition,118850.0,Benzyna,manual,2023,5 km,Klaudyn,Mazowieckie,1 498 cm3
+67487,skoda,Skoda Fabia 1.0 Active,68000.0,Benzyna,manual,2023,5 km,Łódź,Łódzkie,1 498 cm3
+67488,skoda,Skoda Kamiq 1.0 TSI Ambition,100200.0,Benzyna,manual,2023,5 km,Włocławek,Kujawsko-pomorskie,999 cm3
+67489,skoda,Skoda Octavia 1.5 TSI ACT Ambition,134100.0,Benzyna,manual,2023,5 km,Tychy,Śląskie,999 cm3
+67490,skoda,Skoda Octavia 1.5 TSI ACT Ambition,134100.0,Benzyna,manual,2023,5 km,Tychy,Śląskie,1 498 cm3
+67491,skoda,Skoda Fabia 1.0 TSI Ambition,54900.0,Benzyna,manual,2022,9 736 km,Poznań,Wielkopolskie,1 498 cm3
+67492,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Style,99900.0,Benzyna,manual,2022,9 736 km,Poznań,Wielkopolskie,1 498 cm3
+67493,skoda,Skoda Kamiq,79500.0,Benzyna,manual,2022,5 000 km,Katowice,Śląskie,1 498 cm3
+67494,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Style,127000.0,Benzyna,manual,2022,5 000 km,Nieporęt,Mazowieckie,999 cm3
+67495,skoda,Skoda Octavia 1.5 TSI ACT Style,116400.0,Benzyna,manual,2023,5 km,Jędrzejów,Świętokrzyskie,999 cm3
+67496,skoda,Skoda Scala 1.5 TSI Ambition,91500.0,Benzyna,manual,2023,5 km,Błędowa Tyczyńska,Podkarpackie,999 cm3
+67497,skoda,Skoda Fabia 1.0 Ambition,45000.0,Benzyna,manual,2023,5 km,Poznań,Wielkopolskie,999 cm3
+67498,skoda,Skoda Octavia,89000.0,Benzyna,manual,2023,5 km,Białystok,Podlaskie,1 498 cm3
+67499,skoda,Skoda Octavia,119000.0,Benzyna,manual,2023,5 km,Kórnik,Wielkopolskie,1 498 cm3
+67500,skoda,Skoda Karoq 1.5 TSI ACT GPF 4x2 Ambition,104900.0,Benzyna,manual,2023,5 km,Słupsk,Pomorskie,1 498 cm3
+67501,skoda,Skoda Fabia,42000.0,Benzyna,manual,2021,73 885 km,Piaseczno,Mazowieckie,1 498 cm3
+67502,skoda,Skoda Fabia 1.0 Ambition,48500.0,Benzyna,manual,2021,73 885 km,Lubicz Dolny,Kujawsko-pomorskie,999 cm3
+67503,skoda,Skoda Fabia 1.0 Ambition,27306.0,Benzyna,manual,2020,133 346 km,Lubomierz,Dolnośląskie,999 cm3
+67504,skoda,Skoda Octavia,109990.0,Diesel,manual,2020,133 346 km,Falenty,Mazowieckie,1 968 cm3
+67505,skoda,Skoda Octavia 1.5 TSI ACT Ambition,141050.0,Diesel,manual,2020,36 685 km,Kraków,Małopolskie,1 968 cm3
+67506,skoda,Skoda Octavia 1.5 TSI ACT Style,99000.0,Benzyna,manual,2020,36 685 km,Białystok,Podlaskie,999 cm3
+67507,skoda,Skoda Scala 1.5 TSI Ambition,101500.0,Benzyna,manual,2021,50 500 km,Świdnik,Lubelskie,999 cm3
+67508,skoda,Skoda Scala 1.0 TSI Ambition,58425.0,Benzyna,manual,2021,50 500 km,Dębno,Zachodniopomorskie,1 498 cm3
+67509,skoda,Skoda Octavia 1.5 TSI ACT Ambition,102900.0,Benzyna,manual,2022,20 500 km,Rybnik,Śląskie,1 498 cm3
+67510,skoda,Skoda Octavia,99900.0,Benzyna,manual,2022,20 500 km,Wrocław,Dolnośląskie,1 498 cm3
+67511,skoda,Skoda Kamiq 1.5 TSI Ambition,91900.0,Benzyna,manual,2022,10 000 km,Rybnik,Śląskie,1 498 cm3
+67512,skoda,Skoda Octavia 1.0 TSI GPF Ambition,36500.0,62 000 km,manual,999 cm3,Benzyna,Mysłowice,Śląskie,2020
+67513,skoda,Skoda Karoq,104900.0,62 000 km,manual,999 cm3,Benzyna,Żory,Śląskie,2020
+67514,skoda,Skoda Fabia 1.0 TSI Ambition,45500.0,138 000 km,manual,1 968 cm3,Diesel,Radziejowice,Mazowieckie,2020
+67515,skoda,Skoda Octavia 1.5 TSI ACT Style,129900.0,138 000 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+67516,skoda,Skoda Fabia 1.0 TSI Ambition,47900.0,41 821 km,manual,999 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2020
+67517,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,41 821 km,manual,999 cm3,Benzyna,Płock,Mazowieckie,2020
+67518,skoda,Skoda Fabia 1.0 Active,66450.0,9 km,manual,1 498 cm3,Benzyna,Radom,Mazowieckie,2023
+67519,skoda,Skoda Kamiq,59900.0,9 km,manual,1 498 cm3,Benzyna,Ryki,Lubelskie,2023
+67520,skoda,Skoda Octavia 1.5 TSI ACT Style,134507.0,149 000 km,manual,999 cm3,Benzyna,Gdynia,Pomorskie,2020
+67521,skoda,Skoda Octavia 2.0 TDI Ambition,91900.0,149 000 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2020
+67522,skoda,Skoda Octavia 2.0 TDI Ambition,132150.0,9 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+67523,skoda,Skoda Kamiq 1.0 TSI Ambition,99990.0,9 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2023
+67524,skoda,Skoda Fabia 1.0 TSI Style,90990.0,7 km,manual,999 cm3,Benzyna,Wieliczka,Małopolskie,2023
+67525,skoda,Skoda Kamiq 1.0 TSI Ambition,88900.0,7 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2023
+67526,skoda,Skoda Fabia,44900.0,15 000 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2022
+67527,skoda,Skoda Fabia 1.0 TSI Style,84100.0,15 000 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+67528,skoda,Skoda Fabia,90900.0,4 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2023
+67529,skoda,Skoda Kamiq 1.0 TSI Ambition,99297.0,4 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67530,skoda,Skoda Superb 2.0 TDI SCR Style,167550.0,49 120 km,manual,1 968 cm3,Diesel,Warszawa,Mazowieckie,2020
+67531,skoda,Skoda Fabia 1.0 TSI Style,96950.0,49 120 km,manual,1 968 cm3,Diesel,Koszalin,Zachodniopomorskie,2020
+67532,skoda,Skoda Fabia,46500.0,1 km,manual,1 968 cm3,Diesel,Suchy Las,Wielkopolskie,2023
+67533,skoda,Skoda Scala 1.0 TSI Ambition,79945.0,1 km,manual,1 968 cm3,Diesel,Libertów,Małopolskie,2023
+67534,skoda,Skoda Fabia 1.0 Ambition Plus,42000.0,10 km,manual,999 cm3,Benzyna,Zielona Góra,Lubuskie,2023
+67535,skoda,Skoda Octavia 1.5 TSI ACT Ambition,124300.0,10 km,manual,999 cm3,Benzyna,Tarnów,Małopolskie,2023
+67536,skoda,Skoda Octavia 1.5 TSI ACT Style,142770.0,1 km,manual,999 cm3,Benzyna,Zielona Góra,Lubuskie,2023
+67537,skoda,Skoda Octavia,104000.0,1 km,manual,999 cm3,Benzyna,Katowice,Śląskie,2023
+67538,skoda,Skoda Fabia 1.0 TSI Ambition,82900.0,25 250 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2021
+67539,skoda,Skoda Octavia 1.5 TSI ACT Ambition,123400.0,25 250 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67540,skoda,Skoda Octavia,123400.0,148 788 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2020
+67541,skoda,Skoda Scala 1.6 TDI SCR Ambition,67900.0,148 788 km,manual,999 cm3,Benzyna+LPG,Częstochowa,Śląskie,2020
+67542,skoda,Skoda Octavia 1.5 TSI ACT Ambition,79900.0,1 km,manual,999 cm3,Benzyna,Myślenice,Małopolskie,2023
+67543,skoda,Skoda Fabia 1.0 Active,71000.0,1 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+67544,skoda,Skoda Octavia 1.0 TSI Active,89900.0,73 591 km,manual,999 cm3,Benzyna,Opole,Opolskie,2020
+67545,skoda,Skoda Octavia,122000.0,73 591 km,manual,999 cm3,Benzyna,Dobroń,Łódzkie,2020
+67546,skoda,Skoda Scala 1.0 TSI Ambition,71900.0,5 km,manual,1 500 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2023
+67547,skoda,Skoda Fabia 1.0 TSI Ambition,59900.0,5 km,manual,1 500 cm3,Benzyna,Opole,Opolskie,2023
+67548,skoda,Skoda Octavia 1.5 TSI ACT Ambition,114900.0,28 800 km,manual,999 cm3,Benzyna,Zabrze,Śląskie,2020
+67549,skoda,Skoda Octavia 1.5 TSI ACT Ambition,82900.0,28 800 km,manual,999 cm3,Benzyna,Łódź,Łódzkie,2020
+67550,skoda,Skoda Scala 1.6 TDI SCR Ambition,69900.0,75 612 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67551,skoda,Skoda Octavia 2.0 TDI Sportline,149000.0,75 612 km,manual,999 cm3,Benzyna,Kutno,Łódzkie,2021
+67552,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Ambition,116000.0,1 470 km,manual,1 498 cm3,Benzyna,Polkowice,Dolnośląskie,2022
+67553,skoda,Skoda Fabia 1.0 TSI Ambition,36900.0,1 470 km,manual,1 498 cm3,Benzyna,Starachowice,Świętokrzyskie,2022
+67554,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Style,141510.0,102 000 km,manual,1 498 cm3,Benzyna,Chorzów,Śląskie,2020
+67555,skoda,Skoda Octavia,100000.0,102 000 km,manual,1 498 cm3,Benzyna,Łódź,Łódzkie,2020
+67556,skoda,Skoda Scala 1.5 TSI Style,110000.0,67 322 km,manual,1 598 cm3,Diesel,Warszawa,Mazowieckie,2020
+67557,skoda,Skoda Scala 1.0 TSI Ambition,64900.0,67 322 km,manual,1 598 cm3,Diesel,Dobroń,Łódzkie,2020
+67558,skoda,Skoda Octavia 1.5 TSI ACT Style,113700.0,3 088 km,manual,1 968 cm3,Diesel,Katowice,Śląskie,2022
+67559,skoda,Skoda Octavia 2.0 TDI Style,152750.0,3 088 km,manual,1 968 cm3,Diesel,Tarnów,Małopolskie,2022
+67560,skoda,Skoda Scala 1.5 TSI Style,112800.0,35 000 km,manual,1 968 cm3,Diesel,Świętochłowice,Śląskie,2020
+67561,skoda,Skoda Octavia 1.5 TSI ACT Style,137750.0,35 000 km,manual,1 968 cm3,Diesel,Bolesławice,Pomorskie,2020
+67562,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Sportline,115999.0,134 000 km,manual,999 cm3,Benzyna,Złotów,Wielkopolskie,2020
+67563,skoda,Skoda Octavia,71799.0,134 000 km,manual,999 cm3,Benzyna,Modlniczka,Małopolskie,2020
+67564,skoda,Skoda Fabia 1.0 Ambition,34898.0,1 km,manual,1 968 cm3,Diesel,Rybnik,Śląskie,2023
+67565,skoda,Skoda Octavia,138229.0,1 km,manual,1 968 cm3,Diesel,Chorzów,Śląskie,2023
+67566,skoda,Skoda Octavia 1.5 TSI ACT Style,128800.0,27 832 km,manual,999 cm3,Benzyna,Gliwice,Śląskie,2022
+67567,skoda,Skoda Scala 1.5 TSI Ambition,103400.0,27 832 km,manual,999 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2022
+67568,skoda,Skoda Octavia 1.5 TSI ACT Style,79900.0,1 km,manual,1 498 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2023
+67569,skoda,Skoda Octavia 2.0 TSI RS,129900.0,1 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67570,skoda,Skoda Superb 2.0 TDI SCR Style,137900.0,108 644 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67571,skoda,Skoda Octavia 2.0 TDI SCR Style,64899.0,108 644 km,manual,999 cm3,Benzyna,Rybnik,Śląskie,2021
+67572,skoda,Skoda Octavia 1.0 TSI Active,104900.0,28 829 km,manual,1 498 cm3,Benzyna,Wałbrzych,Dolnośląskie,2020
+67573,skoda,Skoda Scala 1.5 TSI Style,95900.0,28 829 km,manual,1 498 cm3,Benzyna,Leszno,Wielkopolskie,2020
+67574,skoda,Skoda Fabia 1.0 Ambition,77950.0,5 km,manual,1 968 cm3,Diesel,Pisz,Warmińsko-mazurskie,2023
+67575,skoda,Skoda Octavia 1.5 TSI ACT Style,141050.0,5 km,manual,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+67576,skoda,Skoda Octavia,119300.0,1 km,manual,1 500 cm3,Benzyna,Częstochowa,Śląskie,2023
+67577,skoda,Skoda Octavia,127250.0,1 km,manual,1 500 cm3,Benzyna,Częstochowa,Śląskie,2023
+67578,skoda,Skoda Fabia 1.0 TSI Ambition,35900.0,1 km,manual,2 000 cm3,Diesel,Zduńska Wola,Łódzkie,2023
+67579,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,1 km,manual,2 000 cm3,Diesel,Płock,Mazowieckie,2023
+67580,skoda,Skoda Scala,101950.0,126 000 km,manual,999 cm3,Benzyna,Dobroń,Łódzkie,2020
+67581,skoda,Skoda Octavia Combi 1.5 TSI ACT Style,99500.0,126 000 km,manual,999 cm3,Benzyna,Stare Załubice,Mazowieckie,2020
+67582,skoda,Skoda Kamiq 1.0 TSI Ambition,79900.0,9 km,manual,1 498 cm3,Benzyna,Gdańsk,Pomorskie,2023
+67583,skoda,Skoda Octavia 2.0 TDI Ambition,99900.0,9 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67584,skoda,Skoda Scala,59900.0,5 km,manual,1 000 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2023
+67585,skoda,Skoda Kamiq 1.0 TSI Ambition,99297.0,5 km,manual,1 000 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67586,skoda,Skoda Octavia 1.5 TSI GPF ACT Style,116900.0,16 200 km,manual,1 498 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2020
+67587,skoda,Skoda Octavia,138520.0,16 200 km,manual,1 498 cm3,Benzyna,Dobroń,Łódzkie,2020
+67588,skoda,Skoda Octavia,129100.0,33 500 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2020
+67589,skoda,Skoda Octavia 1.5 TSI ACT Style,104900.0,33 500 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+67590,skoda,Skoda Fabia 1.0 Ambition,52900.0,84 596 km,manual,1 968 cm3,Diesel,Warszawa,Mazowieckie,2020
+67591,skoda,Skoda Scala,62850.0,84 596 km,manual,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2020
+67592,skoda,Skoda Octavia 1.5 TSI ACT Ambition,132000.0,84 965 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67593,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Ambition,117900.0,84 965 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67594,skoda,Skoda Fabia 1.0 MPI Ambition,64900.0,1 km,manual,999 cm3,Benzyna,Ostrzeszów,Wielkopolskie,2022
+67595,skoda,Skoda Karoq 1.5 TSI ACT Sportline,142443.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+67596,skoda,Skoda Octavia 1.5 TSI ACT Style,142990.0,65 395 km,manual,1 498 cm3,Benzyna,Wieliczka,Małopolskie,2020
+67597,skoda,Skoda Octavia 2.0 TDI Ambition,129050.0,65 395 km,manual,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+67598,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121500.0,5 km,manual,2 000 cm3,Diesel,Kraków,Małopolskie,2023
+67599,skoda,Skoda Kamiq 1.5 TSI Ambition,109500.0,5 km,manual,2 000 cm3,Diesel,Gdynia,Pomorskie,2023
+67600,skoda,Skoda Octavia 1.5 TSI ACT Style,111300.0,5 km,manual,1 498 cm3,Benzyna,Płock,Mazowieckie,2023
+67601,skoda,Skoda Octavia 1.5 TSI ACT Ambition,93800.0,5 km,manual,1 498 cm3,Benzyna,Lesznowola,Mazowieckie,2023
+67602,skoda,Skoda Kamiq 1.0 TSI Ambition,108200.0,43 040 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2020
+67603,skoda,Skoda Octavia 1.5 TSI ACT Style,132700.0,9 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2023
+67604,skoda,Skoda Superb 1.5 TSI ACT Ambition,109900.0,9 km,manual,1 498 cm3,Benzyna,Gdynia,Pomorskie,2023
+67605,skoda,Skoda Fabia 1.0 Active,48900.0,36 021 km,manual,1 498 cm3,Benzyna,Radzymin,Mazowieckie,2020
+67606,skoda,Skoda Octavia 1.5 TSI ACT Sportline,146800.0,36 021 km,manual,1 498 cm3,Benzyna,Łódź,Łódzkie,2020
+67607,skoda,Skoda Superb 1.5 TSI ACT Ambition,98000.0,22 400 km,manual,999 cm3,Benzyna+LPG,Pruszcz Gdański,Pomorskie,2020
+67608,skoda,Skoda Kamiq 1.0 TSI Ambition,86900.0,22 400 km,manual,999 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2020
+67609,skoda,Skoda Kamiq 1.0 TSI Ambition,91900.0,1 km,manual,1 498 cm3,Benzyna,Pyrzowice,Śląskie,2023
+67610,skoda,Skoda Scala,104400.0,1 km,manual,1 498 cm3,Benzyna,Szczecin,Zachodniopomorskie,2023
+67611,skoda,Skoda Scala 1.5 TSI Style,107950.0,82 000 km,manual,1 498 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2020
+67612,skoda,Skoda Octavia 2.0 TDI Ambition,94900.0,82 000 km,manual,1 498 cm3,Benzyna,Gdańsk,Pomorskie,2020
+67613,skoda,Skoda Kamiq 1.0 TSI Style,102500.0,15 000 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+67614,skoda,Skoda Octavia 1.5 TSI ACT Ambition,87900.0,15 000 km,manual,999 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2022
+67615,skoda,Skoda Octavia,111900.0,28 000 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+67616,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Ambition,134800.0,28 000 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67617,skoda,Skoda Octavia,39900.0,1 498 cm3,manual,Benzyna,2023,Brodnica,Wielkopolskie,2023
+67618,skoda,Skoda Octavia,128500.0,Benzyna,manual,2023,7 km,Gliwice,Śląskie,1 498 cm3
+67619,skoda,Skoda Scala 1.0 TSI Style,69999.0,Benzyna,manual,2023,7 km,Warszawa,Mazowieckie,1 498 cm3
+67620,skoda,Skoda Octavia 2.0 TDI Ambition,130700.0,Benzyna,manual,2021,70 179 km,Wrocław,Dolnośląskie,1 498 cm3
+67621,skoda,Skoda Fabia 1.0 TSI Ambition,53900.0,Diesel,manual,2021,70 179 km,Dobroń,Łódzkie,1 968 cm3
+67622,skoda,Skoda Octavia 1.5 TSI GPF ACT Ambition,89900.0,Diesel,manual,2021,5 500 km,Warszawa,Mazowieckie,1 968 cm3
+67623,skoda,Skoda Octavia 1.5 TSI ACT Ambition,104900.0,Benzyna,manual,2021,5 500 km,Zgorzelec,Dolnośląskie,999 cm3
+67624,skoda,Skoda Octavia 2.0 TDI Ambition,132150.0,Benzyna,manual,2020,115 500 km,Lublin,Lubelskie,999 cm3
+67625,skoda,Skoda Octavia,95000.0,Benzyna,manual,2020,115 500 km,Piaseczno,Mazowieckie,1 498 cm3
+67626,skoda,Skoda Fabia 1.0 Ambition,62900.0,Benzyna,manual,2020,49 577 km,Warszawa,Mazowieckie,1 498 cm3
+67627,skoda,Skoda Octavia 1.5 TSI ACT Style,101900.0,Benzyna,manual,2020,49 577 km,Słupsk,Pomorskie,1 498 cm3
+67628,skoda,Skoda Octavia 1.5 TSI ACT Ambition,124900.0,Benzyna,manual,2023,1 km,Łęczyca,Łódzkie,1 498 cm3
+67629,skoda,Skoda Octavia 2.0 TDI Ambition,84999.0,Diesel,manual,2023,1 km,Sochaczew,Mazowieckie,1 968 cm3
+67630,skoda,Skoda Octavia,133000.0,Diesel,manual,2021,87 534 km,Szczecin,Zachodniopomorskie,1 968 cm3
+67631,skoda,Skoda Fabia,72800.0,Diesel,manual,2021,87 534 km,Chwaszczyno,Pomorskie,1 968 cm3
+67632,skoda,Skoda Octavia 2.0 TSI RS,148900.0,Diesel,manual,2022,12 788 km,Dąbrowa Górnicza,Śląskie,1 968 cm3
+67633,skoda,Skoda Scala 1.5 TSI Style,113600.0,Benzyna,manual,2022,12 788 km,Lubin,Dolnośląskie,1 498 cm3
+67634,skoda,Skoda Kamiq 1.5 TSI Ambition,110650.0,Benzyna,manual,2020,5 000 km,Warszawa,Mazowieckie,1 498 cm3
+67635,skoda,Skoda Fabia 1.0 TSI Ambition,55900.0,70 533 km,manual,999 cm3,Benzyna,Dobroń,Łódzkie,2021
+67636,skoda,Skoda Fabia 1.0 Ambition,73300.0,70 533 km,manual,999 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+67637,skoda,Skoda Fabia 1.0 TSI Ambition,52799.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+67638,skoda,Skoda Scala 1.5 TSI Style,111400.0,1 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67639,skoda,Skoda Fabia 1.0 Ambition,72900.0,61 657 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2021
+67640,skoda,Skoda Octavia,141050.0,61 657 km,manual,999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+67641,skoda,Skoda Fabia 1.0 Active,54900.0,5 km,manual,1 498 cm3,Benzyna,Opacz Kolonia,Mazowieckie,2023
+67642,skoda,Skoda Scala,69900.0,5 km,manual,1 498 cm3,Benzyna,Gdańsk,Pomorskie,2023
+67643,skoda,Skoda Octavia 1.5 TSI ACT Ambition,112900.0,5 km,manual,999 cm3,Benzyna,Rybnik,Śląskie,2023
+67644,skoda,Skoda Fabia 1.0 Ambition,73296.0,5 km,manual,999 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+67645,skoda,Skoda Fabia 1.0 Active,70596.0,1 498 cm3,manual,Benzyna,2023,Kielce,Świętokrzyskie,2023
+67646,skoda,Skoda Kamiq 1.0 TSI Ambition,98900.0,Benzyna,manual,2020,12 500 km,Wrocław,Dolnośląskie,1 498 cm3
+67647,skoda,Skoda Fabia 1.0 TSI Ambition,45900.0,Benzyna,manual,2020,12 500 km,Białobrzegi,Mazowieckie,999 cm3
+67648,skoda,Skoda Octavia 1.5 TSI ACT Style,130800.0,Benzyna,manual,2020,103 000 km,Kielce,Świętokrzyskie,999 cm3
+67649,skoda,Skoda Fabia 1.0 TSI Ambition,47000.0,Benzyna,manual,2020,103 000 km,Lubin,Dolnośląskie,999 cm3
+67650,skoda,Skoda Octavia,85000.0,Benzyna,manual,2022,946 km,Wola Mrokowska,Mazowieckie,999 cm3
+67651,skoda,Skoda Superb 1.5 TSI Sportline,128900.0,Benzyna,manual,2022,946 km,Koszalin,Zachodniopomorskie,1 498 cm3
+67652,skoda,Skoda Kamiq 1.0 TSI Style,107900.0,Benzyna,manual,2023,3 km,Starogard Gdański,Pomorskie,1 498 cm3
+67653,skoda,Skoda Fabia 1.0 TSI Ambition,59000.0,Benzyna,manual,2023,3 km,Rybnik,Śląskie,999 cm3
+67654,skoda,Skoda Kamiq,95000.0,Benzyna,manual,2023,3 km,Świętochłowice,Śląskie,999 cm3
+67655,skoda,Skoda Scala 1.6 TDI SCR Ambition,73000.0,Benzyna,manual,2023,3 km,Siedlce,Mazowieckie,999 cm3
+67656,skoda,Skoda Fabia 1.0 Ambition,76850.0,Benzyna,manual,2023,9 km,Starogard Gdański,Pomorskie,999 cm3
+67657,skoda,Skoda Octavia,109900.0,Benzyna,manual,2023,9 km,Gdańsk,Pomorskie,999 cm3
+67658,skoda,Skoda Octavia,99900.0,Benzyna,manual,2020,173 700 km,Gdańsk,Pomorskie,999 cm3
+67659,skoda,Skoda Scala 1.0 TSI Style,85900.0,Benzyna,manual,2020,173 700 km,Ruda Śląska,Śląskie,999 cm3
+67660,skoda,Skoda Octavia 2.0 TDI Ambition,131520.0,Benzyna,manual,2023,3 km,Toruń,Kujawsko-pomorskie,999 cm3
+67661,skoda,Skoda Scala 1.0 TSI Ambition,71900.0,Benzyna,manual,2023,3 km,Zduńska Wola,Łódzkie,1 498 cm3
+67662,skoda,Skoda Octavia 1.5 TSI ACT Ambition,124159.0,Benzyna,manual,2020,106 625 km,Chorzów,Śląskie,1 498 cm3
+67663,skoda,Skoda Scala 1.0 TSI Active,64900.0,Benzyna,manual,2020,106 625 km,Szczecin,Zachodniopomorskie,999 cm3
+67664,skoda,Skoda Karoq 1.5 TSI ACT GPF 4x2 Ambition,135200.0,Benzyna,manual,2020,138 000 km,Wrocław,Dolnośląskie,999 cm3
+67665,skoda,Skoda Superb,158000.0,Diesel,manual,2020,138 000 km,Chorzów,Śląskie,1 968 cm3
+67666,skoda,Skoda Fabia,58900.0,Diesel,manual,2021,33 400 km,Poznań,Wielkopolskie,1 968 cm3
+67667,skoda,Skoda Octavia 1.5 TSI ACT Style,104900.0,63 164 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2020
+67668,skoda,Skoda Octavia,123520.0,63 164 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2020
+67669,skoda,Skoda Octavia 1.5 TSI ACT Ambition,72799.0,1 498 cm3,manual,Benzyna,2023,Modlniczka,Małopolskie,2023
+67670,skoda,Skoda Superb 2.0 TDI SCR Style,122900.0,Benzyna,manual,2020,112 492 km,Warszawa,Mazowieckie,1 498 cm3
+67671,skoda,Skoda Fabia 1.0 MPI Active,50000.0,Benzyna,manual,2020,112 492 km,Pruszcz Gdański,Pomorskie,1 498 cm3
+67672,skoda,Skoda Karoq 1.5 TSI ACT GPF 4x2 Ambition,135200.0,Benzyna,manual,2020,56 026 km,Lublin,Lubelskie,1 498 cm3
+67673,skoda,Skoda Fabia 1.0 Ambition,43900.0,Diesel,manual,2020,56 026 km,Katowice,Śląskie,1 968 cm3
+67674,skoda,Skoda Fabia 1.0 TSI Ambition,49900.0,Diesel,manual,2021,60 000 km,Świecie,Kujawsko-pomorskie,1 968 cm3
+67675,skoda,Skoda Scala 1.0 TSI Ambition,91600.0,Benzyna,manual,2021,60 000 km,Lublin,Lubelskie,999 cm3
+67676,skoda,Skoda Karoq 1.6 TDI 4x2 Style,28500.0,Benzyna,manual,2023,7 km,Grabów nad Prosną,Wielkopolskie,999 cm3
+67677,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121700.0,Benzyna,manual,2023,7 km,Rybnik,Śląskie,1 498 cm3
+67678,skoda,Skoda Karoq 1.6 TDI SCR 4x2 Ambition,89900.0,Benzyna,manual,2020,104 179 km,Cieszyn,Śląskie,1 498 cm3
+67679,skoda,Skoda Fabia 1.0 Ambition,78900.0,Benzyna+LPG,manual,2020,104 179 km,Stojadła,Mazowieckie,999 cm3
+67680,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Ambition,125000.0,Benzyna+LPG,manual,2021,72 000 km,Stojadła,Mazowieckie,999 cm3
+67681,skoda,Skoda Scala 1.0 TSI Ambition,93050.0,Benzyna,manual,2021,72 000 km,Stojadła,Mazowieckie,999 cm3
+67682,skoda,Skoda Fabia,52900.0,Benzyna,manual,2023,7 km,Wieluń,Łódzkie,999 cm3
+67683,skoda,Skoda Octavia,54500.0,Benzyna,manual,2023,7 km,Wysogotowo,Wielkopolskie,999 cm3
+67684,skoda,Skoda Octavia 2.0 TDI Ambition,82900.0,Benzyna,manual,2020,53 000 km,Cieszyn,Śląskie,999 cm3
+67685,skoda,Skoda Scala 1.5 TSI Ambition,99900.0,Diesel,manual,2020,53 000 km,Jelenia Góra,Dolnośląskie,1 598 cm3
+67686,skoda,Skoda Kamiq 1.0 TSI Ambition,103200.0,Diesel,manual,2023,10 km,Brodnica,Kujawsko-pomorskie,1 598 cm3
+67687,skoda,Skoda Fabia 1.0 TSI Style Color,62900.0,Benzyna,manual,2023,10 km,Warszawa,Mazowieckie,1 498 cm3
+67688,skoda,Skoda Octavia 1.5 TSI ACT Ambition,121000.0,Benzyna,manual,2020,114 000 km,Lublin,Lubelskie,1 498 cm3
+67689,skoda,Skoda Scala 1.5 TSI Ambition,97250.0,Diesel,manual,2020,114 000 km,Lublin,Lubelskie,1 598 cm3
+67690,skoda,Skoda Fabia 1.0 TSI Ambition,32900.0,Diesel,manual,2023,1 km,Henryszew,Mazowieckie,1 598 cm3
+67691,skoda,Skoda Fabia 1.0 MPI Ambition,44900.0,Benzyna,manual,2023,1 km,Słupca,Wielkopolskie,999 cm3
+67692,skoda,Skoda Superb Combi 2.0 TDI SportLine,122998.0,Benzyna,manual,2023,1 km,Witaszyczki,Wielkopolskie,999 cm3
+67693,skoda,Skoda Fabia 1.0 Ambition,47999.0,Diesel,manual,2023,1 km,Turek,Wielkopolskie,1 968 cm3
+67694,skoda,Skoda Scala,76900.0,Diesel,manual,2023,1 km,Warszawa,Mazowieckie,1 968 cm3
+67695,skoda,Skoda Kamiq 1.0 TSI Ambition,91900.0,Benzyna,manual,2023,1 km,Myszków,Śląskie,999 cm3
+67696,skoda,Skoda Octavia 1.5 TSI ACT Style,98000.0,Benzyna,manual,2020,53 000 km,Rokitnica,Pomorskie,999 cm3
+67697,skoda,Skoda Scala 1.0 TSI Ambition,59800.0,Benzyna+LPG,manual,2020,53 000 km,Warszawa,Mazowieckie,999 cm3
+67698,skoda,Skoda Fabia 1.0 TSI Ambition,24403.0,Benzyna+LPG,manual,2021,23 000 km,Wysogotowo,Wielkopolskie,999 cm3
+67699,skoda,Skoda Octavia 2.0 TDI Ambition,89000.0,65 000 km,manual,1 968 cm3,Diesel,Bodzanów,Małopolskie,2021
+67700,skoda,Skoda Octavia 1.5 TSI ACT Style,133050.0,65 000 km,manual,1 968 cm3,Diesel,Dzierżoniów,Dolnośląskie,2021
+67701,skoda,Skoda Scala 1.5 TSI Monte Carlo,122200.0,7 km,manual,1 498 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2023
+67702,skoda,Skoda Kamiq 1.0 TSI Ambition,83500.0,7 km,manual,1 498 cm3,Benzyna,Szczecin,Zachodniopomorskie,2023
+67703,skoda,Skoda Fabia 1.0 TSI Ambition,43900.0,7 km,manual,1 498 cm3,Benzyna,Dęba,Łódzkie,2023
+67704,skoda,Skoda Octavia 1.5 TSI ACT Ambition,110000.0,7 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67705,skoda,Skoda Superb 2.0 TDI SCR Ambition,161950.0,12 500 km,manual,999 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2021
+67706,skoda,Skoda Superb 2.0 TDI Ambition,110000.0,12 500 km,manual,999 cm3,Benzyna,Słupsk,Pomorskie,2021
+67707,skoda,Skoda Scala 1.0 TSI Active,34900.0,69 800 km,manual,999 cm3,Benzyna,Lublin,Lubelskie,2020
+67708,skoda,Skoda Octavia 1.5 TSI ACT Style,48900.0,69 800 km,manual,999 cm3,Benzyna,Tychy,Śląskie,2020
+67709,skoda,Skoda Octavia 1.5 TSI ACT Ambition,119500.0,5 km,manual,1 498 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2023
+67710,skoda,Skoda Kamiq 1.0 TSI Style,79000.0,5 km,manual,1 498 cm3,Benzyna,Brenna,Śląskie,2023
+67711,skoda,Skoda Octavia 1.5 TSI ACT Style,104900.0,10 km,manual,1 968 cm3,Diesel,Rzeszów,Podkarpackie,2023
+67712,skoda,Skoda Kamiq 1.5 TSI Ambition,39200.0,10 km,manual,1 968 cm3,Diesel,Wysogotowo,Wielkopolskie,2023
+67713,skoda,Skoda Fabia 1.0 Ambition,19100.0,35 000 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+67714,skoda,Skoda Fabia 1.0 TSI Ambition,14900.0,35 000 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+67715,skoda,Skoda Fabia 1.0 TSI Ambition,16100.0,53 086 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2022
+67716,skoda,Skoda Octavia 1.5 TSI ACT Ambition,89499.0,53 086 km,manual,999 cm3,Benzyna,Września,Wielkopolskie,2022
+67717,skoda,Skoda Kamiq 1.0 TSI Ambition,82000.0,93 000 km,manual,1 498 cm3,Benzyna,Rzeszów,Podkarpackie,2020
+67718,skoda,Skoda Octavia 2.0 TDI Active,67900.0,93 000 km,manual,1 498 cm3,Benzyna,Dobrzyniewo Duże,Podlaskie,2020
+67719,skoda,Skoda Karoq,89900.0,728 km,manual,1 498 cm3,Benzyna,Nowy Targ,Małopolskie,2022
+67720,skoda,Skoda Octavia 1.5 TSI ACT Style,101900.0,728 km,manual,1 498 cm3,Benzyna,Słupsk,Pomorskie,2022
+67721,skoda,Skoda Fabia 1.0 MPI Active,46500.0,24 000 km,manual,999 cm3,Benzyna,Łobez,Zachodniopomorskie,2021
+67722,skoda,Skoda Fabia 1.0 Active,42900.0,24 000 km,manual,999 cm3,Benzyna,Chojnice,Pomorskie,2021
+67723,skoda,Skoda Kamiq 1.0 TSI Style,57900.0,27 700 km,manual,1 498 cm3,Benzyna,Bielsko-Biała,Śląskie,2021
+67724,skoda,Skoda Octavia,49900.0,27 700 km,manual,1 498 cm3,Benzyna,Kostomłoty Pierwsze,Świętokrzyskie,2021
+67725,skoda,Skoda Karoq,54900.0,29 854 km,manual,1 498 cm3,Benzyna,Zagórów,Wielkopolskie,2021
+67726,skoda,Skoda Octavia 1.5 TSI ACT Ambition,99900.0,29 854 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67727,skoda,Skoda Fabia 1.0 TSI Ambition,52900.0,143 000 km,manual,999 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2020
+67728,skoda,Skoda Octavia,5900.0,474 000 km,automatic,1 984 cm3,Benzyna+LPG,Zielonki Parcela,Mazowieckie,1999
+67729,skoda,Skoda Octavia 2.0 TDI Ambition,89000.0,65 000 km,manual,1 968 cm3,Diesel,Bodzanów,Małopolskie,2021
+67730,skoda,Skoda Octavia 1.5 TSI ACT Style,133050.0,65 000 km,manual,1 968 cm3,Diesel,Dzierżoniów,Dolnośląskie,2021
+67731,skoda,Skoda Scala 1.5 TSI Monte Carlo,122200.0,7 km,manual,1 498 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2023
+67732,skoda,Skoda Kamiq 1.0 TSI Ambition,83500.0,7 km,manual,1 498 cm3,Benzyna,Szczecin,Zachodniopomorskie,2023
+67733,skoda,Skoda Fabia 1.0 TSI Ambition,43900.0,7 km,manual,1 498 cm3,Benzyna,Dęba,Łódzkie,2023
+67734,skoda,Skoda Octavia 1.5 TSI ACT Ambition,110000.0,7 km,manual,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2023
+67735,skoda,Skoda Superb 2.0 TDI SCR Ambition,161950.0,12 500 km,manual,999 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2021
+67736,skoda,Skoda Superb 2.0 TDI Ambition,110000.0,12 500 km,manual,999 cm3,Benzyna,Słupsk,Pomorskie,2021
+67737,skoda,Skoda Scala 1.0 TSI Active,34900.0,69 800 km,manual,999 cm3,Benzyna,Lublin,Lubelskie,2020
+67738,skoda,Skoda Octavia 1.5 TSI ACT Style,48900.0,69 800 km,manual,999 cm3,Benzyna,Tychy,Śląskie,2020
+67739,skoda,Skoda Octavia 1.5 TSI ACT Ambition,119500.0,5 km,manual,1 498 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2023
+67740,skoda,Skoda Kamiq 1.0 TSI Style,79000.0,5 km,manual,1 498 cm3,Benzyna,Brenna,Śląskie,2023
+67741,skoda,Skoda Octavia 1.5 TSI ACT Style,104900.0,10 km,manual,1 968 cm3,Diesel,Rzeszów,Podkarpackie,2023
+67742,skoda,Skoda Kamiq 1.5 TSI Ambition,39200.0,10 km,manual,1 968 cm3,Diesel,Wysogotowo,Wielkopolskie,2023
+67743,skoda,Skoda Fabia 1.0 Ambition,19100.0,35 000 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+67744,skoda,Skoda Fabia 1.0 TSI Ambition,14900.0,35 000 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+67745,skoda,Skoda Fabia 1.0 TSI Ambition,16100.0,53 086 km,manual,999 cm3,Benzyna,Kraków,Małopolskie,2022
+67746,skoda,Skoda Octavia 1.5 TSI ACT Ambition,89499.0,53 086 km,manual,999 cm3,Benzyna,Września,Wielkopolskie,2022
+67747,skoda,Skoda Kamiq 1.0 TSI Ambition,82000.0,93 000 km,manual,1 498 cm3,Benzyna,Rzeszów,Podkarpackie,2020
+67748,skoda,Skoda Octavia 2.0 TDI Active,67900.0,93 000 km,manual,1 498 cm3,Benzyna,Dobrzyniewo Duże,Podlaskie,2020
+67749,skoda,Skoda Karoq,89900.0,728 km,manual,1 498 cm3,Benzyna,Nowy Targ,Małopolskie,2022
+67750,skoda,Skoda Octavia 1.5 TSI ACT Style,101900.0,728 km,manual,1 498 cm3,Benzyna,Słupsk,Pomorskie,2022
+67751,skoda,Skoda Fabia 1.0 MPI Active,46500.0,24 000 km,manual,999 cm3,Benzyna,Łobez,Zachodniopomorskie,2021
+67752,skoda,Skoda Fabia 1.0 Active,42900.0,24 000 km,manual,999 cm3,Benzyna,Chojnice,Pomorskie,2021
+67753,skoda,Skoda Kamiq 1.0 TSI Style,57900.0,27 700 km,manual,1 498 cm3,Benzyna,Bielsko-Biała,Śląskie,2021
+67754,skoda,Skoda Octavia,49900.0,27 700 km,manual,1 498 cm3,Benzyna,Kostomłoty Pierwsze,Świętokrzyskie,2021
+67755,skoda,Skoda Karoq,54900.0,29 854 km,manual,1 498 cm3,Benzyna,Zagórów,Wielkopolskie,2021
+67756,skoda,Skoda Octavia 1.5 TSI ACT Ambition,99900.0,29 854 km,manual,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2021
+67757,skoda,Skoda Fabia 1.0 TSI Ambition,52900.0,143 000 km,manual,999 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2020
+67758,skoda,Skoda Octavia,5900.0,474 000 km,automatic,1 984 cm3,Benzyna+LPG,Zielonki Parcela,Mazowieckie,1999
+67759,skoda,Skoda Octavia,5900.0,474 000 km,automatic,1 984 cm3,Benzyna+LPG,Zielonki Parcela,Mazowieckie,1999
+67760,skoda,Skoda Octavia,5900.0,474 000 km,automatic,1 984 cm3,Benzyna+LPG,Zielonki Parcela,Mazowieckie,1999
+67761,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67762,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67763,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67764,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67765,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67766,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67767,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67768,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67769,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67770,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67771,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67772,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67773,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67774,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67775,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67776,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67777,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67778,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67779,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67780,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67781,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67782,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67783,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67784,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67785,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67786,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67787,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67788,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67789,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67790,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67791,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67792,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67793,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67794,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67795,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67796,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67797,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67798,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67799,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67800,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67801,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67802,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67803,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67804,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67805,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67806,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67807,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67808,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67809,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67810,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67811,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67812,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67813,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67814,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67815,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67816,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67817,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67818,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67819,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67820,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67821,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67822,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67823,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67824,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67825,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67826,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67827,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67828,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67829,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67830,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67831,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67832,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67833,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67834,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67835,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67836,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67837,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67838,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67839,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67840,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67841,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67842,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67843,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67844,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67845,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67846,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67847,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67848,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67849,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67850,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67851,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67852,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67853,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67854,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67855,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67856,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67857,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67858,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67859,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67860,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67861,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67862,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67863,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67864,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67865,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67866,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67867,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67868,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67869,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67870,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67871,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67872,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67873,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67874,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67875,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67876,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67877,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67878,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67879,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67880,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67881,skoda,Skoda Superb,11000.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2004
+67882,skoda,Skoda Superb,15900.0,244 000 km,automatic,1 781 cm3,Benzyna+LPG,Zawidz Kościelny,Mazowieckie,2004
+67883,skoda,Skoda Octavia 1.8T Elegance,6999.0,266 420 km,automatic,1 781 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2004
+67884,skoda,Skoda Superb 2.5 TDI Elegance,4900.0,266 420 km,automatic,1 781 cm3,Benzyna,Warszawa,Mazowieckie,2004
+67885,skoda,Skoda Octavia 1.9 TDI Tour Plus Ice+,7900.0,125 000 km,automatic,1 781 cm3,Benzyna,Dębno,Zachodniopomorskie,2000
+67886,skoda,Skoda Octavia 1.9 TDI Tour,12000.0,125 000 km,automatic,1 781 cm3,Benzyna,Chełmsko Śląskie,Dolnośląskie,2000
+67887,skoda,Skoda Superb 1.9 TDI Prestige Plus,12900.0,230 570 km,automatic,2 496 cm3,Diesel,Wygoda,Łódzkie,2004
+67888,skoda,Skoda Octavia,4990.0,230 570 km,automatic,2 496 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+67889,skoda,Skoda Octavia,5300.0,244 000 km,automatic,1 896 cm3,Diesel,Ruda Śląska,Śląskie,2000
+67890,skoda,Skoda Octavia,7999.0,244 000 km,automatic,1 896 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2000
+67891,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67892,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67893,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67894,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67895,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67896,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67897,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67898,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67899,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67900,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67901,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67902,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67903,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67904,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67905,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67906,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67907,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67908,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67909,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67910,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67911,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67912,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67913,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67914,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67915,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67916,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67917,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67918,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67919,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67920,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67921,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67922,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67923,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67924,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67925,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67926,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67927,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67928,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67929,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67930,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67931,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67932,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67933,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67934,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67935,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67936,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67937,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67938,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67939,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67940,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67941,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67942,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67943,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67944,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67945,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67946,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67947,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67948,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67949,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67950,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67951,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67952,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67953,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67954,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67955,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67956,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+67957,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+67958,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+67959,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+67960,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+67961,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+67962,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+67963,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+67964,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+67965,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+67966,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+67967,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+67968,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+67969,skoda,Skoda Roomster 1.6 16V Style Tiptr,19000.0,200 000 km,automatic,1 598 cm3,Benzyna,Mrocza,Kujawsko-pomorskie,2007
+67970,skoda,Skoda Octavia 1.6 Automatik Ambiente,20900.0,200 000 km,automatic,1 598 cm3,Benzyna,Braniewo,Warmińsko-mazurskie,2007
+67971,skoda,Skoda Superb,24000.0,188 000 km,automatic,1 595 cm3,Benzyna,Gołaszyn,Wielkopolskie,2006
+67972,skoda,Skoda Octavia Combi 1.8 TSI DSG FAMILY,19500.0,188 000 km,automatic,1 595 cm3,Benzyna,Żagań,Lubuskie,2006
+67973,skoda,Skoda Fabia 1.4 16V Ambiente +,14900.0,435 000 km,automatic,1 968 cm3,Diesel,Nidzica,Warmińsko-mazurskie,2009
+67974,skoda,Skoda Octavia,19500.0,435 000 km,automatic,1 968 cm3,Diesel,Chocianów,Dolnośląskie,2009
+67975,skoda,Skoda Octavia Combi 1.8 TSI DSG Elegance,29900.0,260 000 km,automatic,1 798 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2009
+67976,skoda,Skoda Superb 1.9 TDI Prestige,11900.0,260 000 km,automatic,1 798 cm3,Benzyna,Goleniów,Zachodniopomorskie,2009
+67977,skoda,Skoda Octavia,28000.0,134 254 km,automatic,1 390 cm3,Benzyna,Jędrzejewo,Wielkopolskie,2006
+67978,skoda,Skoda Superb 2.5 V6 TDI Elegance Tiptr,9000.0,134 254 km,automatic,1 390 cm3,Benzyna,Siekierki,Zachodniopomorskie,2006
+67979,skoda,Skoda Roomster 1.6 16V Sport Tiptr,18800.0,212 000 km,automatic,1 968 cm3,Diesel,Bytom,Śląskie,2008
+67980,skoda,Skoda Octavia 1.9 TDI Ambiente DSG,13900.0,212 000 km,automatic,1 968 cm3,Diesel,Zamość,Lubelskie,2008
+67981,skoda,Skoda Octavia 1.6 Tour,19999.0,136 451 km,automatic,1 798 cm3,Benzyna,Suwałki,Podlaskie,2009
+67982,skoda,Skoda Fabia,24900.0,136 451 km,automatic,1 798 cm3,Benzyna,Lublin,Lubelskie,2009
+67983,skoda,Skoda Octavia 1.8 TSI Elegance DSG,25900.0,370 000 km,automatic,1 896 cm3,Diesel,Radom,Mazowieckie,2005
+67984,skoda,Skoda Superb,24900.0,370 000 km,automatic,1 896 cm3,Diesel,Żarowo,Zachodniopomorskie,2005
+67985,skoda,Skoda Superb 2.0 TDI Elegance DSG,32500.0,275 744 km,automatic,1 598 cm3,Diesel,Brzeszcze,Małopolskie,2009
+67986,skoda,Skoda Octavia,17800.0,275 744 km,automatic,1 598 cm3,Diesel,Lublin,Lubelskie,2009
+67987,skoda,Skoda Fabia,19600.0,320 000 km,automatic,2 496 cm3,Diesel,Gostyń,Wielkopolskie,2007
+67988,skoda,Skoda Octavia 1.8 TSI Ambiente DSG,29900.0,320 000 km,automatic,2 496 cm3,Diesel,Kłodzko,Dolnośląskie,2007
+67989,skoda,Skoda Superb 2.0 TDI DSG Elegance,26900.0,238 428 km,automatic,1 598 cm3,Benzyna,Sanok,Podkarpackie,2007
+67990,skoda,Skoda Octavia 2.0 TDI Elegance DSG,17000.0,238 428 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2007
+67991,skoda,Skoda Superb 1.8 TSI Comfort DSG,29500.0,245 000 km,automatic,1 896 cm3,Diesel,Dzierżoniów,Dolnośląskie,2008
+67992,skoda,Skoda Superb Combi 1.8 TSI DSG Ambition,32500.0,245 000 km,automatic,1 896 cm3,Diesel,Siedlce,Mazowieckie,2008
+67993,skoda,Skoda Superb 2.8 V6 Platinum Tiptr,19999.0,254 500 km,automatic,1 595 cm3,Benzyna,Swarzędz,Wielkopolskie,2006
+67994,skoda,Skoda Octavia 2.0 TDI L&K DSG,13500.0,254 500 km,automatic,1 595 cm3,Benzyna,Radomin,Kujawsko-pomorskie,2006
+67995,skoda,Skoda Octavia Combi 2.0 TDI DPF DSG Ambiente,15900.0,147 474 km,automatic,1 598 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2008
+67996,skoda,Skoda Superb,28500.0,147 474 km,automatic,1 598 cm3,Benzyna,Tarnowskie Góry,Śląskie,2008
+67997,skoda,Skoda Octavia 2.0 TDI DPF RS DSG,35000.0,271 000 km,automatic,1 798 cm3,Benzyna,Kartuzy,Pomorskie,2009
+67998,skoda,Skoda Octavia,17900.0,271 000 km,automatic,1 798 cm3,Benzyna,Nowy Dwór Mazowiecki,Mazowieckie,2009
+67999,skoda,Skoda Octavia 2.0 TDI DPF DSG Elegance,12500.0,338 670 km,automatic,1 968 cm3,Diesel,Siedlce,Mazowieckie,2009
+68000,skoda,Skoda Octavia 1.9 TDI Ambiente DSG,19500.0,338 670 km,automatic,1 968 cm3,Diesel,Bielsko-Biała,Śląskie,2009
+68001,skoda,Skoda Superb,27675.0,144 000 km,automatic,1 798 cm3,Benzyna,Poznań,Wielkopolskie,2008
+68002,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,26000.0,144 000 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2008
+68003,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,143 000 km,automatic,1 968 cm3,Diesel,Stare Budy,Mazowieckie,2009
+68004,skoda,Skoda Superb,47000.0,143 000 km,automatic,1 968 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2009
+68005,skoda,Skoda Octavia,28000.0,202 000 km,automatic,1 896 cm3,Diesel,Lublin,Lubelskie,2006
+68006,skoda,Skoda Octavia 1.8 TSI Ambiente DSG,22900.0,202 000 km,automatic,1 896 cm3,Diesel,Gdańsk,Pomorskie,2006
+68007,skoda,Skoda Octavia 2.0 TDI RS DSG,35999.0,165 312 km,automatic,3 597 cm3,Benzyna,Kąty Opolskie,Opolskie,2008
+68008,skoda,Skoda Superb 1.8 TSI DSG Elegance,31000.0,165 312 km,automatic,3 597 cm3,Benzyna,Warszawa,Mazowieckie,2008
+68009,skoda,Skoda Octavia 1.6 Elegance Tiptr,26900.0,187 394 km,automatic,1 896 cm3,Diesel,Kraków,Małopolskie,2008
+68010,skoda,Skoda Octavia 1.9 TDI Elegance DSG,18900.0,187 394 km,automatic,1 896 cm3,Diesel,Warszawa,Mazowieckie,2008
+68011,skoda,Skoda Fabia,22900.0,236 004 km,automatic,1 798 cm3,Benzyna,Świebodzin,Lubuskie,2009
+68012,skoda,Skoda Superb 1.8 TSI Elegance DSG,36000.0,236 004 km,automatic,1 798 cm3,Benzyna,Sulejówek,Mazowieckie,2009
+68013,skoda,Skoda Superb 2.0 TDI Ambition DSG,21900.0,214 100 km,automatic,1 968 cm3,Diesel,Siedlce,Mazowieckie,2009
+68014,skoda,Skoda Octavia 1.9 TDI DPF DSG Elegance,18900.0,214 100 km,automatic,1 968 cm3,Diesel,Mosina,Wielkopolskie,2009
+68015,skoda,Skoda Octavia,18900.0,270 000 km,automatic,1 798 cm3,Benzyna,Ząbki,Mazowieckie,2009
+68016,skoda,Skoda Octavia 2.0 TDI DPF DSG IMPULS EDITION,17900.0,270 000 km,automatic,1 798 cm3,Benzyna,Lubsko,Lubuskie,2009
+68017,skoda,Skoda Octavia Combi 2.0 TDI DPF DSG Elegance,20900.0,177 000 km,automatic,1 595 cm3,Benzyna,Poznań,Wielkopolskie,2007
+68018,skoda,Skoda Octavia 2.0 TDI RS DSG,14000.0,177 000 km,automatic,1 595 cm3,Benzyna,Orle,Pomorskie,2007
+68019,skoda,Skoda Octavia,24499.0,237 000 km,automatic,1 896 cm3,Diesel,Żarki,Śląskie,2006
+68020,skoda,Skoda Fabia,22900.0,237 000 km,automatic,1 896 cm3,Diesel,Lębork,Pomorskie,2006
+68021,skoda,Skoda Superb 2.8 V6 Elegance,12500.0,200 402 km,automatic,1 598 cm3,Benzyna,Janów Podlaski,Lubelskie,2009
+68022,skoda,Skoda Superb 2.5 V6 TDI Elegance Tiptr,24500.0,200 402 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68023,skoda,Skoda Octavia 2.0 TDI DPF Ambiente DSG,12900.0,222 000 km,automatic,1 798 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2008
+68024,skoda,Skoda Octavia 1.8 TSI DSG Laurin & Klement,24900.0,222 000 km,automatic,1 798 cm3,Benzyna,Tomaszowice,Małopolskie,2008
+68025,skoda,Skoda Octavia 1.9 TDI Elegance DSG,23500.0,368 000 km,automatic,1 968 cm3,Diesel,Gdów,Małopolskie,2008
+68026,skoda,Skoda Superb 1.8 TSI Elegance DSG,29800.0,368 000 km,automatic,1 968 cm3,Diesel,Lipówki,Mazowieckie,2008
+68027,skoda,Skoda Octavia Combi 2.0 TSI DSG RS,28000.0,251 800 km,automatic,1 896 cm3,Diesel,Lipnica Mała,Małopolskie,2008
+68028,skoda,Skoda Octavia 2.0 TDI Elegance DSG,16800.0,251 800 km,automatic,1 896 cm3,Diesel,Michałowice,Małopolskie,2008
+68029,skoda,Skoda Superb 1.8T Elegance,26900.0,300 000 km,automatic,1 968 cm3,Diesel,Częstochowa,Śląskie,2006
+68030,skoda,Skoda Octavia 2.0 TDI L&K DSG,18900.0,300 000 km,automatic,1 968 cm3,Diesel,Ostróda,Warmińsko-mazurskie,2006
+68031,skoda,Skoda Octavia 1.9 TDI DPF DSG Ambiente,10900.0,264 500 km,automatic,1 968 cm3,Diesel,Płock,Mazowieckie,2006
+68032,skoda,Skoda Superb,34000.0,264 500 km,automatic,1 968 cm3,Diesel,Garwolin,Mazowieckie,2006
+68033,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+68034,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+68035,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+68036,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+68037,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+68038,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+68039,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+68040,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+68041,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+68042,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+68043,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+68044,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+68045,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68046,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+68047,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+68048,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+68049,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+68050,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+68051,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+68052,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+68053,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+68054,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+68055,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+68056,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+68057,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+68058,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68059,skoda,Skoda Fabia,11500.0,184 000 km,automatic,1 390 cm3,Benzyna,Skawina,Małopolskie,2007
+68060,skoda,Skoda Superb 2.0 TDI Platinum DSG,26900.0,184 000 km,automatic,1 390 cm3,Benzyna,Starogard Gdański,Pomorskie,2007
+68061,skoda,Skoda Octavia 2.0 TDI Ambiente DSG,24900.0,304 195 km,automatic,1 968 cm3,Diesel,Dojazdów,Małopolskie,2008
+68062,skoda,Skoda Octavia Combi 1.9 TDI DPF DSG Elegance,15000.0,304 195 km,automatic,1 968 cm3,Diesel,Rydułtowy,Śląskie,2008
+68063,skoda,Skoda Octavia 1.9 TDI Elegance DSG,16900.0,170 000 km,automatic,1 968 cm3,Diesel,Kolonia Waszulki,Warmińsko-mazurskie,2009
+68064,skoda,Skoda Superb,9500.0,170 000 km,automatic,1 968 cm3,Diesel,Mazańcowice,Śląskie,2009
+68065,skoda,Skoda Superb 1.8 TSI Elegance DSG,29999.0,359 045 km,automatic,1 896 cm3,Diesel,Konin,Wielkopolskie,2008
+68066,skoda,Skoda Superb,28900.0,359 045 km,automatic,1 896 cm3,Diesel,Wejherowo,Pomorskie,2008
+68067,skoda,Skoda Octavia 2.0 TFSI RS DSG,28800.0,230 000 km,automatic,1 896 cm3,Diesel,Skawina,Małopolskie,2006
+68068,skoda,Skoda Octavia 2.0 TDI CR DPF DSG RS,26900.0,230 000 km,automatic,1 896 cm3,Diesel,Świdwin,Zachodniopomorskie,2006
+68069,skoda,Skoda Octavia,15000.0,362 598 km,automatic,2 771 cm3,Benzyna,Zawiszyn,Mazowieckie,2005
+68070,skoda,Skoda Octavia,19900.0,362 598 km,automatic,2 771 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+68071,skoda,Skoda Octavia 2.0 FSI Elegance Tiptr,16800.0,235 900 km,automatic,1 798 cm3,Benzyna,Warszawa,Mazowieckie,2009
+68072,skoda,Skoda Superb 2.0 TDI DSG Active,36900.0,246 000 km,automatic,1 968 cm3,Diesel,Bieżyce,Lubuskie,2012
+68073,skoda,Skoda Octavia,40900.0,246 000 km,automatic,1 968 cm3,Diesel,Wolsztyn,Wielkopolskie,2012
+68074,skoda,Skoda Superb 2.0 TDI Elegance DSG,29900.0,177 000 km,automatic,1 598 cm3,Diesel,Ostróda,Warmińsko-mazurskie,2013
+68075,skoda,Skoda Superb 2.0 TDI 4x4 Business DSG,62000.0,177 000 km,automatic,1 598 cm3,Diesel,Kalisz,Wielkopolskie,2013
+68076,skoda,Skoda Superb 2.0 TDI 4x4 Platinum DSG,36900.0,302 007 km,automatic,1 968 cm3,Diesel,Mława,Mazowieckie,2011
+68077,skoda,Skoda Octavia,21900.0,302 007 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2011
+68078,skoda,Skoda Octavia Combi 2.0 TDI (Green tec) 4x4 DSG Scout,52500.0,147 000 km,automatic,1 968 cm3,Diesel,Modliborzyce,Lubelskie,2014
+68079,skoda,Skoda Superb 2.0 TDI Ambition DSG,37500.0,147 000 km,automatic,1 968 cm3,Diesel,Kutno,Łódzkie,2014
+68080,skoda,Skoda Superb 2.0 TDI DSG Ambition,46000.0,281 000 km,automatic,1 968 cm3,Diesel,Kolno,Podlaskie,2011
+68081,skoda,Skoda Octavia,52900.0,281 000 km,automatic,1 968 cm3,Diesel,Wągrowiec,Wielkopolskie,2011
+68082,skoda,Skoda Octavia 1.8 TSI Elegance DSG,49900.0,228 700 km,automatic,1 598 cm3,Diesel,Żukowo,Pomorskie,2011
+68083,skoda,Skoda Octavia Combi 1.4 TSI Green tec DSG Ambition,52890.0,228 700 km,automatic,1 598 cm3,Diesel,Kietrz,Opolskie,2011
+68084,skoda,Skoda Superb 2.0 TDI 4x4 L&K DSG,47900.0,278 000 km,automatic,1 968 cm3,Diesel,Groń,Małopolskie,2014
+68085,skoda,Skoda Octavia 2.0 TDI L&K DSG,31900.0,278 000 km,automatic,1 968 cm3,Diesel,Jarosław,Podkarpackie,2014
+68086,skoda,Skoda Octavia 1.8 TSI Ambition DSG,40000.0,239 200 km,automatic,1 968 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2014
+68087,skoda,Skoda Octavia,31900.0,239 200 km,automatic,1 968 cm3,Diesel,Mogilno,Kujawsko-pomorskie,2014
+68088,skoda,Skoda Superb 2.0 TDI Elegance DSG,31800.0,224 550 km,automatic,1 968 cm3,Diesel,Strzegom,Dolnośląskie,2014
+68089,skoda,Skoda Superb 2.0 TDI Platinum Outdoor DSG,39900.0,224 550 km,automatic,1 968 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2014
+68090,skoda,Skoda Superb 2.0 TSI Ambition DSG,49900.0,261 000 km,automatic,2 000 cm3,Diesel,Piła,Wielkopolskie,2014
+68091,skoda,Skoda Superb 2.0 TDI 4x4 Elegance DSG,55900.0,261 000 km,automatic,2 000 cm3,Diesel,Janki,Mazowieckie,2014
+68092,skoda,Skoda Octavia 2.0 TDI RS DSG,59700.0,243 000 km,automatic,1 798 cm3,Benzyna,Rymanów,Podkarpackie,2014
+68093,skoda,Skoda Octavia 2.0 TDI DPF DSG Elegance,27900.0,243 000 km,automatic,1 798 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2014
+68094,skoda,Skoda Superb 3.6 FSI 4x4 Elegance DSG,67000.0,199 481 km,automatic,1 395 cm3,Benzyna,Kraków,Małopolskie,2014
+68095,skoda,Skoda Superb 2.0 TDI Ambition DSG,34500.0,199 481 km,automatic,1 395 cm3,Benzyna,Kraków,Małopolskie,2014
+68096,skoda,Skoda Octavia,39900.0,280 000 km,automatic,1 968 cm3,Diesel,Kłodzko,Dolnośląskie,2013
+68097,skoda,Skoda Yeti Outdoor 2.0 TDI 4x4 DSG Adventure,57900.0,280 000 km,automatic,1 968 cm3,Diesel,Wadowice,Małopolskie,2013
+68098,skoda,Skoda Superb,48900.0,240 500 km,automatic,1 968 cm3,Diesel,Radom,Mazowieckie,2011
+68099,skoda,Skoda Octavia 2.0 TDI RS DSG,61900.0,240 500 km,automatic,1 968 cm3,Diesel,Starachowice,Świętokrzyskie,2011
+68100,skoda,Skoda Superb 2.0 TDI 4x4 Platinum DSG,55900.0,177 000 km,automatic,1 798 cm3,Benzyna,Radom,Mazowieckie,2013
+68101,skoda,Skoda Octavia,30900.0,177 000 km,automatic,1 798 cm3,Benzyna,Rychtal,Wielkopolskie,2013
+68102,skoda,Skoda Octavia 2.0 TDI RS DSG EU6,58500.0,224 000 km,automatic,1 968 cm3,Diesel,Trzebnica,Dolnośląskie,2012
+68103,skoda,Skoda Octavia Combi 2.0 TDI DSG Ambition,48900.0,224 000 km,automatic,1 968 cm3,Diesel,Białystok,Podlaskie,2012
+68104,skoda,Skoda Superb 2.0 TDI Ambition DSG,39900.0,269 000 km,automatic,1 968 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2013
+68105,skoda,Skoda Roomster,25990.0,269 000 km,automatic,1 968 cm3,Diesel,Buczek,Łódzkie,2013
+68106,skoda,Skoda Superb 2.0 TDI Active DSG,41950.0,180 000 km,automatic,1 197 cm3,Benzyna,Dobroń,Łódzkie,2010
+68107,skoda,Skoda Superb 2.0 TDI Ambition DSG,47900.0,180 000 km,automatic,1 197 cm3,Benzyna,Kraków,Małopolskie,2010
+68108,skoda,Skoda Octavia,28500.0,210 000 km,automatic,1 968 cm3,Diesel,Olesno,Opolskie,2012
+68109,skoda,Skoda Octavia 2.0 TDI DPF RS DSG,34900.0,210 000 km,automatic,1 968 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2012
+68110,skoda,Skoda Yeti 1.4 TSI 4x2 Ambition DSG,57900.0,169 200 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2014
+68111,skoda,Skoda Citigo 1.0 MPI Automatik Active,33500.0,169 200 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2014
+68112,skoda,Skoda Octavia 1.6 TDI Ambition DSG,30900.0,253 339 km,automatic,1 968 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2012
+68113,skoda,Skoda Yeti 1.4 TSI 4x2 Elegance DSG,54900.0,253 339 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2012
+68114,skoda,Skoda Yeti 2.0 TDI DPF 4x4 Edition DSG,49500.0,251 000 km,automatic,1 968 cm3,Diesel,Maszewo,Lubuskie,2010
+68115,skoda,Skoda Octavia 1.4 TSI Ambition DSG,39900.0,251 000 km,automatic,1 968 cm3,Diesel,Janki,Mazowieckie,2010
+68116,skoda,Skoda Yeti 2.0 TDI DPF 4x4 Adventure DSG,39900.0,58 980 km,automatic,1 390 cm3,Benzyna,Pyrzowice,Śląskie,2014
+68117,skoda,Skoda Citigo 1.0 MPI Automatik Elegance,22500.0,58 980 km,automatic,1 390 cm3,Benzyna,Radków,Dolnośląskie,2014
+68118,skoda,Skoda Superb 1.8 TSI Ambition DSG,40000.0,44 500 km,automatic,999 cm3,Benzyna,Warszawa,Mazowieckie,2013
+68119,skoda,Skoda Superb,41500.0,44 500 km,automatic,999 cm3,Benzyna,Gdańsk,Pomorskie,2013
+68120,skoda,Skoda Octavia 2.0 TDI Elegance DSG,24900.0,393 000 km,automatic,1 598 cm3,Diesel,Warszawa,Mazowieckie,2014
+68121,skoda,Skoda Superb 2.0 TDI Family DSG,31900.0,393 000 km,automatic,1 598 cm3,Diesel,Toruń,Kujawsko-pomorskie,2014
+68122,skoda,Skoda Octavia 2.0 TDI (Green tec) DSG Ambition,55900.0,133 000 km,automatic,1 390 cm3,Benzyna,Piastów,Mazowieckie,2014
+68123,skoda,Skoda Octavia 1.8 TSI 4x4 Drive DSG,54000.0,133 000 km,automatic,1 390 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+68124,skoda,Skoda Superb 2.0 TDI DSG Elegance,31900.0,286 000 km,automatic,1 968 cm3,Diesel,Baćkowice,Świętokrzyskie,2014
+68125,skoda,Skoda Superb 2.0 TDI Elegance DSG,53900.0,286 000 km,automatic,1 968 cm3,Diesel,Legionowo,Mazowieckie,2014
+68126,skoda,Skoda Octavia 2.0 TSI RS DSG,65000.0,195 266 km,automatic,1 395 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2013
+68127,skoda,Skoda Superb,47500.0,195 266 km,automatic,1 395 cm3,Benzyna,Chełmno,Kujawsko-pomorskie,2013
+68128,skoda,Skoda Superb 2.0 TDI DSG Elegance,36500.0,200 000 km,automatic,1 968 cm3,Diesel,Łapino,Pomorskie,2013
+68129,skoda,Skoda Superb 2.0 TDI DSG Exclusive,44900.0,200 000 km,automatic,1 968 cm3,Diesel,Myszyniec,Mazowieckie,2013
+68130,skoda,Skoda Superb 2.0 TDI DSG Elegance,38900.0,22 598 km,automatic,999 cm3,Benzyna,Ostróda,Warmińsko-mazurskie,2014
+68131,skoda,Skoda RAPID 1.4 TSI Ambition Max DSG,33000.0,22 598 km,automatic,999 cm3,Benzyna,Gdańsk,Pomorskie,2014
+68132,skoda,Skoda Superb,43900.0,170 000 km,automatic,1 798 cm3,Benzyna,Płock,Mazowieckie,2013
+68133,skoda,Skoda Superb Combi 1.8 TSI DSG Elegance,42000.0,170 000 km,automatic,1 798 cm3,Benzyna,Białystok,Podlaskie,2013
+68134,skoda,Skoda Superb 2.0 TDI 4x4 Elegance DSG,56900.0,180 041 km,automatic,1 984 cm3,Benzyna,Inowrocław,Kujawsko-pomorskie,2012
+68135,skoda,Skoda Superb,10900.0,180 041 km,automatic,1 984 cm3,Benzyna,Kielce,Świętokrzyskie,2012
+68136,skoda,Skoda Superb 2.0 TDI 4x4 Style DSG,74000.0,231 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2017
+68137,skoda,Skoda Octavia 2.0 TSI 4x4 Style DSG,94900.0,231 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2017
+68138,skoda,Skoda Superb 2.0 TSI 4x4 Style DSG,111900.0,66 880 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2019
+68139,skoda,Skoda Superb,75001.0,66 880 km,automatic,1 984 cm3,Benzyna,Poznań,Wielkopolskie,2019
+68140,skoda,Skoda Superb 2.0 TDI Style DSG,119899.0,98 000 km,automatic,1 984 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2019
+68141,skoda,Skoda Octavia 1.4 TSI Style DSG,54900.0,98 000 km,automatic,1 984 cm3,Benzyna,Borzykowo,Wielkopolskie,2019
+68142,skoda,Skoda Superb 1.8 TSI L&K DSG,70000.0,215 005 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2018
+68143,skoda,Skoda Octavia 2.0 TDI Joy DSG,61000.0,215 005 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2018
+68144,skoda,Skoda Octavia 2.0 TDI DSG Style,65500.0,72 002 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2018
+68145,skoda,Skoda Octavia Scout 2.0 TDI 4x4 DSG,55999.0,72 002 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2018
+68146,skoda,Skoda Octavia Scout 2.0 TDI 4x4 DSG,95940.0,229 800 km,automatic,1 395 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2017
+68147,skoda,Skoda Octavia 2.0 TDI (Green tec) DSG Joy,58900.0,229 800 km,automatic,1 395 cm3,Benzyna+LPG,Herford,Nordrhein-Westfalen,2017
+68148,skoda,Skoda Superb 2.0 TDI SCR Style DSG,138800.0,206 000 km,automatic,1 798 cm3,Benzyna,Mysłowice,Śląskie,2016
+68149,skoda,Skoda Superb 2.0 TDI Active DSG,79900.0,206 000 km,automatic,1 798 cm3,Benzyna,Pawłowice,Śląskie,2016
+68150,skoda,Skoda Octavia 1.4 TSI Style DSG,63900.0,121 000 km,automatic,1 968 cm3,Diesel,Świdnica,Dolnośląskie,2016
+68151,skoda,Skoda Superb 2.0 TDI L&K DSG,107900.0,121 000 km,automatic,1 968 cm3,Diesel,Zakopane,Małopolskie,2016
+68152,skoda,Skoda Superb Combi 2.0 TDI DSG Sportline,101900.0,195 000 km,automatic,1 968 cm3,Diesel,Płock,Mazowieckie,2019
+68153,skoda,Skoda Octavia 2.0 TDI Style DSG,69900.0,195 000 km,automatic,1 968 cm3,Diesel,Gliwice,Śląskie,2019
+68154,skoda,Skoda Superb,95800.0,290 000 km,automatic,1 968 cm3,Diesel,Jelenia Góra,Dolnośląskie,2019
+68155,skoda,Skoda Octavia,49999.0,290 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2019
+68156,skoda,Skoda Superb 2.0 TDI Style DSG,119500.0,231 000 km,automatic,1 968 cm3,Diesel,Dzierżoniów,Dolnośląskie,2018
+68157,skoda,Skoda Octavia,70900.0,231 000 km,automatic,1 968 cm3,Diesel,Sokołów,Mazowieckie,2018
+68158,skoda,Skoda Octavia 1.8 TSI 4x4 L&K DSG,79888.0,182 618 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2016
+68159,skoda,Skoda Superb 2.0 TDI 4x4 DSG L&K,92000.0,182 618 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2016
+68160,skoda,Skoda Kodiaq 2.0 TSI 4x4 Style DSG,136500.0,41 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2019
+68161,skoda,Skoda Superb 2.0 TDI Ambition DSG,95900.0,41 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2019
+68162,skoda,Skoda Kamiq 1.5 TSI Style DSG,103500.0,149 000 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2018
+68163,skoda,Skoda Octavia,45000.0,149 000 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2018
+68164,skoda,Skoda Octavia Combi 2.0 TDI DSG Exclusive,63900.0,105 000 km,automatic,1 395 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2017
+68165,skoda,Skoda Superb 2.0 TSI L&K DSG,99900.0,105 000 km,automatic,1 395 cm3,Benzyna,Kraków,Małopolskie,2017
+68166,skoda,Skoda Superb Combi 2.0 TDI DSG Style,78990.0,96 500 km,automatic,1 968 cm3,Diesel,Wejherowo,Pomorskie,2017
+68167,skoda,Skoda Superb Combi 2.0 TSI 4x4 DSG L&K,101751.0,96 500 km,automatic,1 968 cm3,Diesel,Kraków,Małopolskie,2017
+68168,skoda,Skoda Octavia 2.0 TSI RS DSG,74999.0,174 800 km,automatic,1 984 cm3,Benzyna,Świdnica,Dolnośląskie,2015
+68169,skoda,Skoda RAPID 1.4 TSI Ambition DSG,64900.0,174 800 km,automatic,1 984 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2015
+68170,skoda,Skoda Octavia 2.0 TDI 4x4 Style DSG,60900.0,15 151 km,automatic,1 395 cm3,Benzyna,Klepacze,Podlaskie,2017
+68171,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Ambition DSG,102000.0,15 151 km,automatic,1 395 cm3,Benzyna,Kraków,Małopolskie,2017
+68172,skoda,Skoda Octavia 1.5 TSI ACT DSG Style,53997.0,195 000 km,automatic,1 968 cm3,Diesel,Latchorzew,Mazowieckie,2018
+68173,skoda,Skoda Octavia 2.0 TSI RS 230 DSG,87900.0,195 000 km,automatic,1 968 cm3,Diesel,Nysa,Opolskie,2018
+68174,skoda,Skoda Superb 2.0 TDI L&K DSG,74000.0,117 886 km,automatic,1 498 cm3,Benzyna,Bolesławiec,Dolnośląskie,2019
+68175,skoda,Skoda Superb 2.0 TDI Ambition DSG,74900.0,117 886 km,automatic,1 498 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2019
+68176,skoda,Skoda Octavia 2.0 TSI Style DSG,92000.0,225 500 km,automatic,1 498 cm3,Benzyna,Warszawa,Mazowieckie,2017
+68177,skoda,Skoda Superb 2.0 TDI SCR Style DSG,86900.0,225 500 km,automatic,1 498 cm3,Benzyna,Nowe,Kujawsko-pomorskie,2017
+68178,skoda,Skoda Superb 2.0 TDI Style DSG,105999.0,124 000 km,automatic,1 984 cm3,Benzyna,Częstochowa,Śląskie,2017
+68179,skoda,Skoda Superb 1.8 TSI Sportline DSG,113000.0,124 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2017
+68180,skoda,Skoda Superb 2.0 TDI 4x4 L&K DSG,99500.0,250 543 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2017
+68181,skoda,Skoda Scala 1.0 TSI Ambition DSG,74500.0,250 543 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2017
+68182,skoda,Skoda Superb 1.5 TSI ACT Style DSG,97000.0,232 000 km,automatic,1 968 cm3,Diesel,Siedlce,Mazowieckie,2016
+68183,skoda,Skoda Karoq,116000.0,232 000 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2016
+68184,skoda,Skoda Fabia 1.4 TDI Ambition DSG,32900.0,46 500 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2018
+68185,skoda,Skoda Superb,85000.0,46 500 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2018
+68186,skoda,Skoda Octavia 2.0 TDI DSG Style,89999.0,175 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2019
+68187,skoda,Skoda Superb 2.0 TDI Active DSG,78720.0,175 000 km,automatic,1 968 cm3,Diesel,Wołów,Dolnośląskie,2019
+68188,skoda,Skoda Octavia 2.0 TDI SCR Ambition DSG,57900.0,105 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2019
+68189,skoda,Skoda Octavia,61501.0,105 000 km,automatic,1 968 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2019
+68190,skoda,Skoda Octavia,58900.0,80 000 km,automatic,1 798 cm3,Benzyna,Trzcianka,Wielkopolskie,2017
+68191,skoda,Skoda Octavia 2.0 TDI Ambition DSG,59900.0,80 000 km,automatic,1 798 cm3,Benzyna,Łódź,Łódzkie,2017
+68192,skoda,Skoda Octavia,62900.0,119 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2016
+68193,skoda,Skoda Kodiaq 2.0 TSI 4x4 Style DSG,119000.0,119 000 km,automatic,1 968 cm3,Diesel,Złocieniec,Zachodniopomorskie,2016
+68194,skoda,Skoda Superb 2.0 TDI SCR 4x4 Sportline DSG,109900.0,18 550 km,automatic,999 cm3,Benzyna,Nieradowo,Mazowieckie,2019
+68195,skoda,Skoda Superb 2.0 TDI 4x4 L&K DSG,79600.0,18 550 km,automatic,999 cm3,Benzyna,Bielawa,Dolnośląskie,2019
+68196,skoda,Skoda Octavia Combi 2.0 TDI 4x4 DSG L&K,49900.0,58 000 km,automatic,1 498 cm3,Benzyna,Chodzież,Wielkopolskie,2018
+68197,skoda,Skoda Superb 2.0 TSI 4x4 Style DSG,120000.0,58 000 km,automatic,1 498 cm3,Benzyna,Starogard Gdański,Pomorskie,2018
+68198,skoda,Skoda Kodiaq 2.0 TDI 4x4 Style DSG,139900.0,93 859 km,automatic,1 968 cm3,Diesel,Kielce,Świętokrzyskie,2018
+68199,skoda,Skoda Superb 2.0 TDI DSG Active,77900.0,93 859 km,automatic,1 968 cm3,Diesel,Lubsko,Lubuskie,2018
+68200,skoda,Skoda Octavia 2.0 TDI DSG Ambition,55000.0,185 000 km,automatic,1 968 cm3,Diesel,Łęczna,Lubelskie,2016
+68201,skoda,Skoda Superb 2.0 TSI 4x4 Sportline DSG,129000.0,185 000 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2016
+68202,skoda,Skoda Superb 2.0 TDI 4x4 Style DSG,98000.0,71 000 km,automatic,1 984 cm3,Benzyna,Myszków,Śląskie,2018
+68203,skoda,Skoda Superb 2.0 TDI Style DSG,77000.0,71 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2018
+68204,skoda,Skoda Octavia 2.0 TSI RS DSG,109750.0,161 000 km,automatic,1 968 cm3,Diesel,Olesno,Opolskie,2018
+68205,skoda,Skoda Superb 2.0 TDI 4x4 DSG L&K,94900.0,161 000 km,automatic,1 968 cm3,Diesel,Sosnowiec,Śląskie,2018
+68206,skoda,Skoda Octavia 2.0 TDI 4x4 Style DSG,87900.0,215 000 km,automatic,1 968 cm3,Diesel,Sopot,Pomorskie,2017
+68207,skoda,Skoda Superb 2.0 TDI SCR Ambition DSG,121000.0,215 000 km,automatic,1 968 cm3,Diesel,Lublin,Lubelskie,2017
+68208,skoda,Skoda Octavia 2.0 TDI DSG Style,55900.0,19 511 km,automatic,1 984 cm3,Benzyna,Czarnków,Wielkopolskie,2018
+68209,skoda,Skoda Octavia,71900.0,19 511 km,automatic,1 984 cm3,Benzyna,Myślenice,Małopolskie,2018
+68210,skoda,Skoda Octavia Combi 2.0 TDI DSG Sport Edition,62900.0,209 000 km,automatic,1 968 cm3,Diesel,Chojnice,Pomorskie,2018
+68211,skoda,Skoda Superb,94900.0,209 000 km,automatic,1 968 cm3,Diesel,Strzyżew,Mazowieckie,2018
+68212,skoda,Skoda Kodiaq 2.0 TSI 4x4 Style DSG,139000.0,150 000 km,automatic,1 968 cm3,Diesel,Biała Podlaska,Lubelskie,2018
+68213,skoda,Skoda Octavia 1.6 TDI Style DSG,45500.0,150 000 km,automatic,1 968 cm3,Diesel,Radom,Mazowieckie,2018
+68214,skoda,Skoda Superb 2.0 TDI Active DSG,67900.0,74 000 km,automatic,1 968 cm3,Diesel,Gdańsk,Pomorskie,2019
+68215,skoda,Skoda Superb 2.0 TDI 4x4 L&K DSG,90000.0,74 000 km,automatic,1 968 cm3,Diesel,Bartoszyce,Warmińsko-mazurskie,2019
+68216,skoda,Skoda Superb 2.0 TDI 4x4 Style DSG,119800.0,133 578 km,automatic,1 968 cm3,Diesel,Mysłowice,Śląskie,2016
+68217,skoda,Skoda Octavia 1.6 TDI Ambition DSG,48500.0,133 578 km,automatic,1 968 cm3,Diesel,Kołbacz,Zachodniopomorskie,2016
+68218,skoda,Skoda Superb 2.0 TDI 4x4 L&K DSG,147900.0,145 900 km,automatic,2 000 cm3,Diesel,Łódź,Łódzkie,2017
+68219,skoda,Skoda Octavia,77900.0,145 900 km,automatic,2 000 cm3,Diesel,Wojkowice,Dolnośląskie,2017
+68220,skoda,Skoda Superb,107001.0,219 000 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2019
+68221,skoda,Skoda Superb Combi 2.0 TSI 4x4 DSG L&K,83900.0,219 000 km,automatic,1 968 cm3,Diesel,Maków Mazowiecki,Mazowieckie,2019
+68222,skoda,Skoda Octavia,62000.0,86 000 km,automatic,1 968 cm3,Diesel,Piaseczno,Mazowieckie,2016
+68223,skoda,Skoda Superb 2.0 TDI SCR 4x4 L&K DSG,136038.0,86 000 km,automatic,1 968 cm3,Diesel,Błażowa,Podkarpackie,2016
+68224,skoda,Skoda Kodiaq 2.0 TSI 4x4 Business DSG,131000.0,79 457 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2017
+68225,skoda,Skoda Octavia,64700.0,79 457 km,automatic,1 984 cm3,Benzyna,Gniezno,Wielkopolskie,2017
+68226,skoda,Skoda Octavia,78900.0,255 000 km,automatic,1 598 cm3,Diesel,Warszawa,Mazowieckie,2018
+68227,skoda,Skoda Superb,99900.0,255 000 km,automatic,1 598 cm3,Diesel,Myślenice,Małopolskie,2018
+68228,skoda,Skoda Superb 2.0 TSI L&K DSG,117600.0,268 000 km,automatic,1 968 cm3,Diesel,Nisko,Podkarpackie,2017
+68229,skoda,Skoda Superb,55900.0,268 000 km,automatic,1 968 cm3,Diesel,Myślenice,Małopolskie,2017
+68230,skoda,Skoda Superb 2.0 TDI Ambition DSG7,79900.0,155 000 km,automatic,1 968 cm3,Diesel,Grodzisk Mazowiecki,Mazowieckie,2016
+68231,skoda,Skoda Octavia,69900.0,155 000 km,automatic,1 968 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2016
+68232,skoda,Skoda Octavia 2.0 TDI Style DSG,135000.0,34 000 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2020
+68233,skoda,Skoda Kodiaq,162250.0,34 000 km,automatic,1 968 cm3,Diesel,Dobroń,Łódzkie,2020
+68234,skoda,Skoda Superb,142800.0,1 km,automatic,1 500 cm3,Benzyna,Mysłowice,Śląskie,2023
+68235,skoda,Skoda Kodiaq 2.0 TDI 4x4 Sportline DSG,209900.0,1 km,automatic,1 500 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+68236,skoda,Skoda Octavia 1.5 TSI e-Tec Ambition DSG,122000.0,36 000 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2021
+68237,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Ambition DSG,151700.0,36 000 km,automatic,1 984 cm3,Benzyna,Łódź,Łódzkie,2021
+68238,skoda,Skoda Octavia 2.0 TSI 4x4 Style DSG,158400.0,26 000 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2022
+68239,skoda,Skoda Octavia 2.0 TDI Style DSG,154900.0,26 000 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2022
+68240,skoda,Skoda Octavia 1.4 TSI Plug-In Hybrid Style DSG,171300.0,15 148 km,automatic,1 498 cm3,Benzyna,Łódź,Łódzkie,2022
+68241,skoda,Skoda Superb 2.0 TSI Sportline DSG,181700.0,15 148 km,automatic,1 498 cm3,Benzyna,Łódź,Łódzkie,2022
+68242,skoda,Skoda Kodiaq,210940.0,7 km,automatic,1 498 cm3,Benzyna,Dobroń,Łódzkie,2023
+68243,skoda,Skoda Superb 1.5 TSI Ambition DSG,145950.0,7 km,automatic,1 498 cm3,Benzyna,Łódź,Łódzkie,2023
+68244,skoda,Skoda Superb 2.0 TDI Ambition DSG,118900.0,7 km,automatic,1 984 cm3,Benzyna,Kalisz,Wielkopolskie,2023
+68245,skoda,Skoda Kodiaq,183900.0,7 km,automatic,1 984 cm3,Benzyna,Łódź,Łódzkie,2023
+68246,skoda,Skoda Octavia,156140.0,7 km,automatic,1 968 cm3,Diesel,Chorzów,Śląskie,2023
+68247,skoda,Skoda Octavia 2.0 TSI RS DSG,180000.0,7 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2023
+68248,skoda,Skoda Octavia 2.0 TSI RS DSG,153500.0,7 km,automatic,1 395 cm3,Hybryda,Warszawa,Mazowieckie,2023
+68249,skoda,Skoda Superb,192140.0,7 km,automatic,1 395 cm3,Hybryda,Dobroń,Łódzkie,2023
+68250,skoda,Skoda Octavia 2.0 TSI RS DSG,41900.0,7 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2023
+68251,skoda,Skoda Superb 2.0 TSI Ambition DSG,161006.0,7 km,automatic,1 984 cm3,Benzyna,Gdynia,Pomorskie,2023
+68252,skoda,Skoda Octavia 2.0 TSI RS DSG,185370.0,5 km,automatic,2 000 cm3,Benzyna,Gdynia,Pomorskie,2023
+68253,skoda,Skoda Superb,157900.0,5 km,automatic,2 000 cm3,Benzyna,Poznań,Wielkopolskie,2023
+68254,skoda,Skoda Karoq 1.5 TSI ACT Ambition DSG,137650.0,7 km,automatic,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+68255,skoda,Skoda Octavia 2.0 TDI RS DSG,192000.0,7 km,automatic,1 498 cm3,Benzyna,Chorzów,Śląskie,2023
+68256,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Style DSG,176440.0,109 073 km,automatic,1 968 cm3,Diesel,Chorzów,Śląskie,2020
+68257,skoda,Skoda Kodiaq 2.0 TSI 4x4 RS DSG 7os,265740.0,109 073 km,automatic,1 968 cm3,Diesel,Gdynia,Pomorskie,2020
+68258,skoda,Skoda Superb 2.0 TSI 4x4 Scout DSG,239900.0,5 km,automatic,1 984 cm3,Benzyna,Falenty,Mazowieckie,2023
+68259,skoda,Skoda Karoq 2.0 TDI SCR 4x2 Style DSG,152800.0,5 km,automatic,1 984 cm3,Benzyna,Katowice,Śląskie,2023
+68260,skoda,Skoda Scala 1.5 TSI Monte Carlo DSG,134550.0,1 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2023
+68261,skoda,Skoda Superb 2.0 TDI SCR L&K DSG,217350.0,1 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2023
+68262,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Style DSG,179700.0,100 km,automatic,1 984 cm3,Benzyna,Katowice,Śląskie,2022
+68263,skoda,Skoda Scala 1.0 TSI Ambition DSG,93000.0,100 km,automatic,1 984 cm3,Benzyna,Gliczarów Górny,Małopolskie,2022
+68264,skoda,Skoda Octavia 2.0 TDI 4x4 RS DSG,203300.0,8 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2023
+68265,skoda,Skoda Kodiaq 2.0 TSI 4x4 Sportline DSG,207100.0,8 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2023
+68266,skoda,Skoda Karoq 1.5 TSI ACT Style DSG,146800.0,1 km,automatic,1 984 cm3,Benzyna,Katowice,Śląskie,2023
+68267,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Style DSG,155900.0,1 km,automatic,1 984 cm3,Benzyna,Falenty,Mazowieckie,2023
+68268,skoda,Skoda Enyaq RS,227640.0,1 km,automatic,1 498 cm3,Benzyna,Tychy,Śląskie,2023
+68269,skoda,Skoda Superb 2.0 TSI Sportline DSG,147800.0,1 km,automatic,1 498 cm3,Benzyna,Piaseczno,Mazowieckie,2023
+68270,skoda,Skoda Superb 2.0 TDI SCR Style DSG,178800.0,5 km,automatic,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+68271,skoda,Skoda Scala,137300.0,5 km,automatic,1 498 cm3,Benzyna,Łódź,Łódzkie,2023
+68272,skoda,Skoda Superb,187700.0,5 km,automatic,Elektryczny,2023,Łódź,Łódzkie,2023
+68273,skoda,Skoda Kodiaq 2.0 TSI 4x4 Sportline DSG,210900.0,Elektryczny,automatic,2020,73 200 km,Łódź,Łódzkie,5 km
+68274,skoda,Skoda Kodiaq 2.0 TSI 4x4 L&K DSG,179000.0,Benzyna,automatic,2020,73 200 km,Wrocław,Dolnośląskie,1 984 cm3
+68275,skoda,Skoda Octavia,187300.0,Benzyna,automatic,2022,10 km,Łódź,Łódzkie,1 984 cm3
+68276,skoda,Skoda Kodiaq 2.0 TSI 4x4 Style DSG,203350.0,Diesel,automatic,2022,10 km,Chorzów,Śląskie,1 968 cm3
+68277,skoda,Skoda Kodiaq 2.0 TDI 4x4 Style DSG,204950.0,Diesel,automatic,2023,5 km,Chorzów,Śląskie,1 968 cm3
+68278,skoda,Skoda Fabia 1.5 TSI Monte Carlo DSG,109120.0,Benzyna,automatic,2023,5 km,Chorzów,Śląskie,1 498 cm3
+68279,skoda,Skoda Fabia 1.0 TSI Monte Carlo DSG,101235.0,Benzyna,automatic,2023,5 km,Chorzów,Śląskie,1 498 cm3
+68280,skoda,Skoda Superb 2.0 TDI SCR 4x4 Sportline DSG,217690.0,Diesel,automatic,2023,5 km,Chorzów,Śląskie,1 968 cm3
+68281,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Style DSG 7os,116000.0,Diesel,automatic,2023,5 km,Skrzydlna,Małopolskie,1 968 cm3
+68282,skoda,Skoda Superb 2.0 TSI Style DSG,173250.0,Benzyna,automatic,2023,5 km,Chorzów,Śląskie,1 984 cm3
+68283,skoda,Skoda Kamiq,98500.0,Benzyna,automatic,2021,24 233 km,Poznań,Wielkopolskie,1 984 cm3
+68284,skoda,Skoda Superb,195500.0,Benzyna,automatic,2021,24 233 km,Poznań,Wielkopolskie,1 984 cm3
+68285,skoda,Skoda Superb 2.0 TDI SCR 4x4 L&K DSG,129999.0,Benzyna,automatic,2023,5 km,Warszawa,Mazowieckie,1 984 cm3
+68286,skoda,Skoda Octavia 2.0 TDI Style DSG,157400.0,Diesel,automatic,2023,5 km,Łódź,Łódzkie,1 968 cm3
+68287,skoda,Skoda Enyaq 80,233950.0,Diesel,automatic,2023,1 km,Łódź,Łódzkie,1 968 cm3
+68288,skoda,Skoda Octavia,180520.0,Benzyna,automatic,2023,1 km,Gdynia,Pomorskie,1 984 cm3
+68289,skoda,Skoda Kodiaq 2.0 TDI 4x4 Sportline DSG,159000.0,Benzyna,automatic,2023,1 km,Lubin,Dolnośląskie,1 984 cm3
+68290,skoda,Skoda Superb,159900.0,Diesel,automatic,2023,1 km,Gdańsk,Pomorskie,1 968 cm3
+68291,skoda,Skoda Superb,124900.0,Diesel,automatic,2023,1 km,Gdańsk,Pomorskie,1 968 cm3
+68292,skoda,Skoda Enyaq RS Advanced,309520.0,Benzyna,automatic,2023,1 km,Gdynia,Pomorskie,1 498 cm3
+68293,skoda,Skoda Karoq 1.5 TSI ACT Style DSG,148300.0,Benzyna,automatic,2023,1 km,Łódź,Łódzkie,1 498 cm3
+68294,skoda,Skoda Superb 2.0 TDI SCR Style DSG,187400.0,Benzyna,automatic,2023,1 km,Sosnowiec,Śląskie,999 cm3
+68295,skoda,Skoda Kodiaq,195790.0,Benzyna,automatic,2023,1 km,Dobroń,Łódzkie,999 cm3
+68296,skoda,Skoda Octavia 2.0 TDI Style DSG,155250.0,10 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2023
+68297,skoda,Skoda Superb 2.0 TDI SCR 4x4 Style DSG,204040.0,10 km,automatic,1 968 cm3,Diesel,Gdynia,Pomorskie,2023
+68298,skoda,Skoda Superb 2.0 TSI Ambition DSG,176440.0,4 km,automatic,1 968 cm3,Diesel,Gdynia,Pomorskie,2023
+68299,skoda,Skoda Octavia 2.0 TDI Ambition DSG,58500.0,4 km,automatic,1 968 cm3,Diesel,Rakoniewice,Wielkopolskie,2023
+68300,skoda,Skoda Scala,88800.0,4 km,automatic,1 984 cm3,Benzyna,Sosnowiec,Śląskie,2023
+68301,skoda,Skoda Scala,90000.0,4 km,automatic,1 984 cm3,Benzyna,Zabrze,Śląskie,2023
+68302,skoda,Skoda Superb 2.0 TSI Style DSG,121500.0,71 000 km,automatic,1 968 cm3,Diesel,Rębków,Mazowieckie,2020
+68303,skoda,Skoda Octavia 1.0 TSI e-Tec Ambition DSG,59950.0,71 000 km,automatic,1 968 cm3,Diesel,Zgierz,Łódzkie,2020
+68304,skoda,Skoda Superb 2.0 TDI SCR Style DSG,147900.0,60 000 km,automatic,1 498 cm3,Benzyna,Częstochowa,Śląskie,2020
+68305,skoda,Skoda Superb 1.6 TDI DSG Ambition,89900.0,60 000 km,automatic,1 498 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,2020
+68306,skoda,Skoda Octavia,151000.0,70 815 km,automatic,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2020
+68307,skoda,Skoda Octavia,151000.0,70 815 km,automatic,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2020
+68308,skoda,Skoda Enyaq Coupe RS Maxx,318794.0,5 426 km,automatic,1 984 cm3,Benzyna,Gdynia,Pomorskie,2022
+68309,skoda,Skoda Superb 2.0 TSI L&K DSG,207540.0,5 426 km,automatic,1 984 cm3,Benzyna,Gdynia,Pomorskie,2022
+68310,skoda,Skoda Superb 2.0 TDI SCR Style DSG,203740.0,24 846 km,automatic,999 cm3,Benzyna,Gdynia,Pomorskie,2022
+68311,skoda,Skoda Karoq 1.5 TSI ACT Style DSG,148800.0,24 846 km,automatic,999 cm3,Benzyna,Łódź,Łódzkie,2022
+68312,skoda,Skoda Karoq 2.0 TSI 4x4 Sportline DSG,193100.0,67 200 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2020
+68313,skoda,Skoda Octavia 2.0 TDI 4x4 Ambition DSG,181500.0,67 200 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2020
+68314,skoda,Skoda Octavia 2.0 TDI Ambition DSG,148600.0,189 000 km,automatic,1 598 cm3,Diesel,Łódź,Łódzkie,2020
+68315,skoda,Skoda Octavia,165300.0,189 000 km,automatic,1 598 cm3,Diesel,Łódź,Łódzkie,2020
+68316,skoda,Skoda Octavia 2.0 TDI Ambition DSG,140800.0,5 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+68317,skoda,Skoda Octavia,154500.0,5 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+68318,skoda,Skoda Octavia,163600.0,5 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2023
+68319,skoda,Skoda Superb,194000.0,5 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2023
+68320,skoda,Skoda Octavia,127900.0,25 km,automatic,Elektryczny,2023,Konin,Wielkopolskie,2023
+68321,skoda,Skoda Superb 1.4 TSI Plug-In Hybrid L&K DSG,230900.0,Elektryczny,automatic,2023,4 km,Wrocław,Dolnośląskie,25 km
+68322,skoda,Skoda Superb 2.0 TDI SCR Style DSG,176800.0,Benzyna,automatic,2023,4 km,Tarnowskie Góry,Śląskie,1 984 cm3
+68323,skoda,Skoda Kodiaq 2.0 TDI 4x2 Sportline DSG,195800.0,Benzyna,automatic,2023,4 km,Łódź,Łódzkie,1 984 cm3
+68324,skoda,Skoda Kodiaq 1.5 TSI ACT 4x2 Ambition DSG,161300.0,Diesel,automatic,2023,4 km,Łódź,Łódzkie,1 968 cm3
+68325,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Style DSG,154200.0,Diesel,automatic,2023,5 km,Katowice,Śląskie,1 968 cm3
+68326,skoda,Skoda Superb 2.0 TDI SCR 4x4 L&K DSG,168387.0,Benzyna,automatic,2023,5 km,Płock,Mazowieckie,1 498 cm3
+68327,skoda,Skoda Karoq 1.5 TSI ACT 4x2 Style DSG,147500.0,Benzyna,automatic,2023,5 km,Katowice,Śląskie,1 498 cm3

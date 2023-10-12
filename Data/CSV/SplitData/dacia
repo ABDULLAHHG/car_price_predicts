@@ -1,0 +1,404 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+10838,dacia,Dacia Sandero 1.6 Ambiance,17000.0,162 200 km,manual,1 598 cm3,Benzyna,Zabrze,Śląskie,2009
+10839,dacia,Dacia Sandero 1.6 MPI Laureate,14800.0,162 200 km,manual,1 598 cm3,Benzyna,Zduńska Wola,Łódzkie,2009
+10840,dacia,Dacia Logan,4300.0,100 800 km,manual,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2008
+10841,dacia,Dacia Sandero,7900.0,100 800 km,manual,1 598 cm3,Benzyna,Karczew,Mazowieckie,2008
+10842,dacia,Dacia Sandero 1.4 MPI,10400.0,181 000 km,manual,1 390 cm3,Benzyna,Wrocław,Dolnośląskie,2009
+10843,dacia,Dacia Sandero 1.4 Laureate,10900.0,181 000 km,manual,1 390 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2009
+10844,dacia,Dacia Sandero 1.4 MPI,8900.0,174 000 km,manual,1 598 cm3,Benzyna,Gościce,Opolskie,2009
+10845,dacia,Dacia Sandero 1.4 Ambiance,9850.0,174 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2009
+10846,dacia,Dacia Sandero 1.4 Access,9999.0,177 083 km,manual,1 390 cm3,Benzyna,Lubawa,Warmińsko-mazurskie,2008
+10847,dacia,Dacia Sandero,4600.0,177 083 km,manual,1 390 cm3,Benzyna,Chełmno,Kujawsko-pomorskie,2008
+10848,dacia,Dacia Logan,4999.0,178 562 km,manual,1 390 cm3,Benzyna,Kalisz,Wielkopolskie,2009
+10849,dacia,Dacia Sandero 1.4 MPI,7499.0,178 562 km,manual,1 390 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2009
+10850,dacia,Dacia Logan 1.4 Laureate,3900.0,104 000 km,manual,1 390 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2009
+10851,dacia,Dacia Sandero 1.4 Access,10900.0,104 000 km,manual,1 390 cm3,Benzyna,Żyrardów,Mazowieckie,2009
+10852,dacia,Dacia Logan 1.4,2900.0,269 073 km,manual,1 390 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2009
+10853,dacia,Dacia Sandero 1.2 16V,11900.0,269 073 km,manual,1 390 cm3,Benzyna+LPG,Częstochowa,Śląskie,2009
+10854,dacia,Dacia Sandero 1.4 MPI,10900.0,144 602 km,manual,1 390 cm3,Benzyna,Stefanówka,Mazowieckie,2009
+10855,dacia,Dacia Logan,7900.0,144 602 km,manual,1 390 cm3,Benzyna,Warszawa,Mazowieckie,2009
+10856,dacia,Dacia Logan,10500.0,215 700 km,manual,1 390 cm3,Benzyna,Słupsk,Pomorskie,2009
+10857,dacia,Dacia Sandero Stepway 1.6,17900.0,215 700 km,manual,1 390 cm3,Benzyna,Paczków,Opolskie,2009
+10858,dacia,Dacia Logan MCV 1.6 16V Laureate,10999.0,180 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2007
+10859,dacia,Dacia Logan MCV 1.4 Ambiance,10900.0,180 000 km,manual,1 598 cm3,Benzyna,Przasnysz,Mazowieckie,2007
+10860,dacia,Dacia Sandero 1.5 dCi eco2,8500.0,184 156 km,manual,1 390 cm3,Benzyna,Warszawa,Mazowieckie,2009
+10861,dacia,Dacia Sandero Stepway 1.6,16900.0,184 156 km,manual,1 390 cm3,Benzyna,Kalisz,Wielkopolskie,2009
+10862,dacia,Dacia Sandero,9000.0,122 000 km,manual,1 390 cm3,Benzyna,Świdnica,Dolnośląskie,2006
+10863,dacia,Dacia Sandero,14900.0,122 000 km,manual,1 390 cm3,Benzyna,Gołdap,Warmińsko-mazurskie,2006
+10864,dacia,Dacia Sandero Stepway 1.6,21900.0,86 000 km,manual,1 390 cm3,Benzyna,Dynów,Podkarpackie,2009
+10865,dacia,Dacia Sandero 1.2 16V 75 Ambiance,11900.0,86 000 km,manual,1 390 cm3,Benzyna,Rydułtowy,Śląskie,2009
+10866,dacia,Dacia Sandero 1.4 MPI,10900.0,98 900 km,manual,1 390 cm3,Benzyna,Kraków,Małopolskie,2005
+10867,dacia,Dacia Sandero,13500.0,98 900 km,manual,1 390 cm3,Benzyna,Kielce,Świętokrzyskie,2005
+10868,dacia,Dacia Sandero,9500.0,128 403 km,manual,1 149 cm3,Benzyna,Kraków,Małopolskie,2009
+10869,dacia,Dacia Sandero 1.4 Access,9999.0,128 403 km,manual,1 149 cm3,Benzyna,Fałkowo,Wielkopolskie,2009
+10870,dacia,Dacia Sandero Stepway,29999.0,96 000 km,manual,898 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2013
+10871,dacia,Dacia Duster 1.6,22900.0,96 000 km,manual,898 cm3,Benzyna,Lublin,Lubelskie,2013
+10872,dacia,Dacia Logan 1.4 Laureate,13800.0,230 000 km,manual,1 598 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2010
+10873,dacia,Dacia Duster 1.6 16V 105 4x2 Celebration,23500.0,230 000 km,manual,1 598 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2010
+10874,dacia,Dacia Duster 1.6 Ambiance 4x4,26800.0,111 000 km,manual,1 390 cm3,Benzyna,Piaseczno,Mazowieckie,2010
+10875,dacia,Dacia Duster,28400.0,111 000 km,manual,1 390 cm3,Benzyna,Nowa Sucha,Mazowieckie,2010
+10876,dacia,Dacia Duster 1.5 dCi Ambiance,23999.0,156 000 km,manual,1 598 cm3,Benzyna,Człuchów,Pomorskie,2010
+10877,dacia,Dacia Sandero 1.4 Laureate,10900.0,156 000 km,manual,1 598 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2010
+10878,dacia,Dacia Duster 1.6 Laureate,29900.0,211 000 km,manual,1 598 cm3,Benzyna,Mława,Mazowieckie,2012
+10879,dacia,Dacia Duster 1.6 Ambiance,28900.0,211 000 km,manual,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2012
+10880,dacia,Dacia Logan,25000.0,200 000 km,manual,1 598 cm3,Benzyna+LPG,Bielany Wrocławskie,Dolnośląskie,2012
+10881,dacia,Dacia Sandero Stepway 1.6,23900.0,200 000 km,manual,1 598 cm3,Benzyna+LPG,Brzozów,Podkarpackie,2012
+10882,dacia,Dacia Duster,37900.0,249 400 km,manual,1 461 cm3,Diesel,Piła,Wielkopolskie,2011
+10883,dacia,Dacia Lodgy dCi 110 Laureate,20900.0,249 400 km,manual,1 461 cm3,Diesel,Chojnice,Pomorskie,2011
+10884,dacia,Dacia Duster 1.6 Ambiance Euro5,39990.0,205 000 km,manual,1 390 cm3,Benzyna,Ostrołęka,Mazowieckie,2010
+10885,dacia,Dacia Duster 1.6,35700.0,205 000 km,manual,1 390 cm3,Benzyna,Brzechów,Świętokrzyskie,2010
+10886,dacia,Dacia Duster 1.6,35999.0,125 000 km,manual,1 598 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2010
+10887,dacia,Dacia Sandero 1.6 MPI Stepway,21900.0,125 000 km,manual,1 598 cm3,Benzyna+LPG,Blizne,Podkarpackie,2010
+10888,dacia,Dacia Lodgy,15900.0,97 638 km,manual,1 598 cm3,Benzyna,Wadowice,Małopolskie,2012
+10889,dacia,Dacia Duster 1.5 dCi Laureate,35800.0,97 638 km,manual,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2012
+10890,dacia,Dacia Sandero Stepway 1.6,29900.0,97 802 km,manual,1 149 cm3,Benzyna,Radom,Mazowieckie,2013
+10891,dacia,Dacia Duster 1.5 dCi Laureate 4x4,40590.0,97 802 km,manual,1 149 cm3,Benzyna,Milanówek,Mazowieckie,2013
+10892,dacia,Dacia Dokker,37000.0,149 420 km,manual,1 598 cm3,Benzyna,Lublin,Lubelskie,2012
+10893,dacia,Dacia Sandero 1.4 Laureate,15900.0,149 420 km,manual,1 598 cm3,Benzyna,Ustroń,Śląskie,2012
+10894,dacia,Dacia Dokker,16900.0,113 726 km,manual,1 598 cm3,Benzyna+LPG,Łomża,Podlaskie,2012
+10895,dacia,Dacia Duster,34900.0,113 726 km,manual,1 598 cm3,Benzyna+LPG,Przyszowice,Śląskie,2012
+10896,dacia,Dacia Sandero 1.5 dCi Laureate,8300.0,157 500 km,manual,1 461 cm3,Diesel,Wągrowiec,Wielkopolskie,2013
+10897,dacia,Dacia Duster 1.6 Ambiance,16509.0,157 500 km,manual,1 461 cm3,Diesel,Komorniki,Dolnośląskie,2013
+10898,dacia,Dacia Duster,33210.0,93 795 km,manual,1 598 cm3,Benzyna,Ustrzyki Dolne,Podkarpackie,2014
+10899,dacia,Dacia Sandero Stepway,7999.0,93 795 km,manual,1 598 cm3,Benzyna,Karczew,Mazowieckie,2014
+10900,dacia,Dacia Lodgy dCi 90 Essential,23000.0,140 000 km,manual,1 598 cm3,Benzyna,Rzeszów,Podkarpackie,2013
+10901,dacia,Dacia Duster 1.5 dCi Laureate,28900.0,140 000 km,manual,1 598 cm3,Benzyna,Raków,Świętokrzyskie,2013
+10902,dacia,Dacia Sandero,12900.0,215 000 km,manual,1 461 cm3,Diesel,Rudziczka,Śląskie,2014
+10903,dacia,Dacia Sandero,15400.0,215 000 km,manual,1 461 cm3,Diesel,Chełmno,Kujawsko-pomorskie,2014
+10904,dacia,Dacia Sandero 0.9 TCe SL Celebration,21400.0,149 148 km,manual,1 149 cm3,Benzyna,Ostrzeszów,Wielkopolskie,2011
+10905,dacia,Dacia Duster 1.6 Ambiance,28990.0,149 148 km,manual,1 149 cm3,Benzyna,Bytom,Śląskie,2011
+10906,dacia,Dacia Logan MCV 1.5 dCi SL Arctica,14400.0,159 463 km,manual,898 cm3,Benzyna,Rybnik,Śląskie,2013
+10907,dacia,Dacia Duster 1.6 Ambiance Euro5,32800.0,159 463 km,manual,898 cm3,Benzyna,Wrocław,Dolnośląskie,2013
+10908,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S,26900.0,188 000 km,manual,1 598 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2011
+10909,dacia,Dacia Duster 1.6,30500.0,188 000 km,manual,1 598 cm3,Benzyna,Nowogród,Podlaskie,2011
+10910,dacia,Dacia Sandero,11500.0,209 786 km,manual,1 461 cm3,Diesel,Gdańsk,Pomorskie,2011
+10911,dacia,Dacia Lodgy dCi 90 Essential,29900.0,209 786 km,manual,1 461 cm3,Diesel,Bodzanów,Małopolskie,2011
+10912,dacia,Dacia Duster 1.6 Ambiance,25900.0,183 514 km,manual,1 598 cm3,Benzyna+LPG,Białobrzegi,Mazowieckie,2012
+10913,dacia,Dacia Duster 1.6 Laureate 4x4,35400.0,183 514 km,manual,1 598 cm3,Benzyna+LPG,Rumia,Pomorskie,2012
+10914,dacia,Dacia Duster 1.6 Laureate 4x4,27900.0,150 000 km,manual,898 cm3,Benzyna,Tychy,Śląskie,2013
+10915,dacia,Dacia Duster 1.5 dCi Laureate,26900.0,150 000 km,manual,898 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2013
+10916,dacia,Dacia Dokker 1.5 dCi Celebration,19495.0,147 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2011
+10917,dacia,Dacia Duster 1.6 Laureate,30555.0,147 000 km,manual,1 598 cm3,Benzyna,Gliwice,Śląskie,2011
+10918,dacia,Dacia Lodgy,15500.0,128 909 km,manual,1 149 cm3,Benzyna,Jasło,Podkarpackie,2011
+10919,dacia,Dacia Duster 1.5 dCi Laureate,32900.0,128 909 km,manual,1 149 cm3,Benzyna,Lipnik,Zachodniopomorskie,2011
+10920,dacia,Dacia Duster,23900.0,194 201 km,manual,1 461 cm3,Diesel,Września,Wielkopolskie,2013
+10921,dacia,Dacia Logan MCV 1.4,14500.0,194 201 km,manual,1 461 cm3,Diesel,Czerwionka-Leszczyny,Śląskie,2013
+10922,dacia,Dacia Duster,30990.0,132 000 km,manual,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2011
+10923,dacia,Dacia Duster 1.6 Ambiance Eco,33950.0,132 000 km,manual,1 598 cm3,Benzyna,Siewierz,Śląskie,2011
+10924,dacia,Dacia Duster 1.5 dCi Laureate,25900.0,220 750 km,manual,1 598 cm3,Benzyna+LPG,Ludwina,Wielkopolskie,2014
+10925,dacia,Dacia Sandero Stepway,25999.0,220 750 km,manual,1 598 cm3,Benzyna+LPG,Bolesławiec,Dolnośląskie,2014
+10926,dacia,Dacia Duster 1.5 dCi Ambiance,21500.0,218 000 km,manual,1 598 cm3,Benzyna,Kosakowo,Pomorskie,2011
+10927,dacia,Dacia Logan MCV 1.2 16V Ambiance,23500.0,218 000 km,manual,1 598 cm3,Benzyna,Płock,Mazowieckie,2011
+10928,dacia,Dacia Duster 1.5 dCi Laureate,40900.0,176 543 km,manual,1 461 cm3,Diesel,Gniezno,Wielkopolskie,2012
+10929,dacia,Dacia Logan MCV 1.5 dCi Prestige,17900.0,176 543 km,manual,1 461 cm3,Diesel,Miejsce Piastowe,Podkarpackie,2012
+10930,dacia,Dacia Duster,27500.0,238 000 km,manual,1 461 cm3,Diesel,Pruszcz Gdański,Pomorskie,2014
+10931,dacia,Dacia Logan MCV 1.2 16V Access,21999.0,238 000 km,manual,1 461 cm3,Diesel,Tychy,Śląskie,2014
+10932,dacia,Dacia Logan 1.2 16V Access,20500.0,134 000 km,manual,1 598 cm3,Benzyna,Rościszewo,Mazowieckie,2010
+10933,dacia,Dacia Lodgy,21600.0,134 000 km,manual,1 598 cm3,Benzyna,Męcka Wola,Łódzkie,2010
+10934,dacia,Dacia Dokker 1.3 TCe Laureate,65190.0,88 000 km,manual,1 333 cm3,Benzyna,Mosina,Wielkopolskie,2019
+10935,dacia,Dacia Duster 1.5 dCi Essential 4WD,56900.0,88 000 km,manual,1 333 cm3,Benzyna,Warszawa,Mazowieckie,2019
+10936,dacia,Dacia Sandero,27700.0,168 000 km,manual,1 461 cm3,Diesel,Poznań,Wielkopolskie,2018
+10937,dacia,Dacia Lodgy 1.2 TCe Prestige,21500.0,168 000 km,manual,1 461 cm3,Diesel,Częstochowa,Śląskie,2018
+10938,dacia,Dacia Duster 1.6 SCe Prestige,65000.0,75 000 km,manual,998 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2018
+10939,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S EU6,32300.0,75 000 km,manual,998 cm3,Benzyna,Sędziszów Małopolski,Podkarpackie,2018
+10940,dacia,Dacia Duster,42900.0,184 500 km,manual,1 197 cm3,Benzyna,Myślenice,Małopolskie,2015
+10941,dacia,Dacia Duster,61900.0,184 500 km,manual,1 197 cm3,Benzyna,Myślenice,Małopolskie,2015
+10942,dacia,Dacia Sandero Stepway,54900.0,66 797 km,manual,1 598 cm3,Benzyna,Gliwice,Śląskie,2018
+10943,dacia,Dacia Duster SCe 115 2WD Prestige,48900.0,66 797 km,manual,1 598 cm3,Benzyna,Mogilany,Małopolskie,2018
+10944,dacia,Dacia Sandero Stepway 1.5 dCi Laureate,21000.0,126 791 km,manual,898 cm3,Benzyna,Częstochowa,Śląskie,2016
+10945,dacia,Dacia Sandero 1.2 16V 75 Essentiel,23900.0,126 791 km,manual,898 cm3,Benzyna,Plewno,Kujawsko-pomorskie,2016
+10946,dacia,Dacia Duster 1.6 SCe Open S&S,45900.0,81 000 km,manual,1 500 cm3,Diesel,Jaworzno,Śląskie,2015
+10947,dacia,Dacia Duster,49900.0,81 000 km,manual,1 500 cm3,Diesel,Warszawa,Mazowieckie,2015
+10948,dacia,Dacia Dokker 1.6 SCe Laureate,42900.0,121 500 km,manual,1 600 cm3,Benzyna,Regulice,Małopolskie,2018
+10949,dacia,Dacia Logan,33500.0,121 500 km,manual,1 600 cm3,Benzyna,Katowice,Śląskie,2018
+10950,dacia,Dacia Duster,34900.0,36 940 km,manual,898 cm3,Benzyna,Tychy,Śląskie,2019
+10951,dacia,Dacia Duster 1.6 SCe Laureate S&S,44900.0,36 940 km,manual,898 cm3,Benzyna,Lublin,Lubelskie,2019
+10952,dacia,Dacia Dokker 1.5 dCi Laureate,43900.0,98 000 km,manual,1 598 cm3,Benzyna+LPG,Opole,Opolskie,2017
+10953,dacia,Dacia Duster 1.5 Blue dCi Essential 4WD,60800.0,98 000 km,manual,1 598 cm3,Benzyna+LPG,Magnice,Dolnośląskie,2017
+10954,dacia,Dacia Dokker 1.5 dCi Open,46900.0,82 000 km,manual,1 461 cm3,Diesel,Chełmiec,Małopolskie,2016
+10955,dacia,Dacia Duster 1.2 TCe Laureate 4x4 S&S EU6,32900.0,82 000 km,manual,1 461 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+10956,dacia,Dacia Dokker 1.6 SCe Laureate,38000.0,61 693 km,manual,1 149 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2016
+10957,dacia,Dacia Sandero,32900.0,61 693 km,manual,1 149 cm3,Benzyna,Gdańsk,Pomorskie,2016
+10958,dacia,Dacia Dokker 1.5 dCi Laureate,43900.0,43 000 km,manual,1 598 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2017
+10959,dacia,Dacia Duster 1.6 SCe Open 4x4 S&S,22017.0,43 000 km,manual,1 598 cm3,Benzyna,Komorniki,Dolnośląskie,2017
+10960,dacia,Dacia Duster,57700.0,94 557 km,manual,1 598 cm3,Benzyna,Gdańsk,Pomorskie,2017
+10961,dacia,Dacia Duster,19100.0,94 557 km,manual,1 598 cm3,Benzyna,Kraków,Małopolskie,2017
+10962,dacia,Dacia Duster 1.6 Laureate,36900.0,79 000 km,manual,1 598 cm3,Benzyna,Pszczyna,Śląskie,2016
+10963,dacia,Dacia Lodgy 1.5 dCi Laureate,41900.0,79 000 km,manual,1 598 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,2016
+10964,dacia,Dacia Duster 1.5 dCi Blackshadow 4x4 S&S,54800.0,84 400 km,manual,898 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2017
+10965,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S,38900.0,84 400 km,manual,898 cm3,Benzyna+LPG,Ostrów Wielkopolski,Wielkopolskie,2017
+10966,dacia,Dacia Sandero 1.2 16V,16200.0,151 000 km,manual,1 149 cm3,Benzyna,Białystok,Podlaskie,2014
+10967,dacia,Dacia Sandero Stepway 0.9 TCe Ambiance,16900.0,151 000 km,manual,1 149 cm3,Benzyna,Gołuchów,Wielkopolskie,2014
+10968,dacia,Dacia Duster 1.6,28999.0,114 000 km,manual,898 cm3,Benzyna,Nowa Karczma,Dolnośląskie,2013
+10969,dacia,Dacia Duster 1.6 Laureate,34900.0,114 000 km,manual,898 cm3,Benzyna,Janki,Mazowieckie,2013
+10970,dacia,Dacia Duster 1.6 Laureate,13900.0,106 000 km,manual,1 598 cm3,Benzyna,Bibice,Małopolskie,2010
+10971,dacia,Dacia Lodgy TCe 115 Prestige,22900.0,106 000 km,manual,1 598 cm3,Benzyna,Góra,Dolnośląskie,2010
+10972,dacia,Dacia Duster 1.6 16V 4x2 Ambiance,36700.0,90 596 km,manual,1 598 cm3,Benzyna,Częstochowa,Śląskie,2012
+10973,dacia,Dacia Duster 1.5 dCi Laureate 4x4,24900.0,90 596 km,manual,1 598 cm3,Benzyna,Wąbrzeźno,Kujawsko-pomorskie,2012
+10974,dacia,Dacia Lodgy,29000.0,153 000 km,manual,1 598 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2010
+10975,dacia,Dacia Sandero,22000.0,153 000 km,manual,1 598 cm3,Benzyna,Zabrze,Śląskie,2010
+10976,dacia,Dacia Duster,34900.0,145 000 km,manual,1 198 cm3,Benzyna,Wągrowiec,Wielkopolskie,2014
+10977,dacia,Dacia Lodgy TCe 115 Comfort,14500.0,145 000 km,manual,1 198 cm3,Benzyna,Mazańcowice,Śląskie,2014
+10978,dacia,Dacia Dokker 1.5 dCi Ambiance,23900.0,112 000 km,manual,1 598 cm3,Benzyna,Zabrze,Śląskie,2012
+10979,dacia,Dacia Sandero,22900.0,112 000 km,manual,1 598 cm3,Benzyna,Błaszki,Łódzkie,2012
+10980,dacia,Dacia Duster 1.6 16V 4x4 Prestige,35900.0,225 000 km,manual,1 461 cm3,Diesel,Łęka,Małopolskie,2013
+10981,dacia,Dacia Duster 1.5 dCi Laureate,33500.0,225 000 km,manual,1 461 cm3,Diesel,Kielce,Świętokrzyskie,2013
+10982,dacia,Dacia Duster 1.6 SL Aventure,36700.0,195 415 km,manual,1 198 cm3,Benzyna,Brzozów,Podkarpackie,2014
+10983,dacia,Dacia Lodgy 1.5 dCi Ambiance,22000.0,195 415 km,manual,1 198 cm3,Benzyna,Poznań,Wielkopolskie,2014
+10984,dacia,Dacia Sandero 1.2 16V Laureate,29999.0,66 278 km,manual,1 461 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2010
+10985,dacia,Dacia Duster 1.5 dCi Laureate,25900.0,66 278 km,manual,1 461 cm3,Diesel,Kalisz,Wielkopolskie,2010
+10986,dacia,Dacia Duster 1.6 16V 105 4x2 Prestige,30999.0,112 000 km,manual,1 197 cm3,Benzyna,Poręba,Śląskie,2014
+10987,dacia,Dacia Sandero 1.2 16V 75 Ambiance,17900.0,112 000 km,manual,1 197 cm3,Benzyna,Zawiercie,Śląskie,2014
+10988,dacia,Dacia Lodgy,30000.0,159 372 km,manual,1 197 cm3,Benzyna,Gdańsk,Pomorskie,2014
+10989,dacia,Dacia Duster,34000.0,159 372 km,manual,1 197 cm3,Benzyna,Łódź,Łódzkie,2014
+10990,dacia,Dacia Logan MCV 0.9 TCE Ambiance,22900.0,388 199 km,manual,1 461 cm3,Diesel,Siedlce,Mazowieckie,2014
+10991,dacia,Dacia Duster 1.5 dCi Prestige,34900.0,388 199 km,manual,1 461 cm3,Diesel,Górzno,Wielkopolskie,2014
+10992,dacia,Dacia Duster 1.6 16V 4x2 Prestige,29900.0,168 000 km,manual,1 461 cm3,Diesel,Kleszczów,Łódzkie,2014
+10993,dacia,Dacia Duster 1.6 16V 4x2 Destination,31990.0,168 000 km,manual,1 461 cm3,Diesel,Kutno,Łódzkie,2014
+10994,dacia,Dacia Duster 1.5 dCi Laureate 4x4,37900.0,140 000 km,manual,1 598 cm3,Benzyna,Tychy,Śląskie,2012
+10995,dacia,Dacia Sandero Stepway TCe 90 Prestige,29500.0,140 000 km,manual,1 598 cm3,Benzyna,Dragacz,Kujawsko-pomorskie,2012
+10996,dacia,Dacia Duster 1.6 Laureate Euro5,36999.0,106 800 km,manual,1 461 cm3,Diesel,Wrocław,Dolnośląskie,2014
+10997,dacia,Dacia Dokker 1.6 Ambiance,29900.0,106 800 km,manual,1 461 cm3,Diesel,Gdańsk,Pomorskie,2014
+10998,dacia,Dacia Sandero 1.0 TCe Essential,49900.0,125 000 km,manual,999 cm3,Benzyna+LPG,Kraków,Małopolskie,2021
+10999,dacia,Dacia Sandero Stepway,79999.0,125 000 km,manual,999 cm3,Benzyna+LPG,Swarzędz,Wielkopolskie,2021
+11000,dacia,Dacia Duster 1.3 TCe Journey,74900.0,10 000 km,manual,999 cm3,Benzyna+LPG,Będzin,Śląskie,2022
+11001,dacia,Dacia Duster 1.0 TCe Prestige,79900.0,10 000 km,manual,999 cm3,Benzyna+LPG,Sękocin Nowy,Mazowieckie,2022
+11002,dacia,Dacia Dokker 1.3 TCe Laureate,52700.0,24 900 km,manual,1 332 cm3,Benzyna,Paprotnia,Łódzkie,2021
+11003,dacia,Dacia Sandero Stepway 1.0 TCe Comfort,71052.0,24 900 km,manual,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2021
+11004,dacia,Dacia Duster 1.0 TCe Expression,83800.0,28 274 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11005,dacia,Dacia Duster 1.0 TCe Expression,86500.0,28 274 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11006,dacia,Dacia Duster,92900.0,142 000 km,manual,1 333 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11007,dacia,Dacia Duster,94570.0,142 000 km,manual,1 333 cm3,Benzyna,Rzeszów,Podkarpackie,2020
+11008,dacia,Dacia Duster 1.5 Blue dCi Essential EU6d,61000.0,1 km,manual,999 cm3,Benzyna,Gliwice,Śląskie,2022
+11009,dacia,Dacia Duster,87000.0,1 km,manual,999 cm3,Benzyna,Zabrze,Śląskie,2022
+11010,dacia,Dacia Sandero 1.0 TCe Expression,72700.0,1 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2023
+11011,dacia,Dacia Sandero Stepway,92600.0,1 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2023
+11012,dacia,Dacia Duster TCe 100 2WD Prestige,69900.0,1 km,manual,999 cm3,Benzyna+LPG,Kobyłka,Mazowieckie,2023
+11013,dacia,Dacia Jogger 1.0 TCe Essential 7os,83700.0,1 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2023
+11014,dacia,Dacia Duster,80000.0,1 km,manual,999 cm3,Benzyna+LPG,Bielany Wrocławskie,Dolnośląskie,2023
+11015,dacia,Dacia Sandero 1.0 SCe Laureate,44990.0,1 km,manual,999 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2023
+11016,dacia,Dacia Lodgy 1.3 TCe Stepway S&S,64900.0,5 km,manual,999 cm3,Benzyna+LPG,Cieszyn,Śląskie,2023
+11017,dacia,Dacia Duster,80000.0,5 km,manual,999 cm3,Benzyna+LPG,Łódź,Łódzkie,2023
+11018,dacia,Dacia Logan,53900.0,75 000 km,manual,1 461 cm3,Diesel,Opoczno,Łódzkie,2021
+11019,dacia,Dacia Sandero Stepway 1.0 TCe Comfort,73700.0,75 000 km,manual,1 461 cm3,Diesel,Sosnowiec,Śląskie,2021
+11020,dacia,Dacia Duster 1.0 TCe Access,55000.0,15 180 km,manual,1 332 cm3,Benzyna,Częstochowa,Śląskie,2022
+11021,dacia,Dacia Jogger 1.0 TCe Expression 7os,90550.0,15 180 km,manual,1 332 cm3,Benzyna,Opole,Opolskie,2022
+11022,dacia,Dacia Sandero Stepway SCe 75 Essential,27500.0,10 km,manual,999 cm3,Benzyna+LPG,Częstochowa,Śląskie,2023
+11023,dacia,Dacia Sandero 1.0 TCe Comfort,69900.0,10 km,manual,999 cm3,Benzyna+LPG,Starogard Gdański,Pomorskie,2023
+11024,dacia,Dacia Duster,75000.0,10 km,manual,999 cm3,Benzyna+LPG,Łódź,Łódzkie,2023
+11025,dacia,Dacia Duster,90500.0,10 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2023
+11026,dacia,Dacia Duster,94800.0,49 600 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2020
+11027,dacia,Dacia Duster 1.3 TCe Comfort,79900.0,49 600 km,manual,999 cm3,Benzyna+LPG,Starogard Gdański,Pomorskie,2020
+11028,dacia,Dacia Duster 1.0 TCe Prestige,79900.0,10 km,manual,999 cm3,Benzyna+LPG,Starogard Gdański,Pomorskie,2023
+11029,dacia,Dacia Duster 1.3 TCe Prestige,81900.0,10 km,manual,999 cm3,Benzyna+LPG,Luboń,Wielkopolskie,2023
+11030,dacia,Dacia Jogger,97900.0,4 km,manual,1 000 cm3,Benzyna+LPG,Lublin,Lubelskie,2023
+11031,dacia,Dacia Sandero Stepway,83558.0,4 km,manual,1 000 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2023
+11032,dacia,Dacia Duster,109900.0,5 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2022
+11033,dacia,Dacia Duster,66000.0,5 km,manual,999 cm3,Benzyna+LPG,Zabrze,Śląskie,2022
+11034,dacia,Dacia Duster,91899.0,10 km,manual,1 461 cm3,Diesel,Warszawa,Mazowieckie,2023
+11035,dacia,Dacia Duster 1.3 TCe Comfort,79900.0,10 km,manual,1 461 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2023
+11036,dacia,Dacia Sandero Stepway 1.0 TCe Laureate S&S,81900.0,95 696 km,manual,999 cm3,Benzyna+LPG,Grudziądz,Kujawsko-pomorskie,2020
+11037,dacia,Dacia Duster 1.3 TCe Comfort,79900.0,95 696 km,manual,999 cm3,Benzyna+LPG,Grudziądz,Kujawsko-pomorskie,2020
+11038,dacia,Dacia Duster 1.3 TCe Comfort,79900.0,10 km,manual,999 cm3,Benzyna+LPG,Starogard Gdański,Pomorskie,2023
+11039,dacia,Dacia Duster,98300.0,10 km,manual,999 cm3,Benzyna+LPG,Opole,Opolskie,2023
+11040,dacia,Dacia Duster,66501.0,6 000 km,manual,1 332 cm3,Benzyna,Katowice,Śląskie,2022
+11041,dacia,Dacia Duster 1.0 TCe Comfort,64900.0,6 000 km,manual,1 332 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+11042,dacia,Dacia Sandero 1.0 SCe Comfort,24900.0,364 km,manual,999 cm3,Benzyna+LPG,Zielona Góra,Lubuskie,2022
+11043,dacia,Dacia Duster 1.0 TCe Prestige,69900.0,364 km,manual,999 cm3,Benzyna+LPG,Starogard Gdański,Pomorskie,2022
+11044,dacia,Dacia Duster,56900.0,8 000 km,manual,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11045,dacia,Dacia Duster,90050.0,8 000 km,manual,1 332 cm3,Benzyna,Liszki,Małopolskie,2022
+11046,dacia,Dacia Duster 1.0 TCe Prestige,79900.0,4 110 km,manual,1 332 cm3,Benzyna,Lublin,Lubelskie,2022
+11047,dacia,Dacia Sandero 1.0 SCe Comfort,56950.0,4 110 km,manual,1 332 cm3,Benzyna,Witaszyczki,Wielkopolskie,2022
+11048,dacia,Dacia Duster 1.0 TCe Essential,59900.0,10 km,manual,999 cm3,Benzyna+LPG,Wieliczka,Małopolskie,2023
+11049,dacia,Dacia Sandero TCe 90 Comfort,74500.0,10 km,manual,999 cm3,Benzyna+LPG,Orzesze,Śląskie,2023
+11050,dacia,Dacia Duster,96500.0,29 106 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2021
+11051,dacia,Dacia Duster 1.3 TCe Journey,96700.0,29 106 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2021
+11052,dacia,Dacia Jogger 1.0 TCe SL Extreme 7os,103500.0,74 100 km,manual,999 cm3,Benzyna+LPG,Białystok,Podlaskie,2020
+11053,dacia,Dacia Duster 1.0 TCe Techroad,64900.0,74 100 km,manual,999 cm3,Benzyna+LPG,Wągrowiec,Wielkopolskie,2020
+11054,dacia,Dacia Lodgy,79000.0,17 700 km,manual,999 cm3,Benzyna,Gdynia,Pomorskie,2021
+11055,dacia,Dacia Sandero Stepway,36600.0,17 700 km,manual,999 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2021
+11056,dacia,Dacia Sandero Stepway 1.0 TCe Expression,89700.0,40 128 km,manual,999 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2020
+11057,dacia,Dacia Duster,97400.0,40 128 km,manual,999 cm3,Benzyna+LPG,Lublin,Lubelskie,2020
+11058,dacia,Dacia Sandero Stepway,86400.0,122 078 km,manual,1 332 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2020
+11059,dacia,Dacia Jogger 1.0 TCe Expression 7os,42900.0,122 078 km,manual,1 332 cm3,Benzyna,Warszawa,Mazowieckie,2020
+11060,dacia,Dacia Jogger 1.0 TCe SL Extreme,93200.0,5 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11061,dacia,Dacia Duster 1.3 TCe Journey 4WD,111900.0,5 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11062,dacia,Dacia Duster SCe 115 2WD Comfort,38999.0,127 000 km,manual,1 598 cm3,Benzyna,Łomża,Podlaskie,2015
+11063,dacia,Dacia Duster,59900.0,127 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2015
+11064,dacia,Dacia Dokker 1.5 dCi Laureate,30000.0,95 000 km,manual,1 600 cm3,Benzyna,Nowy Sącz,Małopolskie,2019
+11065,dacia,Dacia Dokker dCi 90 Stepway,41000.0,95 000 km,manual,1 600 cm3,Benzyna,Poznań,Wielkopolskie,2019
+11066,dacia,Dacia Logan 1.2 16V Ambiance EU6,20000.0,205 000 km,manual,1 461 cm3,Diesel,Puławy,Lubelskie,2015
+11067,dacia,Dacia Duster,29000.0,205 000 km,manual,1 461 cm3,Diesel,Lamki,Wielkopolskie,2015
+11068,dacia,Dacia Duster,55900.0,164 000 km,manual,1 461 cm3,Diesel,Rzeszów,Podkarpackie,2016
+11069,dacia,Dacia Dokker 1.6 SCe Celebration,48900.0,164 000 km,manual,1 461 cm3,Diesel,Poznań,Wielkopolskie,2016
+11070,dacia,Dacia Sandero 1.2 16V Access EU6,33900.0,233 800 km,manual,1 149 cm3,Benzyna+LPG,Konin,Wielkopolskie,2016
+11071,dacia,Dacia Duster 1.5 Blue dCi Comfort,58900.0,233 800 km,manual,1 149 cm3,Benzyna+LPG,Tymbark,Małopolskie,2016
+11072,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S,45555.0,70 193 km,manual,1 197 cm3,Benzyna,Łomża,Podlaskie,2016
+11073,dacia,Dacia Duster,39999.0,70 193 km,manual,1 197 cm3,Benzyna,Kotlin,Wielkopolskie,2016
+11074,dacia,Dacia Duster 1.3 TCe FAP Comfort,63800.0,66 241 km,manual,1 598 cm3,Benzyna,Bielsko-Biała,Śląskie,2018
+11075,dacia,Dacia Duster 1.3 TCe FAP Prestige,67900.0,66 241 km,manual,1 598 cm3,Benzyna,Jantar,Pomorskie,2018
+11076,dacia,Dacia Duster 1.2 TCe Prestige,59900.0,84 000 km,manual,1 598 cm3,Benzyna+LPG,Płock,Mazowieckie,2017
+11077,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S,34900.0,84 000 km,manual,1 598 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2017
+11078,dacia,Dacia Logan MCV 0.9 TCE Prestige S&S,31100.0,52 094 km,manual,1 149 cm3,Benzyna,Sędziszów Małopolski,Podkarpackie,2017
+11079,dacia,Dacia Sandero 0.9 TCe Laureate S&S,22500.0,52 094 km,manual,1 149 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+11080,dacia,Dacia Duster 1.6 SCe Access S&S,44400.0,95 000 km,manual,1 461 cm3,Diesel,Będzin,Śląskie,2019
+11081,dacia,Dacia Duster 1.6 SCe Comfort,45900.0,95 000 km,manual,1 461 cm3,Diesel,Gorzyce,Śląskie,2019
+11082,dacia,Dacia Sandero SCe 75 Acces,11900.0,19 000 km,manual,898 cm3,Benzyna,Margonin,Wielkopolskie,2018
+11083,dacia,Dacia Duster 1.5 Blue dCi Prestige,69900.0,19 000 km,manual,898 cm3,Benzyna,Poznań,Wielkopolskie,2018
+11084,dacia,Dacia Duster 1.6 SCe Access,55900.0,112 000 km,manual,1 598 cm3,Benzyna,Maków Mazowiecki,Mazowieckie,2015
+11085,dacia,Dacia Dokker 1.5 dCi Laureate,38800.0,112 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2015
+11086,dacia,Dacia Duster 1.3 TCe FAP Prestige,79999.0,46 700 km,manual,1 333 cm3,Benzyna,Kielce,Świętokrzyskie,2019
+11087,dacia,Dacia Duster,39900.0,46 700 km,manual,1 333 cm3,Benzyna,Gdańsk,Pomorskie,2019
+11088,dacia,Dacia Logan,37900.0,54 000 km,manual,1 333 cm3,Benzyna,Gliwice,Śląskie,2019
+11089,dacia,Dacia Duster,68900.0,54 000 km,manual,1 333 cm3,Benzyna,Gliwice,Śląskie,2019
+11090,dacia,Dacia Duster 1.5 dCi Prestige 4WD,64800.0,36 267 km,manual,1 197 cm3,Benzyna,Libertów,Małopolskie,2018
+11091,dacia,Dacia Lodgy 1.6 SCe Open S&S,51000.0,36 267 km,manual,1 197 cm3,Benzyna,Bolesławiec,Dolnośląskie,2018
+11092,dacia,Dacia Duster 1.2 TCe Laureate S&S EU6,45700.0,114 000 km,manual,898 cm3,Benzyna,Brzozów,Podkarpackie,2016
+11093,dacia,Dacia Duster 1.5 dCi Prestige,34600.0,114 000 km,manual,898 cm3,Benzyna,Mielec,Podkarpackie,2016
+11094,dacia,Dacia Duster,92500.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11095,dacia,Dacia Duster 1.3 TCe Journey 4WD,113100.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11096,dacia,Dacia Duster,89200.0,1 km,manual,1 332 cm3,Benzyna,Chorzów,Śląskie,2023
+11097,dacia,Dacia Duster,92500.0,1 km,manual,1 332 cm3,Benzyna,Chorzów,Śląskie,2023
+11098,dacia,Dacia Jogger,95210.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11099,dacia,Dacia Sandero Stepway,84900.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11100,dacia,Dacia Sandero Stepway 1.0 TCe Expression,81120.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11101,dacia,Dacia Duster,92500.0,1 km,manual,999 cm3,Benzyna+LPG,Chorzów,Śląskie,2023
+11102,dacia,Dacia Duster,90950.0,1 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2023
+11103,dacia,Dacia Sandero Stepway,85900.0,1 km,manual,999 cm3,Benzyna+LPG,Bolesławice,Pomorskie,2023
+11104,dacia,Dacia Jogger,100550.0,1 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2023
+11105,dacia,Dacia Duster 1.0 TCe Essential,69990.0,1 km,manual,999 cm3,Benzyna+LPG,Lubań,Dolnośląskie,2023
+11106,dacia,Dacia Sandero,79300.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+11107,dacia,Dacia Sandero,79500.0,1 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2023
+11108,dacia,Dacia Jogger 1.0 TCe SL Extreme 7os,103700.0,1 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2023
+11109,dacia,Dacia Logan 1.0 SCe Access,41900.0,1 km,manual,999 cm3,Benzyna+LPG,Krosno,Podkarpackie,2023
+11110,dacia,Dacia Duster 1.0 TCe Prestige,77800.0,5 km,manual,999 cm3,Benzyna+LPG,Kraków,Małopolskie,2023
+11111,dacia,Dacia Duster,94800.0,5 km,manual,999 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2023
+11112,dacia,Dacia Sandero Stepway,82990.0,92 km,manual,999 cm3,Benzyna+LPG,Lublin,Lubelskie,2022
+11113,dacia,Dacia Sandero,76900.0,92 km,manual,999 cm3,Benzyna+LPG,Wołomin,Mazowieckie,2022
+11114,dacia,Dacia Duster 1.0 TCe Journey,89600.0,5 km,manual,999 cm3,Benzyna+LPG,Sosnowiec,Śląskie,2023
+11115,dacia,Dacia Duster,98300.0,5 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2023
+11116,dacia,Dacia Jogger 1.0 TCe Essential,79900.0,18 973 km,manual,999 cm3,Benzyna,Częstochowa,Śląskie,2021
+11117,dacia,Dacia Lodgy 1.5 Blue dCi Stepway Comfort S&S,44895.0,18 973 km,manual,999 cm3,Benzyna,Zielona Góra,Lubuskie,2021
+11118,dacia,Dacia Sandero,72900.0,7 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2022
+11119,dacia,Dacia Duster 1.0 TCe Expression,83000.0,7 km,manual,999 cm3,Benzyna+LPG,Sosnowiec,Śląskie,2022
+11120,dacia,Dacia Sandero 1.0 TCe Comfort,59900.0,5 km,manual,999 cm3,Benzyna+LPG,Katowice,Śląskie,2022
+11121,dacia,Dacia Sandero,85000.0,5 km,manual,999 cm3,Benzyna+LPG,Częstochowa,Śląskie,2022
+11122,dacia,Dacia Jogger 1.0 TCe Expression 7os,97850.0,7 km,manual,999 cm3,Benzyna,Częstochowa,Śląskie,2023
+11123,dacia,Dacia Sandero 1.0 TCe Expression,83200.0,7 km,manual,999 cm3,Benzyna,Częstochowa,Śląskie,2023
+11124,dacia,Dacia Duster,82000.0,31 464 km,manual,998 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2020
+11125,dacia,Dacia Duster 1.0 TCe Prestige,64950.0,31 464 km,manual,998 cm3,Benzyna,Mielec,Podkarpackie,2020
+11126,dacia,Dacia Duster,90000.0,10 km,manual,999 cm3,Benzyna+LPG,Luboń,Wielkopolskie,2022
+11127,dacia,Dacia Sandero Stepway 1.0 TCe Laureate S&S,17900.0,10 km,manual,999 cm3,Benzyna+LPG,Dalborowice,Dolnośląskie,2022
+11128,dacia,Dacia Duster 1.0 TCe Journey,89950.0,20 000 km,manual,999 cm3,Benzyna+LPG,Gdynia,Pomorskie,2020
+11129,dacia,Dacia Sandero Stepway Stepway 1.0 TCe Expression,80500.0,20 000 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2020
+11130,dacia,Dacia Sandero Stepway 1.0 TCe Expression,63900.0,1 km,manual,999 cm3,Benzyna+LPG,Skała,Małopolskie,2023
+11131,dacia,Dacia Dokker,73900.0,1 km,manual,999 cm3,Benzyna+LPG,Lublin,Lubelskie,2023
+11132,dacia,Dacia Duster,56000.0,1 km,manual,999 cm3,Benzyna+LPG,Lublin,Lubelskie,2023
+11133,dacia,Dacia Duster,62000.0,1 km,manual,999 cm3,Benzyna+LPG,Zabrze,Śląskie,2023
+11134,dacia,Dacia Jogger,101250.0,4 500 km,manual,999 cm3,Benzyna,Poznań,Wielkopolskie,2022
+11135,dacia,Dacia Duster 1.0 TCe Expression,79850.0,4 500 km,manual,999 cm3,Benzyna,Gdynia,Pomorskie,2022
+11136,dacia,Dacia Duster 1.0 TCe Prestige,75900.0,17 200 km,manual,1 332 cm3,Benzyna,Zamość,Lubelskie,2020
+11137,dacia,Dacia Duster,94800.0,17 200 km,manual,1 332 cm3,Benzyna,Wołomin,Mazowieckie,2020
+11138,dacia,Dacia Jogger 1.0 TCe SL Extreme 7os,98900.0,82 068 km,manual,999 cm3,Benzyna+LPG,Ciechanów,Mazowieckie,2020
+11139,dacia,Dacia Jogger,94950.0,82 068 km,manual,999 cm3,Benzyna+LPG,Kalisz,Wielkopolskie,2020
+11140,dacia,Dacia Sandero,78500.0,128 901 km,manual,999 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2020
+11141,dacia,Dacia Duster 1.0 TCe Journey,91600.0,128 901 km,manual,999 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2020
+11142,dacia,Dacia Sandero,59700.0,1 km,manual,999 cm3,Benzyna+LPG,Katowice,Śląskie,2023
+11143,dacia,Dacia Duster 1.0 TCe Journey LPG,95100.0,1 km,manual,999 cm3,Benzyna+LPG,Bytom,Śląskie,2023
+11144,dacia,Dacia Sandero Stepway,85350.0,1 km,manual,999 cm3,Benzyna+LPG,Bytom,Śląskie,2023
+11145,dacia,Dacia Duster 1.3 TCe FAP Essential,64800.0,1 km,manual,999 cm3,Benzyna+LPG,Wołomin,Mazowieckie,2023
+11146,dacia,Dacia Jogger,101200.0,18 594 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11147,dacia,Dacia Sandero 1.0 TCe Expression,77300.0,18 594 km,manual,999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+11148,dacia,Dacia Duster 1.3 TCe Journey,96700.0,999 cm3,manual,Benzyna+LPG,2023,Warszawa,Mazowieckie,2023
+11149,dacia,Dacia Sandero,74000.0,Benzyna+LPG,manual,2022,1 km,Chorzów,Śląskie,999 cm3
+11150,dacia,Dacia Duster,81900.0,Benzyna+LPG,manual,2022,1 km,Warszawa,Mazowieckie,999 cm3
+11151,dacia,Dacia Duster 1.3 TCe Journey 4WD,109600.0,Benzyna+LPG,manual,2023,5 km,Kalisz,Wielkopolskie,999 cm3
+11152,dacia,Dacia Jogger,99900.0,Benzyna+LPG,manual,2023,5 km,Kalisz,Wielkopolskie,999 cm3
+11153,dacia,Dacia Dokker,55900.0,Benzyna+LPG,manual,2022,3 850 km,Wągrowiec,Wielkopolskie,999 cm3
+11154,dacia,Dacia Duster 1.3 TCe Journey,100600.0,Benzyna+LPG,manual,2022,3 850 km,Jankowo Dolne,Wielkopolskie,999 cm3
+11155,dacia,Dacia Duster 1.3 TCe Journey+,101200.0,Benzyna+LPG,manual,2023,10 km,Jankowo Dolne,Wielkopolskie,999 cm3
+11156,dacia,Dacia Duster,65200.0,Benzyna+LPG,manual,2023,10 km,Mielec,Podkarpackie,999 cm3
+11157,dacia,Dacia Jogger,77000.0,Benzyna+LPG,manual,2020,21 296 km,Kraków,Małopolskie,999 cm3
+11158,dacia,Dacia Duster 1.5 dCi Comfort EDC,59900.0,86 000 km,automatic,1 461 cm3,Diesel,Mielżyn,Wielkopolskie,2018
+11159,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,28000.0,86 000 km,automatic,1 461 cm3,Diesel,Oława,Dolnośląskie,2018
+11160,dacia,Dacia Sandero Stepway,34900.0,74 474 km,automatic,898 cm3,Benzyna,Pleszew,Wielkopolskie,2016
+11161,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,61950.0,74 474 km,automatic,898 cm3,Benzyna,Kraków,Małopolskie,2016
+11162,dacia,Dacia Duster dCi 110 2WD EDC Comfort,57900.0,68 800 km,automatic,898 cm3,Benzyna,Baranowo,Wielkopolskie,2016
+11163,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,47900.0,68 800 km,automatic,898 cm3,Benzyna,Radom,Mazowieckie,2016
+11164,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,49900.0,54 000 km,automatic,1 461 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2017
+11165,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,45900.0,54 000 km,automatic,1 461 cm3,Diesel,Tarnowa,Wielkopolskie,2017
+11166,dacia,Dacia Sandero,32500.0,91 000 km,automatic,1 461 cm3,Diesel,Mikołów,Śląskie,2018
+11167,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,38900.0,91 000 km,automatic,1 461 cm3,Diesel,Gdańsk,Pomorskie,2018
+11168,dacia,Dacia Sandero Stepway,39900.0,180 000 km,automatic,1 461 cm3,Diesel,Szamotuły,Wielkopolskie,2017
+11169,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,50900.0,180 000 km,automatic,1 461 cm3,Diesel,Toruń,Kujawsko-pomorskie,2017
+11170,dacia,Dacia Sandero Stepway TCe 90 Easy-R S&S Prestige,38900.0,176 920 km,automatic,1 461 cm3,Diesel,Ostrzeszów,Wielkopolskie,2017
+11171,dacia,Dacia Duster,56600.0,176 920 km,automatic,1 461 cm3,Diesel,Kraków,Małopolskie,2017
+11172,dacia,Dacia Sandero Stepway,39500.0,255 452 km,automatic,1 461 cm3,Diesel,Bojanowo,Wielkopolskie,2018
+11173,dacia,Dacia Logan,23900.0,255 452 km,automatic,1 461 cm3,Diesel,Nysa,Opolskie,2018
+11174,dacia,Dacia Sandero Stepway,19900.0,65 000 km,automatic,898 cm3,Benzyna,Turek,Wielkopolskie,2016
+11175,dacia,Dacia Duster 1.5 dCi Comfort EDC,59900.0,86 000 km,automatic,1 461 cm3,Diesel,Mielżyn,Wielkopolskie,2018
+11176,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,28000.0,86 000 km,automatic,1 461 cm3,Diesel,Oława,Dolnośląskie,2018
+11177,dacia,Dacia Sandero Stepway,34900.0,74 474 km,automatic,898 cm3,Benzyna,Pleszew,Wielkopolskie,2016
+11178,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,61950.0,74 474 km,automatic,898 cm3,Benzyna,Kraków,Małopolskie,2016
+11179,dacia,Dacia Duster dCi 110 2WD EDC Comfort,57900.0,68 800 km,automatic,898 cm3,Benzyna,Baranowo,Wielkopolskie,2016
+11180,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,47900.0,68 800 km,automatic,898 cm3,Benzyna,Radom,Mazowieckie,2016
+11181,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,49900.0,54 000 km,automatic,1 461 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2017
+11182,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,45900.0,54 000 km,automatic,1 461 cm3,Diesel,Tarnowa,Wielkopolskie,2017
+11183,dacia,Dacia Sandero,32500.0,91 000 km,automatic,1 461 cm3,Diesel,Mikołów,Śląskie,2018
+11184,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,38900.0,91 000 km,automatic,1 461 cm3,Diesel,Gdańsk,Pomorskie,2018
+11185,dacia,Dacia Sandero Stepway,39900.0,180 000 km,automatic,1 461 cm3,Diesel,Szamotuły,Wielkopolskie,2017
+11186,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,50900.0,180 000 km,automatic,1 461 cm3,Diesel,Toruń,Kujawsko-pomorskie,2017
+11187,dacia,Dacia Sandero Stepway TCe 90 Easy-R S&S Prestige,38900.0,176 920 km,automatic,1 461 cm3,Diesel,Ostrzeszów,Wielkopolskie,2017
+11188,dacia,Dacia Duster,56600.0,176 920 km,automatic,1 461 cm3,Diesel,Kraków,Małopolskie,2017
+11189,dacia,Dacia Sandero Stepway,39500.0,255 452 km,automatic,1 461 cm3,Diesel,Bojanowo,Wielkopolskie,2018
+11190,dacia,Dacia Logan,23900.0,255 452 km,automatic,1 461 cm3,Diesel,Nysa,Opolskie,2018
+11191,dacia,Dacia Sandero Stepway,19900.0,65 000 km,automatic,898 cm3,Benzyna,Turek,Wielkopolskie,2016
+11192,dacia,Dacia Duster 1.5 dCi Comfort EDC,59900.0,86 000 km,automatic,1 461 cm3,Diesel,Mielżyn,Wielkopolskie,2018
+11193,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,28000.0,86 000 km,automatic,1 461 cm3,Diesel,Oława,Dolnośląskie,2018
+11194,dacia,Dacia Sandero Stepway,34900.0,74 474 km,automatic,898 cm3,Benzyna,Pleszew,Wielkopolskie,2016
+11195,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,61950.0,74 474 km,automatic,898 cm3,Benzyna,Kraków,Małopolskie,2016
+11196,dacia,Dacia Duster dCi 110 2WD EDC Comfort,57900.0,68 800 km,automatic,898 cm3,Benzyna,Baranowo,Wielkopolskie,2016
+11197,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,47900.0,68 800 km,automatic,898 cm3,Benzyna,Radom,Mazowieckie,2016
+11198,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,49900.0,54 000 km,automatic,1 461 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2017
+11199,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,45900.0,54 000 km,automatic,1 461 cm3,Diesel,Tarnowa,Wielkopolskie,2017
+11200,dacia,Dacia Sandero,32500.0,91 000 km,automatic,1 461 cm3,Diesel,Mikołów,Śląskie,2018
+11201,dacia,Dacia Sandero 0.9 TCe Laureate S&S Easy-R,38900.0,91 000 km,automatic,1 461 cm3,Diesel,Gdańsk,Pomorskie,2018
+11202,dacia,Dacia Sandero Stepway,39900.0,180 000 km,automatic,1 461 cm3,Diesel,Szamotuły,Wielkopolskie,2017
+11203,dacia,Dacia Duster 1.5 dCi Outdoor S&S EDC,50900.0,180 000 km,automatic,1 461 cm3,Diesel,Toruń,Kujawsko-pomorskie,2017
+11204,dacia,Dacia Sandero Stepway TCe 90 Easy-R S&S Prestige,38900.0,176 920 km,automatic,1 461 cm3,Diesel,Ostrzeszów,Wielkopolskie,2017
+11205,dacia,Dacia Duster,56600.0,176 920 km,automatic,1 461 cm3,Diesel,Kraków,Małopolskie,2017
+11206,dacia,Dacia Sandero Stepway,39500.0,255 452 km,automatic,1 461 cm3,Diesel,Bojanowo,Wielkopolskie,2018
+11207,dacia,Dacia Logan,23900.0,255 452 km,automatic,1 461 cm3,Diesel,Nysa,Opolskie,2018
+11208,dacia,Dacia Sandero Stepway,19900.0,65 000 km,automatic,898 cm3,Benzyna,Turek,Wielkopolskie,2016
+11209,dacia,Dacia Spring,35000.0,18 700 km,automatic,Elektryczny,2022,Ostrów Wielkopolski,Wielkopolskie,2022
+11210,dacia,Dacia Duster,109800.0,Elektryczny,automatic,2023,1 300 cm3,Warszawa,Mazowieckie,18 700 km
+11211,dacia,Dacia Duster,109800.0,2023,automatic,1 300 cm3,Benzyna,Warszawa,Mazowieckie,Benzyna
+11212,dacia,Dacia Sandero Stepway Stepway 1.0 TCe Expression CVT,78800.0,1 300 cm3,automatic,Benzyna,2023,Warszawa,Mazowieckie,2023
+11213,dacia,Dacia Spring Comfort Plus,86344.0,Benzyna,automatic,2023,1 km,Zamość,Lubelskie,1 300 cm3
+11214,dacia,Dacia Duster,21999.0,Benzyna,automatic,2023,1 km,Kraków,Małopolskie,999 cm3
+11215,dacia,Dacia Sandero Stepway 0.9 TCe Laureate S&S Easy-R,58900.0,Benzyna,automatic,2022,2 km,Warszawa,Mazowieckie,999 cm3
+11216,dacia,Dacia Spring,51000.0,2022,automatic,2 km,Elektryczny,Żyrardów,Mazowieckie,Elektryczny
+11217,dacia,Dacia Spring Expression,110000.0,47 000 km,automatic,999 cm3,Benzyna+LPG,Lublin,Lubelskie,2021
+11218,dacia,Dacia Duster,113400.0,47 000 km,automatic,999 cm3,Benzyna+LPG,Gliwice,Śląskie,2021
+11219,dacia,Dacia Spring Expression,109900.0,17 225 km,automatic,898 cm3,Benzyna,Ostrołęka,Mazowieckie,2020
+11220,dacia,Dacia,79900.0,17 225 km,automatic,898 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+11221,dacia,Dacia Spring Expression,101200.0,14 000 km,automatic,Elektryczny,2020,Zabrze,Śląskie,2020
+11222,dacia,Dacia Spring Expression,108400.0,Elektryczny,automatic,2023,10 km,Długołęka,Dolnośląskie,14 000 km
+11223,dacia,Dacia Spring Essential,25900.0,2023,automatic,10 km,Elektryczny,Nakło nad Notecią,Kujawsko-pomorskie,Elektryczny
+11224,dacia,Dacia Spring,101900.0,1 km,automatic,1 332 cm3,Benzyna,Będzin,Śląskie,2023
+11225,dacia,Dacia Spring Essential,99900.0,1 km,automatic,1 332 cm3,Benzyna,Lublin,Lubelskie,2023
+11226,dacia,Dacia Spring,39900.0,5 km,automatic,Elektryczny,2022,Ryki,Lubelskie,2022
+11227,dacia,Dacia Spring Business,88000.0,Elektryczny,automatic,2021,1 103 km,Częstochowa,Śląskie,5 km
+11228,dacia,Dacia Spring Comfort,69900.0,2021,automatic,1 103 km,Elektryczny,Słupca,Wielkopolskie,Elektryczny
+11229,dacia,Dacia Spring Comfort Plus,64900.0,10 km,automatic,Elektryczny,2023,Koło,Wielkopolskie,2023
+11230,dacia,Dacia Spring,107040.0,Elektryczny,automatic,2023,10 km,Liszki,Małopolskie,10 km
+11231,dacia,Dacia Spring Expression,101500.0,2023,automatic,10 km,Elektryczny,Białystok,Podlaskie,Elektryczny
+11232,dacia,Dacia Spring Expression,109200.0,6 400 km,automatic,Elektryczny,2021,Warszawa,Mazowieckie,2021
+11233,dacia,Dacia Sandero Stepway 1.0 TCe Expression CVT,89500.0,Elektryczny,automatic,2022,5 km,Elbląg,Warmińsko-mazurskie,6 400 km
+11234,dacia,Dacia Sandero,66500.0,2022,automatic,5 km,Elektryczny,Kalwaria Zebrzydowska,Małopolskie,Elektryczny
+11235,dacia,Dacia Duster 1.3 TCe SL Extreme EDC,86000.0,10 km,automatic,Elektryczny,2022,Rumia,Pomorskie,2022
+11236,dacia,Dacia Spring Essential,96900.0,Elektryczny,automatic,2021,9 000 km,Lublin,Lubelskie,10 km
+11237,dacia,Dacia Duster,115700.0,2021,automatic,9 000 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+11238,dacia,Dacia Spring Business,29900.0,400 km,automatic,Elektryczny,2021,Głogoczów,Małopolskie,2021
+11239,dacia,Dacia Spring Expression,73900.0,Elektryczny,automatic,2021,13 000 km,Kalwaria Zebrzydowska,Małopolskie,400 km
+11240,dacia,Dacia Spring Comfort Plus,63900.0,2021,automatic,13 000 km,Elektryczny,Ostrów Wielkopolski,Wielkopolskie,Elektryczny

@@ -1,0 +1,88 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+11325,daihatsu,Daihatsu Feroza Hardtop 1.6 Limited,4999.0,55 555 km,manual,1 589 cm3,Benzyna,Sochaczew,Mazowieckie,1997
+11326,daihatsu,Daihatsu Terios,9900.0,55 555 km,manual,1 589 cm3,Benzyna,Kościan,Wielkopolskie,1997
+11327,daihatsu,Daihatsu Cuore,7500.0,200 000 km,manual,1 296 cm3,Benzyna,Psary,Śląskie,1998
+11328,daihatsu,Daihatsu Feroza 1.6 SE,27000.0,200 000 km,manual,1 296 cm3,Benzyna,Węgorzyno,Zachodniopomorskie,1998
+11329,daihatsu,Daihatsu Feroza,9900.0,34 000 km,manual,847 cm3,Benzyna,Zabrze,Śląskie,1995
+11330,daihatsu,Daihatsu Sirion 1.3,10900.0,176 933 km,manual,1 298 cm3,Benzyna,Poznań,Wielkopolskie,2006
+11331,daihatsu,Daihatsu Sirion,10400.0,176 933 km,manual,1 298 cm3,Benzyna,Roszków,Wielkopolskie,2006
+11332,daihatsu,Daihatsu Sirion 1.3,9400.0,189 912 km,manual,998 cm3,Benzyna,Bielawa,Dolnośląskie,2008
+11333,daihatsu,Daihatsu Sirion,8900.0,189 912 km,manual,998 cm3,Benzyna,Ruda Śląska,Śląskie,2008
+11334,daihatsu,Daihatsu Sirion 1.3,10500.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Bogoria,Świętokrzyskie,2006
+11335,daihatsu,Daihatsu Trevis 1.0 Junior,8000.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2006
+11336,daihatsu,Daihatsu Cuore,5700.0,147 000 km,manual,998 cm3,Benzyna,Kluczbork,Opolskie,2005
+11337,daihatsu,Daihatsu Terios 2WD Top Limited,21900.0,147 000 km,manual,998 cm3,Benzyna,Krynica-Zdrój,Małopolskie,2005
+11338,daihatsu,Daihatsu Cuore 1.0 Plus,5900.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Koszalin,Zachodniopomorskie,2008
+11339,daihatsu,Daihatsu Materia 1.5,15000.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Grudziądz,Kujawsko-pomorskie,2008
+11340,daihatsu,Daihatsu Sirion 1.3,10900.0,176 933 km,manual,1 298 cm3,Benzyna,Poznań,Wielkopolskie,2006
+11341,daihatsu,Daihatsu Sirion,10400.0,176 933 km,manual,1 298 cm3,Benzyna,Roszków,Wielkopolskie,2006
+11342,daihatsu,Daihatsu Sirion 1.3,9400.0,189 912 km,manual,998 cm3,Benzyna,Bielawa,Dolnośląskie,2008
+11343,daihatsu,Daihatsu Sirion,8900.0,189 912 km,manual,998 cm3,Benzyna,Ruda Śląska,Śląskie,2008
+11344,daihatsu,Daihatsu Sirion 1.3,10500.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Bogoria,Świętokrzyskie,2006
+11345,daihatsu,Daihatsu Trevis 1.0 Junior,8000.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2006
+11346,daihatsu,Daihatsu Cuore,5700.0,147 000 km,manual,998 cm3,Benzyna,Kluczbork,Opolskie,2005
+11347,daihatsu,Daihatsu Terios 2WD Top Limited,21900.0,147 000 km,manual,998 cm3,Benzyna,Krynica-Zdrój,Małopolskie,2005
+11348,daihatsu,Daihatsu Cuore 1.0 Plus,5900.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Koszalin,Zachodniopomorskie,2008
+11349,daihatsu,Daihatsu Materia 1.5,15000.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Grudziądz,Kujawsko-pomorskie,2008
+11350,daihatsu,Daihatsu Sirion 1.3,10900.0,176 933 km,manual,1 298 cm3,Benzyna,Poznań,Wielkopolskie,2006
+11351,daihatsu,Daihatsu Sirion,10400.0,176 933 km,manual,1 298 cm3,Benzyna,Roszków,Wielkopolskie,2006
+11352,daihatsu,Daihatsu Sirion 1.3,9400.0,189 912 km,manual,998 cm3,Benzyna,Bielawa,Dolnośląskie,2008
+11353,daihatsu,Daihatsu Sirion,8900.0,189 912 km,manual,998 cm3,Benzyna,Ruda Śląska,Śląskie,2008
+11354,daihatsu,Daihatsu Sirion 1.3,10500.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Bogoria,Świętokrzyskie,2006
+11355,daihatsu,Daihatsu Trevis 1.0 Junior,8000.0,298 000 km,manual,1 298 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2006
+11356,daihatsu,Daihatsu Cuore,5700.0,147 000 km,manual,998 cm3,Benzyna,Kluczbork,Opolskie,2005
+11357,daihatsu,Daihatsu Terios 2WD Top Limited,21900.0,147 000 km,manual,998 cm3,Benzyna,Krynica-Zdrój,Małopolskie,2005
+11358,daihatsu,Daihatsu Cuore 1.0 Plus,5900.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Koszalin,Zachodniopomorskie,2008
+11359,daihatsu,Daihatsu Materia 1.5,15000.0,282 000 km,manual,1 298 cm3,Benzyna+LPG,Grudziądz,Kujawsko-pomorskie,2008
+11360,daihatsu,Daihatsu Sirion 1.0,8900.0,198 000 km,manual,998 cm3,Benzyna,Jarocin,Wielkopolskie,2007
+11361,daihatsu,Daihatsu Materia 1.5,15900.0,198 000 km,manual,998 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2007
+11362,daihatsu,Daihatsu Sirion 1.3,10500.0,131 000 km,manual,1 495 cm3,Benzyna,Ścinawa,Dolnośląskie,2008
+11363,daihatsu,Daihatsu Sirion 1.0,9900.0,131 000 km,manual,1 495 cm3,Benzyna,Szczecin,Zachodniopomorskie,2008
+11364,daihatsu,Daihatsu Terios 1.5 Top 4WD,22400.0,213 000 km,manual,1 298 cm3,Benzyna,Żory,Śląskie,2007
+11365,daihatsu,Daihatsu Materia 1.3,8500.0,213 000 km,manual,1 298 cm3,Benzyna,Szamotuły,Wielkopolskie,2007
+11366,daihatsu,Daihatsu Cuore 1.0 Plus,5900.0,136 000 km,manual,998 cm3,Benzyna,Środa Wielkopolska,Wielkopolskie,2007
+11367,daihatsu,Daihatsu Cuore 1.0 Top,10900.0,136 000 km,manual,998 cm3,Benzyna,Zagórze,Małopolskie,2007
+11368,daihatsu,Daihatsu Terios 1.5 Top 4WD,21500.0,206 000 km,manual,1 495 cm3,Benzyna,Spytkowice,Małopolskie,2006
+11369,daihatsu,Daihatsu Sirion 1.3,11400.0,206 000 km,manual,1 495 cm3,Benzyna,Jastrzębie-Zdrój,Śląskie,2006
+11370,daihatsu,Daihatsu Sirion 1.3,8100.0,161 000 km,manual,1 298 cm3,Benzyna,Tuchola,Kujawsko-pomorskie,2007
+11371,daihatsu,Daihatsu Sirion,14800.0,161 000 km,manual,1 298 cm3,Benzyna,Józefów,Mazowieckie,2007
+11372,daihatsu,Daihatsu Sirion 1.0,4600.0,200 000 km,manual,989 cm3,Benzyna,Czarnków,Wielkopolskie,2006
+11373,daihatsu,Daihatsu Terios 1.5 Top 4WD,26400.0,200 000 km,manual,989 cm3,Benzyna,Gliwice,Śląskie,2006
+11374,daihatsu,Daihatsu Terios,27600.0,176 000 km,manual,998 cm3,Benzyna,Nowy Sącz,Małopolskie,2008
+11375,daihatsu,Daihatsu Sirion 1.3,9900.0,176 000 km,manual,998 cm3,Benzyna,Wągrowiec,Wielkopolskie,2008
+11376,daihatsu,Daihatsu Cuore 1.0 Plus,8499.0,185 128 km,manual,1 495 cm3,Benzyna+LPG,Zakrzów,Małopolskie,2008
+11377,daihatsu,Daihatsu Trevis 1.0 Limited,9900.0,185 128 km,manual,1 495 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2008
+11378,daihatsu,Daihatsu Sirion 1.3,6300.0,158 000 km,manual,1 298 cm3,Benzyna,Lublin,Lubelskie,2007
+11379,daihatsu,Daihatsu Cuore 1.0,5500.0,158 000 km,manual,1 298 cm3,Benzyna,Kalisz,Wielkopolskie,2007
+11380,daihatsu,Daihatsu Terios 4WD Top,11300.0,155 554 km,manual,1 298 cm3,Benzyna+LPG,Słupca,Wielkopolskie,2009
+11381,daihatsu,Daihatsu Terios 1.5 Top S 4WD,25900.0,155 554 km,manual,1 298 cm3,Benzyna+LPG,Skorzewo,Pomorskie,2009
+11382,daihatsu,Daihatsu Sirion 1.3,9000.0,155 200 km,manual,998 cm3,Benzyna,Niewodnica Korycka,Podlaskie,2009
+11383,daihatsu,Daihatsu Cuore 1.0 Plus,6950.0,155 200 km,manual,998 cm3,Benzyna,Margonin,Wielkopolskie,2009
+11384,daihatsu,Daihatsu Terios,23800.0,243 000 km,manual,998 cm3,Benzyna,Kłodzko,Dolnośląskie,2005
+11385,daihatsu,Daihatsu Sirion 1.0,7500.0,243 000 km,manual,998 cm3,Benzyna,Strzelin,Dolnośląskie,2005
+11386,daihatsu,Daihatsu Sirion 1.3,7500.0,186 000 km,manual,1 495 cm3,Benzyna,Mnich,Śląskie,2008
+11387,daihatsu,Daihatsu Materia 1.3,14900.0,186 000 km,manual,1 495 cm3,Benzyna,Ożarów Mazowiecki,Mazowieckie,2008
+11388,daihatsu,Daihatsu Sirion 1.0,5900.0,169 000 km,manual,1 495 cm3,Benzyna,Radziejów,Kujawsko-pomorskie,2007
+11389,daihatsu,Daihatsu Terios 1.5 Top,18490.0,169 000 km,manual,1 495 cm3,Benzyna,Zielona Góra,Lubuskie,2007
+11390,daihatsu,Daihatsu Sirion,3300.0,235 500 km,manual,1 298 cm3,Benzyna+LPG,Zielona Góra,Lubuskie,2006
+11391,daihatsu,Daihatsu Trevis 1.0 Limited,10500.0,235 500 km,manual,1 298 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2006
+11392,daihatsu,Daihatsu Cuore 1.0 Pur,5400.0,107 470 km,manual,989 cm3,Benzyna,Gostynin,Mazowieckie,2004
+11393,daihatsu,Daihatsu Cuore 1.0 Plus,4000.0,107 470 km,manual,989 cm3,Benzyna,Kije,Lubuskie,2004
+11394,daihatsu,Daihatsu Cuore 1.0 Plus,4890.0,123 000 km,manual,989 cm3,Benzyna,Rzeczenica,Pomorskie,2004
+11395,daihatsu,Daihatsu Terios,12500.0,123 000 km,manual,989 cm3,Benzyna,Spytkowice,Małopolskie,2004
+11396,daihatsu,Daihatsu Sirion 1.0 Top,9900.0,124 000 km,manual,989 cm3,Benzyna,Niwy,Świętokrzyskie,2004
+11397,daihatsu,Daihatsu Feroza,12800.0,124 000 km,manual,989 cm3,Benzyna,Czerwonak,Wielkopolskie,2004
+11398,daihatsu,Daihatsu Cuore 1.0 Plus,5900.0,179 904 km,manual,1 296 cm3,Benzyna+LPG,Sierpc,Mazowieckie,2000
+11399,daihatsu,Daihatsu Cuore 1.0 Plus,3999.0,179 904 km,manual,1 296 cm3,Benzyna+LPG,Słupsk,Pomorskie,2000
+11400,daihatsu,Daihatsu Cuore 1.0 Plus,4400.0,130 000 km,manual,989 cm3,Benzyna,Duszniki,Wielkopolskie,2003
+11401,daihatsu,Daihatsu Terios,14800.0,130 000 km,manual,989 cm3,Benzyna,Otwock,Mazowieckie,2003
+11402,daihatsu,Daihatsu Sirion 1.3,11900.0,225 000 km,manual,1 298 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2010
+11403,daihatsu,Daihatsu Sirion,16000.0,225 000 km,manual,1 298 cm3,Benzyna,Katowice,Śląskie,2010
+11404,daihatsu,Daihatsu Terios 1.5 Top S 4WD,19800.0,116 847 km,manual,998 cm3,Benzyna,Krobia,Wielkopolskie,2011
+11405,daihatsu,Daihatsu Sirion 1.0,15900.0,116 847 km,manual,998 cm3,Benzyna,Wałbrzych,Dolnośląskie,2011
+11406,daihatsu,Daihatsu Sirion,12900.0,94 000 km,automatic,1 298 cm3,Benzyna,Kłodzko,Dolnośląskie,2001
+11407,daihatsu,Daihatsu Cuore,6300.0,94 000 km,automatic,1 298 cm3,Benzyna,Poznań,Wielkopolskie,2001
+11408,daihatsu,Daihatsu Cuore,9800.0,145 000 km,automatic,989 cm3,Benzyna,Sade Budy,Mazowieckie,2002
+11409,daihatsu,Daihatsu Cuore,12900.0,95 000 km,automatic,989 cm3,Benzyna,Ryki,Lubelskie,2007
+11410,daihatsu,Daihatsu Sirion 1.3 Automatik,18900.0,95 000 km,automatic,989 cm3,Benzyna,Majdan Sieniawski,Podkarpackie,2007
+11411,daihatsu,Daihatsu Cuore Automatik,13900.0,180 000 km,automatic,1 298 cm3,Benzyna,Łask,Łódzkie,2009

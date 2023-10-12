@@ -1,0 +1,64 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+9135,cadillac,Cadillac BLS 2.0T Elegance,15900.0,307 000 km,manual,1 998 cm3,Benzyna,Strzyżew,Mazowieckie,2009
+9136,cadillac,Cadillac BLS 2.0T Elegance,15900.0,307 000 km,manual,1 998 cm3,Benzyna,Strzyżew,Mazowieckie,2009
+9137,cadillac,Cadillac BLS 2.0T Elegance,18000.0,202 021 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2010
+9138,cadillac,Cadillac BLS 2.0T Elegance,18000.0,202 021 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2010
+9139,cadillac,Cadillac BLS 2.0T Elegance,18000.0,202 021 km,manual,1 998 cm3,Benzyna+LPG,Radom,Mazowieckie,2010
+9140,cadillac,Cadillac SRX 3.6 V6 Elegance AWD,13500.0,149 000 km,automatic,3 564 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+9141,cadillac,Cadillac Escalade 6.0 V8 AWD,37999.0,149 000 km,automatic,3 564 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+9142,cadillac,Cadillac Eldorado 4.6 ESC,14900.0,376 000 km,automatic,5 967 cm3,Benzyna+LPG,Turek,Wielkopolskie,2004
+9143,cadillac,Cadillac Deville 4.6 STD,29900.0,376 000 km,automatic,5 967 cm3,Benzyna+LPG,Chełm,Lubelskie,2004
+9144,cadillac,Cadillac SRX,15500.0,116 433 km,automatic,4 572 cm3,Benzyna,Lejno,Lubelskie,2001
+9145,cadillac,Cadillac Deville,9999.0,116 433 km,automatic,4 572 cm3,Benzyna,Poznań,Wielkopolskie,2001
+9146,cadillac,Cadillac XTS,59900.0,123 000 km,automatic,3 564 cm3,Benzyna,Aleksandrów Łódzki,Łódzkie,2013
+9147,cadillac,Cadillac ATS,45800.0,123 000 km,automatic,3 564 cm3,Benzyna,Szubin,Kujawsko-pomorskie,2013
+9148,cadillac,Cadillac SRX 3.6 V6 Sport Luxury AWD,52900.0,51 555 km,automatic,2 500 cm3,Benzyna,Zwoleń,Mazowieckie,2013
+9149,cadillac,Cadillac DTS,43500.0,51 555 km,automatic,2 500 cm3,Benzyna,Tomaszów Lubelski,Lubelskie,2013
+9150,cadillac,Cadillac CTS 2.0T AWD AT8 Luxury,99000.0,170 123 km,automatic,3 000 cm3,Benzyna,Szówsko,Podkarpackie,2011
+9151,cadillac,Cadillac Escalade,75900.0,170 123 km,automatic,3 000 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2011
+9152,cadillac,Cadillac CTS,69900.0,106 000 km,automatic,4 565 cm3,Benzyna,Warszawa,Mazowieckie,2010
+9153,cadillac,Cadillac Escalade 6.2 V8 Elegance,50000.0,106 000 km,automatic,4 565 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2010
+9154,cadillac,Cadillac SRX,59900.0,97 000 km,automatic,1 998 cm3,Benzyna,Michałów-Reginów,Mazowieckie,2014
+9155,cadillac,Cadillac Escalade 6.2 V8 Sport Luxury,54500.0,97 000 km,automatic,1 998 cm3,Benzyna,Sokołów Podlaski,Mazowieckie,2014
+9156,cadillac,Cadillac CTS,32000.0,75 800 km,automatic,5 967 cm3,Hybryda,Kraków,Małopolskie,2014
+9157,cadillac,Cadillac Escalade 6.2 V8 Elegance,69900.0,235 000 km,automatic,6 199 cm3,Benzyna,Zawiercie,Śląskie,2008
+9158,cadillac,Cadillac STS,24900.0,235 000 km,automatic,6 199 cm3,Benzyna,Wielebnów Zasłońce,Świętokrzyskie,2008
+9159,cadillac,Cadillac SRX 4.6 V8 Sport Luxury AWD,24000.0,204 000 km,automatic,3 564 cm3,Benzyna+LPG,Lubaczów,Podkarpackie,2005
+9160,cadillac,Cadillac CTS 3.6 V6 Sport Wagon AWD Sport Luxury,53000.0,204 000 km,automatic,3 564 cm3,Benzyna+LPG,Krapkowice,Opolskie,2005
+9161,cadillac,Cadillac Escalade 6.2 V8 Elegance,60000.0,185 000 km,automatic,4 565 cm3,Benzyna+LPG,Częstochowa,Śląskie,2008
+9162,cadillac,Cadillac CTS,27900.0,185 000 km,automatic,4 565 cm3,Benzyna+LPG,Bydgoszcz,Kujawsko-pomorskie,2008
+9163,cadillac,Cadillac Escalade 6.2 V8 Elegance,77900.0,96 025 km,automatic,3 564 cm3,Benzyna,Koszalin,Zachodniopomorskie,2008
+9164,cadillac,Cadillac Escalade,44900.0,96 025 km,automatic,3 564 cm3,Benzyna,Garwolin,Mazowieckie,2008
+9165,cadillac,Cadillac STS 3.6 V6 Sport Luxury,8990.0,205 104 km,automatic,6 199 cm3,Benzyna+LPG,Wejherowo,Pomorskie,2007
+9166,cadillac,Cadillac XT4,12499.0,205 104 km,automatic,6 199 cm3,Benzyna+LPG,Nowa Wieś Rzeczna,Pomorskie,2007
+9167,cadillac,Cadillac BLS 2.8 V6 Sport Luxury,24900.0,149 200 km,automatic,3 564 cm3,Benzyna,Częstochowa,Śląskie,2007
+9168,cadillac,Cadillac Escalade 6.2 V8 Sport Luxury,85000.0,149 200 km,automatic,3 564 cm3,Benzyna,Rososzyca,Wielkopolskie,2007
+9169,cadillac,Cadillac Escalade 6.2 V8 Elegance,55900.0,318 000 km,automatic,6 162 cm3,Benzyna+LPG,Jelenia Góra,Dolnośląskie,2007
+9170,cadillac,Cadillac Escalade 6.2 V8 Sport Luxury,64900.0,318 000 km,automatic,6 162 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+9171,cadillac,Cadillac SRX,17900.0,268 447 km,automatic,5 967 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,2005
+9172,cadillac,Cadillac BLS 1.9 D DPF Automatik Business,13000.0,268 447 km,automatic,5 967 cm3,Benzyna,Lubowidz,Mazowieckie,2005
+9173,cadillac,Cadillac Escalade 6.2 V8 Elegance,80000.0,212 000 km,automatic,3 564 cm3,Benzyna+LPG,Gorzów Wielkopolski,Lubuskie,2008
+9174,cadillac,Cadillac CTS 3.6 V6 Sport Luxury AWD,39800.0,212 000 km,automatic,3 564 cm3,Benzyna+LPG,Nieporęt,Mazowieckie,2008
+9175,cadillac,Cadillac SRX 3.6 V6 Elegance Plus AWD,12700.0,51 000 km,automatic,2 000 cm3,Benzyna,Nowa Dęba,Podkarpackie,2009
+9176,cadillac,Cadillac Escalade 6.2 V8 Sport Luxury,79900.0,51 000 km,automatic,2 000 cm3,Benzyna,Warszawa,Mazowieckie,2009
+9177,cadillac,Cadillac CTS,12900.0,217 000 km,automatic,2 792 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2007
+9178,cadillac,Cadillac SRX 3.6 V6 Elegance,29900.0,217 000 km,automatic,2 792 cm3,Benzyna,Dolna Grupa,Kujawsko-pomorskie,2007
+9179,cadillac,Cadillac Escalade 6.2 V8 AWD AT Platinum,85000.0,303 000 km,automatic,6 199 cm3,Benzyna,Bochnia,Małopolskie,2007
+9180,cadillac,Cadillac SRX 4.6 V8 Sport Luxury AWD,25000.0,303 000 km,automatic,6 199 cm3,Benzyna,Częstochowa,Śląskie,2007
+9181,cadillac,Cadillac CTS,27900.0,302 000 km,automatic,6 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2007
+9182,cadillac,Cadillac SRX 3.6 V6 Elegance AWD,13500.0,149 000 km,automatic,3 564 cm3,Benzyna,Szczecin,Zachodniopomorskie,2004
+9183,cadillac,Cadillac Escalade 6.0 V8 AWD,37999.0,149 000 km,automatic,3 564 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+9184,cadillac,Cadillac Eldorado 4.6 ESC,14900.0,376 000 km,automatic,5 967 cm3,Benzyna+LPG,Turek,Wielkopolskie,2004
+9185,cadillac,Cadillac Deville 4.6 STD,29900.0,376 000 km,automatic,5 967 cm3,Benzyna+LPG,Chełm,Lubelskie,2004
+9186,cadillac,Cadillac SRX,15500.0,116 433 km,automatic,4 572 cm3,Benzyna,Lejno,Lubelskie,2001
+9187,cadillac,Cadillac Deville,9999.0,116 433 km,automatic,4 572 cm3,Benzyna,Poznań,Wielkopolskie,2001
+9188,cadillac,Cadillac XT6,419900.0,10 km,automatic,1 999 cm3,Benzyna,Chorzów,Śląskie,2022
+9189,cadillac,Cadillac Escalade,1099900.0,10 km,automatic,1 999 cm3,Benzyna,Racibory,Mazowieckie,2022
+9190,cadillac,Cadillac XT6,359900.0,15 km,automatic,6 200 cm3,Benzyna,Chorzów,Śląskie,2022
+9191,cadillac,Cadillac XT6,379800.0,15 km,automatic,6 200 cm3,Benzyna,Józefów,Mazowieckie,2022
+9192,cadillac,Cadillac Escalade,909900.0,10 km,automatic,1 998 cm3,Benzyna,Chorzów,Śląskie,2022
+9193,cadillac,Cadillac XT6,412500.0,10 km,automatic,1 998 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2022
+9194,cadillac,Cadillac XT5,172900.0,20 km,automatic,1 999 cm3,Benzyna,Białystok,Podlaskie,2022
+9195,cadillac,Cadillac Escalade,429000.0,20 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2022
+9196,cadillac,Cadillac Escalade,410000.0,10 km,automatic,6 200 cm3,Benzyna,Kraków,Małopolskie,2023
+9197,cadillac,Cadillac Escalade 6.2 V8 AWD AT Platinum,335000.0,10 km,automatic,6 200 cm3,Benzyna,Mszana Dolna,Małopolskie,2023

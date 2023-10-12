@@ -1,0 +1,689 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+37711,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37712,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37713,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37714,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37715,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37716,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37717,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37718,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37719,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37720,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37721,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37722,mini,MINI Cooper,99900.0,71 543 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+37723,mini,MINI Cooper S,17900.0,116 850 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+37724,mini,MINI Cooper Standard,12900.0,116 850 km,manual,1 598 cm3,Benzyna,Lubin,Dolnośląskie,2004
+37725,mini,MINI Cooper,15900.0,195 500 km,manual,1 598 cm3,Benzyna,Staszów,Świętokrzyskie,2004
+37726,mini,MINI Cooper Standard,16800.0,195 500 km,manual,1 598 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2004
+37727,mini,MINI ONE Standard,10500.0,182 000 km,manual,1 598 cm3,Benzyna,Serock,Mazowieckie,2004
+37728,mini,MINI ONE,8000.0,182 000 km,manual,1 598 cm3,Benzyna,Kraków,Małopolskie,2004
+37729,mini,MINI Cooper S chili,15500.0,179 771 km,manual,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2004
+37730,mini,MINI Cooper,13500.0,179 771 km,manual,1 598 cm3,Benzyna,Gniezno,Wielkopolskie,2004
+37731,mini,MINI Cooper,11999.0,197 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2003
+37732,mini,MINI Cooper pepper,12500.0,197 000 km,manual,1 598 cm3,Benzyna,Suchań,Zachodniopomorskie,2003
+37733,mini,MINI ONE D,5400.0,173 000 km,manual,1 598 cm3,Benzyna,Bielawa,Dolnośląskie,2002
+37734,mini,MINI ONE,9500.0,173 000 km,manual,1 598 cm3,Benzyna,Pińczów,Świętokrzyskie,2002
+37735,mini,MINI Cooper Standard,10200.0,203 000 km,manual,1 598 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+37736,mini,MINI ONE D,12400.0,203 000 km,manual,1 598 cm3,Benzyna,Zamość,Lubelskie,2002
+37737,mini,MINI Cooper,13999.0,200 000 km,manual,1 598 cm3,Benzyna+LPG,Chmielnik,Świętokrzyskie,2004
+37738,mini,MINI Cooper,10500.0,200 000 km,manual,1 598 cm3,Benzyna+LPG,Wołów,Dolnośląskie,2004
+37739,mini,MINI ONE Standard,14900.0,174 000 km,manual,1 598 cm3,Benzyna,Rogowo,Kujawsko-pomorskie,2002
+37740,mini,MINI ONE Standard,7999.0,174 000 km,manual,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2002
+37741,mini,MINI Cooper S,19800.0,213 000 km,manual,1 598 cm3,Benzyna+LPG,Radom,Mazowieckie,2004
+37742,mini,MINI Cooper,11500.0,213 000 km,manual,1 598 cm3,Benzyna+LPG,Zalesie Górne,Mazowieckie,2004
+37743,mini,MINI Cooper S,18500.0,220 000 km,manual,1 364 cm3,Diesel,Warszawa,Mazowieckie,2004
+37744,mini,MINI ONE salt,9900.0,220 000 km,manual,1 364 cm3,Diesel,Będzin,Śląskie,2004
+37745,mini,MINI Cooper,4000.0,255 000 km,manual,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2003
+37746,mini,MINI Cooper Standard,9900.0,255 000 km,manual,1 598 cm3,Benzyna,Gdańsk,Pomorskie,2003
+37747,mini,MINI Cooper,10800.0,127 790 km,manual,1 598 cm3,Benzyna,Szamotuły,Wielkopolskie,2002
+37748,mini,MINI Cooper S Standard,13000.0,127 790 km,manual,1 598 cm3,Benzyna,Banino,Pomorskie,2002
+37749,mini,MINI ONE Standard,9999.0,265 000 km,manual,1 364 cm3,Diesel,Zawiercie,Śląskie,2003
+37750,mini,MINI ONE Standard,9900.0,265 000 km,manual,1 364 cm3,Diesel,Nowy Targ,Małopolskie,2003
+37751,mini,MINI Cooper S chili,10900.0,181 510 km,manual,1 600 cm3,Benzyna,Krotoszyn,Wielkopolskie,2003
+37752,mini,MINI ONE D salt,11900.0,181 510 km,manual,1 600 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2003
+37753,mini,MINI Cooper pepper,8800.0,147 000 km,manual,1 598 cm3,Benzyna,Świętoszówka,Śląskie,2002
+37754,mini,MINI ONE Standard,9999.0,147 000 km,manual,1 598 cm3,Benzyna,Nowy Sącz,Małopolskie,2002
+37755,mini,MINI Countryman Cooper SD EU6,59999.0,154 000 km,manual,1 995 cm3,Diesel,Brzesko,Małopolskie,2014
+37756,mini,MINI Clubman Cooper S,18999.0,154 000 km,manual,1 995 cm3,Diesel,Wejherowo,Pomorskie,2014
+37757,mini,MINI ONE D,26900.0,193 000 km,manual,1 598 cm3,Benzyna,Gostynin,Mazowieckie,2011
+37758,mini,MINI Countryman Cooper,39900.0,193 000 km,manual,1 598 cm3,Benzyna,Gdynia,Pomorskie,2011
+37759,mini,MINI Countryman,32000.0,113 000 km,manual,1 560 cm3,Diesel,Jasło,Podkarpackie,2013
+37760,mini,MINI Cooper,22500.0,113 000 km,manual,1 560 cm3,Diesel,Lwówek Śląski,Dolnośląskie,2013
+37761,mini,MINI ONE Standard,28900.0,222 000 km,manual,1 598 cm3,Benzyna,Staszów,Świętokrzyskie,2013
+37762,mini,MINI Cooper D,22900.0,222 000 km,manual,1 598 cm3,Benzyna,Bujały-Gniewosze,Mazowieckie,2013
+37763,mini,MINI Cooper SD,36900.0,179 000 km,manual,1 598 cm3,Diesel,Chodzież,Wielkopolskie,2013
+37764,mini,MINI ONE,20900.0,179 000 km,manual,1 598 cm3,Diesel,Wałbrzych,Dolnośląskie,2013
+37765,mini,MINI Cooper S,39900.0,191 000 km,manual,1 598 cm3,Benzyna,Kraków,Małopolskie,2010
+37766,mini,MINI Cooper S,29500.0,191 000 km,manual,1 598 cm3,Benzyna,Katowice,Śląskie,2010
+37767,mini,MINI ONE,23500.0,136 000 km,manual,1 598 cm3,Benzyna,Kłodzko,Dolnośląskie,2011
+37768,mini,MINI Paceman Cooper D EU6,29999.0,136 000 km,manual,1 598 cm3,Benzyna,Lubaczów,Podkarpackie,2011
+37769,mini,MINI Clubman,23900.0,165 800 km,manual,1 598 cm3,Diesel,Mniszek,Mazowieckie,2012
+37770,mini,MINI Countryman One D,17000.0,165 800 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2012
+37771,mini,MINI Countryman Cooper SD,55900.0,96 000 km,manual,1 995 cm3,Diesel,Gdańsk,Pomorskie,2011
+37772,mini,MINI Cooper S,52000.0,96 000 km,manual,1 995 cm3,Diesel,Szczecin,Zachodniopomorskie,2011
+37773,mini,MINI Cooper S,69900.0,150 000 km,manual,1 397 cm3,Benzyna,Strzyżew,Mazowieckie,2010
+37774,mini,MINI Cooper Standard,31500.0,150 000 km,manual,1 397 cm3,Benzyna,Ełk,Warmińsko-mazurskie,2010
+37775,mini,MINI Cooper Standard,24900.0,149 125 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2012
+37776,mini,MINI Cooper D,32900.0,149 125 km,manual,1 598 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+37777,mini,MINI Clubman Cooper D,32900.0,200 000 km,manual,1 598 cm3,Benzyna,Przelewice,Zachodniopomorskie,2010
+37778,mini,MINI John Cooper Works Standard,53900.0,200 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2010
+37779,mini,MINI ONE D,22500.0,134 698 km,manual,1 598 cm3,Benzyna,Odolanów,Wielkopolskie,2011
+37780,mini,MINI Clubman One D,24500.0,134 698 km,manual,1 598 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2011
+37781,mini,MINI Countryman Cooper,39900.0,178 000 km,manual,1 598 cm3,Diesel,Szczecinek,Zachodniopomorskie,2010
+37782,mini,MINI Cooper,24950.0,178 000 km,manual,1 598 cm3,Diesel,Brzesko,Małopolskie,2010
+37783,mini,MINI Countryman Cooper SD All4,39900.0,213 000 km,manual,1 598 cm3,Diesel,Zambrów,Podlaskie,2011
+37784,mini,MINI Clubman Cooper D,25900.0,213 000 km,manual,1 598 cm3,Diesel,Niemcza,Dolnośląskie,2011
+37785,mini,MINI ONE,19900.0,205 000 km,manual,1 598 cm3,Diesel,Lublin,Lubelskie,2011
+37786,mini,MINI Countryman Cooper SD All4,43500.0,205 000 km,manual,1 598 cm3,Diesel,Oleśnica,Dolnośląskie,2011
+37787,mini,MINI Cooper Cooper D,12000.0,140 000 km,manual,1 598 cm3,Diesel,Nowy Targ,Małopolskie,2009
+37788,mini,MINI Cooper,19999.0,140 000 km,manual,1 598 cm3,Diesel,Gliwice,Śląskie,2009
+37789,mini,MINI Cooper,25900.0,156 000 km,manual,1 598 cm3,Benzyna,Iława,Warmińsko-mazurskie,2009
+37790,mini,MINI Cooper D,15500.0,156 000 km,manual,1 598 cm3,Benzyna,Chełm,Lubelskie,2009
+37791,mini,MINI ONE Standard,18900.0,124 000 km,manual,1 598 cm3,Benzyna,Chorzów,Śląskie,2005
+37792,mini,MINI Clubman Cooper S,31900.0,124 000 km,manual,1 598 cm3,Benzyna,Radom,Mazowieckie,2005
+37793,mini,MINI Cooper S Standard,26900.0,220 000 km,manual,1 560 cm3,Diesel,Radom,Mazowieckie,2007
+37794,mini,MINI Cooper 50 Mayfair,23900.0,220 000 km,manual,1 560 cm3,Diesel,Przemęt,Wielkopolskie,2007
+37795,mini,MINI ONE,17900.0,199 000 km,manual,1 397 cm3,Benzyna,Zielona Góra,Lubuskie,2007
+37796,mini,MINI Cooper Standard,18900.0,199 000 km,manual,1 397 cm3,Benzyna,Haczów,Podkarpackie,2007
+37797,mini,MINI ONE Standard,18800.0,197 000 km,manual,1 598 cm3,Benzyna,Jastrowie,Wielkopolskie,2009
+37798,mini,MINI ONE Standard,23900.0,197 000 km,manual,1 598 cm3,Benzyna,Łask,Łódzkie,2009
+37799,mini,MINI Clubman Cooper D,23999.0,192 000 km,manual,1 598 cm3,Benzyna,Owiesno,Dolnośląskie,2008
+37800,mini,MINI Cooper S,33900.0,192 000 km,manual,1 598 cm3,Benzyna,Janki,Mazowieckie,2008
+37801,mini,MINI Cooper,18300.0,154 033 km,manual,1 598 cm3,Benzyna,Wągrowiec,Wielkopolskie,2009
+37802,mini,MINI Cooper Standard,22000.0,154 033 km,manual,1 598 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2009
+37803,mini,MINI ONE Standard,17900.0,156 610 km,manual,1 397 cm3,Benzyna,Trzebnica,Dolnośląskie,2008
+37804,mini,MINI Cooper,21600.0,156 610 km,manual,1 397 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2008
+37805,mini,MINI Cooper S Standard,25500.0,105 000 km,manual,1 598 cm3,Benzyna,Garwolin,Mazowieckie,2007
+37806,mini,MINI Cooper Standard,19900.0,105 000 km,manual,1 598 cm3,Benzyna,Chełm,Lubelskie,2007
+37807,mini,MINI ONE Standard,6900.0,104 000 km,manual,1 397 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2008
+37808,mini,MINI Cooper S Standard,30500.0,104 000 km,manual,1 397 cm3,Benzyna,Warszawa,Mazowieckie,2008
+37809,mini,MINI Cooper S,24999.0,134 284 km,manual,1 397 cm3,Benzyna,Pyrzowice,Śląskie,2009
+37810,mini,MINI Cooper Standard,16000.0,134 284 km,manual,1 397 cm3,Benzyna,Grodzisk Mazowiecki,Mazowieckie,2009
+37811,mini,MINI Cooper S Standard,28900.0,187 221 km,manual,1 560 cm3,Diesel,Radom,Mazowieckie,2007
+37812,mini,MINI Cooper Standard,11600.0,187 221 km,manual,1 560 cm3,Diesel,Ustka,Pomorskie,2007
+37813,mini,MINI Cooper D,16900.0,158 643 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+37814,mini,MINI Cooper,21500.0,158 643 km,manual,1 598 cm3,Benzyna,Zamarski,Śląskie,2008
+37815,mini,MINI Cooper Standard,9300.0,232 000 km,manual,1 598 cm3,Benzyna,Piława Dolna,Dolnośląskie,2009
+37816,mini,MINI Clubman Cooper S,27900.0,232 000 km,manual,1 598 cm3,Benzyna,Kalisz,Wielkopolskie,2009
+37817,mini,MINI Cooper S Standard,26500.0,196 000 km,manual,1 598 cm3,Benzyna,Pabianice,Łódzkie,2008
+37818,mini,MINI ONE Standard,11000.0,196 000 km,manual,1 598 cm3,Benzyna,Dobromyśl,Wielkopolskie,2008
+37819,mini,MINI John Cooper Works Copper,87000.0,114 000 km,manual,1 998 cm3,Benzyna,Orzesze,Śląskie,2016
+37820,mini,MINI Cooper,79800.0,114 000 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2016
+37821,mini,MINI ONE Standard,46000.0,57 000 km,manual,1 499 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+37822,mini,MINI Clubman,52900.0,57 000 km,manual,1 499 cm3,Benzyna,Nysa,Opolskie,2019
+37823,mini,MINI Cooper S Standard,49900.0,85 000 km,manual,1 198 cm3,Benzyna,Wolsztyn,Wielkopolskie,2016
+37824,mini,MINI Cooper S Standard,71900.0,85 000 km,manual,1 198 cm3,Benzyna,Kraków,Małopolskie,2016
+37825,mini,MINI Cooper,68000.0,28 000 km,manual,1 499 cm3,Benzyna,Gdańsk,Pomorskie,2016
+37826,mini,MINI Cooper S,69999.0,28 000 km,manual,1 499 cm3,Benzyna,Przecław,Zachodniopomorskie,2016
+37827,mini,MINI Cooper,47900.0,144 000 km,manual,1 998 cm3,Benzyna,Koło,Wielkopolskie,2015
+37828,mini,MINI ONE,79000.0,144 000 km,manual,1 998 cm3,Benzyna,Sulejów,Łódzkie,2015
+37829,mini,MINI Countryman,80000.0,49 000 km,manual,1 998 cm3,Benzyna,Lublin,Lubelskie,2017
+37830,mini,MINI ONE Standard,39999.0,49 000 km,manual,1 998 cm3,Benzyna,Józefosław,Mazowieckie,2017
+37831,mini,MINI ONE D Blackyard,54900.0,35 099 km,manual,1 499 cm3,Benzyna,Dęblin,Lubelskie,2018
+37832,mini,MINI Cooper D,49900.0,35 099 km,manual,1 499 cm3,Benzyna,Konstantynów Łódzki,Łódzkie,2018
+37833,mini,MINI ONE,64900.0,70 100 km,manual,1 998 cm3,Benzyna,Rzuchów,Śląskie,2017
+37834,mini,MINI ONE,59900.0,70 100 km,manual,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2017
+37835,mini,MINI ONE Standard,74900.0,51 330 km,manual,1 499 cm3,Benzyna,Chełm,Lubelskie,2015
+37836,mini,MINI ONE Standard,49900.0,51 330 km,manual,1 499 cm3,Benzyna,Katowice,Śląskie,2015
+37837,mini,MINI Cooper Standard,44999.0,23 500 km,manual,1 499 cm3,Benzyna,Kokoszkowy,Pomorskie,2019
+37838,mini,MINI Cooper S,25500.0,23 500 km,manual,1 499 cm3,Benzyna,Rosanów,Łódzkie,2019
+37839,mini,MINI Cooper S,89000.0,86 400 km,manual,1 995 cm3,Diesel,Warszawa,Mazowieckie,2018
+37840,mini,MINI ONE,42900.0,86 400 km,manual,1 995 cm3,Diesel,Janki,Mazowieckie,2018
+37841,mini,MINI Cooper S Cabrio,80000.0,100 000 km,manual,1 198 cm3,Benzyna,Warszawa,Mazowieckie,2015
+37842,mini,MINI Clubman Cooper D,63000.0,100 000 km,manual,1 198 cm3,Benzyna,Rzeszów,Podkarpackie,2015
+37843,mini,MINI Clubman One D Essential Trim,63900.0,52 000 km,manual,1 496 cm3,Diesel,Kępno,Wielkopolskie,2016
+37844,mini,MINI Cooper S Standard,72000.0,52 000 km,manual,1 496 cm3,Diesel,Warszawa,Mazowieckie,2016
+37845,mini,MINI Countryman Cooper,85900.0,65 600 km,manual,1 496 cm3,Diesel,Lublin,Lubelskie,2017
+37846,mini,MINI Clubman,56200.0,65 600 km,manual,1 496 cm3,Diesel,Koźmin Wielkopolski,Wielkopolskie,2017
+37847,mini,MINI Countryman Cooper SD ALL4,65900.0,56 600 km,manual,1 499 cm3,Benzyna,Nysa,Opolskie,2018
+37848,mini,MINI Countryman One D,48900.0,56 600 km,manual,1 499 cm3,Benzyna,Słupca,Wielkopolskie,2018
+37849,mini,MINI Cooper S,54900.0,134 600 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2018
+37850,mini,MINI ONE D,47000.0,134 600 km,manual,1 499 cm3,Diesel,Sierakowice,Pomorskie,2018
+37851,mini,MINI ONE,17900.0,75 000 km,manual,1 598 cm3,Diesel,Żuromin,Mazowieckie,2010
+37852,mini,MINI Cooper S,34900.0,75 000 km,manual,1 598 cm3,Diesel,Białystok,Podlaskie,2010
+37853,mini,MINI Countryman Cooper SD ALL4,41900.0,212 375 km,manual,1 598 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+37854,mini,MINI Clubman,31900.0,212 375 km,manual,1 598 cm3,Benzyna,Chmielnik,Świętokrzyskie,2012
+37855,mini,MINI Cooper Roadster,52900.0,178 370 km,manual,1 995 cm3,Diesel,Radom,Mazowieckie,2011
+37856,mini,MINI Cooper,45900.0,178 370 km,manual,1 995 cm3,Diesel,Chodzież,Wielkopolskie,2011
+37857,mini,MINI Countryman Cooper D,29800.0,176 253 km,manual,1 600 cm3,Benzyna,Czarnków,Wielkopolskie,2010
+37858,mini,MINI Cooper Green Park,35900.0,176 253 km,manual,1 600 cm3,Benzyna,Chwaszczyno,Pomorskie,2010
+37859,mini,MINI Countryman,37900.0,52 000 km,manual,1 598 cm3,Benzyna,Sierpc,Mazowieckie,2014
+37860,mini,MINI John Cooper Works,49500.0,52 000 km,manual,1 598 cm3,Benzyna,Rydzyna,Wielkopolskie,2014
+37861,mini,MINI ONE Standard,24900.0,95 000 km,manual,1 499 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2014
+37862,mini,MINI Clubman Cooper,25900.0,95 000 km,manual,1 499 cm3,Benzyna,Trzebnica,Dolnośląskie,2014
+37863,mini,MINI Cooper GPF,37999.0,179 900 km,manual,1 598 cm3,Diesel,Dobrcz,Kujawsko-pomorskie,2011
+37864,mini,MINI Countryman Cooper D All4,38000.0,179 900 km,manual,1 598 cm3,Diesel,Białystok,Podlaskie,2011
+37865,mini,MINI Cooper S Standard,38500.0,119 900 km,manual,1 598 cm3,Benzyna,Wola Starogrodzka,Mazowieckie,2013
+37866,mini,MINI Countryman Cooper S ALL4,42900.0,119 900 km,manual,1 598 cm3,Benzyna,Myszyniec,Mazowieckie,2013
+37867,mini,MINI Countryman Cooper D All4,35900.0,162 000 km,manual,1 598 cm3,Diesel,Żory,Śląskie,2012
+37868,mini,MINI ONE Standard,22500.0,162 000 km,manual,1 598 cm3,Diesel,Bielsko-Biała,Śląskie,2012
+37869,mini,MINI Cooper D,31000.0,118 158 km,manual,1 598 cm3,Benzyna,Gubin,Lubuskie,2011
+37870,mini,MINI Countryman Cooper D All4,52900.0,118 158 km,manual,1 598 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2011
+37871,mini,MINI Countryman Cooper S ALL4,46000.0,169 700 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2010
+37872,mini,MINI Cooper D,20900.0,169 700 km,manual,1 598 cm3,Benzyna,Szamotuły,Wielkopolskie,2010
+37873,mini,MINI Countryman One D,29900.0,190 000 km,manual,1 598 cm3,Benzyna,Września,Wielkopolskie,2010
+37874,mini,MINI Countryman One,35500.0,190 000 km,manual,1 598 cm3,Benzyna,Nowa Wieś,Śląskie,2010
+37875,mini,MINI ONE D,32000.0,201 300 km,manual,1 499 cm3,Benzyna,Poznań,Wielkopolskie,2014
+37876,mini,MINI ONE Standard,23900.0,201 300 km,manual,1 499 cm3,Benzyna,Tarnobrzeg,Podkarpackie,2014
+37877,mini,MINI Countryman Cooper,35500.0,144 000 km,manual,1 598 cm3,Diesel,Września,Wielkopolskie,2011
+37878,mini,MINI Cooper S Standard,62000.0,144 000 km,manual,1 598 cm3,Diesel,Skawina,Małopolskie,2011
+37879,mini,MINI Cooper D,23500.0,142 700 km,manual,1 598 cm3,Benzyna,Rawicz,Wielkopolskie,2010
+37880,mini,MINI Cooper S,49999.0,142 700 km,manual,1 598 cm3,Benzyna,Lesznowola,Mazowieckie,2010
+37881,mini,MINI John Cooper Works,39999.0,163 653 km,manual,1 598 cm3,Benzyna,Masłowo,Wielkopolskie,2011
+37882,mini,MINI Paceman Cooper SD ALL4,62900.0,163 653 km,manual,1 598 cm3,Benzyna,Cieszyn,Śląskie,2011
+37883,mini,MINI Clubman One,94900.0,13 582 km,manual,1 499 cm3,Benzyna,Lusówko,Wielkopolskie,2019
+37884,mini,MINI Cooper Standard,49999.0,13 582 km,manual,1 499 cm3,Benzyna,Kielce,Świętokrzyskie,2019
+37885,mini,MINI Cooper S Coupe,54500.0,115 000 km,manual,1 499 cm3,Benzyna,Częstochowa,Śląskie,2015
+37886,mini,MINI Countryman,61700.0,115 000 km,manual,1 499 cm3,Benzyna,Łodygowice,Śląskie,2015
+37887,mini,MINI Countryman Cooper ALL4,84888.0,139 476 km,manual,1 598 cm3,Benzyna,Wilkowice,Wielkopolskie,2016
+37888,mini,MINI Cooper,67900.0,139 476 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2016
+37889,mini,MINI Countryman,49900.0,137 000 km,manual,1 991 cm3,Diesel,Radom,Mazowieckie,2015
+37890,mini,MINI Cooper,65900.0,137 000 km,manual,1 991 cm3,Diesel,Leszno,Wielkopolskie,2015
+37891,mini,MINI Countryman,50000.0,164 900 km,manual,1 499 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2017
+37892,mini,MINI Cooper Standard,65000.0,164 900 km,manual,1 499 cm3,Benzyna,Kraków,Małopolskie,2017
+37893,mini,MINI ONE,27500.0,24 200 km,manual,1 499 cm3,Benzyna,Gdańsk,Pomorskie,2018
+37894,mini,MINI Cooper Standard,65900.0,24 200 km,manual,1 499 cm3,Benzyna,Nysa,Opolskie,2018
+37895,mini,MINI ONE,70399.0,116 000 km,manual,1 598 cm3,Benzyna,Bielsko-Biała,Śląskie,2016
+37896,mini,MINI Countryman One D,77800.0,116 000 km,manual,1 598 cm3,Benzyna,Częstochowa,Śląskie,2016
+37897,mini,MINI Countryman Cooper SD,49000.0,89 841 km,manual,1 499 cm3,Benzyna,Gniezno,Wielkopolskie,2016
+37898,mini,MINI Cooper Cabrio,86500.0,89 841 km,manual,1 499 cm3,Benzyna,Kraków,Małopolskie,2016
+37899,mini,MINI ONE Standard,74899.0,116 505 km,manual,1 995 cm3,Diesel,Poznań,Wielkopolskie,2015
+37900,mini,MINI Countryman Cooper S All4,99500.0,116 505 km,manual,1 995 cm3,Diesel,Częstochowa,Śląskie,2015
+37901,mini,MINI Clubman Cooper D,54900.0,92 000 km,manual,1 499 cm3,Benzyna,Stalowa Wola,Podkarpackie,2016
+37902,mini,MINI Cooper D,59900.0,92 000 km,manual,1 499 cm3,Benzyna,Kępno,Wielkopolskie,2016
+37903,mini,MINI Cooper Standard,61900.0,13 144 km,manual,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2019
+37904,mini,MINI Clubman Cooper D,66900.0,13 144 km,manual,1 499 cm3,Benzyna,Łódź,Łódzkie,2019
+37905,mini,MINI Cooper Standard,59999.0,89 000 km,manual,1 499 cm3,Benzyna,Babimost,Lubuskie,2017
+37906,mini,MINI Clubman,104900.0,89 000 km,manual,1 499 cm3,Benzyna,Poznań,Wielkopolskie,2017
+37907,mini,MINI ONE D,30900.0,46 200 km,manual,1 499 cm3,Benzyna,Częstochowa,Śląskie,2018
+37908,mini,MINI Clubman One Clubman,68000.0,46 200 km,manual,1 499 cm3,Benzyna,Bielsko-Biała,Śląskie,2018
+37909,mini,MINI Cooper,49900.0,11 400 km,manual,1 496 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2018
+37910,mini,MINI Cooper S GPF,65900.0,11 400 km,manual,1 496 cm3,Diesel,Radwanice,Dolnośląskie,2018
+37911,mini,MINI Clubman Cooper,57900.0,107 000 km,manual,1 995 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2015
+37912,mini,MINI Countryman Cooper S All4,105900.0,107 000 km,manual,1 995 cm3,Diesel,Słupca,Wielkopolskie,2015
+37913,mini,MINI Countryman Cooper D,55999.0,31 799 km,manual,1 499 cm3,Benzyna,Nysa,Opolskie,2018
+37914,mini,MINI Countryman One,89900.0,31 799 km,manual,1 499 cm3,Benzyna,Wojnicz,Małopolskie,2018
+37915,mini,MINI ONE,74900.0,32 600 km,manual,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2020
+37916,mini,MINI John Cooper Works,156333.0,32 600 km,manual,1 499 cm3,Benzyna,Rokietnica,Wielkopolskie,2020
+37917,mini,MINI ONE,76900.0,1 051 km,manual,1 998 cm3,Benzyna,Białobrzegi,Mazowieckie,2022
+37918,mini,MINI Countryman,78900.0,1 051 km,manual,1 998 cm3,Benzyna,Białobrzegi,Mazowieckie,2022
+37919,mini,MINI John Cooper Works,175000.0,36 000 km,manual,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2020
+37920,mini,MINI Clubman One Yours Trim,41900.0,36 000 km,manual,1 499 cm3,Benzyna,Margonin,Wielkopolskie,2020
+37921,mini,MINI Clubman Cooper S,138800.0,14 600 km,manual,1 499 cm3,Benzyna,Kraków,Małopolskie,2021
+37922,mini,MINI Cooper S,96000.0,14 600 km,manual,1 499 cm3,Benzyna,Namysłów,Opolskie,2021
+37923,mini,MINI John Cooper Works,87500.0,18 302 km,manual,1 998 cm3,Benzyna,Przygoń,Łódzkie,2022
+37924,mini,MINI Cooper Cabrio,46500.0,18 302 km,manual,1 998 cm3,Benzyna,Wschowa,Lubuskie,2022
+37925,mini,MINI Clubman Cooper S,89900.0,66 000 km,manual,1 998 cm3,Benzyna,Sochaczew,Mazowieckie,2017
+37926,mini,MINI Cooper S,104900.0,66 000 km,manual,1 998 cm3,Benzyna,Falenty,Mazowieckie,2017
+37927,mini,MINI Countryman,69900.0,48 752 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2016
+37928,mini,MINI Cooper SD,54900.0,48 752 km,manual,1 998 cm3,Benzyna,Łagów,Świętokrzyskie,2016
+37929,mini,MINI Countryman,62900.0,51 250 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2016
+37930,mini,MINI ONE Standard,49900.0,51 250 km,manual,1 498 cm3,Benzyna,Jabłonna,Mazowieckie,2016
+37931,mini,MINI Cooper S Cabrio Sidewalk Trim,123500.0,128 000 km,manual,1 995 cm3,Diesel,Bielsko-Biała,Śląskie,2015
+37932,mini,MINI Clubman Cooper D,69900.0,128 000 km,manual,1 995 cm3,Diesel,Łódź,Łódzkie,2015
+37933,mini,MINI ONE,59800.0,37 500 km,manual,1 598 cm3,Benzyna,Zgierz,Łódzkie,2016
+37934,mini,MINI ONE,49800.0,37 500 km,manual,1 598 cm3,Benzyna,Podkowa Leśna,Mazowieckie,2016
+37935,mini,MINI Clubman One D,56900.0,130 000 km,manual,1 198 cm3,Benzyna,Warszawa,Mazowieckie,2017
+37936,mini,MINI ONE Standard,59900.0,130 000 km,manual,1 198 cm3,Benzyna,Katowice,Śląskie,2017
+37937,mini,MINI Clubman Cooper D,53500.0,14 900 km,manual,1 998 cm3,Benzyna,Płock,Mazowieckie,2019
+37938,mini,MINI Cooper D 60 Years Chili,36900.0,14 900 km,manual,1 998 cm3,Benzyna,Kłodawa,Wielkopolskie,2019
+37939,mini,MINI Cooper S Standard,74800.0,147 804 km,manual,1 995 cm3,Diesel,Poznań,Wielkopolskie,2018
+37940,mini,MINI Clubman One D,78900.0,147 804 km,manual,1 995 cm3,Diesel,Kroczyce,Śląskie,2018
+37941,mini,MINI ONE Standard,35900.0,23 000 km,manual,1 198 cm3,Benzyna,Słupca,Wielkopolskie,2017
+37942,mini,MINI John Cooper Works Copper,98000.0,23 000 km,manual,1 198 cm3,Benzyna,Blizne Jasińskiego,Mazowieckie,2017
+37943,mini,MINI Countryman,79900.0,26 000 km,manual,1 499 cm3,Benzyna,Stara Bystrzyca,Dolnośląskie,2018
+37944,mini,MINI ONE D,55999.0,26 000 km,manual,1 499 cm3,Benzyna,Kalisz,Wielkopolskie,2018
+37945,mini,MINI ONE,40000.0,38 000 km,manual,1 496 cm3,Diesel,Szczecin,Zachodniopomorskie,2017
+37946,mini,MINI Cooper S Standard,55900.0,38 000 km,manual,1 496 cm3,Diesel,Bojanowo,Wielkopolskie,2017
+37947,mini,MINI ONE,73900.0,62 000 km,manual,1 198 cm3,Benzyna,Mysłowice,Śląskie,2016
+37948,mini,MINI Countryman,52900.0,62 000 km,manual,1 198 cm3,Benzyna,Częstochowa,Śląskie,2016
+37949,mini,MINI Clubman,52900.0,128 000 km,manual,1 995 cm3,Diesel,Morzyczyn,Zachodniopomorskie,2015
+37950,mini,MINI ONE,39999.0,128 000 km,manual,1 995 cm3,Diesel,Palędzie,Wielkopolskie,2015
+37951,mini,MINI ONE Standard,43000.0,122 757 km,manual,1 496 cm3,Diesel,Turek,Wielkopolskie,2015
+37952,mini,MINI Cooper S Standard,59900.0,122 757 km,manual,1 496 cm3,Diesel,Łódź,Łódzkie,2015
+37953,mini,MINI ONE D,59900.0,60 800 km,manual,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2016
+37954,mini,MINI Countryman,39900.0,60 800 km,manual,1 998 cm3,Benzyna,Nieborowice,Śląskie,2016
+37955,mini,MINI ONE Standard,37800.0,123 500 km,manual,1 499 cm3,Diesel,Namysłów,Opolskie,2019
+37956,mini,MINI Countryman Cooper D All4 Park Lane,64900.0,123 500 km,manual,1 499 cm3,Diesel,Wieliczka,Małopolskie,2019
+37957,mini,MINI ONE,49900.0,32 122 km,manual,1 499 cm3,Benzyna,Kaliska,Pomorskie,2019
+37958,mini,MINI ONE Standard,58900.0,32 122 km,manual,1 499 cm3,Benzyna,Wągrowiec,Wielkopolskie,2019
+37959,mini,MINI Countryman Cooper D ALL4 Trim,51700.0,62 500 km,manual,1 198 cm3,Benzyna,Margonin,Wielkopolskie,2015
+37960,mini,MINI Clubman,57900.0,62 500 km,manual,1 198 cm3,Benzyna,Kłodzko,Dolnośląskie,2015
+37961,mini,MINI Cooper Standard,53900.0,118 000 km,manual,1 995 cm3,Diesel,Tarnów,Małopolskie,2019
+37962,mini,MINI Countryman Cooper D,74900.0,118 000 km,manual,1 995 cm3,Diesel,Jasienica,Śląskie,2019
+37963,mini,MINI Countryman Cooper SD ALL4,63000.0,102 000 km,manual,1 995 cm3,Diesel,Lipno,Kujawsko-pomorskie,2016
+37964,mini,MINI Cooper S,82500.0,102 000 km,manual,1 995 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2016
+37965,mini,MINI Cooper D,49900.0,50 711 km,manual,1 499 cm3,Benzyna,Sosnowiec,Śląskie,2015
+37966,mini,MINI ONE D,47000.0,50 711 km,manual,1 499 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2015
+37967,mini,MINI Cooper D,54900.0,187 304 km,manual,1 995 cm3,Diesel,Toruń,Kujawsko-pomorskie,2018
+37968,mini,MINI Cooper Standard,49900.0,187 304 km,manual,1 995 cm3,Diesel,Pabianice,Łódzkie,2018
+37969,mini,MINI Clubman Cooper D,43900.0,161 310 km,manual,1 995 cm3,Diesel,Łuków,Lubelskie,2015
+37970,mini,MINI Cooper,67900.0,161 310 km,manual,1 995 cm3,Diesel,Wągrowiec,Wielkopolskie,2015
+37971,mini,MINI Cooper,58200.0,73 333 km,manual,1 998 cm3,Benzyna,Cisie,Mazowieckie,2017
+37972,mini,MINI Countryman Cooper SD Park Lane,69669.0,73 333 km,manual,1 998 cm3,Benzyna,Zwoleń,Mazowieckie,2017
+37973,mini,MINI Countryman Cooper D,52900.0,104 000 km,manual,1 496 cm3,Diesel,Góra Kalwaria,Mazowieckie,2016
+37974,mini,MINI ONE Standard,67899.0,104 000 km,manual,1 496 cm3,Diesel,Rybnik,Śląskie,2016
+37975,mini,MINI Cooper Cooper JCW,56000.0,79 000 km,manual,1 496 cm3,Diesel,Pabianice,Łódzkie,2017
+37976,mini,MINI ONE,56000.0,79 000 km,manual,1 496 cm3,Diesel,Kraków,Małopolskie,2017
+37977,mini,MINI Cooper,75900.0,65 834 km,manual,1 496 cm3,Diesel,Garwolin,Mazowieckie,2015
+37978,mini,MINI Countryman,48500.0,65 834 km,manual,1 496 cm3,Diesel,Kowalew,Wielkopolskie,2015
+37979,mini,MINI Cooper Essential Trim,55900.0,191 000 km,manual,1 499 cm3,Benzyna,Zwoleń,Mazowieckie,2016
+37980,mini,MINI Countryman Cooper SD,61900.0,191 000 km,manual,1 499 cm3,Benzyna,Kępno,Wielkopolskie,2016
+37981,mini,MINI Countryman Cooper SD All4,76000.0,198 000 km,manual,1 995 cm3,Diesel,Siedlce,Mazowieckie,2016
+37982,mini,MINI Cooper S,64700.0,198 000 km,manual,1 995 cm3,Diesel,Warszawa,Mazowieckie,2016
+37983,mini,MINI Countryman Cooper,50900.0,60 000 km,manual,1 500 cm3,Benzyna,Zarzecze,Małopolskie,2017
+37984,mini,MINI Clubman Cooper S ALL4,77900.0,60 000 km,manual,1 500 cm3,Benzyna,Rumia,Pomorskie,2017
+37985,mini,MINI Cooper,74500.0,41 000 km,manual,1 499 cm3,Benzyna,Łódź,Łódzkie,2018
+37986,mini,MINI ONE Standard,59900.0,41 000 km,manual,1 499 cm3,Benzyna,Poczesna,Śląskie,2018
+37987,mini,MINI Countryman,92500.0,99 666 km,manual,1 995 cm3,Diesel,Dobroń,Łódzkie,2015
+37988,mini,MINI Cooper D,52000.0,99 666 km,manual,1 995 cm3,Diesel,Kłodzko,Dolnośląskie,2015
+37989,mini,MINI Cooper Green Park,13000.0,107 277 km,automatic,1 598 cm3,Benzyna,Żórawina,Dolnośląskie,2004
+37990,mini,MINI Cooper,19999.0,107 277 km,automatic,1 598 cm3,Benzyna,Poręba,Śląskie,2004
+37991,mini,MINI ONE,19900.0,150 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2004
+37992,mini,MINI ONE,13500.0,150 000 km,automatic,1 598 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2004
+37993,mini,MINI ONE,74900.0,32 600 km,manual,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2020
+37994,mini,MINI John Cooper Works,156333.0,32 600 km,manual,1 499 cm3,Benzyna,Rokietnica,Wielkopolskie,2020
+37995,mini,MINI ONE,76900.0,1 051 km,manual,1 998 cm3,Benzyna,Białobrzegi,Mazowieckie,2022
+37996,mini,MINI Countryman,78900.0,1 051 km,manual,1 998 cm3,Benzyna,Białobrzegi,Mazowieckie,2022
+37997,mini,MINI John Cooper Works,175000.0,36 000 km,manual,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2020
+37998,mini,MINI Clubman One Yours Trim,41900.0,36 000 km,manual,1 499 cm3,Benzyna,Margonin,Wielkopolskie,2020
+37999,mini,MINI Clubman Cooper S,138800.0,14 600 km,manual,1 499 cm3,Benzyna,Kraków,Małopolskie,2021
+38000,mini,MINI Cooper S,96000.0,14 600 km,manual,1 499 cm3,Benzyna,Namysłów,Opolskie,2021
+38001,mini,MINI John Cooper Works,87500.0,18 302 km,manual,1 998 cm3,Benzyna,Przygoń,Łódzkie,2022
+38002,mini,MINI Cooper Cabrio,46500.0,18 302 km,manual,1 998 cm3,Benzyna,Wschowa,Lubuskie,2022
+38003,mini,MINI Cooper Green Park,13000.0,107 277 km,automatic,1 598 cm3,Benzyna,Żórawina,Dolnośląskie,2004
+38004,mini,MINI Cooper,19999.0,107 277 km,automatic,1 598 cm3,Benzyna,Poręba,Śląskie,2004
+38005,mini,MINI ONE,19900.0,150 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2004
+38006,mini,MINI ONE,13500.0,150 000 km,automatic,1 598 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2004
+38007,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38008,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38009,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38010,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38011,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38012,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38013,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38014,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38015,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38016,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38017,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38018,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38019,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38020,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38021,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38022,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38023,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38024,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38025,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38026,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38027,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38028,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38029,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38030,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38031,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38032,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38033,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38034,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38035,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38036,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38037,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38038,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38039,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38040,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38041,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38042,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38043,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38044,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38045,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38046,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38047,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38048,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38049,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38050,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38051,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38052,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38053,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38054,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38055,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38056,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38057,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38058,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38059,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38060,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38061,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38062,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38063,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38064,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38065,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38066,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38067,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38068,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38069,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38070,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38071,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38072,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38073,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38074,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38075,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38076,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38077,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38078,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38079,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38080,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38081,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38082,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38083,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38084,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38085,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38086,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38087,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38088,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38089,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38090,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38091,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38092,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38093,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38094,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38095,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38096,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38097,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38098,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38099,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38100,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38101,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38102,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38103,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38104,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38105,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38106,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38107,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38108,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38109,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38110,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38111,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38112,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38113,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38114,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38115,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38116,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38117,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38118,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38119,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38120,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38121,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38122,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38123,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38124,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38125,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38126,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38127,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38128,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38129,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38130,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38131,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38132,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38133,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38134,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38135,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38136,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38137,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38138,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38139,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38140,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38141,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38142,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38143,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38144,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38145,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38146,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38147,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38148,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38149,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38150,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38151,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38152,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38153,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38154,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38155,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38156,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38157,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38158,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38159,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38160,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38161,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38162,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38163,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38164,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38165,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38166,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38167,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38168,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38169,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38170,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38171,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38172,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38173,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38174,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38175,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38176,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38177,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38178,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38179,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38180,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38181,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38182,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38183,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38184,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38185,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38186,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38187,mini,MINI ONE Standard,21900.0,181 000 km,automatic,1 397 cm3,Benzyna,Sieniawa,Podkarpackie,2009
+38188,mini,MINI Cooper S,20500.0,181 000 km,automatic,1 397 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+38189,mini,MINI Cooper S Standard,29900.0,226 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2005
+38190,mini,MINI Cooper S,29200.0,226 000 km,automatic,1 598 cm3,Benzyna,Gdynia,Pomorskie,2005
+38191,mini,MINI Cooper,32800.0,162 000 km,automatic,1 598 cm3,Benzyna,Jasło,Podkarpackie,2008
+38192,mini,MINI Cooper,27500.0,162 000 km,automatic,1 598 cm3,Benzyna,Niepołomice,Małopolskie,2008
+38193,mini,MINI Cooper,9800.0,104 852 km,automatic,1 598 cm3,Benzyna,Biłgoraj,Lubelskie,2007
+38194,mini,MINI Cooper S,17900.0,104 852 km,automatic,1 598 cm3,Benzyna,Balice,Małopolskie,2007
+38195,mini,MINI Clubman,31900.0,162 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2008
+38196,mini,MINI Cooper,9500.0,162 000 km,automatic,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2008
+38197,mini,MINI Cooper S,25000.0,257 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2008
+38198,mini,MINI Clubman Cooper,26900.0,257 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2008
+38199,mini,MINI ONE,19800.0,194 400 km,automatic,1 598 cm3,Benzyna,Kartuzy,Pomorskie,2006
+38200,mini,MINI Cooper,19900.0,194 400 km,automatic,1 598 cm3,Benzyna,Budzyń,Wielkopolskie,2006
+38201,mini,MINI Cooper,25900.0,180 000 km,automatic,1 598 cm3,Benzyna,Oleśnica,Dolnośląskie,2007
+38202,mini,MINI Cooper S Standard,31995.0,180 000 km,automatic,1 598 cm3,Benzyna,Bartkowo,Zachodniopomorskie,2007
+38203,mini,MINI Cooper,18900.0,178 000 km,automatic,1 598 cm3,Benzyna,Żarowo,Zachodniopomorskie,2008
+38204,mini,MINI Cooper S,36000.0,178 000 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2008
+38205,mini,MINI Cooper S,44900.0,140 000 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2007
+38206,mini,MINI Cooper S,34500.0,140 000 km,automatic,1 598 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2007
+38207,mini,MINI John Cooper Works,74900.0,110 000 km,automatic,1 598 cm3,Benzyna,Tychy,Śląskie,2014
+38208,mini,MINI Countryman Cooper SD All4,44900.0,110 000 km,automatic,1 598 cm3,Benzyna,Sosnowiec,Śląskie,2014
+38209,mini,MINI Countryman Cooper S All4,56800.0,183 200 km,automatic,1 995 cm3,Diesel,Wałbrzych,Dolnośląskie,2012
+38210,mini,MINI Countryman,57900.0,183 200 km,automatic,1 995 cm3,Diesel,Lesznowola,Mazowieckie,2012
+38211,mini,MINI Countryman Cooper S,44400.0,81 000 km,automatic,1 598 cm3,Benzyna,Białe Błota,Kujawsko-pomorskie,2013
+38212,mini,MINI Cooper SD Coupe,52000.0,81 000 km,automatic,1 598 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2013
+38213,mini,MINI Countryman,49815.0,119 700 km,automatic,1 598 cm3,Benzyna,Złotniki,Wielkopolskie,2012
+38214,mini,MINI Cooper S,42999.0,119 700 km,automatic,1 598 cm3,Benzyna,Łódź,Łódzkie,2012
+38215,mini,MINI Cooper S,16500.0,188 998 km,automatic,1 598 cm3,Benzyna,Lublin,Lubelskie,2011
+38216,mini,MINI Cooper S sport,65000.0,188 998 km,automatic,1 598 cm3,Benzyna,Wieliczka,Małopolskie,2011
+38217,mini,MINI Countryman,61900.0,169 900 km,automatic,1 995 cm3,Diesel,Lublin,Lubelskie,2013
+38218,mini,MINI Cooper S,48000.0,169 900 km,automatic,1 995 cm3,Diesel,Rzeszów,Podkarpackie,2013
+38219,mini,MINI Countryman Cooper D All4,45700.0,127 000 km,automatic,1 598 cm3,Benzyna,Poręba,Śląskie,2012
+38220,mini,MINI Countryman,52300.0,127 000 km,automatic,1 598 cm3,Benzyna,Łajski,Mazowieckie,2012
+38221,mini,MINI Countryman Cooper S All4,47000.0,166 900 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2012
+38222,mini,MINI Countryman Cooper S All4,44400.0,166 900 km,automatic,1 598 cm3,Benzyna,Celestynów,Mazowieckie,2012
+38223,mini,MINI Countryman Cooper S All4,14900.0,140 000 km,automatic,1 598 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2011
+38224,mini,MINI Cooper SD Cabrio,39500.0,140 000 km,automatic,1 598 cm3,Benzyna,Sompolno,Wielkopolskie,2011
+38225,mini,MINI Cooper S,59000.0,133 000 km,automatic,1 998 cm3,Benzyna,Otwock,Mazowieckie,2014
+38226,mini,MINI Cooper S,57900.0,133 000 km,automatic,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+38227,mini,MINI Countryman,49900.0,133 000 km,automatic,1 995 cm3,Diesel,Słupsk,Pomorskie,2014
+38228,mini,MINI Countryman,56900.0,133 000 km,automatic,1 995 cm3,Diesel,Choszczówka Stojecka,Mazowieckie,2014
+38229,mini,MINI Cooper D,33500.0,50 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2014
+38230,mini,MINI Countryman Cooper S All4,56900.0,50 000 km,automatic,1 598 cm3,Benzyna,Gdańsk,Pomorskie,2014
+38231,mini,MINI Paceman,49900.0,118 000 km,automatic,1 995 cm3,Diesel,Leszno,Wielkopolskie,2011
+38232,mini,MINI Cooper D,42800.0,118 000 km,automatic,1 995 cm3,Diesel,Strzegom,Dolnośląskie,2011
+38233,mini,MINI Clubman,44900.0,153 553 km,automatic,1 995 cm3,Diesel,Warszawa,Mazowieckie,2013
+38234,mini,MINI Paceman,59900.0,153 553 km,automatic,1 995 cm3,Diesel,Słupca,Wielkopolskie,2013
+38235,mini,MINI Countryman,33900.0,149 700 km,automatic,1 598 cm3,Benzyna,Ryki,Lubelskie,2012
+38236,mini,MINI Cooper,36272.0,149 700 km,automatic,1 598 cm3,Benzyna,Kutno,Łódzkie,2012
+38237,mini,MINI Cooper S,45900.0,162 500 km,automatic,1 598 cm3,Benzyna,Sierakowice,Pomorskie,2011
+38238,mini,MINI Countryman,49900.0,162 500 km,automatic,1 598 cm3,Benzyna,Rybnik,Śląskie,2011
+38239,mini,MINI Countryman,39900.0,108 000 km,automatic,1 598 cm3,Benzyna,Przedbórz,Łódzkie,2012
+38240,mini,MINI Countryman,47499.0,108 000 km,automatic,1 598 cm3,Benzyna,Alwernia,Małopolskie,2012
+38241,mini,MINI Countryman,66900.0,149 951 km,automatic,1 598 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2011
+38242,mini,MINI Cooper D,49990.0,149 951 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2011
+38243,mini,MINI Countryman,46900.0,45 000 km,automatic,1 598 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2013
+38244,mini,MINI Countryman Cooper S,42000.0,45 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2013
+38245,mini,MINI Cooper S Coupe,34900.0,115 286 km,automatic,1 995 cm3,Diesel,Siedlce,Mazowieckie,2014
+38246,mini,MINI Clubman,30900.0,115 286 km,automatic,1 995 cm3,Diesel,Ośno Lubuskie,Lubuskie,2014
+38247,mini,MINI Countryman Cooper S All4,53900.0,114 000 km,automatic,1 598 cm3,Benzyna,Radom,Mazowieckie,2012
+38248,mini,MINI Countryman,50000.0,114 000 km,automatic,1 598 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2012
+38249,mini,MINI Countryman,44900.0,150 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2013
+38250,mini,MINI John Cooper Works,69000.0,150 000 km,automatic,1 598 cm3,Benzyna,Wojkowice,Dolnośląskie,2013
+38251,mini,MINI Cooper Standard,46000.0,128 000 km,automatic,1 598 cm3,Benzyna,Tychy,Śląskie,2010
+38252,mini,MINI Countryman Cooper D Park Lane,31900.0,128 000 km,automatic,1 598 cm3,Benzyna,Kraków,Małopolskie,2010
+38253,mini,MINI Countryman,59000.0,224 500 km,automatic,1 995 cm3,Diesel,Warszawa,Mazowieckie,2013
+38254,mini,MINI Countryman Cooper S All4,44700.0,224 500 km,automatic,1 995 cm3,Diesel,Margonin,Wielkopolskie,2013
+38255,mini,MINI Cooper S Cabrio,28000.0,185 111 km,automatic,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2012
+38256,mini,MINI Countryman Cooper S,45000.0,185 111 km,automatic,1 598 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2012
+38257,mini,MINI Cooper S Cabrio,41900.0,176 000 km,automatic,1 995 cm3,Diesel,Konin,Wielkopolskie,2013
+38258,mini,MINI Countryman,42500.0,176 000 km,automatic,1 995 cm3,Diesel,Słupsk,Pomorskie,2013
+38259,mini,MINI Countryman,37900.0,177 600 km,automatic,1 598 cm3,Benzyna,Chrzanów,Małopolskie,2011
+38260,mini,MINI Cooper S,44500.0,177 600 km,automatic,1 598 cm3,Benzyna,Łobżenica,Wielkopolskie,2011
+38261,mini,MINI John Cooper Works,69800.0,122 310 km,automatic,1 598 cm3,Benzyna,Poznań,Wielkopolskie,2013
+38262,mini,MINI Cooper S Clubman,33000.0,122 310 km,automatic,1 598 cm3,Benzyna,Barlinek,Zachodniopomorskie,2013
+38263,mini,MINI Countryman,47900.0,158 000 km,automatic,1 499 cm3,Benzyna,Wódka,Łódzkie,2014
+38264,mini,MINI Countryman,45900.0,158 000 km,automatic,1 499 cm3,Benzyna,Gdańsk,Pomorskie,2014
+38265,mini,MINI Cooper S,42000.0,133 000 km,automatic,1 995 cm3,Diesel,Słupno,Mazowieckie,2014
+38266,mini,MINI Cooper S Standard,64999.0,133 000 km,automatic,1 995 cm3,Diesel,Chrzanów,Małopolskie,2014
+38267,mini,MINI Cooper S,33333.0,110 000 km,automatic,1 598 cm3,Benzyna,Słupsk,Pomorskie,2013
+38268,mini,MINI Cooper S sport,57700.0,110 000 km,automatic,1 598 cm3,Benzyna,Częstochowa,Śląskie,2013
+38269,mini,MINI Countryman,56999.0,230 000 km,automatic,1 598 cm3,Benzyna,Łódź,Łódzkie,2010
+38270,mini,MINI Countryman,47000.0,230 000 km,automatic,1 598 cm3,Benzyna,Lublin,Lubelskie,2010
+38271,mini,MINI Countryman Cooper SE ALL4,198000.0,6 300 km,automatic,1 499 cm3,Hybryda,Żukowo,Pomorskie,2022
+38272,mini,MINI John Cooper Works Classic Trim sport,169900.0,6 300 km,automatic,1 499 cm3,Hybryda,Bydgoszcz,Kujawsko-pomorskie,2022
+38273,mini,MINI Cooper Classic Trim,155900.0,5 000 km,automatic,1 998 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2022
+38274,mini,MINI Cooper Standard,155900.0,5 000 km,automatic,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+38275,mini,MINI Countryman Cooper S ALL4 ALL4 Trim,228250.0,5 km,automatic,1 499 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38276,mini,MINI Cooper Classic Trim,161800.0,5 km,automatic,1 499 cm3,Benzyna,Płock,Mazowieckie,2023
+38277,mini,MINI Cooper Classic Trim,161800.0,5 km,automatic,1 499 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38278,mini,MINI Cooper Classic Trim,161800.0,5 km,automatic,1 499 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2023
+38279,mini,MINI Countryman Cooper Untamed Edition,174800.0,5 000 km,automatic,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38280,mini,MINI Cooper S Classic Trim,169500.0,5 000 km,automatic,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38281,mini,MINI Cooper S Classic Trim,169500.0,5 km,automatic,1 499 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2023
+38282,mini,MINI Cooper S Classic Trim,169500.0,5 km,automatic,1 499 cm3,Benzyna,Płock,Mazowieckie,2023
+38283,mini,MINI Countryman Cooper S ALL4 Shadow Edition sport,188940.0,5 km,automatic,1 499 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38284,mini,MINI Cooper S sport,194900.0,5 km,automatic,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2023
+38285,mini,MINI Cooper S Classic Trim,172800.0,5 km,automatic,1 499 cm3,Benzyna,Płock,Mazowieckie,2023
+38286,mini,MINI Cooper S Classic Trim,172800.0,5 km,automatic,1 499 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+38287,mini,MINI Cooper S Classic Trim,172800.0,5 km,automatic,1 499 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2022
+38288,mini,MINI Countryman,157900.0,5 km,automatic,1 499 cm3,Benzyna,Bielsko-Biała,Śląskie,2022
+38289,mini,MINI Countryman,174900.0,5 km,automatic,1 998 cm3,Benzyna,Bielsko-Biała,Śląskie,2023
+38290,mini,MINI John Cooper Works,169900.0,5 km,automatic,1 998 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2023
+38291,mini,MINI Countryman,217050.0,5 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2023
+38292,mini,MINI Cooper Standard,153800.0,5 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+38293,mini,MINI Countryman Cooper,184800.0,5 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+38294,mini,MINI Countryman,241400.0,5 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+38295,mini,MINI Cooper Standard,159200.0,5 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2022
+38296,mini,MINI Cooper Standard,157800.0,5 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2022
+38297,mini,MINI Countryman Cooper S Shadow Edition sport,182900.0,4 000 km,automatic,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2022
+38298,mini,MINI Cooper,126500.0,4 000 km,automatic,1 998 cm3,Benzyna,Swadzim,Wielkopolskie,2022
+38299,mini,MINI Countryman,187900.0,5 km,automatic,1 998 cm3,Benzyna,Bielsko-Biała,Śląskie,2023
+38300,mini,MINI Countryman,178950.0,5 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2023
+38301,mini,MINI Cooper S,174900.0,5 km,automatic,1 998 cm3,Benzyna,Swadzim,Wielkopolskie,2023
+38302,mini,MINI John Cooper Works,224900.0,5 km,automatic,1 998 cm3,Benzyna,Swadzim,Wielkopolskie,2023
+38303,mini,MINI Countryman Cooper S E All4,134900.0,53 436 km,automatic,1 499 cm3,Hybryda,Poznań,Wielkopolskie,2019
+38304,mini,MINI Cooper John Works Classic Trim sport,88888.0,53 436 km,automatic,1 499 cm3,Hybryda,Łódź,Łódzkie,2019
+38305,mini,MINI Cooper S,109999.0,126 753 km,automatic,1 998 cm3,Benzyna,Radwanice,Dolnośląskie,2017
+38306,mini,MINI Clubman Cooper SD,89000.0,126 753 km,automatic,1 998 cm3,Benzyna,Jaraczewo,Wielkopolskie,2017
+38307,mini,MINI Clubman,109000.0,54 000 km,automatic,1 998 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2019
+38308,mini,MINI Cooper S GPF sport,95900.0,54 000 km,automatic,1 998 cm3,Benzyna,Opatówek,Wielkopolskie,2019
+38309,mini,MINI Countryman,67700.0,83 800 km,automatic,1 995 cm3,Diesel,Kotlin,Wielkopolskie,2016
+38310,mini,MINI Clubman Cooper S,24900.0,83 800 km,automatic,1 995 cm3,Diesel,Tomaszów Mazowiecki,Łódzkie,2016
+38311,mini,MINI Cooper Standard,56900.0,37 582 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2018
+38312,mini,MINI Cooper Cabrio,58500.0,37 582 km,automatic,1 998 cm3,Benzyna,Nowe Miasto nad Pilicą,Mazowieckie,2018
+38313,mini,MINI Countryman Cooper S All4,87900.0,111 260 km,automatic,1 998 cm3,Benzyna,Sandomierz,Świętokrzyskie,2018
+38314,mini,MINI Clubman,65000.0,111 260 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2018
+38315,mini,MINI Cooper S,102900.0,110 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2016
+38316,mini,MINI Cooper S Roadster,53900.0,110 000 km,automatic,1 598 cm3,Benzyna,Koszalin,Zachodniopomorskie,2016
+38317,mini,MINI ONE Standard,6500.0,94 720 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2016
+38318,mini,MINI Countryman,120000.0,94 720 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2016
+38319,mini,MINI Cooper Standard,79900.0,93 000 km,automatic,1 499 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2015
+38320,mini,MINI Countryman,89900.0,93 000 km,automatic,1 499 cm3,Benzyna,Szczecin,Zachodniopomorskie,2015
+38321,mini,MINI Cooper Standard,37000.0,35 000 km,automatic,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2018
+38322,mini,MINI Cooper S,119900.0,35 000 km,automatic,1 499 cm3,Benzyna,Tychy,Śląskie,2018
+38323,mini,MINI Clubman Cooper S ALL4,79600.0,102 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2016
+38324,mini,MINI Cooper S,117900.0,102 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2016
+38325,mini,MINI Cooper S sport,86900.0,104 582 km,automatic,1 499 cm3,Benzyna,Janki,Mazowieckie,2017
+38326,mini,MINI Countryman,94900.0,104 582 km,automatic,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2017
+38327,mini,MINI ONE,50000.0,25 309 km,automatic,1 998 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2019
+38328,mini,MINI Cooper S,74000.0,25 309 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2019
+38329,mini,MINI Cooper Cabrio Classic Trim,95000.0,140 000 km,automatic,1 598 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2015
+38330,mini,MINI Cooper S sport,79500.0,140 000 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2015
+38331,mini,MINI Clubman Cooper S ALL4,68000.0,42 000 km,automatic,1 198 cm3,Benzyna,Legionowo,Mazowieckie,2016
+38332,mini,MINI Countryman Cooper S E All4,99999.0,42 000 km,automatic,1 198 cm3,Benzyna,Łomża,Podlaskie,2016
+38333,mini,MINI John Cooper Works Copper sport,95000.0,51 616 km,automatic,1 998 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2018
+38334,mini,MINI ONE Standard,47900.0,51 616 km,automatic,1 998 cm3,Benzyna,Nieporęt,Mazowieckie,2018
+38335,mini,MINI Countryman,84800.0,34 600 km,automatic,1 499 cm3,Benzyna,Leszno,Wielkopolskie,2017
+38336,mini,MINI Cooper S sport,80000.0,34 600 km,automatic,1 499 cm3,Benzyna,Kraków,Małopolskie,2017
+38337,mini,MINI Cooper S sport,72900.0,80 000 km,automatic,1 998 cm3,Benzyna,Łomianki Dolne,Mazowieckie,2016
+38338,mini,MINI Clubman Cooper D,98900.0,80 000 km,automatic,1 998 cm3,Benzyna,Kalisz,Wielkopolskie,2016
+38339,mini,MINI Cooper S sport,68900.0,123 600 km,automatic,1 998 cm3,Benzyna,Częstochowa,Śląskie,2015
+38340,mini,MINI Cooper,52500.0,123 600 km,automatic,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2015
+38341,mini,MINI Countryman,125000.0,53 200 km,automatic,1 995 cm3,Diesel,Rumia,Pomorskie,2019
+38342,mini,MINI Clubman Cooper,79900.0,53 200 km,automatic,1 995 cm3,Diesel,Józefów,Mazowieckie,2019
+38343,mini,MINI Countryman,84900.0,145 000 km,automatic,1 998 cm3,Benzyna,Dołuje,Zachodniopomorskie,2016
+38344,mini,MINI Countryman Cooper S All4,104800.0,145 000 km,automatic,1 998 cm3,Benzyna,Siedlce,Mazowieckie,2016
+38345,mini,MINI Countryman,75000.0,142 200 km,automatic,1 499 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2015
+38346,mini,MINI John Cooper Works,95000.0,142 200 km,automatic,1 499 cm3,Benzyna,Aleksandrów Łódzki,Łódzkie,2015
+38347,mini,MINI Cooper S GPF sport,136000.0,31 000 km,automatic,1 499 cm3,Hybryda,Gdańsk,Pomorskie,2019
+38348,mini,MINI Cooper Standard,58900.0,31 000 km,automatic,1 499 cm3,Hybryda,Koszalin,Zachodniopomorskie,2019
+38349,mini,MINI Cooper S Clubman,95000.0,56 000 km,automatic,1 499 cm3,Benzyna,Wrocław,Dolnośląskie,2018
+38350,mini,MINI Cooper Standard,79900.0,56 000 km,automatic,1 499 cm3,Benzyna,Kraków,Małopolskie,2018
+38351,mini,MINI Countryman Cooper D,55000.0,61 000 km,automatic,1 998 cm3,Benzyna,Komorów,Mazowieckie,2016
+38352,mini,MINI Cooper Standard,79900.0,61 000 km,automatic,1 998 cm3,Benzyna,Sokolniki Las,Łódzkie,2016
+38353,mini,MINI Cooper,90999.0,54 000 km,automatic,1 998 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2018
+38354,mini,MINI John Cooper Works ALL4 sport,139500.0,54 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2018
+38355,mini,MINI John Cooper Works,84990.0,78 954 km,automatic,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2016
+38356,mini,MINI Countryman Cooper S All4,69500.0,78 954 km,automatic,1 598 cm3,Benzyna,Pogórze,Pomorskie,2016
+38357,mini,MINI Cooper S GPF sport,99999.0,52 000 km,automatic,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2017
+38358,mini,MINI Cooper S,83000.0,52 000 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2017
+38359,mini,MINI Countryman Cooper S ALL4 sport,82000.0,34 000 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2019
+38360,mini,MINI Clubman,67500.0,34 000 km,automatic,1 998 cm3,Benzyna,Koło,Wielkopolskie,2019
+38361,mini,MINI Countryman Cooper,87500.0,151 250 km,automatic,1 499 cm3,Benzyna,Siewierz,Śląskie,2016
+38362,mini,MINI Countryman,64500.0,151 250 km,automatic,1 499 cm3,Benzyna,Łódź,Łódzkie,2016
+38363,mini,MINI Cooper Standard,85000.0,36 000 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2019
+38364,mini,MINI Countryman,58000.0,36 000 km,automatic,1 998 cm3,Benzyna,Rumianek,Wielkopolskie,2019
+38365,mini,MINI Cooper Standard,70900.0,69 000 km,automatic,1 499 cm3,Benzyna,Mariew,Mazowieckie,2019
+38366,mini,MINI Cooper,79700.0,69 000 km,automatic,1 499 cm3,Benzyna,Poznań,Wielkopolskie,2019
+38367,mini,MINI Cooper S GPF sport,99000.0,16 000 km,automatic,1 998 cm3,Benzyna,Kalwaria Zebrzydowska,Małopolskie,2020
+38368,mini,MINI Cooper SE,139000.0,16 000 km,automatic,1 998 cm3,Benzyna,Lublin,Lubelskie,2020
+38369,mini,MINI Cooper S,179900.0,9 300 km,automatic,Elektryczny,2021,Warszawa,Mazowieckie,2021
+38370,mini,MINI Countryman,209900.0,Elektryczny,automatic,2023,7 km,Warszawa,Mazowieckie,9 300 km
+38371,mini,MINI Cooper S,209900.0,Elektryczny,automatic,2023,7 km,Swadzim,Wielkopolskie,1 499 cm3
+38372,mini,MINI Countryman,161200.0,Elektryczny,automatic,2023,1 998 cm3,Warszawa,Mazowieckie,1 499 cm3
+38373,mini,MINI Countryman,209900.0,2023,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,Benzyna
+38374,mini,MINI John Cooper Works sport,176000.0,7 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+38375,mini,MINI Countryman,144500.0,7 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+38376,mini,MINI Cooper S sport,187163.0,5 km,automatic,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2023
+38377,mini,MINI Countryman,124000.0,5 km,automatic,1 499 cm3,Benzyna,Poznań,Wielkopolskie,2023
+38378,mini,MINI John Cooper Works ALL4 sport,225000.0,6 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2023
+38379,mini,MINI Countryman,209900.0,6 km,automatic,1 998 cm3,Benzyna,Janki,Mazowieckie,2023
+38380,mini,MINI Countryman,198900.0,5 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2023
+38381,mini,MINI Cooper,144000.0,5 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2023
+38382,mini,MINI Countryman Cooper SE ALL4,202000.0,5 km,automatic,1 499 cm3,Benzyna,Kraków,Małopolskie,2023
+38383,mini,MINI Countryman,189900.0,5 km,automatic,1 499 cm3,Benzyna,Kraków,Małopolskie,2023
+38384,mini,MINI Clubman Cooper S,176740.0,1 km,automatic,1 998 cm3,Benzyna,Rybnik,Śląskie,2023
+38385,mini,MINI Countryman Cooper,157000.0,1 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+38386,mini,MINI John Cooper Works,156500.0,5 500 km,automatic,1 499 cm3,Benzyna,Warszawa,Mazowieckie,2022
+38387,mini,MINI Cooper SE Electric Trim,152500.0,5 500 km,automatic,1 499 cm3,Benzyna,Łódź,Łódzkie,2022
+38388,mini,MINI Countryman Cooper S,165000.0,8 600 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2022
+38389,mini,MINI Cooper,115000.0,8 600 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2022
+38390,mini,MINI Cooper SE Electric Trim,159900.0,13 000 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2022
+38391,mini,MINI Cooper,113800.0,13 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2022
+38392,mini,MINI Cooper,134000.0,4 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+38393,mini,MINI Countryman Cooper,153100.0,4 000 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+38394,mini,MINI Cooper Standard,147100.0,10 km,automatic,1 499 cm3,Benzyna,Białystok,Podlaskie,2023
+38395,mini,MINI Countryman Cooper SE ALL4,198100.0,10 km,automatic,1 499 cm3,Benzyna,Białystok,Podlaskie,2023
+38396,mini,MINI Cooper S,129150.0,4 000 km,automatic,1 499 cm3,Hybryda,Warszawa,Mazowieckie,2023
+38397,mini,MINI Cooper Classic Trim,118000.0,4 000 km,automatic,1 499 cm3,Hybryda,Warszawa,Mazowieckie,2023
+38398,mini,MINI Cooper S,159900.0,10 km,automatic,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2023

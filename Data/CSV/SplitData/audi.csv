@@ -1,0 +1,516 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+690,audi,Audi A4 1.9 TDI Quattro,9900.0,308 500 km,manual,1 896 cm3,Diesel,Skierniewice,Łódzkie,2004
+691,audi,Audi A3 1.6 Ambition,14600.0,308 500 km,manual,1 896 cm3,Diesel,Buk,Małopolskie,2004
+692,audi,Audi A4 Avant 1.8T,10500.0,260 918 km,manual,1 595 cm3,Benzyna,Stężyca,Pomorskie,2003
+693,audi,Audi A6,7000.0,260 918 km,manual,1 595 cm3,Benzyna,Owińska,Wielkopolskie,2003
+694,audi,Audi A4 Avant 2.0,19999.0,362 500 km,manual,1 781 cm3,Benzyna+LPG,Swarzędz,Wielkopolskie,2002
+695,audi,Audi A6,9900.0,362 500 km,manual,1 781 cm3,Benzyna+LPG,Białystok,Podlaskie,2002
+696,audi,Audi A4 Avant 1.9 TDI,12000.0,380 000 km,manual,1 892 cm3,Diesel,Wrocław,Dolnośląskie,2003
+697,audi,Audi A3,9500.0,380 000 km,manual,1 892 cm3,Diesel,Kędzierzyn-Koźle,Opolskie,2003
+698,audi,Audi A4 Avant 1.9 TDI,7500.0,205 184 km,manual,1 984 cm3,Benzyna,Limanowa,Małopolskie,2004
+699,audi,Audi A4,27900.0,205 184 km,manual,1 984 cm3,Benzyna,Gostynin,Mazowieckie,2004
+700,audi,Audi A6,14900.0,354 700 km,manual,1 984 cm3,Benzyna+LPG,Płock,Mazowieckie,2002
+701,audi,Audi S3 1.8T Quattro,21500.0,354 700 km,manual,1 984 cm3,Benzyna+LPG,Trzebnica,Dolnośląskie,2002
+702,audi,Audi A4 Avant 2.0,7900.0,298 000 km,manual,1 896 cm3,Diesel,Bolesławiec,Dolnośląskie,2001
+703,audi,Audi A4 Avant 1.9 TDI,14900.0,298 000 km,manual,1 896 cm3,Diesel,Czarnków,Wielkopolskie,2001
+704,audi,Audi A4 Avant 1.8T Quattro,19500.0,217 111 km,manual,1 984 cm3,Benzyna,Łysaków,Lubelskie,2003
+705,audi,Audi A4 Cabriolet 1.8T,25900.0,217 111 km,manual,1 984 cm3,Benzyna,Gruszczyn,Mazowieckie,2003
+706,audi,Audi A4,8000.0,386 000 km,manual,1 896 cm3,Diesel,Tychy,Śląskie,2003
+707,audi,Audi A4 Avant 1.8T Quattro,13999.0,386 000 km,manual,1 896 cm3,Diesel,Strzelin,Dolnośląskie,2003
+708,audi,Audi A4 Avant 1.9 TDI,12800.0,223 000 km,manual,1 781 cm3,Benzyna,Płońsk,Mazowieckie,2003
+709,audi,Audi A6,14900.0,223 000 km,manual,1 781 cm3,Benzyna,Rokocin,Pomorskie,2003
+710,audi,Audi A4 Avant 2.0,14900.0,207 414 km,manual,2 400 cm3,Benzyna,Poświętne,Mazowieckie,2003
+711,audi,Audi TT Roadster 1.8T,14100.0,207 414 km,manual,2 400 cm3,Benzyna,Wrocław,Dolnośląskie,2003
+712,audi,Audi A4 2.0,13999.0,341 000 km,manual,1 781 cm3,Benzyna,Zawiercie,Śląskie,2000
+713,audi,Audi A3,27700.0,341 000 km,manual,1 781 cm3,Benzyna,Zwoleń,Mazowieckie,2000
+714,audi,Audi A2 1.4,10999.0,349 000 km,manual,1 984 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2002
+715,audi,Audi A4,11999.0,349 000 km,manual,1 984 cm3,Benzyna,Szlichtyngowa,Lubuskie,2002
+716,audi,Audi A4 Avant 1.9 TDI,15900.0,259 300 km,manual,1 896 cm3,Diesel,Legnica,Dolnośląskie,2004
+717,audi,Audi A4 Avant 1.9 TDI Quattro,17900.0,259 300 km,manual,1 896 cm3,Diesel,Legnica,Dolnośląskie,2004
+718,audi,Audi A4 Avant 1.8T,15500.0,330 000 km,manual,1 781 cm3,Benzyna,Gniezno,Wielkopolskie,2001
+719,audi,Audi A4 2.0,9800.0,330 000 km,manual,1 781 cm3,Benzyna,Lasocice,Opolskie,2001
+720,audi,Audi A4 2.0,12900.0,193 000 km,manual,1 781 cm3,Benzyna,Leszno,Wielkopolskie,2004
+721,audi,Audi TT Coupe 1.8T,14900.0,193 000 km,manual,1 781 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+722,audi,Audi TT Coupe 1.8T Quattro,6000.0,242 000 km,manual,1 781 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1999
+723,audi,Audi A4 Avant 1.8T,6900.0,242 000 km,manual,1 781 cm3,Benzyna+LPG,Leszno,Wielkopolskie,1999
+724,audi,Audi A6,11000.0,325 100 km,manual,1 781 cm3,Benzyna,Cieszyn,Śląskie,1999
+725,audi,Audi A4 Avant 1.6,9000.0,325 100 km,manual,1 781 cm3,Benzyna,Turze Pole,Podkarpackie,1999
+726,audi,Audi A6,18000.0,421 000 km,manual,2 461 cm3,Diesel,Lubliniec,Śląskie,1995
+727,audi,Audi A3,8300.0,421 000 km,manual,2 461 cm3,Diesel,Skała,Małopolskie,1995
+728,audi,Audi A4 Avant 1.9 TDI,8200.0,240 000 km,manual,1 595 cm3,Benzyna,Gilowice,Śląskie,1999
+729,audi,Audi TT,18000.0,240 000 km,manual,1 595 cm3,Benzyna,Gdańsk,Pomorskie,1999
+730,audi,Audi A4 1.9 TDI,8500.0,276 500 km,manual,2 771 cm3,Benzyna+LPG,Zgorzelec,Dolnośląskie,1995
+731,audi,Audi A6,7000.0,276 500 km,manual,2 771 cm3,Benzyna+LPG,Lublin,Lubelskie,1995
+732,audi,Audi S4 Avant 2.7 Quattro,35900.0,290 000 km,manual,1 798 cm3,Benzyna,Płoty,Zachodniopomorskie,1999
+733,audi,Audi A4 Avant 2.5 TDI,9900.0,290 000 km,manual,1 798 cm3,Benzyna,Sulechów,Lubuskie,1999
+734,audi,Audi A4 Avant 1.6,3300.0,279 000 km,manual,1 896 cm3,Diesel,Ozorków,Łódzkie,1999
+735,audi,Audi TT Coupe 1.8T,11999.0,279 000 km,manual,1 896 cm3,Diesel,Koszalin,Zachodniopomorskie,1999
+736,audi,Audi A3,2150.0,234 000 km,manual,1 781 cm3,Benzyna,Gubin,Lubuskie,1998
+737,audi,Audi A6,22500.0,234 000 km,manual,1 781 cm3,Benzyna,Tczew,Pomorskie,1998
+738,audi,Audi Cabriolet 2.0,16500.0,290 000 km,manual,1 896 cm3,Diesel,Rudno,Lubuskie,1999
+739,audi,Audi TT,11900.0,290 000 km,manual,1 896 cm3,Diesel,Lubogoszcz,Lubuskie,1999
+740,audi,Audi A6,8600.0,352 000 km,manual,2 498 cm3,Diesel,Kielce,Świętokrzyskie,1998
+741,audi,Audi TT Coupe 1.8T,19300.0,352 000 km,manual,2 498 cm3,Diesel,Racibórz,Śląskie,1998
+742,audi,Audi S4 Avant 2.7 Quattro,42900.0,222 000 km,manual,2 671 cm3,Benzyna,Sosnowiec,Śląskie,1999
+743,audi,Audi A4 Avant 1.9 TDI,9999.0,222 000 km,manual,2 671 cm3,Benzyna,Katowice,Śląskie,1999
+744,audi,Audi A4 2.4,4900.0,251 000 km,manual,2 496 cm3,Diesel,Warszawa,Mazowieckie,1999
+745,audi,Audi A3,3900.0,251 000 km,manual,2 496 cm3,Diesel,Warszawa,Mazowieckie,1999
+746,audi,Audi A6,12990.0,377 000 km,manual,1 595 cm3,Benzyna+LPG,Katowice,Śląskie,1996
+747,audi,Audi A3,5900.0,377 000 km,manual,1 595 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1996
+748,audi,Audi A3,5900.0,288 000 km,manual,1 781 cm3,Benzyna,Starachowice,Świętokrzyskie,1999
+749,audi,Audi A4 1.6,5300.0,288 000 km,manual,1 781 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1999
+750,audi,Audi A4 1.9 TDI,4717.0,248 000 km,manual,1 600 cm3,Benzyna,Rybna,Małopolskie,1997
+751,audi,Audi A4 Avant 1.8,4700.0,248 000 km,manual,1 600 cm3,Benzyna,Pobiedziska,Wielkopolskie,1997
+752,audi,Audi A6,4500.0,174 500 km,manual,2 598 cm3,Benzyna,Bogatynia,Dolnośląskie,1996
+753,audi,Audi A4 1.9 TDI,6900.0,174 500 km,manual,2 598 cm3,Benzyna,Trzebnica,Dolnośląskie,1996
+754,audi,Audi A6 Avant 2.0 TDI Ultra,74900.0,215 000 km,manual,1 968 cm3,Diesel,Nysa,Opolskie,2016
+755,audi,Audi A3 1.6 TDI,35900.0,215 000 km,manual,1 968 cm3,Diesel,Chodzież,Wielkopolskie,2016
+756,audi,Audi A4 2.0 TDI Sport,69999.0,219 000 km,manual,1 598 cm3,Diesel,Płock,Mazowieckie,2016
+757,audi,Audi A4,78900.0,219 000 km,manual,1 598 cm3,Diesel,Węgierska Górka,Śląskie,2016
+758,audi,Audi A6 2.0 TDI ultra,99000.0,169 000 km,manual,1 968 cm3,Diesel,Wojaszówka,Podkarpackie,2016
+759,audi,Audi A6 2.0 TDI ultra,87000.0,169 000 km,manual,1 968 cm3,Diesel,Bartoszyce,Warmińsko-mazurskie,2016
+760,audi,Audi A3,58800.0,236 500 km,manual,1 968 cm3,Diesel,Mirsk,Dolnośląskie,2016
+761,audi,Audi A3 1.6 TDI,75500.0,236 500 km,manual,1 968 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2016
+762,audi,Audi A4 2.0 TDI,64500.0,135 000 km,manual,1 968 cm3,Diesel,Cedry Małe,Pomorskie,2016
+763,audi,Audi A3,78800.0,135 000 km,manual,1 968 cm3,Diesel,Częstochowa,Śląskie,2016
+764,audi,Audi A4,115000.0,137 320 km,manual,1 968 cm3,Diesel,Bielsko-Biała,Śląskie,2015
+765,audi,Audi A3 1.6 TDI,58900.0,137 320 km,manual,1 968 cm3,Diesel,Białośliwie,Wielkopolskie,2015
+766,audi,Audi A3 1.6 TDI clean diesel Attraction,68350.0,97 980 km,manual,1 598 cm3,Diesel,Józefosław,Mazowieckie,2019
+767,audi,Audi A3,40900.0,97 980 km,manual,1 598 cm3,Diesel,Zebrzydowice,Śląskie,2019
+768,audi,Audi A3 1.6 TDI clean diesel Ambition,61900.0,89 778 km,manual,1 598 cm3,Diesel,Reda,Pomorskie,2017
+769,audi,Audi A3 2.0 TDI clean diesel Ambiente,70000.0,89 778 km,manual,1 598 cm3,Diesel,Białystok,Podlaskie,2017
+770,audi,Audi A1 1.0 TFSI ultra Design,45900.0,141 000 km,manual,1 968 cm3,Diesel,Brzozów,Podkarpackie,2015
+771,audi,Audi A4 2.0 TDI,69900.0,141 000 km,manual,1 968 cm3,Diesel,Gdańsk,Pomorskie,2015
+772,audi,Audi A4 2.0 TDI,79999.0,114 000 km,manual,1 968 cm3,Diesel,Rudki,Świętokrzyskie,2017
+773,audi,Audi A6,100000.0,114 000 km,manual,1 968 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2017
+774,audi,Audi A3 1.6 TDI,77900.0,127 000 km,manual,1 968 cm3,Diesel,Zabrze,Śląskie,2017
+775,audi,Audi A3 1.6 TDI clean diesel Ambiente,46800.0,127 000 km,manual,1 968 cm3,Diesel,Ostróda,Warmińsko-mazurskie,2017
+776,audi,Audi A1 1.0 TFSI,34900.0,119 632 km,manual,1 598 cm3,Diesel,Chodzież,Wielkopolskie,2016
+777,audi,Audi A4 2.0 TDI clean diesel,69900.0,119 632 km,manual,1 598 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2016
+778,audi,Audi Q3,158000.0,151 400 km,manual,1 598 cm3,Diesel,Mława,Mazowieckie,2015
+779,audi,Audi A4 Avant 2.0 TDI ultra design,67800.0,151 400 km,manual,1 598 cm3,Diesel,Świdnica,Dolnośląskie,2015
+780,audi,Audi A3 1.6 TDI Sportback (clean diesel) S line Sportpaket,38700.0,27 000 km,manual,1 498 cm3,Benzyna,Łączki Kucharskie,Podkarpackie,2019
+781,audi,Audi TT Coupe 2.0 TFSI,99000.0,27 000 km,manual,1 498 cm3,Benzyna,Kraków,Małopolskie,2019
+782,audi,Audi A3,90000.0,180 400 km,manual,1 598 cm3,Diesel,Łódź,Łódzkie,2016
+783,audi,Audi A6 Avant 2.0 TDI Ultra,85000.0,180 400 km,manual,1 598 cm3,Diesel,Skierniewice,Łódzkie,2016
+784,audi,Audi Q2 1.6 TDI sport,79900.0,252 000 km,manual,1 968 cm3,Diesel,Płock,Mazowieckie,2015
+785,audi,Audi A4 Avant 2.0 TDI,73900.0,252 000 km,manual,1 968 cm3,Diesel,Kolbuszowa,Podkarpackie,2015
+786,audi,Audi A4 Avant 2.0 TDI,16999.0,272 000 km,manual,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2005
+787,audi,Audi A4 Avant 3.0 TDI DPF quattro Ambition,35000.0,272 000 km,manual,1 968 cm3,Diesel,Starachowice,Świętokrzyskie,2005
+788,audi,Audi A6 2.0 TDI,32900.0,200 000 km,manual,2 967 cm3,Diesel,Kraków,Małopolskie,2009
+789,audi,Audi A5 2.0 TFSI,38000.0,200 000 km,manual,2 967 cm3,Diesel,Włodawa,Lubelskie,2009
+790,audi,Audi A4 2.0 TDI,32900.0,366 000 km,manual,1 968 cm3,Diesel,Piaski,Wielkopolskie,2009
+791,audi,Audi A4 1.8 TFSI Limited Edition,35700.0,366 000 km,manual,1 968 cm3,Diesel,Tarnów,Małopolskie,2009
+792,audi,Audi A4 Avant 2.0 TDI,25500.0,243 000 km,manual,1 984 cm3,Benzyna,Jasienica Rosielna,Podkarpackie,2009
+793,audi,Audi A4 Avant 1.9 TDI,18900.0,243 000 km,manual,1 984 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2009
+794,audi,Audi A6 2.0 TDI,27900.0,285 600 km,manual,1 968 cm3,Diesel,Łuków,Lubelskie,2008
+795,audi,Audi A3 1.6 Ambition,27999.0,285 600 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2008
+796,audi,Audi A3,24999.0,249 000 km,manual,1 798 cm3,Benzyna,Krzeszów,Dolnośląskie,2008
+797,audi,Audi A4,18600.0,249 000 km,manual,1 798 cm3,Benzyna,Bytom,Śląskie,2008
+798,audi,Audi A6 2.0 TDI,22900.0,266 711 km,manual,1 968 cm3,Diesel,Rokocin,Pomorskie,2006
+799,audi,Audi A4 Avant 1.8T Quattro,24990.0,266 711 km,manual,1 968 cm3,Diesel,Witkowo,Wielkopolskie,2006
+800,audi,Audi A3 1.8 TFSI Ambition,26999.0,197 000 km,manual,1 896 cm3,Diesel,Wilkowice,Wielkopolskie,2005
+801,audi,Audi A4 Avant 2.0 TDI,18500.0,197 000 km,manual,1 896 cm3,Diesel,Szamotuły,Wielkopolskie,2005
+802,audi,Audi A3,26999.0,283 461 km,manual,1 968 cm3,Diesel,Bronów,Śląskie,2006
+803,audi,Audi A4 Avant 2.0 TDI DPF Quattro,16800.0,283 461 km,manual,1 968 cm3,Diesel,Jerzmanowice,Małopolskie,2006
+804,audi,Audi A4 Avant 2.0 TDI,16800.0,181 000 km,manual,1 595 cm3,Benzyna,Wrocław,Dolnośląskie,2009
+805,audi,Audi A5 1.8 TFSI,33900.0,181 000 km,manual,1 595 cm3,Benzyna,Szczecin,Zachodniopomorskie,2009
+806,audi,Audi A4 Avant 3.0 TDI Quattro,22200.0,266 000 km,manual,1 896 cm3,Diesel,Lipienice Dolne,Mazowieckie,2009
+807,audi,Audi A3 Cabriolet 1.8 TFSI S Line Sportpaket (plus),36900.0,266 000 km,manual,1 896 cm3,Diesel,Radom,Mazowieckie,2009
+808,audi,Audi A3,23900.0,330 000 km,manual,1 984 cm3,Benzyna+LPG,Niwy,Świętokrzyskie,2005
+809,audi,Audi A4 2.0,14000.0,330 000 km,manual,1 984 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2005
+810,audi,Audi A5 2.0 TDI,49900.0,236 400 km,manual,1 968 cm3,Diesel,Jędrzejów,Świętokrzyskie,2007
+811,audi,Audi A4 Avant 2.0 TDI DPF Ambition,22700.0,236 400 km,manual,1 968 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2007
+812,audi,Audi A4 3.0 TDI Quattro,47999.0,182 000 km,manual,1 781 cm3,Benzyna,Rzeszów,Podkarpackie,2005
+813,audi,Audi A3 1.9 TDI Attraction,15500.0,182 000 km,manual,1 781 cm3,Benzyna,Rafałówka,Podlaskie,2005
+814,audi,Audi A3 1.6 FSI Ambition,21900.0,179 900 km,manual,1 798 cm3,Benzyna,Płock,Mazowieckie,2008
+815,audi,Audi A3 2.0 TDI Ambition,13900.0,179 900 km,manual,1 798 cm3,Benzyna,Dobre Miasto,Warmińsko-mazurskie,2008
+816,audi,Audi S5 4.2 Quattro,62000.0,328 000 km,manual,1 968 cm3,Diesel,Sulejówek,Mazowieckie,2007
+817,audi,Audi A6 Avant 2.0 TFSI,17800.0,328 000 km,manual,1 968 cm3,Diesel,Szczecin,Zachodniopomorskie,2007
+818,audi,Audi A4 2.0 TDI,57900.0,210 000 km,manual,1 968 cm3,Diesel,Gliwice,Śląskie,2015
+819,audi,Audi A3,70900.0,210 000 km,manual,1 968 cm3,Diesel,Jordanów,Małopolskie,2015
+820,audi,Audi A4 2.0 TFSI ultra,95000.0,143 508 km,manual,1 968 cm3,Diesel,Radom,Mazowieckie,2015
+821,audi,Audi A4 2.0 TDI ultra,63800.0,143 508 km,manual,1 968 cm3,Diesel,Leszno,Wielkopolskie,2015
+822,audi,Audi A3 2.0 TDI Quattro,68900.0,80 000 km,manual,1 984 cm3,Benzyna,Wejherowo,Pomorskie,2018
+823,audi,Audi Q3 2.0 TDI,78000.0,80 000 km,manual,1 984 cm3,Benzyna,Bochnia,Małopolskie,2018
+824,audi,Audi A6,77000.0,235 400 km,manual,1 968 cm3,Diesel,Lublin,Lubelskie,2015
+825,audi,Audi A6 Avant 2.0 TDI Ultra,82410.0,235 400 km,manual,1 968 cm3,Diesel,Zagnańsk,Świętokrzyskie,2015
+826,audi,Audi A4,89999.0,186 881 km,manual,1 968 cm3,Diesel,Wadowice Górne,Podkarpackie,2016
+827,audi,Audi Q2 30 TFSI,73800.0,186 881 km,manual,1 968 cm3,Diesel,Ciechanów,Mazowieckie,2016
+828,audi,Audi A4 35 TFSI mHEV,115000.0,105 000 km,manual,1 968 cm3,Diesel,Czechowice-Dziedzice,Śląskie,2015
+829,audi,Audi A5,90000.0,105 000 km,manual,1 968 cm3,Diesel,Zabrze,Śląskie,2015
+830,audi,Audi A4 2.0 TFSI ultra,41500.0,254 269 km,manual,1 968 cm3,Diesel,Krotoszyn,Wielkopolskie,2016
+831,audi,Audi A6 Avant 2.0 TDI DPF,82000.0,254 269 km,manual,1 968 cm3,Diesel,Kraków,Małopolskie,2016
+832,audi,Audi A5 2.0 TDI Sportback DPF,67900.0,198 000 km,manual,1 968 cm3,Diesel,Brzozów,Podkarpackie,2015
+833,audi,Audi A1 1.4 TDI (ultra) Sportback,28999.0,198 000 km,manual,1 968 cm3,Diesel,Turek,Wielkopolskie,2015
+834,audi,Audi A3 2.0 TDI Sportback,59900.0,117 000 km,manual,1 968 cm3,Diesel,Zielona Góra,Lubuskie,2016
+835,audi,Audi Q5 2.0 TDI Quattro,103900.0,117 000 km,manual,1 968 cm3,Diesel,Rzeszów,Podkarpackie,2016
+836,audi,Audi A3 1.4 TFSI CoD ultra Attraction,65800.0,87 663 km,manual,999 cm3,Benzyna,Kotlin,Wielkopolskie,2019
+837,audi,Audi A4 Avant 2.0 TDI DPF clean diesel quattro S line Sportpaket,69495.0,87 663 km,manual,999 cm3,Benzyna,Brzezówka,Podkarpackie,2019
+838,audi,Audi A4,64200.0,54 000 km,manual,1 984 cm3,Benzyna+LPG,Kórnik,Wielkopolskie,2019
+839,audi,Audi A5,72800.0,54 000 km,manual,1 984 cm3,Benzyna+LPG,Tarnowskie Góry,Śląskie,2019
+840,audi,Audi A4 Avant 2.0 TDI ultra sport,78800.0,135 767 km,manual,1 984 cm3,Benzyna,Świdnica,Dolnośląskie,2017
+841,audi,Audi A4 2.0 TDI,73000.0,135 767 km,manual,1 984 cm3,Benzyna,Dąbrowice,Opolskie,2017
+842,audi,Audi Q5 2.0 TDI Sport,155000.0,64 482 km,manual,1 984 cm3,Benzyna,Bożepole Małe,Pomorskie,2018
+843,audi,Audi A4 Avant 2.0 TDI DPF Attraction,58900.0,64 482 km,manual,1 984 cm3,Benzyna,Myślenice,Małopolskie,2018
+844,audi,Audi Q5 2.0 TDI clean diesel Quattro,95000.0,185 000 km,manual,1 968 cm3,Diesel,Olkusz,Małopolskie,2015
+845,audi,Audi A3 1.6 TDI Sportback,48000.0,185 000 km,manual,1 968 cm3,Diesel,Rybnik,Śląskie,2015
+846,audi,Audi A4 Avant 2.0 TDI DPF Ambiente,48900.0,211 000 km,manual,1 968 cm3,Diesel,Końskie,Świętokrzyskie,2015
+847,audi,Audi A1 30 TFSI S Line,30900.0,211 000 km,manual,1 968 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2015
+848,audi,Audi A6,88900.0,50 000 km,manual,1 422 cm3,Diesel,Gostyń,Wielkopolskie,2016
+849,audi,Audi A4 Avant 2.0 TDI,48900.0,50 000 km,manual,1 422 cm3,Diesel,Pleszew,Wielkopolskie,2016
+850,audi,Audi A8,26900.0,259 000 km,automatic,4 172 cm3,Benzyna,Radom,Mazowieckie,1997
+851,audi,Audi 80 2.6 E,22600.0,259 000 km,automatic,4 172 cm3,Benzyna,Gryfice,Zachodniopomorskie,1997
+852,audi,Audi A4,6500.0,232 425 km,automatic,2 598 cm3,Benzyna,Łódź,Łódzkie,1995
+853,audi,Audi A3,4000.0,232 425 km,automatic,2 598 cm3,Benzyna,Gdynia,Pomorskie,1995
+854,audi,Audi A6,5300.0,289 875 km,automatic,1 781 cm3,Benzyna,Rębiechowo,Pomorskie,1999
+855,audi,Audi A8,16900.0,289 875 km,automatic,1 781 cm3,Benzyna,Łomianki,Mazowieckie,1999
+856,audi,Audi A6,7900.0,243 963 km,automatic,1 781 cm3,Benzyna,Fajsławice,Lubelskie,1997
+857,audi,Audi A8,27900.0,243 963 km,automatic,1 781 cm3,Benzyna,Gdańsk,Pomorskie,1997
+858,audi,Audi A6,6500.0,360 305 km,automatic,2 393 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,1998
+859,audi,Audi S8 4.2 Quattro Tiptronic,23000.0,360 305 km,automatic,2 393 cm3,Benzyna,Glinianka,Mazowieckie,1998
+860,audi,Audi A6,6299.0,144 000 km,automatic,2 800 cm3,Benzyna,Zielona Góra,Lubuskie,1997
+861,audi,Audi A3,9950.0,144 000 km,automatic,2 800 cm3,Benzyna,Katowice,Śląskie,1997
+862,audi,Audi A8,8599.0,255 683 km,automatic,2 393 cm3,Benzyna,Bolesławiec,Dolnośląskie,1998
+863,audi,Audi S6 Avant 4.2 Quattro Tiptronic,19800.0,255 683 km,automatic,2 393 cm3,Benzyna,Łapy,Podlaskie,1998
+864,audi,Audi A8,20000.0,317 000 km,automatic,4 172 cm3,Benzyna+LPG,Żyrardów,Mazowieckie,1996
+865,audi,Audi A8,8900.0,317 000 km,automatic,4 172 cm3,Benzyna+LPG,Wadowice,Małopolskie,1996
+866,audi,Audi A8 4.2 Quattro,29000.0,210 320 km,automatic,2 393 cm3,Benzyna,Pionki,Mazowieckie,1999
+867,audi,Audi A8,15999.0,210 320 km,automatic,2 393 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,1999
+868,audi,Audi A3,4700.0,272 500 km,automatic,4 172 cm3,Benzyna,Marki,Mazowieckie,1998
+869,audi,Audi A8,21900.0,272 500 km,automatic,4 172 cm3,Benzyna,Oleśnica,Dolnośląskie,1998
+870,audi,Audi S8 S8 4.2 Quattro Tiptronic,31000.0,266 000 km,automatic,2 393 cm3,Benzyna,Libiąż,Małopolskie,1998
+871,audi,Audi A4 Avant 1.8,4999.0,266 000 km,automatic,2 393 cm3,Benzyna,Mrocza,Kujawsko-pomorskie,1998
+872,audi,Audi A8,26900.0,174 000 km,automatic,1 595 cm3,Benzyna,Gdańsk,Pomorskie,1998
+873,audi,Audi A8,35000.0,174 000 km,automatic,1 595 cm3,Benzyna,Gdańsk,Pomorskie,1998
+874,audi,Audi S8,22000.0,350 000 km,automatic,2 800 cm3,Benzyna,Poznań,Wielkopolskie,1996
+875,audi,Audi A6,28000.0,350 000 km,automatic,2 800 cm3,Benzyna,Gdynia,Pomorskie,1996
+876,audi,Audi A4,17900.0,381 261 km,automatic,4 172 cm3,Benzyna+LPG,Częstochowa,Śląskie,1999
+877,audi,Audi A8,12990.0,381 261 km,automatic,4 172 cm3,Benzyna+LPG,Słupsk,Pomorskie,1999
+878,audi,Audi A6,9999.0,444 800 km,automatic,4 172 cm3,Benzyna+LPG,Myszków,Śląskie,1995
+879,audi,Audi S6 Avant 4.2 Quattro Tiptronic,29900.0,444 800 km,automatic,4 172 cm3,Benzyna+LPG,Radom,Mazowieckie,1995
+880,audi,Audi A6 4.2 Quattro Tiptronic,17000.0,258 000 km,automatic,4 172 cm3,Benzyna+LPG,Zielona Góra,Lubuskie,1996
+881,audi,Audi A6,6900.0,258 000 km,automatic,4 172 cm3,Benzyna+LPG,Zgorzelec,Dolnośląskie,1996
+882,audi,Audi A8,24300.0,234 800 km,automatic,3 699 cm3,Benzyna+LPG,Bytom,Śląskie,1999
+883,audi,Audi A6,24900.0,234 800 km,automatic,3 699 cm3,Benzyna+LPG,Łęgowo,Pomorskie,1999
+884,audi,Audi A3,6000.0,216 000 km,automatic,1 800 cm3,Benzyna+LPG,Toruń,Kujawsko-pomorskie,1998
+885,audi,Audi Q7 3.0 TDI Quattro Tiptronic,49000.0,285 000 km,automatic,2 967 cm3,Diesel,Radlin,Śląskie,2008
+886,audi,Audi A5 2.0 TFSI Multitronic,38900.0,285 000 km,automatic,2 967 cm3,Diesel,Pobiedziska,Wielkopolskie,2008
+887,audi,Audi Q5 3.0 TDI Quattro S tronic,60900.0,205 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2009
+888,audi,Audi A4 Avant 3.2 FSI Quattro Tiptr,29900.0,205 000 km,automatic,1 984 cm3,Benzyna,Sławno,Zachodniopomorskie,2009
+889,audi,Audi A4 Avant 2.0 TDI Multitronic,13999.0,199 600 km,automatic,2 967 cm3,Diesel,Gdańsk,Pomorskie,2009
+890,audi,Audi A5,36500.0,199 600 km,automatic,2 967 cm3,Diesel,Gdańsk,Pomorskie,2009
+891,audi,Audi A3 Cabriolet 1.8 TFSI S tronic Ambition,31000.0,137 000 km,automatic,3 123 cm3,Benzyna,Łuczyce,Małopolskie,2005
+892,audi,Audi A5 3.0 TDI Quattro S tronic,40000.0,137 000 km,automatic,3 123 cm3,Benzyna,Owińska,Wielkopolskie,2005
+893,audi,Audi TT S 2.0 TFSI Quattro tronic,75000.0,290 000 km,automatic,1 968 cm3,Diesel,Szczecin,Zachodniopomorskie,2005
+894,audi,Audi A6 3.0 TDI Quattro Tiptronic,39999.0,290 000 km,automatic,1 968 cm3,Diesel,Dąbrowa Bolesławiecka,Dolnośląskie,2005
+895,audi,Audi A6,24300.0,230 000 km,automatic,3 197 cm3,Benzyna,Danków,Świętokrzyskie,2007
+896,audi,Audi A6 3.2 FSI Quattro Tiptr,24000.0,230 000 km,automatic,3 197 cm3,Benzyna,Brzesko,Małopolskie,2007
+897,audi,Audi A6 2.7 TDI Quattro Tiptr,32000.0,150 000 km,automatic,1 798 cm3,Benzyna,Przysieki,Podkarpackie,2008
+898,audi,Audi A8 3.0 TDI Quattro,49900.0,150 000 km,automatic,1 798 cm3,Benzyna,Radom,Mazowieckie,2008
+899,audi,Audi A6 4.2 Quattro Tiptronic,39900.0,300 000 km,automatic,2 967 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2009
+900,audi,Audi Q7 3.0 TDI Quattro Tiptronic,54950.0,300 000 km,automatic,2 967 cm3,Diesel,Trzebinia,Małopolskie,2009
+901,audi,Audi A6 Avant 2.0 TFSI multitronic,27900.0,105 000 km,automatic,1 984 cm3,Benzyna,Płock,Mazowieckie,2008
+902,audi,Audi A8 3.0 TDI Quattro,41000.0,105 000 km,automatic,1 984 cm3,Benzyna,Kalisz,Wielkopolskie,2008
+903,audi,Audi A6 2.7 TDI Quattro Tiptr,18900.0,326 830 km,automatic,2 967 cm3,Diesel,Łuków,Lubelskie,2009
+904,audi,Audi Q7 3.0 TDI Quattro Tiptronic,36000.0,326 830 km,automatic,2 967 cm3,Diesel,Szczecinek,Zachodniopomorskie,2009
+905,audi,Audi Q5,65000.0,233 000 km,automatic,1 968 cm3,Diesel,Piaseczno,Mazowieckie,2007
+906,audi,Audi A6,17000.0,233 000 km,automatic,1 968 cm3,Diesel,Piaseczno,Mazowieckie,2007
+907,audi,Audi A6,46500.0,260 000 km,automatic,3 123 cm3,Benzyna,Płock,Mazowieckie,2005
+908,audi,Audi A6 2.0 TDI DPF multitronic,29900.0,260 000 km,automatic,3 123 cm3,Benzyna,Kościan,Wielkopolskie,2005
+909,audi,Audi A3 1.9 TDI Sportback DPF S tronic Attraction,27900.0,230 000 km,automatic,2 698 cm3,Diesel,Żagań,Lubuskie,2005
+910,audi,Audi A4 Avant 3.0 TDI Quattro Tiptr,24900.0,230 000 km,automatic,2 698 cm3,Diesel,Warszawa,Mazowieckie,2005
+911,audi,Audi A6 Allroad 3.0 TDI Quattro Tiptr,37500.0,258 412 km,automatic,2 967 cm3,Diesel,Wolsztyn,Wielkopolskie,2008
+912,audi,Audi Q7 3.0 TDI Quattro Tiptronic,27500.0,258 412 km,automatic,2 967 cm3,Diesel,Żywiec,Śląskie,2008
+913,audi,Audi A4 2.0 TDI Limited Edition Multitr,40900.0,241 000 km,automatic,4 163 cm3,Benzyna,Biłgoraj,Lubelskie,2005
+914,audi,Audi A6 Allroad 3.0 TDI DPF Quattro Tiptr,36000.0,241 000 km,automatic,4 163 cm3,Benzyna,Maków Mazowiecki,Mazowieckie,2005
+915,audi,Audi A5 2.0 TDI Multitronic,38900.0,256 000 km,automatic,2 967 cm3,Diesel,Humniska,Podkarpackie,2007
+916,audi,Audi TT 2.0 TFSI S tronic,25900.0,256 000 km,automatic,2 967 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2007
+917,audi,Audi A8 4.2 L Quattro,37000.0,302 340 km,automatic,4 172 cm3,Benzyna,Kraków,Małopolskie,2003
+918,audi,Audi A4 Avant 1.8T Multitronic,19990.0,302 340 km,automatic,4 172 cm3,Benzyna,Czarna,Mazowieckie,2003
+919,audi,Audi A4 2.4 Multitronic,14900.0,278 100 km,automatic,1 781 cm3,Benzyna,Poznań,Wielkopolskie,2004
+920,audi,Audi A6,9500.0,278 100 km,automatic,1 781 cm3,Benzyna,Gołdap,Warmińsko-mazurskie,2004
+921,audi,Audi A4 Cabriolet 2.4 Multitronic,13900.0,224 000 km,automatic,2 393 cm3,Benzyna,Czarne,Pomorskie,2003
+922,audi,Audi A4 Avant 1.8T Multitronic,23400.0,224 000 km,automatic,2 393 cm3,Benzyna,Dynów,Podkarpackie,2003
+923,audi,Audi A6 3.0 TDI Quattro Tiptronic,17500.0,392 000 km,automatic,2 771 cm3,Benzyna+LPG,Ziębice,Dolnośląskie,2000
+924,audi,Audi A3 1.6 S tronic Ambiente,14999.0,392 000 km,automatic,2 771 cm3,Benzyna+LPG,Wilkowice,Wielkopolskie,2000
+925,audi,Audi A6 3.0 TDI Quattro Tiptronic,15000.0,190 000 km,automatic,2 393 cm3,Benzyna,Czerna,Lubuskie,2002
+926,audi,Audi S6,42000.0,190 000 km,automatic,2 393 cm3,Benzyna,Warszawa,Mazowieckie,2002
+927,audi,Audi A6 3.0 TDI Quattro Tiptronic,33000.0,207 500 km,automatic,1 781 cm3,Benzyna,Solec Kujawski,Kujawsko-pomorskie,2004
+928,audi,Audi A6 3.0 TDI Quattro Tiptronic,19990.0,207 500 km,automatic,1 781 cm3,Benzyna,Kartuzy,Pomorskie,2004
+929,audi,Audi A8 4.0 TDI Quattro,17000.0,320 695 km,automatic,2 967 cm3,Diesel,Lniska,Pomorskie,2004
+930,audi,Audi A6 3.0 TDI Quattro Tiptronic,22900.0,320 695 km,automatic,2 967 cm3,Diesel,Dzierżoniów,Dolnośląskie,2004
+931,audi,Audi A3,16000.0,269 000 km,automatic,1 595 cm3,Benzyna,Murowana Goślina,Wielkopolskie,2004
+932,audi,Audi A6 2.4 Multitronic,16700.0,269 000 km,automatic,1 595 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2004
+933,audi,Audi A6 2.4 Multitronic,19900.0,348 171 km,automatic,2 967 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2004
+934,audi,Audi A3 2.0 TDI Ambition S tronic,14000.0,348 171 km,automatic,2 967 cm3,Diesel,Otwock,Mazowieckie,2004
+935,audi,Audi A8 3.0 TDI Quattro,29900.0,141 000 km,automatic,4 172 cm3,Benzyna+LPG,Krotoszyn,Wielkopolskie,2004
+936,audi,Audi A4,14900.0,141 000 km,automatic,4 172 cm3,Benzyna+LPG,Dąbrowa,Pomorskie,2004
+937,audi,Audi A6,10900.0,267 500 km,automatic,2 967 cm3,Diesel,Wieliszew,Mazowieckie,2004
+938,audi,Audi A3 2.0 FSI Ambition Tiptr,14300.0,267 500 km,automatic,2 967 cm3,Diesel,Police,Zachodniopomorskie,2004
+939,audi,Audi A4,12500.0,293 000 km,automatic,2 967 cm3,Diesel,Biłgoraj,Lubelskie,2004
+940,audi,Audi A4,15900.0,293 000 km,automatic,2 967 cm3,Diesel,Marki,Mazowieckie,2004
+941,audi,Audi A6 3.2 FSI Quattro Tiptr,24900.0,470 000 km,automatic,3 936 cm3,Diesel,Mińsk Mazowiecki,Mazowieckie,2004
+942,audi,Audi A6,8699.0,470 000 km,automatic,3 936 cm3,Diesel,Kraków,Małopolskie,2004
+943,audi,Audi A4 2.4 Multitronic,11900.0,259 300 km,automatic,2 967 cm3,Diesel,Zielonki Parcela,Mazowieckie,2004
+944,audi,Audi A4,5000.0,259 300 km,automatic,2 967 cm3,Diesel,Ustanów,Mazowieckie,2004
+945,audi,Audi A4 Avant 1.8T Multitronic,17500.0,284 800 km,automatic,1 595 cm3,Benzyna+LPG,Zamość,Lubelskie,2004
+946,audi,Audi RS6 Avant 4.2 Quattro Tiptr,86900.0,284 800 km,automatic,1 595 cm3,Benzyna+LPG,Siemiatycze,Podlaskie,2004
+947,audi,Audi A6,11666.0,400 803 km,automatic,2 393 cm3,Benzyna+LPG,Buk,Wielkopolskie,2004
+948,audi,Audi A6,16500.0,400 803 km,automatic,2 393 cm3,Benzyna+LPG,Starachowice,Świętokrzyskie,2004
+949,audi,Audi A4 Avant 2.0 TDI Multitronic,21900.0,258 000 km,automatic,1 968 cm3,Diesel,Świecie,Kujawsko-pomorskie,2006
+950,audi,Audi A8 6.0 W12 Quattro,58500.0,258 000 km,automatic,1 968 cm3,Diesel,Chorzów,Śląskie,2006
+951,audi,Audi A6,27900.0,246 000 km,automatic,5 998 cm3,Benzyna,Smoszew,Wielkopolskie,2005
+952,audi,Audi A6 2.7 TDI Multitronic,11999.0,246 000 km,automatic,5 998 cm3,Benzyna,Tczew,Pomorskie,2005
+953,audi,Audi A3 1.8 TFSI Attraction S tronic,26800.0,169 200 km,automatic,1 968 cm3,Diesel,Dzierżoniów,Dolnośląskie,2006
+954,audi,Audi A6 3.2 FSI Quattro Tiptr,27500.0,169 200 km,automatic,1 968 cm3,Diesel,Wadowice,Małopolskie,2006
+955,audi,Audi A4 3.2 FSI Quattro Tiptronic,40000.0,224 380 km,automatic,2 698 cm3,Diesel,Lublin,Lubelskie,2007
+956,audi,Audi A6 3.0 TDI Quattro Tiptronic,29000.0,224 380 km,automatic,2 698 cm3,Diesel,Warszawa,Mazowieckie,2007
+957,audi,Audi A6 Avant 2.0 TFSI multitronic,21600.0,169 998 km,automatic,1 798 cm3,Benzyna,Starogard Gdański,Pomorskie,2008
+958,audi,Audi A6 Avant 3.0 TDI DPF quattro tiptronic,41000.0,169 998 km,automatic,1 798 cm3,Benzyna,Pabianice,Łódzkie,2008
+959,audi,Audi A6 Allroad 3.0 TDI DPF Quattro Tiptr,35000.0,240 000 km,automatic,3 123 cm3,Benzyna,Mały Płock,Podlaskie,2007
+960,audi,Audi A6,45900.0,240 000 km,automatic,3 123 cm3,Benzyna,Chełm,Lubelskie,2007
+961,audi,Audi A6 3.0 TDI Quattro Tiptronic,29999.0,184 471 km,automatic,3 197 cm3,Benzyna+LPG,Ostrów Mazowiecka,Mazowieckie,2009
+962,audi,Audi A6 2.0 TDI Multitronic,19500.0,184 471 km,automatic,3 197 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2009
+963,audi,Audi A4 Avant 2.0 TDI Multitronic,18999.0,263 800 km,automatic,2 967 cm3,Diesel,Sulechów,Lubuskie,2008
+964,audi,Audi A4 Avant 2.0 TDI DPF multitronic S line Sportpaket (plus),34900.0,263 800 km,automatic,2 967 cm3,Diesel,Kutno,Łódzkie,2008
+965,audi,Audi A6 3.0 TDI quattro S tronic,16900.0,210 800 km,automatic,1 984 cm3,Benzyna,Konin,Wielkopolskie,2007
+966,audi,Audi A4 Avant 2.0 TDI Multitronic,16900.0,210 800 km,automatic,1 984 cm3,Benzyna,Mszana Dolna,Małopolskie,2007
+967,audi,Audi A4 1.8 TFSI Multitronic,32000.0,320 000 km,automatic,2 967 cm3,Diesel,Gdańsk,Pomorskie,2009
+968,audi,Audi A6 3.0 TFSI Quattro Tiptr,66700.0,320 000 km,automatic,2 967 cm3,Diesel,Gostynin,Mazowieckie,2009
+969,audi,Audi A8 3.0 TDI Quattro,32900.0,316 000 km,automatic,2 967 cm3,Diesel,Przasnysz,Mazowieckie,2006
+970,audi,Audi Q7 3.0 TDI Quattro Tiptronic,46000.0,316 000 km,automatic,2 967 cm3,Diesel,Przasnysz,Mazowieckie,2006
+971,audi,Audi A8 4.2 FSI Quattro,42999.0,294 000 km,automatic,2 976 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2007
+972,audi,Audi A4 Avant 2.7 TDI Multitronic,27999.0,294 000 km,automatic,2 976 cm3,Diesel,Kąty Opolskie,Opolskie,2007
+973,audi,Audi A6 3.0 TDI Quattro Tiptronic,17500.0,299 983 km,automatic,2 967 cm3,Diesel,Siedlce,Mazowieckie,2009
+974,audi,Audi A4 3.2 FSI Quattro Tiptronic,34900.0,299 983 km,automatic,2 967 cm3,Diesel,Warszawa,Mazowieckie,2009
+975,audi,Audi S4 Avant 4.2 Quattro Tiptr,36000.0,216 000 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2006
+976,audi,Audi A6 3.2 FSI Quattro Tiptr,26150.0,216 000 km,automatic,1 968 cm3,Diesel,Opole,Opolskie,2006
+977,audi,Audi A6 3.0 TDI Quattro Tiptronic,42900.0,231 332 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2005
+978,audi,Audi Q7 3.0 TDI Quattro Tiptronic,32000.0,231 332 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2005
+979,audi,Audi A6 2.7 TDI Quattro Tiptr,24900.0,253 000 km,automatic,1 968 cm3,Diesel,Podzagajnik,Mazowieckie,2008
+980,audi,Audi A6 3.0 TDI Quattro Tiptronic,36900.0,253 000 km,automatic,1 968 cm3,Diesel,Korpele,Warmińsko-mazurskie,2008
+981,audi,Audi A3 2.0 TDI DPF Ambiente S tronic,36499.0,217 000 km,automatic,1 968 cm3,Diesel,Pszczyna,Śląskie,2010
+982,audi,Audi A6 2.0 TDI Multitronic,31900.0,217 000 km,automatic,1 968 cm3,Diesel,Książ Mały,Małopolskie,2010
+983,audi,Audi A4 3.0 TDI clean diesel Quattro S tronic,69900.0,253 000 km,automatic,1 968 cm3,Diesel,Zaręby Kościelne,Mazowieckie,2011
+984,audi,Audi A5 2.0 TFSI Quattro S tronic,59000.0,253 000 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2011
+985,audi,Audi A4 2.0 TFSI Quattro S tronic,59000.0,289 432 km,automatic,2 967 cm3,Diesel,Żory,Śląskie,2013
+986,audi,Audi A6 Avant 3.0 TDI DPF clean diesel quattro S tronic,63000.0,289 432 km,automatic,2 967 cm3,Diesel,Perzanowo,Mazowieckie,2013
+987,audi,Audi Q5 2.0 TFSI Quattro S tronic,72900.0,164 000 km,automatic,1 984 cm3,Benzyna,Wolsztyn,Wielkopolskie,2014
+988,audi,Audi Q5 2.0 TDI Quattro S tronic,69900.0,164 000 km,automatic,1 984 cm3,Benzyna,Zwoleń,Mazowieckie,2014
+989,audi,Audi Q5 3.0 TDI Quattro S tronic,90900.0,217 900 km,automatic,1 984 cm3,Benzyna,Myślenice,Małopolskie,2013
+990,audi,Audi A7 3.0 TDI Quattro Tiptronic,91000.0,217 900 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2013
+991,audi,Audi Q7 3.0 TFSI Quattro Tiptronic,95000.0,275 000 km,automatic,2 967 cm3,Diesel,Nowa Sól,Lubuskie,2012
+992,audi,Audi A6 2.0 TDI Multitronic,71000.0,275 000 km,automatic,2 967 cm3,Diesel,Wejherowo,Pomorskie,2012
+993,audi,Audi Q5 3.0 TDI Quattro S tronic,89900.0,140 500 km,automatic,1 984 cm3,Benzyna,Marki,Mazowieckie,2013
+994,audi,Audi A6 Avant 3.0 TDI DPF quattro S tronic sport selection,81000.0,140 500 km,automatic,1 984 cm3,Benzyna,Goleniów,Zachodniopomorskie,2013
+995,audi,Audi A6 3.0 TFSI Quattro S tronic,65000.0,197 000 km,automatic,1 968 cm3,Diesel,Mława,Mazowieckie,2011
+996,audi,Audi A8 3.0 TDI Quattro,70999.0,197 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2011
+997,audi,Audi Q5 2.0 TFSI quattro tiptronic,69000.0,182 400 km,automatic,2 967 cm3,Diesel,Koszalin,Zachodniopomorskie,2013
+998,audi,Audi A6 Avant 3.0 TDI DPF quattro S tronic,62900.0,182 400 km,automatic,2 967 cm3,Diesel,Sochaczew,Mazowieckie,2013
+999,audi,Audi Q5 2.0 TDI clean diesel Quattro S tronic,79900.0,189 250 km,automatic,2 967 cm3,Diesel,Rzeszów,Podkarpackie,2013
+1000,audi,Audi Q5,65000.0,189 250 km,automatic,2 967 cm3,Diesel,Bronów,Śląskie,2013
+1001,audi,Audi Q5,49900.0,168 500 km,automatic,2 995 cm3,Benzyna,Kowala,Mazowieckie,2013
+1002,audi,Audi A6 3.0 TDI Quattro Tiptronic,34900.0,168 500 km,automatic,2 995 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2013
+1003,audi,Audi A6,79900.0,195 000 km,automatic,1 968 cm3,Diesel,Radom,Mazowieckie,2014
+1004,audi,Audi S7 4.0 TFSI Quattro S tronic,179995.0,195 000 km,automatic,1 968 cm3,Diesel,Szczecin,Zachodniopomorskie,2014
+1005,audi,Audi A6,68900.0,220 570 km,automatic,2 967 cm3,Diesel,Orońsko,Mazowieckie,2014
+1006,audi,Audi Q5 2.0 TFSI Quattro S tronic,72500.0,220 570 km,automatic,2 967 cm3,Diesel,Nowe Miasto Lubawskie,Warmińsko-mazurskie,2014
+1007,audi,Audi A6,67900.0,275 300 km,automatic,2 967 cm3,Diesel,Sieniawa,Małopolskie,2012
+1008,audi,Audi A6 3.0 TDI Quattro S tronic,55800.0,275 300 km,automatic,2 967 cm3,Diesel,Kłodnica Górna,Lubelskie,2012
+1009,audi,Audi Q7 4.2 TDI DPF Quattro Tiptronic Progressive,89600.0,296 000 km,automatic,2 995 cm3,Benzyna,Kraków,Małopolskie,2011
+1010,audi,Audi Q3,75000.0,296 000 km,automatic,2 995 cm3,Benzyna,Zabrze,Śląskie,2011
+1011,audi,Audi A7 3.0 TFSI Quattro S tronic,83000.0,295 000 km,automatic,2 967 cm3,Diesel,Brodnica,Kujawsko-pomorskie,2012
+1012,audi,Audi Q5 2.0 TDI Quattro S tronic,78500.0,295 000 km,automatic,2 967 cm3,Diesel,Pruszków,Mazowieckie,2012
+1013,audi,Audi A6 Avant 3.0 TFSI quattro tiptronic,45000.0,284 000 km,automatic,2 995 cm3,Benzyna,Legnica,Dolnośląskie,2008
+1014,audi,Audi Q5,62700.0,284 000 km,automatic,2 995 cm3,Benzyna,Zwoleń,Mazowieckie,2008
+1015,audi,Audi A6 3.0 TDI Quattro Tiptronic,27900.0,210 000 km,automatic,2 000 cm3,Benzyna,Międzyrzec Podlaski,Lubelskie,2009
+1016,audi,Audi Q7,49999.0,210 000 km,automatic,2 000 cm3,Benzyna,Gardzienice Pierwsze,Lubelskie,2009
+1017,audi,Audi A6 2.7 TDI Quattro Tiptr,21500.0,250 000 km,automatic,2 967 cm3,Diesel,Koniaków,Śląskie,2007
+1018,audi,Audi A6 Allroad 2.7 TDI DPF Quattro Tiptr,28900.0,250 000 km,automatic,2 967 cm3,Diesel,Kutno,Łódzkie,2007
+1019,audi,Audi A4 2.0 TDI Multitronic,22800.0,340 000 km,automatic,4 134 cm3,Diesel,Płońsk,Mazowieckie,2007
+1020,audi,Audi A6 2.7 TDI Quattro Tiptr,25999.0,340 000 km,automatic,4 134 cm3,Diesel,Zielona Góra,Lubuskie,2007
+1021,audi,Audi A6 3.0 TDI Quattro Tiptronic,21950.0,432 000 km,automatic,2 698 cm3,Diesel,Warszawa,Mazowieckie,2006
+1022,audi,Audi A6,29000.0,432 000 km,automatic,2 698 cm3,Diesel,Września,Wielkopolskie,2006
+1023,audi,Audi Q7 3.0 TDI Quattro Tiptronic,67500.0,295 434 km,automatic,2 698 cm3,Diesel,Opole,Opolskie,2007
+1024,audi,Audi A6 3.2 FSI Quattro Tiptr,26900.0,295 434 km,automatic,2 698 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2007
+1025,audi,Audi A3 2.0 TDI Sportback DPF S tronic Attraction,35900.0,443 834 km,automatic,1 968 cm3,Diesel,Wschowa,Lubuskie,2008
+1026,audi,Audi A6,17500.0,443 834 km,automatic,1 968 cm3,Diesel,Jordanów,Małopolskie,2008
+1027,audi,Audi A6 3.0 TDI Quattro Tiptronic,34000.0,290 000 km,automatic,2 698 cm3,Diesel,Bieszków Dolny,Mazowieckie,2006
+1028,audi,Audi A5 3.0 TDI DPF quattro S tronic,38500.0,290 000 km,automatic,2 698 cm3,Diesel,Nowa Wieś Lubińska,Dolnośląskie,2006
+1029,audi,Audi A3 1.4 TFSI Attraction S tronic,27900.0,335 759 km,automatic,2 967 cm3,Diesel,Kłodzko,Dolnośląskie,2007
+1030,audi,Audi Q7 4.2 TDI Quattro Tiptr,48000.0,335 759 km,automatic,2 967 cm3,Diesel,Czersk,Pomorskie,2007
+1031,audi,Audi Q7 3.0 TDI Quattro Tiptronic,62000.0,177 300 km,automatic,2 698 cm3,Diesel,Poznań,Wielkopolskie,2008
+1032,audi,Audi A3,29000.0,177 300 km,automatic,2 698 cm3,Diesel,Katowice,Śląskie,2008
+1033,audi,Audi A6 Avant 2.0 TDI DPF multitronic,34900.0,202 000 km,automatic,2 967 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2008
+1034,audi,Audi A6 3.0 TDI Quattro Tiptronic,22900.0,202 000 km,automatic,2 967 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2008
+1035,audi,Audi A4 2.0,19999.0,230 000 km,automatic,3 123 cm3,Benzyna,Wrocław,Dolnośląskie,2006
+1036,audi,Audi A8 4.2 TDI DPF quattro Langversion,36000.0,230 000 km,automatic,3 123 cm3,Benzyna,Biłgoraj,Lubelskie,2006
+1037,audi,Audi A6 3.0 TDI Quattro Tiptronic,39900.0,177 000 km,automatic,1 968 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2009
+1038,audi,Audi A6 Allroad 3.0 TDI DPF Quattro Tiptr,31500.0,177 000 km,automatic,1 968 cm3,Diesel,Lisi Ogon,Kujawsko-pomorskie,2009
+1039,audi,Audi S8 5.2 FSI Quattro,52000.0,397 900 km,automatic,2 967 cm3,Diesel,Nysa,Opolskie,2005
+1040,audi,Audi A6 3.0 TDI Quattro Tiptronic,24900.0,397 900 km,automatic,2 967 cm3,Diesel,Kutno,Łódzkie,2005
+1041,audi,Audi A4,21900.0,237 029 km,automatic,2 967 cm3,Diesel,Nysa,Opolskie,2008
+1042,audi,Audi A4 Avant 2.5 TDI Multitronic,16900.0,237 029 km,automatic,2 967 cm3,Diesel,Wągrowiec,Wielkopolskie,2008
+1043,audi,Audi A6 Avant 2.7 TDI DPF multitronic,21500.0,228 356 km,automatic,2 967 cm3,Diesel,Sieradz,Łódzkie,2009
+1044,audi,Audi A8 3.0 TDI Quattro,19900.0,228 356 km,automatic,2 967 cm3,Diesel,Lublin,Lubelskie,2009
+1045,audi,Audi A3,49900.0,76 000 km,automatic,1 498 cm3,Benzyna,Chodzież,Wielkopolskie,2018
+1046,audi,Audi SQ7 4.0 TDI Quattro Tiptronic,298000.0,76 000 km,automatic,1 498 cm3,Benzyna,Siedlce,Mazowieckie,2018
+1047,audi,Audi A4 Avant 45 TFSI S tronic sport,79900.0,113 000 km,automatic,3 956 cm3,Diesel,Słubice,Lubuskie,2018
+1048,audi,Audi A3 1.4 TFSI Sportback e-tron,69000.0,113 000 km,automatic,3 956 cm3,Diesel,Krapkowice,Opolskie,2018
+1049,audi,Audi A4 2.0 TDI Quattro Sport S tronic,95000.0,130 000 km,automatic,1 984 cm3,Benzyna,Jaźwina,Dolnośląskie,2018
+1050,audi,Audi A4 2.0 TDI Quattro Sport S tronic,172900.0,130 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2018
+1051,audi,Audi S3 TFSI Limousine S tronic,94999.0,196 000 km,automatic,1 400 cm3,Hybryda,Gdańsk,Pomorskie,2015
+1052,audi,Audi A3 40 TFSI Quattro S tronic,86000.0,196 000 km,automatic,1 400 cm3,Hybryda,Tęgoborze,Małopolskie,2015
+1053,audi,Audi Q5 2.0 TDI quattro S tronic sport,144000.0,206 000 km,automatic,1 968 cm3,Diesel,Białystok,Podlaskie,2016
+1054,audi,Audi A8 4.0 TFSI L Quattro,179000.0,206 000 km,automatic,1 968 cm3,Diesel,Brodnica,Kujawsko-pomorskie,2016
+1055,audi,Audi Q5 2.0 TDI Quattro S tronic,147500.0,53 000 km,automatic,1 968 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2019
+1056,audi,Audi A6 3.0 TDI Quattro S tronic,93000.0,53 000 km,automatic,1 968 cm3,Diesel,Wolsztyn,Wielkopolskie,2019
+1057,audi,Audi A5 2.0 TDI clean diesel Quattro S tronic,124900.0,180 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2015
+1058,audi,Audi S5 3.0 TFSI Quattro Tiptronic,171900.0,180 000 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2015
+1059,audi,Audi A6 40 TDI mHEV Sport S tronic,198000.0,110 000 km,automatic,1 984 cm3,Benzyna,Łuków,Lubelskie,2017
+1060,audi,Audi Q5 45 TFSI mHEV Quattro S tronic,175000.0,110 000 km,automatic,1 984 cm3,Benzyna,Grabówka,Podlaskie,2017
+1061,audi,Audi A4 2.0 TDI S tronic,83400.0,137 500 km,automatic,1 968 cm3,Diesel,Żywocice,Opolskie,2018
+1062,audi,Audi A5,115000.0,137 500 km,automatic,1 968 cm3,Diesel,Gdynia,Pomorskie,2018
+1063,audi,Audi A3,69800.0,153 000 km,automatic,3 993 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,2017
+1064,audi,Audi Q5,154700.0,153 000 km,automatic,3 993 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2017
+1065,audi,Audi Q7 3.0 TFSI Quattro Tiptronic,159900.0,116 000 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2019
+1066,audi,Audi RS5 2.9 TFSI Quattro Tiptronic,248000.0,116 000 km,automatic,1 968 cm3,Diesel,Rzeszów,Podkarpackie,2019
+1067,audi,Audi A4 Allroad 2.0 TDI clean diesel Quattro S tronic,142000.0,154 000 km,automatic,2 967 cm3,Diesel,Gliwice,Śląskie,2015
+1068,audi,Audi Q5 40 TDI Quattro Sport S tronic,137500.0,154 000 km,automatic,2 967 cm3,Diesel,Czchów,Małopolskie,2015
+1069,audi,Audi Q5 2.0 TFSI Quattro S tronic,154900.0,169 700 km,automatic,1 968 cm3,Diesel,Piątnica Poduchowna,Podlaskie,2017
+1070,audi,Audi Q7 3.0 TDI ultra Quattro Tiptronic,175000.0,169 700 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2017
+1071,audi,Audi A6 2.0 TDI Quattro S tronic,99900.0,72 700 km,automatic,2 995 cm3,Benzyna,Gliwice,Śląskie,2018
+1072,audi,Audi A6 Avant 3.0 TDI S tronic,85900.0,72 700 km,automatic,2 995 cm3,Benzyna,Łagiewniki,Dolnośląskie,2018
+1073,audi,Audi A4 Avant 2.0 TDI S tronic quattro design,140999.0,84 000 km,automatic,1 968 cm3,Diesel,Mława,Mazowieckie,2019
+1074,audi,Audi A3 2.0 TDI Sport S tronic,77990.0,84 000 km,automatic,1 968 cm3,Diesel,Zawiercie,Śląskie,2019
+1075,audi,Audi RS4 2.9 TFSI Quattro Tiptr,179000.0,97 300 km,automatic,1 984 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2019
+1076,audi,Audi A5 35 TFSI mHEV S tronic,122998.0,97 300 km,automatic,1 984 cm3,Benzyna,Piaseczno,Mazowieckie,2019
+1077,audi,Audi A7 45 TFSI mHEV Quattro S tronic,363000.0,20 500 km,automatic,1 984 cm3,Benzyna,Lublin,Lubelskie,2022
+1078,audi,Audi A4 40 TDI Quattro S Line S tronic,129700.0,20 500 km,automatic,1 984 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+1079,audi,Audi Q5 40 TDI mHEV Quattro Advanced S tronic,219500.0,123 000 km,automatic,1 968 cm3,Diesel,Szydłowiec,Mazowieckie,2020
+1080,audi,Audi RS3 2.5 TFSI Quattro S tronic,231100.0,123 000 km,automatic,1 968 cm3,Diesel,Katowice,Śląskie,2020
+1081,audi,Audi e-tron GT,547300.0,25 000 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2021
+1082,audi,Audi RS7,759000.0,25 000 km,automatic,1 968 cm3,Diesel,Łódź,Łódzkie,2021
+1083,audi,Audi A5 40-tfsi-sportback-s-tronic,169000.0,39 000 km,automatic,2 480 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2020
+1084,audi,Audi Q3 35 TFSI S Line S tronic,194899.0,39 000 km,automatic,2 480 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+1085,audi,Audi A4 40 TDI mHEV Quattro Advanced S tronic,203000.0,5 km,automatic,Elektryczny,2023,Łódź,Łódzkie,2023
+1086,audi,Audi RS Q3,365500.0,Elektryczny,automatic,2023,5 km,Warszawa,Mazowieckie,5 km
+1087,audi,Audi RS e-tron GT,564600.0,Benzyna,automatic,2023,5 km,Warszawa,Mazowieckie,3 996 cm3
+1088,audi,Audi RS e-tron GT,543000.0,Benzyna,automatic,2020,24 000 km,Warszawa,Mazowieckie,3 996 cm3
+1089,audi,Audi R8,833300.0,Benzyna,automatic,2020,24 000 km,Warszawa,Mazowieckie,1 984 cm3
+1090,audi,Audi A4 40 TDI S tronic,123800.0,Benzyna,automatic,2022,10 700 km,Góra Kalwaria,Mazowieckie,1 984 cm3
+1091,audi,Audi Q3,240300.0,Benzyna,automatic,2022,10 700 km,Łódź,Łódzkie,1 498 cm3
+1092,audi,Audi SQ8 TFSI Quattro Tiptronic,579000.0,Benzyna,automatic,2023,5 km,Częstochowa,Śląskie,1 498 cm3
+1093,audi,Audi A8,562000.0,Diesel,automatic,2023,5 km,Warszawa,Mazowieckie,1 968 cm3
+1094,audi,Audi A4,184000.0,Diesel,automatic,2023,5 km,Warszawa,Mazowieckie,1 968 cm3
+1095,audi,Audi e-tron,364700.0,Benzyna,automatic,2023,5 km,Warszawa,Mazowieckie,2 480 cm3
+1096,audi,Audi A4,235000.0,Benzyna,automatic,2021,8 000 km,Wolica,Mazowieckie,2 480 cm3
+1097,audi,Audi Q4 Sportback,268100.0,2021,automatic,8 000 km,Elektryczny,Wolica,Mazowieckie,Elektryczny
+1098,audi,Audi e-tron,341000.0,50 km,automatic,Elektryczny,2022,Wolica,Mazowieckie,2022
+1099,audi,Audi S8,749000.0,Elektryczny,automatic,2023,10 km,Łódź,Łódzkie,50 km
+1100,audi,Audi A6 40 TDI mHEV Quattro S tronic,169999.0,Benzyna,automatic,2023,10 km,Płock,Mazowieckie,5 204 cm3
+1101,audi,Audi Q3,182900.0,Benzyna,automatic,2020,159 000 km,Kraków,Małopolskie,5 204 cm3
+1102,audi,Audi S5 Sportback 3.0 TFSI quattro tiptronic,257000.0,Diesel,automatic,2020,159 000 km,Nowy Dwór Gdański,Pomorskie,1 968 cm3
+1103,audi,Audi A6 40 TDI mHEV S tronic,207000.0,Diesel,automatic,2023,5 km,Mikołów,Śląskie,1 968 cm3
+1104,audi,Audi SQ8 TFSI Quattro Tiptronic,485000.0,Hybryda,automatic,2023,5 km,Sosnowiec,Śląskie,1 395 cm3
+1105,audi,Audi A3 35 TFSI Sport S tronic,129900.0,Hybryda,automatic,2022,4 900 km,Warszawa,Mazowieckie,1 395 cm3
+1106,audi,Audi Q5 45 TFSI mHEV Quattro S Line S tronic,205000.0,Benzyna,automatic,2022,4 900 km,Ostrów Wielkopolski,Wielkopolskie,3 996 cm3
+1107,audi,Audi SQ7 TFSI Quattro Tiptronic,506210.0,Benzyna,automatic,2022,3 000 km,Poznań,Wielkopolskie,3 996 cm3
+1108,audi,Audi Q7 45 TDI mHEV Quattro S Line Tiptr,349999.0,Hybryda,automatic,2022,3 000 km,Warszawa,Mazowieckie,2 995 cm3
+1109,audi,Audi S3 TFSI Quattro S tronic,239000.0,36 152 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2022
+1110,audi,Audi Q3 45 TFSI e S Line S tronic,199875.0,36 152 km,automatic,1 984 cm3,Benzyna,Rzeszów,Podkarpackie,2022
+1111,audi,Audi A4 35 TFSI mHEV Advanced S tronic,154900.0,22 132 km,automatic,1 395 cm3,Hybryda,Białystok,Podlaskie,2021
+1112,audi,Audi A4 Allroad 40 TDI mHEV Quattro S tronic,196900.0,22 132 km,automatic,1 395 cm3,Hybryda,Myszków,Śląskie,2021
+1113,audi,Audi RS7 TFSI mHEV Quattro Tiptronic,549900.0,18 300 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2021
+1114,audi,Audi Q5 40 TDI mHEV Quattro S Line S tronic,260975.0,18 300 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2021
+1115,audi,Audi A4 Avant 40 TDI S tronic quattro sport,146341.0,90 610 km,automatic,1 968 cm3,Diesel,Fałków,Świętokrzyskie,2021
+1116,audi,Audi SQ8 TDI mHEV Quattro Tiptronic,499000.0,90 610 km,automatic,1 968 cm3,Diesel,Siemiatycze,Podlaskie,2021
+1117,audi,Audi Q2,144900.0,58 845 km,automatic,3 996 cm3,Benzyna,Kraków,Małopolskie,2021
+1118,audi,Audi A3,140000.0,58 845 km,automatic,3 996 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+1119,audi,Audi Q5,249000.0,18 000 km,automatic,1 968 cm3,Diesel,Kraków,Małopolskie,2021
+1120,audi,Audi Q3,184900.0,18 000 km,automatic,1 968 cm3,Diesel,Kraków,Małopolskie,2021
+1121,audi,Audi A8,545000.0,61 000 km,automatic,1 968 cm3,Diesel,Kraków,Małopolskie,2020
+1122,audi,Audi A5,152000.0,61 000 km,automatic,1 968 cm3,Diesel,Kobyłka,Mazowieckie,2020
+1123,audi,Audi Q5 35 TDI mHEV S tronic,189659.0,40 000 km,automatic,3 956 cm3,Diesel,Warszawa,Mazowieckie,2020
+1124,audi,Audi Q5 35 TDI mHEV S tronic,189659.0,40 000 km,automatic,3 956 cm3,Diesel,Warszawa,Mazowieckie,2020
+1125,audi,Audi Q4 Sportback e-tron 40 Advanced,199900.0,12 888 km,automatic,1 498 cm3,Benzyna,Jastrzębie-Zdrój,Śląskie,2022
+1126,audi,Audi Q7 45 TDI mHEV Quattro S Line Tiptr,279900.0,12 888 km,automatic,1 498 cm3,Benzyna,Zabór,Lubuskie,2022
+1127,audi,Audi A4 Allroad,253100.0,4 500 km,automatic,1 984 cm3,Benzyna,Poznań,Wielkopolskie,2022
+1128,audi,Audi A4 Allroad,253100.0,4 500 km,automatic,1 984 cm3,Benzyna,Poznań,Wielkopolskie,2022
+1129,audi,Audi Q8 45 TDI mHEV Quattro Tiptronic,324000.0,5 502 km,automatic,1 984 cm3,Benzyna,Nieporęt,Mazowieckie,2022
+1130,audi,Audi Q8 50 TDI mHEV Quattro Tiptronic,388800.0,5 502 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2022
+1131,audi,Audi A6 Avant 40 TDI quattro S tronic sport,189000.0,14 459 km,automatic,1 498 cm3,Benzyna,Gdańsk,Pomorskie,2022
+1132,audi,Audi SQ7,506210.0,14 459 km,automatic,1 498 cm3,Benzyna,Poznań,Wielkopolskie,2022
+1133,audi,Audi Q4,311206.0,92 km,automatic,2 995 cm3,Hybryda,Poznań,Wielkopolskie,2022
+1134,audi,Audi SQ7,509837.0,92 km,automatic,2 995 cm3,Hybryda,Poznań,Wielkopolskie,2022
+1135,audi,Audi Q5,255093.0,24 000 km,automatic,1 984 cm3,Benzyna,Poznań,Wielkopolskie,2021
+1136,audi,Audi Q5 40 TDI mHEV Quattro S Line S tronic,261541.0,24 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2021
+1137,audi,Audi A3 35 TFSI mHEV S tronic,145000.0,1 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2022
+1138,audi,Audi S8 TFSI mHEV Quattro Tiptr,588000.0,1 km,automatic,1 968 cm3,Diesel,Bielsko-Biała,Śląskie,2022
+1139,audi,Audi A6,307648.0,1 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2022
+1140,audi,Audi TT,267262.0,1 km,automatic,1 968 cm3,Diesel,Poznań,Wielkopolskie,2022
+1141,audi,Audi A5 45 TFSI mHEV Quattro S tronic,209700.0,24 600 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2020
+1142,audi,Audi A7 45 TFSI Quattro S tronic,279000.0,24 600 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2020
+1143,audi,Audi Q8 55 TFSI mHEV Quattro Tiptronic,349900.0,69 000 km,automatic,1 984 cm3,Benzyna,Nowy Tomyśl,Wielkopolskie,2020
+1144,audi,Audi A5 45 TFSI mHEV Quattro S tronic,258900.0,69 000 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2020
+1145,audi,Audi A4 35 TFSI mHEV S tronic,114900.0,32 000 km,automatic,2 995 cm3,Benzyna,Rzeszów,Podkarpackie,2021
+1146,audi,Audi A5,289000.0,32 000 km,automatic,2 995 cm3,Benzyna,Rybnik,Śląskie,2021
+1147,audi,Audi Q5 45 TFSI mHEV Quattro S Line S tronic,179900.0,4 470 km,automatic,1 984 cm3,Benzyna,Niewodnica Korycka,Podlaskie,2023
+1148,audi,Audi SQ8 TFSI Quattro Tiptronic,529000.0,4 470 km,automatic,1 984 cm3,Benzyna,Baranowo,Wielkopolskie,2023
+1149,audi,Audi A6 40 TDI mHEV Quattro S tronic,249900.0,83 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2020
+1150,audi,Audi Q7 45 TDI mHEV Quattro S Line Tiptr,290000.0,83 000 km,automatic,1 984 cm3,Benzyna,Mysłowice,Śląskie,2020
+1151,audi,Audi Q5 35 TDI Quattro Sport S tronic,159900.0,14 229 km,automatic,1 984 cm3,Benzyna,Mysłowice,Śląskie,2022
+1152,audi,Audi A5 45 TFSI mHEV Quattro S tronic,219900.0,14 229 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2022
+1153,audi,Audi A6,263900.0,2 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2021
+1154,audi,Audi Q3,229000.0,2 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2021
+1155,audi,Audi A4,75000.0,14 500 km,automatic,3 996 cm3,Benzyna,Gdańsk,Pomorskie,2021
+1156,audi,Audi A4,214900.0,14 500 km,automatic,3 996 cm3,Benzyna,Sosnowiec,Śląskie,2021
+1157,audi,Audi e-tron 55 Quattro S Line,359000.0,17 558 km,automatic,1 968 cm3,Diesel,Oława,Dolnośląskie,2021
+1158,audi,Audi A6 50 TDI mHEV Quattro Sport Tiptronic,166900.0,17 558 km,automatic,1 968 cm3,Diesel,Pawłowice,Śląskie,2021
+1159,audi,Audi A6 40 TDI mHEV Quattro Sport S tronic,152800.0,2 km,automatic,2 967 cm3,Diesel,Błażowa,Podkarpackie,2023
+1160,audi,Audi A6 35 TDI mHEV S tronic,243676.0,2 km,automatic,2 967 cm3,Diesel,Toruń,Kujawsko-pomorskie,2023
+1161,audi,Audi A7 50 TDI mHEV Quattro Tiptronic,232900.0,62 000 km,automatic,1 968 cm3,Diesel,Pawłowice,Śląskie,2020
+1162,audi,Audi A6 40 TDI mHEV Quattro Sport S tronic,250500.0,62 000 km,automatic,1 968 cm3,Diesel,Wrocław,Dolnośląskie,2020
+1163,audi,Audi RS Q3,239102.0,37 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2020
+1164,audi,Audi A1 35 TFSI S Line S tronic,127899.0,37 000 km,automatic,1 984 cm3,Benzyna,Czerwionka-Leszczyny,Śląskie,2020
+1165,audi,Audi A4,128800.0,19 831 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2022
+1166,audi,Audi SQ8 TDI mHEV Quattro Tiptronic,495000.0,19 831 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2022
+1167,audi,Audi Q5 40 TFSI mHEV Quattro Advanced S tronic,231600.0,23 895 km,automatic,1 984 cm3,Benzyna,Sosnowiec,Śląskie,2022
+1168,audi,Audi RS Q8 TFSI mHEV Quattro Tiptronic,547000.0,23 895 km,automatic,1 984 cm3,Benzyna,Rzeszów,Podkarpackie,2022
+1169,audi,Audi S3 TFSI Quattro Edition One S tronic,222500.0,7 000 km,automatic,1 984 cm3,Benzyna,Gdynia,Pomorskie,2022
+1170,audi,Audi Q3 35 TFSI mHEV S tronic,189900.0,7 000 km,automatic,1 984 cm3,Benzyna,Gdańsk,Pomorskie,2022
+1171,audi,Audi A6 50 TDI mHEV Quattro Tiptronic,314900.0,19 500 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2021
+1172,audi,Audi A4 35 TFSI S tronic,124900.0,19 500 km,automatic,1 984 cm3,Benzyna,Sokołów,Mazowieckie,2021
+1173,audi,Audi RS Q8 TFSI mHEV Quattro Tiptronic,699000.0,5 300 km,automatic,3 996 cm3,Benzyna,Warszawa,Mazowieckie,2022
+1174,audi,Audi S8 TFSI mHEV Quattro Tiptr,584900.0,5 300 km,automatic,3 996 cm3,Benzyna,Lublin,Lubelskie,2022
+1175,audi,Audi S3 TFSI Limousine S tronic,147998.0,49 877 km,automatic,3 996 cm3,Benzyna,Żory,Śląskie,2020
+1176,audi,Audi Q3 35 TFSI mHEV S Line S tronic,179000.0,49 877 km,automatic,3 996 cm3,Benzyna,Warszawa,Mazowieckie,2020
+1177,audi,Audi A5 40 TDI S Line S tronic,128800.0,28 500 km,automatic,1 984 cm3,Benzyna,Błażowa,Podkarpackie,2020
+1178,audi,Audi RS6 TFSI mHEV Quattro Tiptronic,599000.0,28 500 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2020
+1179,audi,Audi Q3 35 TFSI mHEV S tronic,155900.0,9 860 km,automatic,1 498 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+1180,audi,Audi A3 40 TFSI Limousine quattro S tronic S line,95000.0,9 860 km,automatic,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+1181,audi,Audi Q7,319900.0,129 000 km,automatic,1 968 cm3,Diesel,Rybnik,Śląskie,2020
+1182,audi,Audi Q7 45 TDI mHEV Quattro S Line Tiptr,309900.0,129 000 km,automatic,1 968 cm3,Diesel,Warszawa,Mazowieckie,2020
+1183,audi,Audi A6 40 TDI mHEV Quattro Sport S tronic,179800.0,50 000 km,automatic,3 996 cm3,Benzyna,Góra Kalwaria,Mazowieckie,2020
+1184,audi,Audi A4,222328.0,50 000 km,automatic,3 996 cm3,Benzyna,Warszawa,Mazowieckie,2020
+1185,audi,Audi e-tron 55 quattro S line,350000.0,35 000 km,automatic,1 498 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+1186,audi,Audi A7 45 TFSI mHEV Quattro S tronic,277900.0,35 000 km,automatic,1 498 cm3,Benzyna,Lublin,Lubelskie,2021
+1187,audi,Audi Q4 e-tron 40,256357.0,4 000 km,automatic,1 984 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2020
+1188,audi,Audi A5 45 TFSI mHEV Quattro Advanced S tronic,169900.0,4 000 km,automatic,1 984 cm3,Benzyna,Sosnowiec,Śląskie,2020
+1189,audi,Audi A4 2.0 TDI Sport S tronic,99999.0,7 829 km,automatic,2 967 cm3,Diesel,Gliwice,Śląskie,2021
+1190,audi,Audi Q3 45 TFSI Quattro S Line S tronic,134700.0,7 829 km,automatic,2 967 cm3,Diesel,Białystok,Podlaskie,2021
+1191,audi,Audi A6 Allroad,354800.0,20 725 km,automatic,2 967 cm3,Diesel,Sosnowiec,Śląskie,2022
+1192,audi,Audi A6,276800.0,20 725 km,automatic,2 967 cm3,Diesel,Sosnowiec,Śląskie,2022
+1193,audi,Audi Q3,219800.0,69 100 km,automatic,1 968 cm3,Diesel,Sosnowiec,Śląskie,2020
+1194,audi,Audi A8 50 TDI quattro tiptronic,290000.0,69 100 km,automatic,1 968 cm3,Diesel,Iława,Warmińsko-mazurskie,2020
+1195,audi,Audi A4 2.0 TDI Sport S tronic,169000.0,1 984 cm3,automatic,Benzyna,2023,Kraków,Małopolskie,2023
+1196,audi,Audi Q7 55 TFSI mHEV Quattro S Line Tiptr,339000.0,Benzyna,automatic,2022,14 500 km,Bielawa,Dolnośląskie,1 984 cm3
+1197,audi,Audi Q5 40 TDI mHEV Quattro S Line S tronic,229900.0,2022,automatic,14 500 km,Elektryczny,Konstancin-Jeziorna,Mazowieckie,Elektryczny
+1198,audi,Audi A6,149800.0,34 300 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2021
+1199,audi,Audi A4 40 TDI quattro S tronic S line,147000.0,34 300 km,automatic,1 984 cm3,Benzyna,Radom,Mazowieckie,2021
+1200,audi,Audi A4 Allroad 45 TFSI mHEV Quattro S tronic,174000.0,10 km,automatic,Elektryczny,2023,Kalisz,Wielkopolskie,2023
+1201,audi,Audi TT 45 TFSI Quattro S tronic,250000.0,Elektryczny,automatic,2020,57 710 km,Toruń,Kujawsko-pomorskie,10 km
+1202,audi,Audi A4 45 TFSI mHEV Quattro S Line S tronic,195500.0,Benzyna,automatic,2020,57 710 km,Warszawa,Mazowieckie,1 984 cm3
+1203,audi,Audi A4 35 TFSI S tronic,128999.0,Benzyna,automatic,2020,169 600 km,Białystok,Podlaskie,1 984 cm3
+1204,audi,Audi A6 40 TDI mHEV Quattro Sport S tronic,277000.0,Diesel,automatic,2020,169 600 km,Grodzisk Mazowiecki,Mazowieckie,1 968 cm3

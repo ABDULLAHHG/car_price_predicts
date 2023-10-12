@@ -1,0 +1,1291 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+9516,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9517,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9518,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9519,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9520,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9521,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9522,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9523,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9524,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9525,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9526,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9527,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9528,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9529,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9530,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9531,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9532,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9533,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9534,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9535,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9536,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9537,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9538,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9571,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9572,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9573,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9574,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9575,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9576,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9577,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9578,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9579,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9580,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9581,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9582,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9583,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9584,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9585,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9586,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9587,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9588,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9589,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9590,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9591,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9592,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9593,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9594,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9595,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9596,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9597,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9598,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9599,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9600,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9601,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9602,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9603,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9604,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9605,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9606,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9607,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9608,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9609,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9610,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9611,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9612,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9613,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9614,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9615,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9616,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9617,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9618,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9619,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9620,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9621,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9622,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9623,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9624,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9625,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9626,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9627,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9628,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9629,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9630,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9631,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9632,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9633,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9634,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9635,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9636,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9637,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9638,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9639,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9640,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9641,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9642,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9643,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9644,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9645,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9646,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9647,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9648,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9649,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9650,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9651,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9652,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9653,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9654,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9655,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9656,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9657,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9658,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9659,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9660,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9661,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9662,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9663,citroen,Citroën C3,4900.0,119 000 km,manual,1 124 cm3,Benzyna,Koszalin,Zachodniopomorskie,2003
+9664,citroen,Citroën C8,10000.0,119 000 km,manual,1 124 cm3,Benzyna,Kraków,Małopolskie,2003
+9665,citroen,Citroën Berlingo 1.4i Multispace / Plus,8700.0,267 232 km,manual,1 997 cm3,Benzyna,Pszów,Śląskie,2004
+9666,citroen,Citroën C3,5900.0,267 232 km,manual,1 997 cm3,Benzyna,Bochnia,Małopolskie,2004
+9667,citroen,Citroën C3,4300.0,206 400 km,manual,1 360 cm3,Benzyna,Borówno,Kujawsko-pomorskie,2001
+9668,citroen,Citroën Xsara Picasso,3100.0,206 400 km,manual,1 360 cm3,Benzyna,Łęczyca,Łódzkie,2001
+9669,citroen,Citroën Xsara Picasso,6027.0,207 000 km,manual,1 360 cm3,Benzyna,Opole,Opolskie,2004
+9670,citroen,Citroën Xsara Picasso 2.0 HDI Prestige,4250.0,207 000 km,manual,1 360 cm3,Benzyna,Chrzanów,Małopolskie,2004
+9671,citroen,Citroën Xsara Picasso 1.8 16V Control+ (sx),3500.0,228 000 km,manual,1 124 cm3,Benzyna,Chojnice,Pomorskie,2003
+9672,citroen,Citroën Jumpy Combi,5500.0,228 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2003
+9673,citroen,Citroën Jumpy Combi,5500.0,480 000 km,manual,1 749 cm3,Benzyna,Warszawa,Mazowieckie,2001
+9674,citroen,Citroën Jumpy Combi,5500.0,480 000 km,manual,1 749 cm3,Benzyna,Warszawa,Mazowieckie,2001
+9675,citroen,Citroën C5 2.0i 16V Confort,10999.0,184 857 km,manual,1 997 cm3,Diesel,Aleksandrów Łódzki,Łódzkie,2003
+9676,citroen,Citroën C2,7999.0,184 857 km,manual,1 997 cm3,Diesel,Jaczkowice,Dolnośląskie,2003
+9677,citroen,Citroën C5 2.0 HDi Exclusive,9900.0,327 000 km,manual,1 997 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2001
+9678,citroen,Citroën C5,6500.0,327 000 km,manual,1 997 cm3,Diesel,Marki,Mazowieckie,2001
+9679,citroen,Citroën C5 2.0 HDi Prestige,3700.0,284 656 km,manual,1 749 cm3,Benzyna+LPG,Bielsko-Biała,Śląskie,2001
+9680,citroen,Citroën C3,6900.0,284 656 km,manual,1 749 cm3,Benzyna+LPG,Sulechów,Lubuskie,2001
+9681,citroen,Citroën C3 1.1 X,4300.0,390 720 km,manual,1 997 cm3,Diesel,Łódź,Łódzkie,2002
+9682,citroen,Citroën Berlingo 1.6 16V Multispace,11950.0,390 720 km,manual,1 997 cm3,Diesel,Dobroń,Łódzkie,2002
+9683,citroen,Citroën Saxo 1.4 VSX,4500.0,390 016 km,manual,1 997 cm3,Diesel,Tomaszów Mazowiecki,Łódzkie,2001
+9684,citroen,Citroën Xsara II 1.4i SX,3999.0,390 016 km,manual,1 997 cm3,Diesel,Katowice,Śląskie,2001
+9685,citroen,Citroën C5 II 2.0i 16V SX,9950.0,400 613 km,manual,1 997 cm3,Diesel,Dzierżoniów,Dolnośląskie,2001
+9686,citroen,Citroën Xsara Picasso,8500.0,400 613 km,manual,1 997 cm3,Diesel,Poznań,Wielkopolskie,2001
+9687,citroen,Citroën Berlingo 1.4i Multispace / Plus,5200.0,212 179 km,manual,1 997 cm3,Benzyna+LPG,Pietrzejowice,Małopolskie,2004
+9688,citroen,Citroën Xsara Break II 1.6i Perfect,4500.0,212 179 km,manual,1 997 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2004
+9689,citroen,Citroën C3 1.4 Exclusive,8900.0,152 000 km,manual,1 360 cm3,Benzyna,Parysów,Mazowieckie,2004
+9690,citroen,Citroën C8,8608.0,152 000 km,manual,1 360 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+9691,citroen,Citroën C3 1.1 SX,9300.0,156 210 km,manual,1 997 cm3,Diesel,Pacanów,Świętokrzyskie,2004
+9692,citroen,Citroën C5,3900.0,156 210 km,manual,1 997 cm3,Diesel,Warszawa,Mazowieckie,2004
+9693,citroen,Citroën Xsara Picasso 2.0 HDI Prestige,3400.0,221 000 km,manual,1 997 cm3,Diesel,Warszawa,Mazowieckie,2004
+9694,citroen,Citroën Xsara Picasso 1.8i Exclusive,6900.0,221 000 km,manual,1 997 cm3,Diesel,Plewiska,Wielkopolskie,2004
+9695,citroen,Citroën Xsara,3400.0,150 000 km,manual,1 587 cm3,Benzyna,Szczecin,Zachodniopomorskie,1999
+9696,citroen,Citroën Berlingo 1.4i Multispace,3200.0,150 000 km,manual,1 587 cm3,Benzyna,Warszawa,Mazowieckie,1999
+9697,citroen,Citroën Xantia 1.6 X,8900.0,401 025 km,manual,1 360 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,1998
+9698,citroen,Citroën Evasion 2.0 SX,8000.0,401 025 km,manual,1 360 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,1998
+9699,citroen,Citroën Xsara,2600.0,83 000 km,manual,1 580 cm3,Benzyna,Czostków,Świętokrzyskie,1995
+9700,citroen,Citroën Xsara 1.6i SX,2700.0,83 000 km,manual,1 580 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+9701,citroen,Citroën AX,16500.0,244 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,1999
+9702,citroen,Citroën Xsara 1.6i SX,2900.0,244 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,1999
+9703,citroen,Citroën XM 2.0 Turbo C.T VSX,15400.0,235 769 km,manual,1 905 cm3,Diesel,Bielawa,Dolnośląskie,1998
+9704,citroen,Citroën Xantia 1.8I SX,1500.0,235 769 km,manual,1 905 cm3,Diesel,Dziwnów,Zachodniopomorskie,1998
+9705,citroen,Citroën Xantia 1.8 Harmonie,4990.0,150 923 km,manual,1 587 cm3,Benzyna,Nadma,Mazowieckie,1998
+9706,citroen,Citroën Xantia 1.8 16V SX,11500.0,150 923 km,manual,1 587 cm3,Benzyna,Warka,Mazowieckie,1998
+9707,citroen,Citroën Xantia,8900.0,99 200 km,manual,1 360 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,1995
+9708,citroen,Citroën Saxo 1.1i,1999.0,99 200 km,manual,1 360 cm3,Benzyna,Rakoniewice,Wielkopolskie,1995
+9709,citroen,Citroën Berlingo 1.8i Multispace,3900.0,177 000 km,manual,1 587 cm3,Benzyna,Żarowo,Zachodniopomorskie,1999
+9710,citroen,Citroën XM 3.0 Exclusive,18900.0,177 000 km,manual,1 587 cm3,Benzyna,Łódź,Łódzkie,1999
+9711,citroen,Citroën Saxo 1.1 SX,6400.0,218 000 km,manual,1 998 cm3,Benzyna,Rudawa,Małopolskie,1998
+9712,citroen,Citroën Xsara Break 1.8I Exclusive,2550.0,218 000 km,manual,1 998 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,1998
+9713,citroen,Citroën Berlingo 1.4i Multispace / Plus,8200.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Poznań,Wielkopolskie,1999
+9714,citroen,Citroën Saxo,5900.0,250 000 km,manual,1 761 cm3,Benzyna+LPG,Świebodzin,Lubuskie,1999
+9715,citroen,Citroën AX 11 Monpti / 11 E,2300.0,146 000 km,manual,1 761 cm3,Benzyna,Łódź,Łódzkie,1999
+9716,citroen,Citroën Xsara 1.8I 16V Exclusive,3400.0,146 000 km,manual,1 761 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9717,citroen,Citroën XM 2.0 SX,5100.0,117 313 km,manual,1 761 cm3,Benzyna,Poznań,Wielkopolskie,1996
+9718,citroen,Citroën Berlingo II 1.6 HDi Multispace,19999.0,265 819 km,manual,1 560 cm3,Diesel,Warszawa,Mazowieckie,2008
+9719,citroen,Citroën C4 1.6 HDi Magic,6999.0,265 819 km,manual,1 560 cm3,Diesel,Rzeszów,Podkarpackie,2008
+9720,citroen,Citroën C5 2.0 HDi Attraction,18500.0,323 233 km,manual,1 560 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2007
+9721,citroen,Citroën C4,12500.0,323 233 km,manual,1 560 cm3,Diesel,Olkusz,Małopolskie,2007
+9722,citroen,Citroën Xsara Picasso 1.6 Tendance,7900.0,230 000 km,manual,1 997 cm3,Diesel,Zabrze,Śląskie,2008
+9723,citroen,Citroën C5,12900.0,230 000 km,manual,1 997 cm3,Diesel,Lublin,Lubelskie,2008
+9724,citroen,Citroën C4 1.4 16V X,8999.0,145 000 km,manual,1 598 cm3,Benzyna,Katowice,Śląskie,2005
+9725,citroen,Citroën C2 1.4 Equilibre,5500.0,145 000 km,manual,1 598 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2005
+9726,citroen,Citroën C5 II 1.8i 16V Impress,12500.0,233 000 km,manual,1 587 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2006
+9727,citroen,Citroën C5 2.0 HDi Confort,15000.0,233 000 km,manual,1 587 cm3,Benzyna,Czeladź,Śląskie,2006
+9728,citroen,Citroën Nemo 1.4 HDi X,11999.0,240 000 km,manual,2 720 cm3,Diesel,Wałbrzych,Dolnośląskie,2008
+9729,citroen,Citroën C2 1.1 SX,7300.0,240 000 km,manual,2 720 cm3,Diesel,Busko-Zdrój,Świętokrzyskie,2008
+9730,citroen,Citroën C5 II 1.6 HDi SX,14499.0,207 000 km,manual,1 360 cm3,Benzyna,Kalisz,Wielkopolskie,2006
+9731,citroen,Citroën Nemo,18900.0,207 000 km,manual,1 360 cm3,Benzyna,Wyszków,Mazowieckie,2006
+9732,citroen,Citroën C4,10400.0,100 515 km,manual,1 360 cm3,Benzyna,Poznań,Wielkopolskie,2009
+9733,citroen,Citroën C5 II 2.0i 16V Exclusive,7999.0,100 515 km,manual,1 360 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2009
+9734,citroen,Citroën C5 2.0 HDi Attraction,17500.0,305 578 km,manual,1 749 cm3,Benzyna+LPG,Gostynin,Mazowieckie,2007
+9735,citroen,Citroën C4 1.6 16V Impress,8800.0,305 578 km,manual,1 749 cm3,Benzyna+LPG,Doruchów,Wielkopolskie,2007
+9736,citroen,Citroën C5,6900.0,300 000 km,manual,1 997 cm3,Diesel,Legionowo,Mazowieckie,2009
+9737,citroen,Citroën C4 Picasso 1.6 HDi Equilibre,12900.0,300 000 km,manual,1 997 cm3,Diesel,Gniezno,Wielkopolskie,2009
+9738,citroen,Citroën C4 Picasso,11100.0,240 000 km,manual,1 398 cm3,Diesel,Krzywaczka,Małopolskie,2008
+9739,citroen,Citroën Berlingo 1.6 16V Multispace,21490.0,240 000 km,manual,1 398 cm3,Diesel,Słupsk,Pomorskie,2008
+9740,citroen,Citroën Jumpy Combi,14500.0,189 000 km,manual,1 124 cm3,Benzyna,Myszków,Śląskie,2005
+9741,citroen,Citroën C3 1.4 Business Class,11500.0,189 000 km,manual,1 124 cm3,Benzyna,Blizne,Podkarpackie,2005
+9742,citroen,Citroën C3,8200.0,251 000 km,manual,1 560 cm3,Diesel,Poznań,Wielkopolskie,2008
+9743,citroen,Citroën C3,9900.0,251 000 km,manual,1 560 cm3,Diesel,Brzechów,Świętokrzyskie,2008
+9744,citroen,Citroën C4 VTi 120 Style,14999.0,128 000 km,manual,1 398 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2008
+9745,citroen,Citroën C3 1.4 HDi Equilibre,6900.0,128 000 km,manual,1 398 cm3,Diesel,Kraków,Małopolskie,2008
+9746,citroen,Citroën Xsara Picasso 1.8i 16V Exclusive,4999.0,285 000 km,manual,1 587 cm3,Benzyna+LPG,Złoty Stok,Dolnośląskie,2006
+9747,citroen,Citroën C3 1.4i Furio,9900.0,285 000 km,manual,1 587 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2006
+9748,citroen,Citroën Xsara Picasso 1.6 Confort,9900.0,276 546 km,manual,1 997 cm3,Benzyna+LPG,Zawiercie,Śląskie,2007
+9749,citroen,Citroën Xsara Picasso,10500.0,276 546 km,manual,1 997 cm3,Benzyna+LPG,Tomaszów Bolesławiecki,Dolnośląskie,2007
+9750,citroen,Citroën C5 2.0 HDi SX,5900.0,205 000 km,manual,1 997 cm3,Diesel,Zielonki Parcela,Mazowieckie,2001
+9751,citroen,Citroën C4,4500.0,205 000 km,manual,1 997 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2001
+9752,citroen,Citroën C3 1.1 X,3400.0,207 310 km,manual,1 587 cm3,Benzyna,Pcim,Małopolskie,2004
+9753,citroen,Citroën C2,6500.0,207 310 km,manual,1 587 cm3,Benzyna,Moszczenica,Łódzkie,2004
+9754,citroen,Citroën C3 1.4 SX,11700.0,189 000 km,manual,1 124 cm3,Benzyna+LPG,Margonin,Wielkopolskie,2003
+9755,citroen,Citroën Saxo 1.0 X,2700.0,189 000 km,manual,1 124 cm3,Benzyna+LPG,Pszczyna,Śląskie,2003
+9756,citroen,Citroën C3,3500.0,167 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+9757,citroen,Citroën C3 1.1 SX,9900.0,167 000 km,manual,1 124 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,2004
+9758,citroen,Citroën C3 1.4 HDi X,5400.0,200 000 km,manual,1 360 cm3,Benzyna,Tarnów,Małopolskie,2003
+9759,citroen,Citroën Berlingo,4900.0,200 000 km,manual,1 360 cm3,Benzyna,Suwałki,Podlaskie,2003
+9760,citroen,Citroën C2,3700.0,180 000 km,manual,954 cm3,Benzyna,Rakoniewice Osiedle Park,Wielkopolskie,2001
+9761,citroen,Citroën C3 1.4 HDi 16v SX,6750.0,180 000 km,manual,954 cm3,Benzyna,Łukówiec,Mazowieckie,2001
+9762,citroen,Citroën C3 1.1 Control+ (sx),7900.0,240 000 km,manual,1 360 cm3,Benzyna,Borowiecko-Kolonia,Łódzkie,2003
+9763,citroen,Citroën C5,6500.0,240 000 km,manual,1 360 cm3,Benzyna,Kraków,Małopolskie,2003
+9764,citroen,Citroën Xsara,3900.0,74 122 km,manual,1 124 cm3,Benzyna,Wągrowiec,Wielkopolskie,2004
+9765,citroen,Citroën Berlingo II 1.6i Pakiet Plus,11900.0,74 122 km,manual,1 124 cm3,Benzyna,Łęczyca,Łódzkie,2004
+9766,citroen,Citroën Xsara Picasso,8990.0,310 400 km,manual,1 398 cm3,Diesel,Margonin,Wielkopolskie,2004
+9767,citroen,Citroën Berlingo II 1.6i Prestige,3900.0,310 400 km,manual,1 398 cm3,Diesel,Żagań,Lubuskie,2004
+9768,citroen,Citroën Xsara Picasso 1.8i 16V Exclusive,5300.0,370 000 km,manual,1 868 cm3,Diesel,Kraków,Małopolskie,2004
+9769,citroen,Citroën Xsara Picasso,7900.0,370 000 km,manual,1 868 cm3,Diesel,Wojkowice,Dolnośląskie,2004
+9770,citroen,Citroën Berlingo 1.4i Multispace / Plus,4000.0,238 000 km,manual,1 398 cm3,Diesel,Łask,Łódzkie,2004
+9771,citroen,Citroën C3 1.1 First Tonic,8900.0,238 000 km,manual,1 398 cm3,Diesel,Pabianice,Łódzkie,2004
+9772,citroen,Citroën C3 1.4 HDi 16v SX,2999.0,270 000 km,manual,1 398 cm3,Diesel,Złoty Stok,Dolnośląskie,2004
+9773,citroen,Citroën C3 1.1 SX,1900.0,270 000 km,manual,1 398 cm3,Diesel,Wrocław,Dolnośląskie,2004
+9774,citroen,Citroën C3 1.1 X,4900.0,154 000 km,manual,1 124 cm3,Benzyna,Białystok,Podlaskie,2004
+9775,citroen,Citroën Xsara Picasso,3800.0,154 000 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+9776,citroen,Citroën C3,6500.0,260 000 km,manual,1 997 cm3,Diesel,Poznań,Wielkopolskie,2004
+9777,citroen,Citroën Berlingo 2.0 HDI Multispace,8300.0,260 000 km,manual,1 997 cm3,Diesel,Warszawa,Mazowieckie,2004
+9778,citroen,Citroën C3 1.1 First Tonic,6900.0,347 000 km,manual,1 587 cm3,Benzyna+LPG,Sochaczew,Mazowieckie,2002
+9779,citroen,Citroën C5 II 1.6 HDi Impress,9900.0,347 000 km,manual,1 587 cm3,Benzyna+LPG,Chojnice,Pomorskie,2002
+9780,citroen,Citroën C3 1.1 SX,7900.0,200 000 km,manual,1 587 cm3,Benzyna,Zielonki Parcela,Mazowieckie,2003
+9781,citroen,Citroën C3,6900.0,200 000 km,manual,1 587 cm3,Benzyna,Piotrków Kujawski,Kujawsko-pomorskie,2003
+9782,citroen,Citroën C3,4000.0,210 000 km,manual,1 398 cm3,Diesel,Świnoujście,Zachodniopomorskie,2004
+9783,citroen,Citroën C5,4300.0,210 000 km,manual,1 398 cm3,Diesel,Szczecin,Zachodniopomorskie,2004
+9784,citroen,Citroën Xsara Picasso 1.8i 16V Exclusive,9900.0,249 000 km,manual,1 997 cm3,Benzyna,Kraków,Małopolskie,2002
+9785,citroen,Citroën C3,7500.0,249 000 km,manual,1 997 cm3,Benzyna,Ramiszów,Dolnośląskie,2002
+9786,citroen,Citroën Berlingo,9900.0,159 000 km,manual,1 749 cm3,Benzyna,Długie,Podkarpackie,2004
+9787,citroen,Citroën Xsara Picasso,2900.0,159 000 km,manual,1 749 cm3,Benzyna,Lniska,Pomorskie,2004
+9788,citroen,Citroën C5 Break 1.8i 16V SX,2999.0,164 782 km,manual,1 124 cm3,Benzyna,Wilkowice,Wielkopolskie,2004
+9789,citroen,Citroën C3,3700.0,164 782 km,manual,1 124 cm3,Benzyna,Warszawa,Mazowieckie,2004
+9790,citroen,Citroën Berlingo 2.0 HDI Multispace,5999.0,340 750 km,manual,1 868 cm3,Diesel,Złoty Stok,Dolnośląskie,2002
+9791,citroen,Citroën Berlingo 2.0 HDI Multispace,7500.0,340 750 km,manual,1 868 cm3,Diesel,Mogilno,Kujawsko-pomorskie,2002
+9792,citroen,Citroën C2,4900.0,250 000 km,manual,1 749 cm3,Benzyna,Leszno,Wielkopolskie,2000
+9793,citroen,Citroën Xsara Picasso 1.8 16V SX,3500.0,250 000 km,manual,1 749 cm3,Benzyna,Koszalin,Zachodniopomorskie,2000
+9794,citroen,Citroën C3 1.4 HDi 16v Freeze (sx),3699.0,265 000 km,manual,1 749 cm3,Benzyna,Wejherowo,Pomorskie,2003
+9795,citroen,Citroën Xsara Picasso 1.8i Exclusive,6999.0,265 000 km,manual,1 749 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2003
+9796,citroen,Citroën C3 1.1 SX,5500.0,287 000 km,manual,1 124 cm3,Benzyna+LPG,Rybnik,Śląskie,2004
+9797,citroen,Citroën C5 2.2 HDi Exclusive,5000.0,287 000 km,manual,1 124 cm3,Benzyna+LPG,Garwolin,Mazowieckie,2004
+9798,citroen,Citroën C3 Pluriel,8900.0,430 000 km,manual,1 997 cm3,Diesel,Racławice,Małopolskie,2003
+9799,citroen,Citroën C3,8900.0,430 000 km,manual,1 997 cm3,Diesel,Gdańsk,Pomorskie,2003
+9800,citroen,Citroën Xsara Picasso 2.0 HDI Exclusive,4999.0,212 565 km,manual,1 997 cm3,Diesel,Katowice,Śląskie,2003
+9801,citroen,Citroën Xsara Picasso 2.0 HDI Prestige,5800.0,212 565 km,manual,1 997 cm3,Diesel,Jasło,Podkarpackie,2003
+9802,citroen,Citroën C3 1.1 Control+ (sx),8900.0,218 600 km,manual,1 398 cm3,Diesel,Pabianice,Łódzkie,2004
+9803,citroen,Citroën Xsara Picasso,5900.0,218 600 km,manual,1 398 cm3,Diesel,Lublin,Lubelskie,2004
+9804,citroen,Citroën Berlingo,8500.0,300 000 km,manual,1 749 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+9805,citroen,Citroën Xsara,2990.0,300 000 km,manual,1 749 cm3,Benzyna+LPG,Paniówki,Śląskie,2002
+9806,citroen,Citroën Xsara 1.6i SX,3800.0,219 000 km,manual,1 398 cm3,Diesel,Kraków,Małopolskie,2004
+9807,citroen,Citroën C2,6000.0,219 000 km,manual,1 398 cm3,Diesel,Tychy,Śląskie,2004
+9808,citroen,Citroën C3 Pluriel 1.4i,15000.0,250 000 km,manual,1 749 cm3,Benzyna+LPG,Starowola,Mazowieckie,2004
+9809,citroen,Citroën C3,6900.0,250 000 km,manual,1 749 cm3,Benzyna+LPG,Żary,Lubuskie,2004
+9810,citroen,Citroën C5 2.0i 16V Prestige,5390.0,170 250 km,manual,1 124 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2004
+9811,citroen,Citroën C5,5999.0,170 250 km,manual,1 124 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2004
+9812,citroen,Citroën C5 1.8i 16V SX,4499.0,234 519 km,manual,2 179 cm3,Diesel,Bochnia,Małopolskie,2001
+9813,citroen,Citroën C8,12000.0,234 519 km,manual,2 179 cm3,Diesel,Rybnik,Śląskie,2001
+9814,citroen,Citroën C4 1.6 16V VTR Pack,13800.0,142 000 km,manual,1 587 cm3,Benzyna,Przybyszewo,Wielkopolskie,2008
+9815,citroen,Citroën C4 Grand Picasso 1.6 HDi Equilibre,15000.0,142 000 km,manual,1 587 cm3,Benzyna,Brzozów,Podkarpackie,2008
+9816,citroen,Citroën C4 Grand Picasso 1.8i SX,8499.0,163 000 km,manual,1 560 cm3,Diesel,Lniska,Pomorskie,2008
+9817,citroen,Citroën C-Crosser 2.2 HDi Exclusive,29700.0,163 000 km,manual,1 560 cm3,Diesel,Września,Wielkopolskie,2008
+9818,citroen,Citroën C5 2.0 HDi Exclusive,16500.0,160 000 km,manual,1 749 cm3,Benzyna,Olkusz,Małopolskie,2007
+9819,citroen,Citroën C-Crosser,40000.0,160 000 km,manual,1 749 cm3,Benzyna,Piaseczno,Mazowieckie,2007
+9820,citroen,Citroën C5 1.6 HDi Attraction,9000.0,214 900 km,manual,2 179 cm3,Diesel,Ruda Śląska,Śląskie,2009
+9821,citroen,Citroën Berlingo 1.6 HDi X,16800.0,214 900 km,manual,2 179 cm3,Diesel,Gostynin,Mazowieckie,2009
+9822,citroen,Citroën C4 1.6 VTi Equilibre,12900.0,243 641 km,manual,1 997 cm3,Diesel,Wygoda,Łódzkie,2009
+9823,citroen,Citroën Xsara Picasso 1.6 Confort,8500.0,243 641 km,manual,1 997 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2009
+9824,citroen,Citroën Xsara Picasso,5999.0,128 066 km,manual,2 179 cm3,Diesel,Kampinos,Mazowieckie,2008
+9825,citroen,Citroën C4 1.6 16V SX,12999.0,128 066 km,manual,2 179 cm3,Diesel,Ryki,Lubelskie,2008
+9826,citroen,Citroën C4,10500.0,250 000 km,manual,1 560 cm3,Diesel,Żarki,Śląskie,2008
+9827,citroen,Citroën Berlingo II 1.6i Multispace,17300.0,250 000 km,manual,1 560 cm3,Diesel,Sandomierz,Świętokrzyskie,2008
+9828,citroen,Citroën C-Crosser 2.2 HDi SX Pack,25830.0,193 000 km,manual,1 560 cm3,Diesel,Międzybrodzie Bialskie,Śląskie,2009
+9829,citroen,Citroën Berlingo II 1.4i Multispace,15900.0,193 000 km,manual,1 560 cm3,Diesel,Gostynin,Mazowieckie,2009
+9830,citroen,Citroën C2,8500.0,222 214 km,manual,1 598 cm3,Benzyna,Nowy Sącz,Małopolskie,2009
+9831,citroen,Citroën C4 Picasso 1.6 HDi Impress,14900.0,222 214 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2009
+9832,citroen,Citroën C5,20500.0,194 200 km,manual,1 587 cm3,Benzyna,Święta Katarzyna,Dolnośląskie,2007
+9833,citroen,Citroën C5 2.0i 16V Dynamique,24700.0,194 200 km,manual,1 587 cm3,Benzyna,Kielce,Świętokrzyskie,2007
+9834,citroen,Citroën C1,9999.0,222 000 km,manual,1 560 cm3,Diesel,Skawina,Małopolskie,2006
+9835,citroen,Citroën C5 Tourer HDi 170 Biturbo FAP Exclusive,22999.0,222 000 km,manual,1 560 cm3,Diesel,Swarzędz,Wielkopolskie,2006
+9836,citroen,Citroën Berlingo II 1.4i Control+ (msp),6997.0,164 000 km,manual,1 587 cm3,Benzyna,Poznań,Wielkopolskie,2005
+9837,citroen,Citroën C3 1.4 Exclusive,10980.0,164 000 km,manual,1 587 cm3,Benzyna,Poznań,Wielkopolskie,2005
+9838,citroen,Citroën Berlingo,27900.0,208 000 km,manual,1 360 cm3,Benzyna+LPG,Kielce,Świętokrzyskie,2007
+9839,citroen,Citroën C5 2.0 HDi Exclusive,19900.0,208 000 km,manual,1 360 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2007
+9840,citroen,Citroën Berlingo,9500.0,169 000 km,manual,1 587 cm3,Benzyna,Szamotuły,Wielkopolskie,2006
+9841,citroen,Citroën C4,6100.0,169 000 km,manual,1 587 cm3,Benzyna,Komorniki,Dolnośląskie,2006
+9842,citroen,Citroën Berlingo 1.6 HDi Multispace,20900.0,237 000 km,manual,2 179 cm3,Diesel,Biała Podlaska,Lubelskie,2008
+9843,citroen,Citroën Jumpy Combi,12222.0,237 000 km,manual,2 179 cm3,Diesel,Górzyca,Lubuskie,2008
+9844,citroen,Citroën C1 1.0 Advance,9990.0,199 000 km,manual,1 360 cm3,Benzyna,Świebodzice,Dolnośląskie,2007
+9845,citroen,Citroën Xsara Picasso 1.6 Tendance,10900.0,199 000 km,manual,1 360 cm3,Benzyna,Kwidzyn,Pomorskie,2007
+9846,citroen,Citroën C3 1.4 Tendance,19500.0,100 000 km,manual,1 360 cm3,Benzyna,Nowy Tomyśl,Wielkopolskie,2010
+9847,citroen,Citroën DS3 1.6 THP SportChic,23500.0,100 000 km,manual,1 360 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2010
+9848,citroen,Citroën C5,29900.0,111 600 km,manual,1 598 cm3,Benzyna,Nysa,Opolskie,2012
+9849,citroen,Citroën Jumper,27300.0,111 600 km,manual,1 598 cm3,Benzyna,Jaworzno,Śląskie,2012
+9850,citroen,Citroën C3 1.6 e-HDi Exclusive,20000.0,190 000 km,manual,1 560 cm3,Diesel,Kalisz,Wielkopolskie,2014
+9851,citroen,Citroën DS3 1.6 VTi SoChic,21500.0,190 000 km,manual,1 560 cm3,Diesel,Słupca,Wielkopolskie,2014
+9852,citroen,Citroën C5,24999.0,386 000 km,manual,2 999 cm3,Diesel,Kąty Opolskie,Opolskie,2012
+9853,citroen,Citroën C5 2.0 HDi Exclusive,25800.0,386 000 km,manual,2 999 cm3,Diesel,Zawiercie,Śląskie,2012
+9854,citroen,Citroën C3 1.4 VTi Seduction,22000.0,152 660 km,manual,1 560 cm3,Diesel,Lubno,Lubuskie,2012
+9855,citroen,Citroën C4 1.6 HDi Equilibre,27000.0,152 660 km,manual,1 560 cm3,Diesel,Dybki,Mazowieckie,2012
+9856,citroen,Citroën C3 1.4 HDi Selection,17500.0,123 000 km,manual,1 598 cm3,Benzyna,Przemyśl,Podkarpackie,2010
+9857,citroen,Citroën Berlingo Multispace HDi 115 FAP Exclusive,29500.0,123 000 km,manual,1 598 cm3,Benzyna,Radom,Mazowieckie,2010
+9858,citroen,Citroën Berlingo 1.6 HDi Attraction,24300.0,173 000 km,manual,1 749 cm3,Benzyna,Kasinka Mała,Małopolskie,2010
+9859,citroen,Citroën C3 1.4 HDi Attraction,23500.0,173 000 km,manual,1 749 cm3,Benzyna,Siedlce,Mazowieckie,2010
+9860,citroen,Citroën C3,17900.0,226 000 km,manual,1 997 cm3,Diesel,Lubsko,Lubuskie,2012
+9861,citroen,Citroën Berlingo 1.6 HDI 90 FAP Multispace,29900.0,226 000 km,manual,1 997 cm3,Diesel,Wyszków,Mazowieckie,2012
+9862,citroen,Citroën C3 1.4 Selection,21777.0,104 000 km,manual,1 397 cm3,Benzyna,Wilkowice,Wielkopolskie,2011
+9863,citroen,Citroën DS3,19100.0,104 000 km,manual,1 397 cm3,Benzyna,Bielsko-Biała,Śląskie,2011
+9864,citroen,Citroën C5 2.0 HDi Exclusive,29700.0,187 000 km,manual,1 560 cm3,Diesel,Płońsk,Mazowieckie,2012
+9865,citroen,Citroën C5,24999.0,187 000 km,manual,1 560 cm3,Diesel,Kraków,Małopolskie,2012
+9866,citroen,Citroën C5 Tourer HDi 140 FAP Exclusive,37900.0,169 000 km,manual,1 398 cm3,Diesel,Zbożenna,Mazowieckie,2012
+9867,citroen,Citroën C4 Picasso,38700.0,169 000 km,manual,1 398 cm3,Diesel,Ciechocinek,Kujawsko-pomorskie,2012
+9868,citroen,Citroën C3,30000.0,198 000 km,manual,1 560 cm3,Diesel,Lublin,Lubelskie,2012
+9869,citroen,Citroën C4 1.6 VTi Exclusive,34900.0,198 000 km,manual,1 560 cm3,Diesel,Piekary Śląskie,Śląskie,2012
+9870,citroen,Citroën C3 1.4 Attraction,16800.0,330 000 km,manual,1 560 cm3,Diesel,Tomaszów Mazowiecki,Łódzkie,2014
+9871,citroen,Citroën C5 1.6 HDi Dynamique,20900.0,330 000 km,manual,1 560 cm3,Diesel,Pleszew,Wielkopolskie,2014
+9872,citroen,Citroën C3 Picasso 1.4i Attraction,27999.0,148 200 km,manual,1 398 cm3,Diesel,Kąty Opolskie,Opolskie,2014
+9873,citroen,Citroën C5 1.8i 16V Attraction,26000.0,148 200 km,manual,1 398 cm3,Diesel,Wrocław,Dolnośląskie,2014
+9874,citroen,Citroën C3 1.4 HDi Selection,23300.0,164 000 km,manual,1 397 cm3,Benzyna,Żarki Letnisko,Śląskie,2010
+9875,citroen,Citroën C5 2.0 HDi Selection,27700.0,164 000 km,manual,1 397 cm3,Benzyna,Kutno,Łódzkie,2010
+9876,citroen,Citroën C3 1.4 16V Exclusive,17900.0,216 038 km,manual,1 560 cm3,Diesel,Głogów,Dolnośląskie,2012
+9877,citroen,Citroën C4 1.6 VTi Seduction,32500.0,216 038 km,manual,1 560 cm3,Diesel,Bruczków,Wielkopolskie,2012
+9878,citroen,Citroën C3 1.4 HDi,10500.0,157 000 km,manual,1 398 cm3,Diesel,Kawęczyn,Wielkopolskie,2010
+9879,citroen,Citroën DS5 2.0 HDi SportChic,54900.0,157 000 km,manual,1 398 cm3,Diesel,Zawiercie,Śląskie,2010
+9880,citroen,Citroën C4 Cactus PureTech 82 Shine Edition,35500.0,71 000 km,manual,1 997 cm3,Diesel,Czermno,Mazowieckie,2014
+9881,citroen,Citroën Berlingo Multispace HDi 115 FAP Tendance,34900.0,71 000 km,manual,1 997 cm3,Diesel,Jastrząb,Śląskie,2014
+9882,citroen,Citroën C5 2.0 HDi Exclusive,27000.0,175 100 km,manual,1 199 cm3,Benzyna,Starogard Gdański,Pomorskie,2014
+9883,citroen,Citroën C5 1.6 HDi Dynamique,19900.0,175 100 km,manual,1 199 cm3,Benzyna,Ryczywół,Wielkopolskie,2014
+9884,citroen,Citroën Berlingo 1.6 HDi 110 FAP Multispace Exclusive,27500.0,202 000 km,manual,1 560 cm3,Diesel,Będargowo,Zachodniopomorskie,2014
+9885,citroen,Citroën C3,31000.0,202 000 km,manual,1 560 cm3,Diesel,Katowice,Śląskie,2014
+9886,citroen,Citroën C1,10900.0,216 000 km,manual,1 997 cm3,Diesel,Wojkowice,Dolnośląskie,2010
+9887,citroen,Citroën C4 Picasso 1.6 THP Intensive,45500.0,216 000 km,manual,1 997 cm3,Diesel,Połomia,Podkarpackie,2010
+9888,citroen,Citroën Berlingo 1.6 HDi Multispace,25000.0,162 500 km,manual,1 560 cm3,Diesel,Częstochowa,Śląskie,2010
+9889,citroen,Citroën C3 1.4 Attraction,19900.0,162 500 km,manual,1 560 cm3,Diesel,Jarocin,Wielkopolskie,2010
+9890,citroen,Citroën C3 Picasso 1.4i Seduction,15999.0,290 000 km,manual,1 560 cm3,Diesel,Wągrowiec,Wielkopolskie,2011
+9891,citroen,Citroën C1,15300.0,290 000 km,manual,1 560 cm3,Diesel,Żarki,Śląskie,2011
+9892,citroen,Citroën DS4 e-HDi 110 Chic,22000.0,72 725 km,manual,1 598 cm3,Benzyna,Wrzosowo,Zachodniopomorskie,2013
+9893,citroen,Citroën DS3 VTi 95 Chic,13990.0,72 725 km,manual,1 598 cm3,Benzyna,Miejska Górka,Wielkopolskie,2013
+9894,citroen,Citroën C-Elysée 1.6 VTi Seduction,23300.0,105 700 km,manual,998 cm3,Benzyna,Kalisz,Wielkopolskie,2010
+9895,citroen,Citroën C5 1.6 HDi Attraction,8999.0,105 700 km,manual,998 cm3,Benzyna,Poznań,Wielkopolskie,2010
+9896,citroen,Citroën Berlingo,29500.0,125 486 km,manual,1 598 cm3,Benzyna,Łódź,Łódzkie,2014
+9897,citroen,Citroën C4 Picasso 2.0 BlueHDi Exclusive,45900.0,125 486 km,manual,1 598 cm3,Benzyna,Lębork,Pomorskie,2014
+9898,citroen,Citroën C4 Picasso,25900.0,281 000 km,manual,1 560 cm3,Diesel,Płock,Mazowieckie,2012
+9899,citroen,Citroën C4,28800.0,281 000 km,manual,1 560 cm3,Diesel,Dębno Polskie,Wielkopolskie,2012
+9900,citroen,Citroën DS3,14900.0,160 000 km,manual,1 360 cm3,Benzyna,Pleszew,Wielkopolskie,2010
+9901,citroen,Citroën Berlingo 1.6 HDI 110 FAP XTR,27900.0,160 000 km,manual,1 360 cm3,Benzyna,Szydłów,Świętokrzyskie,2010
+9902,citroen,Citroën C1 1.0i Vitamin,26900.0,195 000 km,manual,1 397 cm3,Benzyna,Janki,Mazowieckie,2010
+9903,citroen,Citroën Berlingo II 1.6 HDi Multispace,26900.0,195 000 km,manual,1 397 cm3,Benzyna,Płock,Mazowieckie,2010
+9904,citroen,Citroën C5 2.0 HDi Exclusive,32990.0,125 357 km,manual,998 cm3,Benzyna,Wałbrzych,Dolnośląskie,2010
+9905,citroen,Citroën C4 1.6 HDi Selection,11999.0,125 357 km,manual,998 cm3,Benzyna,Świętoszówka,Śląskie,2010
+9906,citroen,Citroën Berlingo,15900.0,298 600 km,manual,1 560 cm3,Diesel,Gdynia,Pomorskie,2011
+9907,citroen,Citroën C5 2.0i 16V Confort,27900.0,298 600 km,manual,1 560 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2011
+9908,citroen,Citroën DS4 1.6 VTi Chic,32900.0,159 000 km,manual,1 397 cm3,Benzyna,Bilcza,Świętokrzyskie,2010
+9909,citroen,Citroën C4 Grand Picasso 1.6 HDi My Way,20900.0,159 000 km,manual,1 397 cm3,Benzyna,Kielce,Świętokrzyskie,2010
+9910,citroen,Citroën C4 Picasso BlueHDi 150 Exclusive,19900.0,230 000 km,manual,1 997 cm3,Diesel,Ostrzeszów,Wielkopolskie,2013
+9911,citroen,Citroën C5,24900.0,230 000 km,manual,1 997 cm3,Diesel,Kamień Pomorski,Zachodniopomorskie,2013
+9912,citroen,Citroën C4 Picasso 1.6 HDi Attraction,21850.0,211 604 km,manual,1 560 cm3,Diesel,Wrocław,Dolnośląskie,2013
+9913,citroen,Citroën DS4 e-HDi 110 Chic,28700.0,211 604 km,manual,1 560 cm3,Diesel,Radom,Mazowieckie,2013
+9914,citroen,Citroën C5 2.0 HDi Exclusive,31900.0,245 000 km,manual,1 560 cm3,Diesel,Opole,Opolskie,2011
+9915,citroen,Citroën C5,23900.0,245 000 km,manual,1 560 cm3,Diesel,Głogów Małopolski,Podkarpackie,2011
+9916,citroen,Citroën C4 Picasso,46700.0,239 230 km,manual,1 560 cm3,Diesel,Czechy,Łódzkie,2012
+9917,citroen,Citroën C4 Picasso 1.6 VTi Selection,19900.0,239 230 km,manual,1 560 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2012
+9918,citroen,Citroën C8 2.0 HDi Exclusive EU5,29500.0,242 000 km,manual,1 997 cm3,Diesel,Łuków,Lubelskie,2011
+9919,citroen,Citroën C5,26500.0,242 000 km,manual,1 997 cm3,Diesel,Gorlice,Małopolskie,2011
+9920,citroen,Citroën Jumpy Combi,41999.0,219 700 km,manual,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2010
+9921,citroen,Citroën DS4,21900.0,219 700 km,manual,1 997 cm3,Diesel,Gostyń,Wielkopolskie,2010
+9922,citroen,Citroën C4,21900.0,165 000 km,manual,1 598 cm3,Benzyna,Żukowo,Pomorskie,2014
+9923,citroen,Citroën Berlingo 1.6 HDi XTR,36900.0,165 000 km,manual,1 598 cm3,Benzyna,Radom,Mazowieckie,2014
+9924,citroen,Citroën Berlingo 1.6 HDi Multispace,28900.0,201 000 km,manual,1 598 cm3,Benzyna,Ząbki,Mazowieckie,2010
+9925,citroen,Citroën C3 Picasso 1.6i Exclusive,24900.0,201 000 km,manual,1 598 cm3,Benzyna,Wałbrzych,Dolnośląskie,2010
+9926,citroen,Citroën C5 2.0 HDi Exclusive,28500.0,285 400 km,manual,1 997 cm3,Diesel,Konin,Wielkopolskie,2014
+9927,citroen,Citroën C5 Tourer HDi 110 FAP Style,26900.0,285 400 km,manual,1 997 cm3,Diesel,Orzesze,Śląskie,2014
+9928,citroen,Citroën Nemo,21500.0,235 000 km,manual,1 997 cm3,Diesel,Bielsko-Biała,Śląskie,2013
+9929,citroen,Citroën C5 2.0 HDi Selection,28900.0,235 000 km,manual,1 997 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2013
+9930,citroen,Citroën C4 Picasso 1.6 HDi Selection,15900.0,224 000 km,manual,1 997 cm3,Diesel,Kielce,Świętokrzyskie,2011
+9931,citroen,Citroën C5 2.0 HDi Exclusive,29800.0,224 000 km,manual,1 997 cm3,Diesel,Oława,Dolnośląskie,2011
+9932,citroen,Citroën C3 1.0 VTi Attraction,16900.0,220 000 km,manual,1 997 cm3,Diesel,Łódź,Łódzkie,2012
+9933,citroen,Citroën C4 Grand Picasso 1.6 e-HDi Intensive,35900.0,220 000 km,manual,1 997 cm3,Diesel,Bodzanów,Małopolskie,2012
+9934,citroen,Citroën C4,23900.0,221 400 km,manual,1 598 cm3,Benzyna,Stargard Szczeciński,Zachodniopomorskie,2010
+9935,citroen,Citroën C3 Picasso 1.6 HDi Exclusive,18900.0,221 400 km,manual,1 598 cm3,Benzyna,Rogozino,Mazowieckie,2010
+9936,citroen,Citroën C3 Picasso 1.4i Attraction,14900.0,191 000 km,manual,1 560 cm3,Diesel,Zbytków,Śląskie,2013
+9937,citroen,Citroën C5 2.0 HDi Exclusive,31900.0,191 000 km,manual,1 560 cm3,Diesel,Katowice,Śląskie,2013
+9938,citroen,Citroën C5 2.0 HDi Exclusive,26900.0,260 000 km,manual,1 560 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2013
+9939,citroen,Citroën C5 1.6 HDi Attraction,19900.0,260 000 km,manual,1 560 cm3,Diesel,Płock,Mazowieckie,2013
+9940,citroen,Citroën DS3 1.6 THP Racing,23900.0,61 000 km,manual,1 598 cm3,Benzyna,Września,Wielkopolskie,2011
+9941,citroen,Citroën C4 Picasso BlueHDi 120 Exclusive,41900.0,61 000 km,manual,1 598 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2011
+9942,citroen,Citroën DS3 1.6 THP SportChic,32900.0,70 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2013
+9943,citroen,Citroën C4 1.6 VTi Attraction,32900.0,70 000 km,manual,1 598 cm3,Benzyna,Łuszczanowice,Łódzkie,2013
+9944,citroen,Citroën C3 Picasso 1.6i Exclusive,17500.0,198 000 km,manual,1 598 cm3,Benzyna,Leszno,Wielkopolskie,2014
+9945,citroen,Citroën C1 1.0i Desire,14900.0,198 000 km,manual,1 598 cm3,Benzyna,Orchów,Łódzkie,2014
+9946,citroen,Citroën C4 Cactus 1.2 PureTech Feel Elite,35500.0,136 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2010
+9947,citroen,Citroën C3 1.4 Selection,22600.0,136 000 km,manual,1 598 cm3,Benzyna,Wieluń,Łódzkie,2010
+9948,citroen,Citroën C3,26500.0,182 000 km,manual,998 cm3,Benzyna,Lublin,Lubelskie,2011
+9949,citroen,Citroën C5 Tourer HDi 165 FAP Selection,25900.0,182 000 km,manual,998 cm3,Benzyna,Malbork,Pomorskie,2011
+9950,citroen,Citroën DS3 VTi 95 Chic,28900.0,80 000 km,manual,1 199 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2014
+9951,citroen,Citroën C4 Picasso 1.6 VTi Selection,21500.0,80 000 km,manual,1 199 cm3,Benzyna,Jodłowiec,Łódzkie,2014
+9952,citroen,Citroën Nemo 1.4 HDi Plus,10700.0,94 000 km,manual,1 360 cm3,Benzyna,Ostróda,Warmińsko-mazurskie,2011
+9953,citroen,Citroën C3 1.2 PureTech MoreLife,29900.0,94 000 km,manual,1 360 cm3,Benzyna,Poznań,Wielkopolskie,2011
+9954,citroen,Citroën DS3 1.6 VTi SoChic,36000.0,126 345 km,manual,1 397 cm3,Benzyna,Wrocław,Dolnośląskie,2011
+9955,citroen,Citroën C3 Picasso,16400.0,126 345 km,manual,1 397 cm3,Benzyna,Zawiercie,Śląskie,2011
+9956,citroen,Citroën C4 Picasso 1.6 VTi Selection,20900.0,236 000 km,manual,1 997 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2012
+9957,citroen,Citroën C4 Picasso e-HDi 115 Exclusive,33500.0,236 000 km,manual,1 997 cm3,Diesel,Warszawa,Mazowieckie,2012
+9958,citroen,Citroën C4 1.6 VTi Selection,37999.0,117 000 km,manual,1 397 cm3,Benzyna,Legionowo,Mazowieckie,2012
+9959,citroen,Citroën C4 Picasso,22890.0,117 000 km,manual,1 397 cm3,Benzyna,Śrem,Wielkopolskie,2012
+9960,citroen,Citroën C3,23500.0,222 945 km,manual,1 598 cm3,Benzyna+LPG,Zabieżki,Mazowieckie,2012
+9961,citroen,Citroën C5,16500.0,222 945 km,manual,1 598 cm3,Benzyna+LPG,Kostomłoty Pierwsze,Świętokrzyskie,2012
+9962,citroen,Citroën C3,33000.0,228 000 km,manual,1 398 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2010
+9963,citroen,Citroën DS4,34900.0,228 000 km,manual,1 398 cm3,Diesel,Ostrołęka,Mazowieckie,2010
+9964,citroen,Citroën Berlingo,36900.0,115 000 km,manual,1 199 cm3,Benzyna,Niwy,Świętokrzyskie,2014
+9965,citroen,Citroën C3 1.4 Selection,25999.0,115 000 km,manual,1 199 cm3,Benzyna,Wałbrzych,Dolnośląskie,2014
+9966,citroen,Citroën C4 PureTech 110 Selection,35900.0,33 200 km,manual,1 598 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2012
+9967,citroen,Citroën C4 Cactus 1.2 PureTech Feel,38700.0,33 200 km,manual,1 598 cm3,Benzyna,Chełm,Lubelskie,2012
+9968,citroen,Citroën DS3,28500.0,204 200 km,manual,1 560 cm3,Diesel,Szczecin,Zachodniopomorskie,2011
+9969,citroen,Citroën C4 Picasso,21999.0,204 200 km,manual,1 560 cm3,Diesel,Kościan,Wielkopolskie,2011
+9970,citroen,Citroën C3 1.2 PureTech Selection,22900.0,206 000 km,manual,1 598 cm3,Benzyna,Kotlin,Wielkopolskie,2011
+9971,citroen,Citroën C3 1.4 Attraction,13900.0,206 000 km,manual,1 598 cm3,Benzyna,Sulejówek,Mazowieckie,2011
+9972,citroen,Citroën DS3 HDi 110 FAP SportChic,29900.0,240 000 km,manual,1 560 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2014
+9973,citroen,Citroën C4,34900.0,240 000 km,manual,1 560 cm3,Diesel,Wieluń,Łódzkie,2014
+9974,citroen,Citroën Berlingo 1.6 HDi Multispace,29800.0,199 000 km,manual,1 560 cm3,Diesel,Jarosław,Podkarpackie,2010
+9975,citroen,Citroën C5,17900.0,199 000 km,manual,1 560 cm3,Diesel,Koło,Wielkopolskie,2010
+9976,citroen,Citroën Berlingo 1.6 VTi Multispace,34900.0,206 000 km,manual,1 997 cm3,Diesel,Wielka Wieś,Małopolskie,2011
+9977,citroen,Citroën C4 Grand Picasso,44900.0,206 000 km,manual,1 997 cm3,Diesel,Kutno,Łódzkie,2011
+9978,citroen,Citroën C5 2.0 HDi Selection,28900.0,132 780 km,manual,1 598 cm3,Benzyna,Gniezno,Wielkopolskie,2013
+9979,citroen,Citroën Berlingo 1.6 HDi XTR,14500.0,132 780 km,manual,1 598 cm3,Benzyna,Mieścisko,Wielkopolskie,2013
+9980,citroen,Citroën C5,26900.0,232 000 km,manual,1 997 cm3,Diesel,Kutno,Łódzkie,2014
+9981,citroen,Citroën DS3 1.6 HDi SoChic,29900.0,232 000 km,manual,1 997 cm3,Diesel,Wąchock,Świętokrzyskie,2014
+9982,citroen,Citroën C4 Picasso 1.6 HDi My Way,25000.0,200 000 km,manual,1 997 cm3,Diesel,Rybnik,Śląskie,2010
+9983,citroen,Citroën C4 Picasso,34500.0,200 000 km,manual,1 997 cm3,Diesel,Tomaszów Lubelski,Lubelskie,2010
+9984,citroen,Citroën C3 1.4 Selection,24000.0,238 088 km,manual,1 560 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2011
+9985,citroen,Citroën C4 Picasso,33900.0,238 088 km,manual,1 560 cm3,Diesel,Częstochowa,Śląskie,2011
+9986,citroen,Citroën C4 Aircross 1.6 STT 4x2 Seduction,44900.0,214 000 km,manual,1 997 cm3,Diesel,Koluszki,Łódzkie,2011
+9987,citroen,Citroën C4 Grand Picasso 2.0 BlueHDi Exclusive,49500.0,214 000 km,manual,1 997 cm3,Diesel,Tarnowskie Góry,Śląskie,2011
+9988,citroen,Citroën C4 1.6 HDi Seduction,25000.0,196 000 km,manual,1 560 cm3,Diesel,Płońsk,Mazowieckie,2013
+9989,citroen,Citroën C4 Picasso e-HDi 115 Intensive,32900.0,196 000 km,manual,1 560 cm3,Diesel,Pierzchnica,Świętokrzyskie,2013
+9990,citroen,Citroën C4 Picasso 1.6 e-HDi Intensive,37900.0,202 165 km,manual,1 560 cm3,Diesel,Parysów,Mazowieckie,2012
+9991,citroen,Citroën C4 1.6 VTi Attraction,12100.0,202 165 km,manual,1 560 cm3,Diesel,Bibice,Małopolskie,2012
+9992,citroen,Citroën Berlingo 1.6 HDi Equilibre Exclusive,27900.0,180 000 km,manual,1 560 cm3,Diesel,Przasnysz,Mazowieckie,2013
+9993,citroen,Citroën C5 2.0 HDi Exclusive,29600.0,180 000 km,manual,1 560 cm3,Diesel,Golina,Wielkopolskie,2013
+9994,citroen,Citroën C4 Picasso,19500.0,95 000 km,manual,1 360 cm3,Benzyna,Siedlce,Mazowieckie,2012
+9995,citroen,Citroën C4 1.6 HDi Selection,26400.0,95 000 km,manual,1 360 cm3,Benzyna,Międzyrzecz,Lubuskie,2012
+9996,citroen,Citroën C4 Aircross,40900.0,223 432 km,manual,1 560 cm3,Diesel,Płońsk,Mazowieckie,2013
+9997,citroen,Citroën C4 Cactus 1.2 PureTech Feel Edition,41900.0,223 432 km,manual,1 560 cm3,Diesel,Janki,Mazowieckie,2013
+9998,citroen,Citroën C3 1.4 Exclusive,25999.0,173 937 km,manual,1 590 cm3,Benzyna,Nowy Sącz,Małopolskie,2013
+9999,citroen,Citroën C3 Picasso,28000.0,173 937 km,manual,1 590 cm3,Benzyna,Poznań,Wielkopolskie,2013
+10000,citroen,Citroën C1 1.0 VTi Airscape Feel,15000.0,215 699 km,manual,1 997 cm3,Diesel,Legnica,Dolnośląskie,2014
+10001,citroen,Citroën C5 2.0 HDi Dynamique,19600.0,215 699 km,manual,1 997 cm3,Diesel,Pieńsk,Dolnośląskie,2014
+10002,citroen,Citroën Berlingo Multispace HDi 115 FAP XTR,29999.0,260 668 km,manual,1 560 cm3,Diesel,Kostrzyn,Wielkopolskie,2013
+10003,citroen,Citroën C5 Cross Tourer 2.0 HDi Exclusive,41000.0,260 668 km,manual,1 560 cm3,Diesel,Jenin,Lubuskie,2013
+10004,citroen,Citroën DS4 1.6 HDi SoChic,33500.0,220 000 km,manual,1 560 cm3,Diesel,Wieliczka,Małopolskie,2013
+10005,citroen,Citroën C3,28000.0,220 000 km,manual,1 560 cm3,Diesel,Kraków,Małopolskie,2013
+10006,citroen,Citroën C4 Picasso 1.2 PureTech Exclusive,60500.0,89 000 km,manual,1 199 cm3,Benzyna,Jedlnia-Letnisko,Mazowieckie,2017
+10007,citroen,Citroën C4 Cactus 1.2 PureTech Shine,44900.0,89 000 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2017
+10008,citroen,Citroën C3,49900.0,45 200 km,manual,1 199 cm3,Benzyna,Koło,Wielkopolskie,2017
+10009,citroen,Citroën C3 Picasso 1.2 PureTech MoreLife,17900.0,45 200 km,manual,1 199 cm3,Benzyna,Węgrzce,Małopolskie,2017
+10010,citroen,Citroën C4 Cactus 1.2 PureTech Feel,52000.0,40 000 km,manual,1 199 cm3,Benzyna,Jedlińsk,Mazowieckie,2019
+10011,citroen,Citroën C4 Grand Picasso 2.0 BlueHDi Exclusive,53999.0,40 000 km,manual,1 199 cm3,Benzyna,Jastrząb,Śląskie,2019
+10012,citroen,Citroën C5 Aircross 1.2 PureTech Live,57000.0,68 080 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2016
+10013,citroen,Citroën C3 1.2 PureTech Shine,59899.0,68 080 km,manual,1 199 cm3,Benzyna,Oleśnica,Dolnośląskie,2016
+10014,citroen,Citroën Berlingo Multispace BlueHDi 120 S&S XTR,42700.0,104 205 km,manual,1 199 cm3,Benzyna,Parczew,Lubelskie,2018
+10015,citroen,Citroën C4 Picasso 2.0 BlueHDi Exclusive,43000.0,104 205 km,manual,1 199 cm3,Benzyna,Cieszyn,Śląskie,2018
+10016,citroen,Citroën C4 Picasso,50500.0,139 900 km,manual,1 997 cm3,Diesel,Gniezno,Wielkopolskie,2015
+10017,citroen,Citroën Berlingo 1.6 BlueHDi Feel,36900.0,139 900 km,manual,1 997 cm3,Diesel,Rydzyna,Wielkopolskie,2015
+10018,citroen,Citroën Jumper 33 L2H2 Confort,50000.0,38 566 km,manual,1 199 cm3,Benzyna,Busko-Zdrój,Świętokrzyskie,2019
+10019,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel Pack S&S,63900.0,38 566 km,manual,1 199 cm3,Benzyna,Załom,Zachodniopomorskie,2019
+10020,citroen,Citroën C4 Cactus 1.2 PureTech Shine S&S,44900.0,60 353 km,manual,1 199 cm3,Benzyna,Strzyżów,Podkarpackie,2019
+10021,citroen,Citroën C5 Aircross,87900.0,60 353 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2019
+10022,citroen,Citroën C4 Grand Picasso BlueHDi 150 Intensive,48400.0,156 000 km,manual,1 560 cm3,Diesel,Parczew,Lubelskie,2016
+10023,citroen,Citroën C3 BlueHDi 75 S&S 83g FEEL,35000.0,156 000 km,manual,1 560 cm3,Diesel,Raszków,Wielkopolskie,2016
+10024,citroen,Citroën C3 Aircross 1.2 PureTech Feel S&S,53900.0,230 000 km,manual,1 997 cm3,Diesel,Cedzyna,Świętokrzyskie,2015
+10025,citroen,Citroën C5 Aircross,85000.0,230 000 km,manual,1 997 cm3,Diesel,Piaseczno,Mazowieckie,2015
+10026,citroen,Citroën C4 Picasso 1.2 PureTech Exclusive,43900.0,164 500 km,manual,1 560 cm3,Diesel,Szczecin,Zachodniopomorskie,2018
+10027,citroen,Citroën C3 Pure Tech 110 S&S SHINE,48900.0,164 500 km,manual,1 560 cm3,Diesel,Limanowa,Małopolskie,2018
+10028,citroen,Citroën Berlingo 1.6 HDi XTR,28900.0,181 000 km,manual,1 560 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2017
+10029,citroen,Citroën C5,30000.0,181 000 km,manual,1 560 cm3,Diesel,Biłgoraj,Lubelskie,2017
+10030,citroen,Citroën C4 Cactus 1.2 PureTech Feel,46900.0,266 000 km,manual,2 198 cm3,Diesel,Poznań,Wielkopolskie,2016
+10031,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,69000.0,266 000 km,manual,2 198 cm3,Diesel,Lublin,Lubelskie,2016
+10032,citroen,Citroën C3,46900.0,42 000 km,manual,1 199 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2019
+10033,citroen,Citroën C4 Cactus 1.2 PureTech Rip Curl S&S,39990.0,42 000 km,manual,1 199 cm3,Benzyna,Fabianów,Wielkopolskie,2019
+10034,citroen,Citroën C4 Picasso 1.6 BlueHDi MoreLife S&S,59900.0,147 102 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2016
+10035,citroen,Citroën Berlingo,47700.0,147 102 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2016
+10036,citroen,Citroën C4 Grand Picasso 1.6 BlueHDi Shine S&S,48900.0,69 170 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2019
+10037,citroen,Citroën C1,28800.0,69 170 km,manual,1 199 cm3,Benzyna,Krotoszyn,Wielkopolskie,2019
+10038,citroen,Citroën C4 Cactus 1.2 PureTech GPF C-Series,47900.0,98 000 km,manual,1 199 cm3,Benzyna,Strzegom,Dolnośląskie,2018
+10039,citroen,Citroën C3 1.2 PureTech Live,46900.0,98 000 km,manual,1 199 cm3,Benzyna,Strzegom,Dolnośląskie,2018
+10040,citroen,Citroën C4 Grand Picasso BlueHDi 120 SELECTION,42700.0,16 000 km,manual,1 199 cm3,Benzyna,Płock,Mazowieckie,2019
+10041,citroen,Citroën C3 Aircross,70000.0,16 000 km,manual,1 199 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2019
+10042,citroen,Citroën C4 Picasso,62000.0,242 580 km,manual,1 560 cm3,Diesel,Katowice,Śląskie,2015
+10043,citroen,Citroën C5 Aircross,88000.0,242 580 km,manual,1 560 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2015
+10044,citroen,Citroën C4 Grand Picasso 1.2 PureTech Exclusive,43700.0,46 363 km,manual,1 199 cm3,Benzyna,Częstochowa,Śląskie,2018
+10045,citroen,Citroën Berlingo,34999.0,46 363 km,manual,1 199 cm3,Benzyna,Kutno,Łódzkie,2018
+10046,citroen,Citroën Berlingo 1.6 HDi 90 FAP Multispace,43900.0,76 245 km,manual,1 560 cm3,Diesel,Tuchów,Małopolskie,2017
+10047,citroen,Citroën C5 Tourer BlueHDi 150 S&S Cross Tourer,43000.0,76 245 km,manual,1 560 cm3,Diesel,Łódź,Łódzkie,2017
+10048,citroen,Citroën C3 1.2 PureTech Live,46900.0,54 597 km,manual,1 199 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2019
+10049,citroen,Citroën C4 1.6 BlueHDi Feel Edition S&S,36700.0,54 597 km,manual,1 199 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2019
+10050,citroen,Citroën C5 2.0 BlueHDi Exclusive S&S,37500.0,172 300 km,manual,1 199 cm3,Benzyna,Pruszków,Mazowieckie,2016
+10051,citroen,Citroën C3,37000.0,172 300 km,manual,1 199 cm3,Benzyna,Chmielnik,Świętokrzyskie,2016
+10052,citroen,Citroën Berlingo 1.6 BlueHDi XTR S&S,39900.0,239 720 km,manual,1 560 cm3,Diesel,Gdańsk,Pomorskie,2018
+10053,citroen,Citroën C3 Aircross 1.6 BlueHDi Live S&S,29900.0,239 720 km,manual,1 560 cm3,Diesel,Pleszew,Wielkopolskie,2018
+10054,citroen,Citroën C4 Grand Picasso 1.6 BlueHDi MoreLife S&S,42700.0,145 700 km,manual,1 560 cm3,Diesel,Poznań,Wielkopolskie,2015
+10055,citroen,Citroën DS4 e-HDi 115 SoChic,37800.0,145 700 km,manual,1 560 cm3,Diesel,Płock,Mazowieckie,2015
+10056,citroen,Citroën C4 Picasso,61900.0,195 500 km,manual,1 997 cm3,Diesel,Opoczno,Łódzkie,2015
+10057,citroen,Citroën C4 Picasso 1.6 e-HDi Intensive,44900.0,195 500 km,manual,1 997 cm3,Diesel,Kośmin,Mazowieckie,2015
+10058,citroen,Citroën Berlingo 1.6 BlueHDi Feel Edition,36500.0,70 000 km,manual,1 199 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2019
+10059,citroen,Citroën C4 Aircross,53900.0,70 000 km,manual,1 199 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2019
+10060,citroen,Citroën Berlingo Multispace BlueHDi 100 SELECTION,47900.0,104 131 km,manual,1 560 cm3,Diesel,Jedlińsk,Mazowieckie,2016
+10061,citroen,Citroën Berlingo Multispace BlueHDi 120 S&S SHINE,49900.0,104 131 km,manual,1 560 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2016
+10062,citroen,Citroën Berlingo,26445.0,312 000 km,manual,1 997 cm3,Diesel,Brzózki,Zachodniopomorskie,2015
+10063,citroen,Citroën DS3 1.2 PureTech SoChic S&S,37000.0,312 000 km,manual,1 997 cm3,Diesel,Reda,Pomorskie,2015
+10064,citroen,Citroën C3,37900.0,60 000 km,manual,1 199 cm3,Benzyna,Kępno,Wielkopolskie,2017
+10065,citroen,Citroën C5,45900.0,60 000 km,manual,1 199 cm3,Benzyna,Staszów,Świętokrzyskie,2017
+10066,citroen,Citroën C4 Grand Picasso 1.6 BlueHDi MoreLife S&S,64900.0,283 100 km,manual,1 560 cm3,Diesel,Poznań,Wielkopolskie,2018
+10067,citroen,Citroën C4 Picasso 1.6 BlueHDi MoreLife S&S,64900.0,283 100 km,manual,1 560 cm3,Diesel,Poznań,Wielkopolskie,2018
+10068,citroen,Citroën C3,46600.0,47 800 km,manual,1 560 cm3,Diesel,Gniezno,Wielkopolskie,2018
+10069,citroen,Citroën C3 1.2 PureTech Feel,39900.0,47 800 km,manual,1 560 cm3,Diesel,Mielec,Podkarpackie,2018
+10070,citroen,Citroën C-Elysée,23900.0,90 000 km,manual,1 585 cm3,Diesel,Chodzież,Wielkopolskie,2020
+10071,citroen,Citroën C3 1.2 PureTech Feel Pack,69990.0,90 000 km,manual,1 585 cm3,Diesel,Kraków,Małopolskie,2020
+10072,citroen,Citroën C3 1.2 PureTech Shine S&S,85950.0,1 190 km,manual,1 199 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2022
+10073,citroen,Citroën Berlingo M 1.5 BlueHDI Feel,118939.0,1 190 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2022
+10074,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,113000.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10075,citroen,Citroën C4,113500.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10076,citroen,Citroën C3,87000.0,1 km,manual,1 499 cm3,Diesel,Warszawa,Mazowieckie,2023
+10077,citroen,Citroën Jumper,92900.0,1 km,manual,1 499 cm3,Diesel,Warszawa,Mazowieckie,2023
+10078,citroen,Citroën C3,87000.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10079,citroen,Citroën C3,87000.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10080,citroen,Citroën C4 1.2 PureTech C-Series S&S,110700.0,1 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2023
+10081,citroen,Citroën C3 1.2 PureTech Shine,69900.0,1 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10082,citroen,Citroën C3,63000.0,1 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10083,citroen,Citroën Berlingo,76000.0,1 km,manual,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+10084,citroen,Citroën C3 1.2 PureTech Shine,53900.0,100 000 km,manual,2 179 cm3,Diesel,Nowy Tomyśl,Wielkopolskie,2020
+10085,citroen,Citroën C3,39950.0,100 000 km,manual,2 179 cm3,Diesel,Ryki,Lubelskie,2020
+10086,citroen,Citroën C4 1.5 BlueHDi Shine S&S,99990.0,1 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2023
+10087,citroen,Citroën C3,32900.0,1 km,manual,1 199 cm3,Benzyna,Chodzież,Wielkopolskie,2023
+10088,citroen,Citroën C3 1.2 PureTech Feel,54800.0,1 km,manual,1 199 cm3,Benzyna,Nakło Śląskie,Śląskie,2023
+10089,citroen,Citroën C5 Aircross BlueHDI 130 S&S LIVE,85900.0,1 km,manual,1 199 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,2023
+10090,citroen,Citroën C4,54900.0,5 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10091,citroen,Citroën,103400.0,5 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2022
+10092,citroen,Citroën C4 Cactus 1.5 BlueHDi Feel Pack,55500.0,12 900 km,manual,1 199 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,2022
+10093,citroen,Citroën C3 1.2 PureTech Origins,52900.0,12 900 km,manual,1 199 cm3,Benzyna,Łask,Łódzkie,2022
+10094,citroen,Citroën C3 Aircross 1.2 PureTech GPF Rip Curl S&S,40000.0,38 168 km,manual,1 199 cm3,Benzyna,Opole,Opolskie,2020
+10095,citroen,Citroën C4 SpaceTourer Grand BlueHDi 130 Stop&Start FEEL,41000.0,38 168 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2020
+10096,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,78500.0,51 000 km,manual,1 499 cm3,Diesel,Skierniewice,Łódzkie,2020
+10097,citroen,Citroën C4 1.5 BlueHDi Live Pack S&S,58500.0,51 000 km,manual,1 499 cm3,Diesel,Jędrzejów,Świętokrzyskie,2020
+10098,citroen,Citroën C3,74900.0,53 000 km,manual,1 199 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2020
+10099,citroen,Citroën C3 1.5 BlueHDi Shine,39900.0,53 000 km,manual,1 199 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2020
+10100,citroen,Citroën C3 1.2 PureTech Feel,50900.0,27 146 km,manual,1 499 cm3,Diesel,Gliwice,Śląskie,2022
+10101,citroen,Citroën C3 1.2 PureTech Shine,70800.0,27 146 km,manual,1 499 cm3,Diesel,Gliwice,Śląskie,2022
+10102,citroen,Citroën C4 1.2 PureTech Feel S&S,96900.0,2 km,manual,1 199 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+10103,citroen,Citroën C4 1.2 PureTech Feel S&S,98900.0,2 km,manual,1 199 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+10104,citroen,Citroën C3 1.2 PureTech Feel Pack,70500.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10105,citroen,Citroën C3 1.2 PureTech Shine,77700.0,2 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10106,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,89950.0,3 918 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10107,citroen,Citroën C3 1.2 PureTech Live,44500.0,3 918 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2022
+10108,citroen,Citroën C3 1.2 PureTech Shine,77900.0,2 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10109,citroen,Citroën C3 1.2 PureTech Shine,81900.0,2 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10110,citroen,Citroën C4 1.2 PureTech Shine S&S,99800.0,8 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2022
+10111,citroen,Citroën C4 1.2 PureTech Shine S&S,99800.0,8 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2022
+10112,citroen,Citroën C3 Aircross,78000.0,18 000 km,manual,1 199 cm3,Benzyna,Piaseczno,Mazowieckie,2020
+10113,citroen,Citroën Jumper,95000.0,18 000 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2020
+10114,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,89900.0,2 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10115,citroen,Citroën C4 1.2 PureTech Feel S&S,106900.0,2 km,manual,1 199 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+10116,citroen,Citroën C3 1.5 BlueHDi Live S&S,52999.0,2 km,manual,1 199 cm3,Benzyna,Września,Wielkopolskie,2022
+10117,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,99900.0,2 km,manual,1 199 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+10118,citroen,Citroën C3,61501.0,4 732 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2021
+10119,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,93100.0,4 732 km,manual,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2021
+10120,citroen,Citroën C3 1.2 PureTech Shine,59900.0,6 325 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2021
+10121,citroen,Citroën C3 1.2 PureTech You,62900.0,6 325 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2021
+10122,citroen,Citroën C3,52500.0,2 499 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2021
+10123,citroen,Citroën Berlingo M 1.2 PureTech Feel S&S,29900.0,2 499 km,manual,1 199 cm3,Benzyna,Nieborowice,Śląskie,2021
+10124,citroen,Citroën C3 1.2 PureTech Shine,79100.0,60 500 km,manual,2 179 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2020
+10125,citroen,Citroën Berlingo,110900.0,60 500 km,manual,2 179 cm3,Diesel,Kraków,Małopolskie,2020
+10126,citroen,Citroën Berlingo M 1.5 BlueHDI Feel S&S N1,117094.0,10 423 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2022
+10127,citroen,Citroën C3 1.2 PureTech Shine,85690.0,10 423 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2022
+10128,citroen,Citroën C4,107900.0,3 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10129,citroen,Citroën Berlingo M 1.2 PureTech Live S&S,94800.0,3 km,manual,1 199 cm3,Benzyna,Ełk,Warmińsko-mazurskie,2023
+10130,citroen,Citroën C3 1.5 BlueHDi Feel,49900.0,17 000 km,manual,1 500 cm3,Diesel,Kraków,Małopolskie,2021
+10131,citroen,Citroën C5 Aircross 1.2 PureTech Shine,43200.0,17 000 km,manual,1 500 cm3,Diesel,Wysogotowo,Wielkopolskie,2021
+10132,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,99999.0,3 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2023
+10133,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,96700.0,3 km,manual,1 199 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2023
+10134,citroen,Citroën C3 Aircross,59900.0,30 000 km,manual,1 199 cm3,Benzyna,Szczecinek,Zachodniopomorskie,2021
+10135,citroen,Citroën C3 Aircross,89900.0,30 000 km,manual,1 199 cm3,Benzyna,Stalowa Wola,Podkarpackie,2021
+10136,citroen,Citroën C3 1.2 PureTech Shine,79900.0,2 km,manual,1 198 cm3,Benzyna,Sosnowiec,Śląskie,2022
+10137,citroen,Citroën C3,64900.0,2 km,manual,1 198 cm3,Benzyna,Łódź,Łódzkie,2022
+10138,citroen,Citroën C5 Aircross 1.5 BlueHDi Feel Pack,91900.0,8 954 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+10139,citroen,Citroën C3 1.2 PureTech Shine,79900.0,8 954 km,manual,1 199 cm3,Benzyna,Rybnik,Śląskie,2022
+10140,citroen,Citroën C3 1.2 PureTech You,66900.0,28 409 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2021
+10141,citroen,Citroën C5 Aircross 1.2 PureTech Feel,120900.0,28 409 km,manual,1 199 cm3,Benzyna,Kutno,Łódzkie,2021
+10142,citroen,Citroën C3 1.2 PureTech Shine,84500.0,78 254 km,manual,1 499 cm3,Diesel,Kutno,Łódzkie,2020
+10143,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,97400.0,78 254 km,manual,1 499 cm3,Diesel,Kutno,Łódzkie,2020
+10144,citroen,Citroën Berlingo M 1.2 PureTech Feel S&S,102980.0,5 321 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10145,citroen,Citroën C3 1.2 PureTech Feel,67900.0,5 321 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2022
+10146,citroen,Citroën C4 Cactus,67900.0,1 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10147,citroen,Citroën C3 1.2 PureTech Shine,79900.0,1 km,manual,1 199 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2023
+10148,citroen,Citroën C3 1.2 PureTech Shine,77900.0,5 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2022
+10149,citroen,Citroën C3 Aircross 1.2 PureTech Feel S&S,71990.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10150,citroen,Citroën C3 Aircross,93300.0,2 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10151,citroen,Citroën Berlingo M 1.5 BlueHDI Feel Pack S&S,115300.0,2 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10152,citroen,Citroën C3 Aircross,58000.0,2 km,manual,1 199 cm3,Benzyna,Novy Jicin,Moravian-Silesian Region,2022
+10153,citroen,Citroën C3 Pure Tech 83 S&S SHINE,58000.0,2 km,manual,1 199 cm3,Benzyna,Częstochowa,Śląskie,2022
+10154,citroen,Citroën C4 1.2 PureTech Shine S&S,94900.0,3 km,manual,1 199 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2023
+10155,citroen,Citroën C5 Aircross 1.5 BlueHDi C-Series,129900.0,3 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2023
+10156,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,97750.0,7 000 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2022
+10157,citroen,Citroën C3 1.2 PureTech Feel,53900.0,7 000 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2022
+10158,citroen,Citroën C3 Aircross 1.2 PureTech GPF Rip Curl S&S,104900.0,61 789 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2020
+10159,citroen,Citroën C5 Aircross 1.2 PureTech C-Series,83900.0,61 789 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2020
+10160,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,100800.0,5 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2022
+10161,citroen,Citroën C5 Aircross,102990.0,5 km,manual,1 199 cm3,Benzyna,Buczek,Łódzkie,2022
+10162,citroen,Citroën Berlingo M 1.2 PureTech Feel S&S N1,121522.0,600 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2022
+10163,citroen,Citroën C5 Aircross 1.2 PureTech C-Series,148950.0,600 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10164,citroen,Citroën C3,69900.0,22 180 km,manual,1 199 cm3,Benzyna,Rumia,Pomorskie,2021
+10165,citroen,Citroën C3 1.2 PureTech Shine,88500.0,22 180 km,manual,1 199 cm3,Benzyna,Bogumiłowice,Małopolskie,2021
+10166,citroen,Citroën C3 1.2 PureTech Shine,70999.0,9 300 km,manual,1 199 cm3,Benzyna,Lublin,Lubelskie,2022
+10167,citroen,Citroën C3 1.2 PureTech Shine,83000.0,9 300 km,manual,1 199 cm3,Benzyna,Bogumiłowice,Małopolskie,2022
+10168,citroen,Citroën C3 1.5 BlueHDi C-Series,92000.0,5 km,manual,1 199 cm3,Benzyna,Bogumiłowice,Małopolskie,2023
+10169,citroen,Citroën C4 1.2 PureTech Feel S&S,107900.0,5 km,manual,1 199 cm3,Benzyna,Stare Bielice,Zachodniopomorskie,2023
+10170,citroen,Citroën C4,108900.0,2 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2023
+10171,citroen,Citroën C4,112900.0,2 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2023
+10172,citroen,Citroën C3 Aircross,89900.0,3 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10173,citroen,Citroën C3 Aircross,100800.0,3 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10174,citroen,Citroën C3,88600.0,1 199 cm3,manual,Benzyna,2023,Wrocław,Dolnośląskie,2023
+10175,citroen,Citroën C3 1.2 PureTech C-Series,84300.0,Benzyna,manual,2023,1 km,Warszawa,Mazowieckie,1 199 cm3
+10176,citroen,Citroën C3 1.2 PureTech GPF Shine,64900.0,Benzyna,manual,2023,1 km,Lublin,Lubelskie,1 199 cm3
+10177,citroen,Citroën C4 Cactus 1.5 BlueHDi Shine,53800.0,Benzyna,manual,2022,2 800 km,Koszalin,Zachodniopomorskie,1 199 cm3
+10178,citroen,Citroën C3 1.2 PureTech Shine S&S,82900.0,Benzyna,manual,2022,2 800 km,Białystok,Podlaskie,1 199 cm3
+10179,citroen,Citroën C4,99800.0,Benzyna,manual,2022,2 km,Wrocław,Dolnośląskie,1 199 cm3
+10180,citroen,Citroën C3 1.2 PureTech C-Series,63800.0,Benzyna,manual,2022,2 km,Miejska Górka,Wielkopolskie,1 199 cm3
+10181,citroen,Citroën C3,56900.0,Benzyna,manual,2022,2 km,Garwolin,Mazowieckie,1 199 cm3
+10182,citroen,Citroën C3 1.2 PureTech Feel,53900.0,Benzyna,manual,2022,2 km,Łódź,Łódzkie,1 199 cm3
+10183,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,66500.0,Benzyna,manual,2023,1 km,Grzebowilk,Mazowieckie,1 199 cm3
+10184,citroen,Citroën C3 1.2 PureTech Feel Pack,59900.0,Benzyna,manual,2023,1 km,Lublin,Lubelskie,1 199 cm3
+10185,citroen,Citroën C3 Aircross,91370.0,Benzyna,manual,2020,27 000 km,Częstochowa,Śląskie,1 199 cm3
+10186,citroen,Citroën C4 SpaceTourer,73000.0,Benzyna,manual,2020,27 000 km,Sopot,Pomorskie,1 199 cm3
+10187,citroen,Citroën C3 1.2 PureTech Feel,64900.0,Benzyna,manual,2020,71 400 km,Szczecin,Zachodniopomorskie,1 199 cm3
+10188,citroen,Citroën C3,25999.0,Diesel,manual,2020,71 400 km,Łódź,Łódzkie,1 499 cm3
+10189,citroen,Citroën C3 1.2 PureTech Shine,56700.0,Diesel,manual,2022,4 800 km,Bielsko-Biała,Śląskie,1 499 cm3
+10190,citroen,Citroën C3,95000.0,Benzyna,manual,2022,4 800 km,Warszawa,Mazowieckie,1 199 cm3
+10191,citroen,Citroën C3 1.2 PureTech Feel,60500.0,Benzyna,manual,2021,3 491 km,Dąbrowa Tarnowska,Małopolskie,1 199 cm3
+10192,citroen,Citroën C3 1.2 PureTech Feel Pack,62600.0,Benzyna,manual,2021,3 491 km,Bujaków,Śląskie,1 199 cm3
+10193,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel Pack S&S,89900.0,Benzyna,manual,2021,6 000 km,Sosnowiec,Śląskie,1 199 cm3
+10194,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,86900.0,Benzyna,manual,2021,6 000 km,Sosnowiec,Śląskie,1 199 cm3
+10195,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,95300.0,Benzyna,manual,2021,6 153 km,Rybnik,Śląskie,1 199 cm3
+10196,citroen,Citroën C4 1.2 PureTech Shine S&S,96559.0,Benzyna,manual,2021,6 153 km,Wieliczka,Małopolskie,1 199 cm3
+10197,citroen,Citroën C3,28800.0,Benzyna,manual,2020,77 100 km,Kielce,Świętokrzyskie,1 199 cm3
+10198,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,108200.0,5 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2023
+10199,citroen,Citroën C3,26900.0,5 km,manual,1 199 cm3,Benzyna,Kielce,Świętokrzyskie,2023
+10200,citroen,Citroën C4 1.2 PureTech Shine S&S,102500.0,27 950 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2021
+10201,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,114300.0,27 950 km,manual,1 499 cm3,Diesel,Katowice,Śląskie,2021
+10202,citroen,Citroën C3 1.2 PureTech Shine,84000.0,40 800 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2021
+10203,citroen,Citroën C3 Aircross 1.2 PureTech Feel S&S,59500.0,40 800 km,manual,1 199 cm3,Benzyna,Mielec,Podkarpackie,2021
+10204,citroen,Citroën C4 1.2 PureTech C-Series S&S,107900.0,10 km,manual,1 199 cm3,Benzyna,Stare Bielice,Zachodniopomorskie,2022
+10205,citroen,Citroën C3 1.2 PureTech Shine,81990.0,10 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2022
+10206,citroen,Citroën C3 1.5 BlueHDi C-Series,46999.0,1 km,manual,1 199 cm3,Benzyna,Pawłowo,Wielkopolskie,2023
+10207,citroen,Citroën C5 Aircross 1.2 PureTech C-Series,130500.0,1 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2023
+10208,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel Pack S&S,60900.0,65 000 km,manual,1 199 cm3,Benzyna,Raczyce,Wielkopolskie,2021
+10209,citroen,Citroën C3 1.2 PureTech GPF Feel,69350.0,65 000 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2021
+10210,citroen,Citroën C3,21800.0,3 km,manual,1 199 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+10211,citroen,Citroën C5 Aircross 1.5 BlueHDi Shine,132479.0,3 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2022
+10212,citroen,Citroën C4 1.2 PureTech Shine S&S,98900.0,2 km,manual,1 199 cm3,Benzyna,Inowrocław,Kujawsko-pomorskie,2023
+10213,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,89900.0,2 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2023
+10214,citroen,Citroën C3 1.2 PureTech Shine,85900.0,46 424 km,manual,1 499 cm3,Diesel,Kalisz,Wielkopolskie,2020
+10215,citroen,Citroën C3 1.2 PureTech GPF Shine S&S,87990.0,46 424 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2020
+10216,citroen,Citroën C4 SpaceTourer Grand 1.5 BlueHDi Feel S&S,99999.0,4 080 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+10217,citroen,Citroën C4 1.5 BlueHDi Shine S&S,115200.0,4 080 km,manual,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+10218,citroen,Citroën C3 1.2 PureTech Shine,81700.0,35 500 km,manual,1 199 cm3,Benzyna,Rybnik,Śląskie,2020
+10219,citroen,Citroën C3 1.2 PureTech Shine,82600.0,35 500 km,manual,1 199 cm3,Benzyna,Rybnik,Śląskie,2020
+10220,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,120650.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10221,citroen,Citroën C3 Aircross 1.5 BlueHDi Shine S&S,67900.0,1 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10222,citroen,Citroën C3 1.2 PureTech Shine,55900.0,13 279 km,manual,1 499 cm3,Diesel,Konin,Wielkopolskie,2020
+10223,citroen,Citroën C3,82900.0,13 279 km,manual,1 499 cm3,Diesel,Złotniki,Wielkopolskie,2020
+10224,citroen,Citroën C3 1.2 PureTech Shine,71900.0,8 100 km,manual,1 499 cm3,Diesel,Kielce,Świętokrzyskie,2022
+10225,citroen,Citroën C3 1.2 PureTech GPF Feel,46900.0,8 100 km,manual,1 499 cm3,Diesel,Gdańsk,Pomorskie,2022
+10226,citroen,Citroën C1 VTi 72 S&S FEEL,37200.0,9 000 km,manual,1 199 cm3,Benzyna,Zieleniewo,Zachodniopomorskie,2021
+10227,citroen,Citroën C3 1.2 PureTech GPF Shine S&S,81700.0,9 000 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2021
+10228,citroen,Citroën C3,27000.0,3 551 km,manual,1 199 cm3,Benzyna,Biecz,Małopolskie,2022
+10229,citroen,Citroën C3 1.2 PureTech Shine,87350.0,3 551 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10230,citroen,Citroën Jumper,79900.0,198 000 km,manual,1 997 cm3,Diesel,Środa Wielkopolska,Wielkopolskie,2017
+10231,citroen,Citroën C3 Aircross,31900.0,198 000 km,manual,1 997 cm3,Diesel,Pleszew,Wielkopolskie,2017
+10232,citroen,Citroën C4 Cactus,19900.0,49 982 km,manual,1 199 cm3,Benzyna,Pleszew,Wielkopolskie,2018
+10233,citroen,Citroën C4,19900.0,49 982 km,manual,1 199 cm3,Benzyna,Pleszew,Wielkopolskie,2018
+10234,citroen,Citroën C4 Picasso 1.6 e-HDi Attraction,31500.0,112 020 km,manual,1 560 cm3,Diesel,Szamocin,Wielkopolskie,2015
+10235,citroen,Citroën C-Elysée,29000.0,112 020 km,manual,1 560 cm3,Diesel,Sosnowiec,Śląskie,2015
+10236,citroen,Citroën C4 1.2 PureTech Feel,44900.0,196 469 km,manual,1 560 cm3,Diesel,Warszawa,Mazowieckie,2017
+10237,citroen,Citroën C3 1.6 BlueHDi Feel S&S,34500.0,196 469 km,manual,1 560 cm3,Diesel,Poznań,Wielkopolskie,2017
+10238,citroen,Citroën C4 Picasso 1.6 BlueHDi MoreLife S&S,47500.0,146 299 km,manual,1 560 cm3,Diesel,Żyrardów,Mazowieckie,2016
+10239,citroen,Citroën C3 1.2 PureTech Shine,57900.0,146 299 km,manual,1 560 cm3,Diesel,Gliwice,Śląskie,2016
+10240,citroen,Citroën C3,25900.0,70 000 km,manual,1 199 cm3,Benzyna,Września,Wielkopolskie,2016
+10241,citroen,Citroën C3 Pure Tech 110 S&S SHINE PACK,49500.0,70 000 km,manual,1 199 cm3,Benzyna,Kalwaria Zebrzydowska,Małopolskie,2016
+10242,citroen,Citroën C3 Aircross,67900.0,134 000 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2017
+10243,citroen,Citroën C4 Cactus 1.6 Blue HDi Shine,37999.0,134 000 km,manual,1 199 cm3,Benzyna,Ćmińsk Kościelny-Wykień,Świętokrzyskie,2017
+10244,citroen,Citroën C3 BlueHDi 100 S&S FEEL,34999.0,79 399 km,manual,1 560 cm3,Diesel,Kalisz,Wielkopolskie,2017
+10245,citroen,Citroën C4 Cactus,36900.0,79 399 km,manual,1 560 cm3,Diesel,Łódź,Łódzkie,2017
+10246,citroen,Citroën C3,29900.0,140 440 km,manual,1 560 cm3,Diesel,Ryki,Lubelskie,2016
+10247,citroen,Citroën DS4,46900.0,140 440 km,manual,1 560 cm3,Diesel,Radom,Mazowieckie,2016
+10248,citroen,Citroën C-Elysée,41900.0,49 987 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2019
+10249,citroen,Citroën C-Elysée,14800.0,49 987 km,manual,1 199 cm3,Benzyna,Rudziczka,Śląskie,2019
+10250,citroen,Citroën C4 Picasso 1.6 BlueHDi MoreLife S&S,44000.0,126 000 km,manual,1 398 cm3,Diesel,Wałbrzych,Dolnośląskie,2015
+10251,citroen,Citroën C3 Aircross,62800.0,126 000 km,manual,1 398 cm3,Diesel,Łajski,Mazowieckie,2015
+10252,citroen,Citroën C4 Grand Picasso,52900.0,42 000 km,manual,1 199 cm3,Benzyna,Nowe Miasto nad Pilicą,Mazowieckie,2018
+10253,citroen,Citroën DS4,48700.0,42 000 km,manual,1 199 cm3,Benzyna,Łajski,Mazowieckie,2018
+10254,citroen,Citroën DS4,48500.0,58 000 km,manual,1 199 cm3,Benzyna,Wolbrom,Małopolskie,2018
+10255,citroen,Citroën C3 Pure Tech 83 S&S SHINE PACK,45900.0,58 000 km,manual,1 199 cm3,Benzyna,Konin,Wielkopolskie,2018
+10256,citroen,Citroën C-Elysée,37900.0,155 000 km,manual,1 560 cm3,Diesel,Rzeszów,Podkarpackie,2015
+10257,citroen,Citroën C-Elysée 1.6 VTi Feel,36900.0,155 000 km,manual,1 560 cm3,Diesel,Mysłowice,Śląskie,2015
+10258,citroen,Citroën C3 Aircross 1.2 PureTech Feel S&S,59900.0,221 000 km,manual,1 499 cm3,Diesel,Opatówek,Wielkopolskie,2019
+10259,citroen,Citroën C5 Aircross 1.2 PureTech Feel,92990.0,221 000 km,manual,1 499 cm3,Diesel,Stalowa Wola,Podkarpackie,2019
+10260,citroen,Citroën SpaceTourer 1.5 BlueHDi XS Feel,44900.0,193 713 km,manual,1 199 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2015
+10261,citroen,Citroën Berlingo XL 1.5 BlueHDI Shine S&S,87900.0,193 713 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2015
+10262,citroen,Citroën C3 1.2 PureTech Shine,81900.0,3 300 km,manual,1 199 cm3,Benzyna,Gliwice,Śląskie,2022
+10263,citroen,Citroën C3 1.2 PureTech Shine,77300.0,3 300 km,manual,1 199 cm3,Benzyna,Radom,Mazowieckie,2022
+10264,citroen,Citroën C4,99900.0,2 859 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2022
+10265,citroen,Citroën C3,87900.0,2 859 km,manual,1 199 cm3,Benzyna,Sosnowiec,Śląskie,2022
+10266,citroen,Citroën C4,103900.0,20 297 km,manual,1 199 cm3,Benzyna,Sosnowiec,Śląskie,2022
+10267,citroen,Citroën C4,96000.0,20 297 km,manual,1 199 cm3,Benzyna,Piaseczno,Mazowieckie,2022
+10268,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,97790.0,5 km,manual,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+10269,citroen,Citroën C3 Aircross 1.2 PureTech Rip Curl S&S,106900.0,5 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10270,citroen,Citroën C3 Aircross 1.2 PureTech Rip Curl S&S,102200.0,1 000 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10271,citroen,Citroën C5 Aircross 1.2 PureTech C-Series,75900.0,1 000 km,manual,1 199 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,2023
+10272,citroen,Citroën Berlingo,126900.0,22 585 km,manual,1 199 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+10273,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,93900.0,22 585 km,manual,1 199 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+10274,citroen,Citroën C3 1.2 PureTech C-Series,76500.0,4 km,manual,1 199 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+10275,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,93900.0,4 km,manual,1 199 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+10276,citroen,Citroën C4 1.2 PureTech C-Series S&S,110700.0,5 km,manual,1 199 cm3,Benzyna,Bielsko-Biała,Śląskie,2023
+10277,citroen,Citroën C5 Aircross,130900.0,5 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10278,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,96000.0,5 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10279,citroen,Citroën C5 Aircross,129900.0,5 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10280,citroen,Citroën C3 Aircross BlueHDI 100 Stop & Start Shine,69900.0,168 000 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2020
+10281,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel S&S,87800.0,168 000 km,manual,1 199 cm3,Benzyna,Rybnik,Śląskie,2020
+10282,citroen,Citroën C3,59700.0,78 000 km,manual,1 499 cm3,Diesel,Gniezno,Wielkopolskie,2020
+10283,citroen,Citroën C3 1.2 PureTech GPF Shine S&S,87700.0,78 000 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2020
+10284,citroen,Citroën C3,57900.0,5 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2022
+10285,citroen,Citroën C5,127900.0,5 km,manual,1 199 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2022
+10286,citroen,Citroën C1 1.0 VTi GPF Feel,36500.0,5 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10287,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,96799.0,5 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2022
+10288,citroen,Citroën C3,59900.0,5 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10289,citroen,Citroën C3 1.2 PureTech Feel,46500.0,5 km,manual,1 199 cm3,Benzyna,Kleczew,Wielkopolskie,2022
+10290,citroen,Citroën C3,69900.0,3 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2022
+10291,citroen,Citroën C5 Aircross 1.2 PureTech Feel Pack,125300.0,3 km,manual,1 199 cm3,Benzyna,Rybnik,Śląskie,2022
+10292,citroen,Citroën C3,62000.0,3 800 km,manual,1 199 cm3,Benzyna,Piaseczno,Mazowieckie,2022
+10293,citroen,Citroën C3,30500.0,3 800 km,manual,1 199 cm3,Benzyna,Kęty,Małopolskie,2022
+10294,citroen,Citroën C3 Pure Tech 83 S&S SHINE,57900.0,11 100 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2021
+10295,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,70000.0,11 100 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+10296,citroen,Citroën C3 1.2 PureTech Feel Pack,68600.0,47 786 km,manual,1 199 cm3,Benzyna,Kutno,Łódzkie,2021
+10297,citroen,Citroën Berlingo,89900.0,47 786 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2021
+10298,citroen,Citroën C3 1.2 PureTech Shine,76900.0,18 875 km,manual,1 199 cm3,Benzyna,Sosnowiec,Śląskie,2021
+10299,citroen,Citroën Berlingo XL 1.5 BlueHDI Feel S&S,99900.0,18 875 km,manual,1 199 cm3,Benzyna,Modlniczka,Małopolskie,2021
+10300,citroen,Citroën C3 1.2 PureTech Shine,66900.0,52 000 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2020
+10301,citroen,Citroën C3 Aircross,97900.0,52 000 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+10302,citroen,Citroën C3,69990.0,2 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+10303,citroen,Citroën C4X,135800.0,2 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+10304,citroen,Citroën C3,76500.0,100 500 km,manual,1 499 cm3,Diesel,Stalowa Wola,Podkarpackie,2020
+10305,citroen,Citroën C3,68000.0,100 500 km,manual,1 499 cm3,Diesel,Konstancin-Jeziorna,Mazowieckie,2020
+10306,citroen,Citroën C3,75900.0,6 700 km,manual,1 199 cm3,Benzyna,Stalowa Wola,Podkarpackie,2022
+10307,citroen,Citroën C3,69900.0,6 700 km,manual,1 199 cm3,Benzyna,Poznań,Wielkopolskie,2022
+10308,citroen,Citroën C3,69900.0,1 km,manual,1 199 cm3,Benzyna,Rumia,Pomorskie,2023
+10309,citroen,Citroën C3,62501.0,1 km,manual,1 199 cm3,Benzyna,Lublin,Lubelskie,2023
+10310,citroen,Citroën C4 1.2 PureTech Shine S&S,97500.0,4 km,manual,1 199 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2023
+10311,citroen,Citroën Berlingo M 1.5 BlueHDI Shine S&S N1,115987.0,4 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2023
+10312,citroen,Citroën C3 1.2 PureTech Shine,77900.0,6 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2023
+10313,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,92000.0,6 km,manual,1 199 cm3,Benzyna,Motycz,Lubelskie,2023
+10314,citroen,Citroën C3 Aircross 1.5 BlueHDi Shine Pack S&S,78800.0,7 883 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2021
+10315,citroen,Citroën C3 1.2 PureTech Feel,52500.0,7 883 km,manual,1 199 cm3,Benzyna,Lipno,Kujawsko-pomorskie,2021
+10316,citroen,Citroën C4 1.2 PureTech Shine S&S,79700.0,6 600 km,manual,1 499 cm3,Diesel,Warszawa,Mazowieckie,2022
+10317,citroen,Citroën C3,57900.0,6 600 km,manual,1 499 cm3,Diesel,Września,Wielkopolskie,2022
+10318,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel Pack S&S,91370.0,2 km,manual,1 198 cm3,Benzyna,Sosnowiec,Śląskie,2022
+10319,citroen,Citroën C3 1.2 PureTech C-Series,76900.0,2 km,manual,1 198 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+10320,citroen,Citroën Berlingo M 1.2 PureTech Feel S&S,102000.0,36 561 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2021
+10321,citroen,Citroën C4X,109400.0,36 561 km,manual,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2021
+10322,citroen,Citroën C3 1.2 PureTech Feel Pack,57900.0,15 000 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2022
+10323,citroen,Citroën C3 1.2 PureTech C-Series,58799.0,15 000 km,manual,1 199 cm3,Benzyna,Modlniczka,Małopolskie,2022
+10324,citroen,Citroën C3 1.2 PureTech Shine,82900.0,35 432 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2021
+10325,citroen,Citroën C3 1.2 PureTech C-Series,64900.0,35 432 km,manual,1 199 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2021
+10326,citroen,Citroën C4,108400.0,2 km,manual,1 199 cm3,Benzyna,Piła,Wielkopolskie,2023
+10327,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,112000.0,2 km,manual,1 199 cm3,Benzyna,Gdańsk,Pomorskie,2023
+10328,citroen,Citroën C3,68900.0,5 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10329,citroen,Citroën C3 1.2 PureTech Feel Pack,46900.0,5 km,manual,1 199 cm3,Benzyna,Zgierz,Łódzkie,2023
+10330,citroen,Citroën C3 1.2 PureTech Shine,67900.0,13 795 km,manual,1 199 cm3,Benzyna,Świdnik,Lubelskie,2022
+10331,citroen,Citroën C3 1.2 PureTech Feel,54900.0,13 795 km,manual,1 199 cm3,Benzyna,Zagórów,Wielkopolskie,2022
+10332,citroen,Citroën C3,88050.0,116 706 km,manual,1 199 cm3,Benzyna,Złotniki,Wielkopolskie,2020
+10333,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,104900.0,116 706 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2020
+10334,citroen,Citroën C5 Aircross,123900.0,12 900 km,manual,1 199 cm3,Benzyna,Stalowa Wola,Podkarpackie,2021
+10335,citroen,Citroën C3 Aircross,94900.0,12 900 km,manual,1 199 cm3,Benzyna,Stalowa Wola,Podkarpackie,2021
+10336,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,102000.0,14 900 km,manual,1 199 cm3,Benzyna,Kielce,Świętokrzyskie,2020
+10337,citroen,Citroën C3 1.2 PureTech C-Series,59900.0,14 900 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2020
+10338,citroen,Citroën C3 1.2 PureTech Shine,91500.0,5 km,manual,1 199 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+10339,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,93999.0,5 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2023
+10340,citroen,Citroën C3 1.2 PureTech Feel,22900.0,5 km,manual,1 199 cm3,Benzyna,Topola Mała,Wielkopolskie,2023
+10341,citroen,Citroën C4 1.2 PureTech C-Series S&S,113200.0,5 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2023
+10342,citroen,Citroën C5 Aircross 1.5 BlueHDi C-Series,143300.0,2 km,manual,1 198 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+10343,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine Pack S&S,107900.0,2 km,manual,1 198 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+10344,citroen,Citroën C3,73900.0,2 km,manual,1 198 cm3,Benzyna,Stalowa Wola,Podkarpackie,2022
+10345,citroen,Citroën C3 1.2 PureTech Feel Pack,61800.0,2 km,manual,1 198 cm3,Benzyna,Łódź,Łódzkie,2022
+10346,citroen,Citroën C5 Aircross 1.2 PureTech Feel Pack,123000.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10347,citroen,Citroën C5 Aircross 1.5 BlueHDi Feel Pack,132900.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10348,citroen,Citroën C3 1.2 PureTech Shine,77000.0,20 000 km,manual,1 199 cm3,Benzyna,Konin,Wielkopolskie,2021
+10349,citroen,Citroën C3 Aircross 1.2 PureTech Feel S&S,89400.0,20 000 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2021
+10350,citroen,Citroën C4 SpaceTourer,49198.0,2 km,manual,1 199 cm3,Benzyna,Kłaj,Małopolskie,2023
+10351,citroen,Citroën C3,28500.0,2 km,manual,1 199 cm3,Benzyna,Bilcza,Świętokrzyskie,2023
+10352,citroen,Citroën C4 Cactus Pure Tech e-THP 110 Stop&Start Feel Edition,59900.0,2 km,manual,1 199 cm3,Benzyna,Luboń,Wielkopolskie,2023
+10353,citroen,Citroën C4 1.5 BlueHDi Shine S&S,116650.0,2 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10354,citroen,Citroën C3,59501.0,18 204 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2021
+10355,citroen,Citroën C4,92000.0,18 204 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2021
+10356,citroen,Citroën C3 1.5 BlueHDi Feel Pack,57900.0,5 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10357,citroen,Citroën C3 Pure Tech 83 S&S FEEL PACK,54900.0,5 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10358,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10359,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10360,citroen,Citroën C3 1.2 PureTech GPF Shine S&S,82000.0,2 400 km,manual,1 199 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+10361,citroen,Citroën Jumper 35 L3H2 Snoeks S&S Club,199000.0,2 400 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10362,citroen,Citroën C3 1.2 PureTech Feel,24900.0,90 000 km,manual,2 179 cm3,Diesel,Margonin,Wielkopolskie,2021
+10363,citroen,Citroën C3 1.2 PureTech Shine S&S,82900.0,90 000 km,manual,2 179 cm3,Diesel,Częstochowa,Śląskie,2021
+10364,citroen,Citroën C5 Aircross,37700.0,31 000 km,manual,1 199 cm3,Benzyna,Brodnica,Wielkopolskie,2020
+10365,citroen,Citroën Berlingo M 1.5 BlueHDI Feel Pack S&S,122014.0,31 000 km,manual,1 199 cm3,Benzyna,Chorzów,Śląskie,2020
+10366,citroen,Citroën C3 1.2 PureTech You,72500.0,9 999 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2022
+10367,citroen,Citroën Berlingo M 1.5 BlueHDI Live Pack S&S N1,118111.0,9 999 km,manual,1 199 cm3,Benzyna,Gdańsk,Pomorskie,2022
+10368,citroen,Citroën Berlingo XL 1.5 BlueHDI Live Pack S&S,115083.0,39 588 km,manual,1 199 cm3,Benzyna,Gdańsk,Pomorskie,2020
+10369,citroen,Citroën C4,108900.0,39 588 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2020
+10370,citroen,Citroën C5 Aircross 1.5 BlueHDi C-Series,137000.0,1 km,manual,1 499 cm3,Diesel,Wrocław,Dolnośląskie,2023
+10371,citroen,Citroën C3 1.2 PureTech Shine,77800.0,1 km,manual,1 499 cm3,Diesel,Rybnik,Śląskie,2023
+10372,citroen,Citroën C3,79900.0,5 km,manual,1 199 cm3,Benzyna,Sosnowiec,Śląskie,2022
+10373,citroen,Citroën C4 1.2 PureTech Shine S&S,113500.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10374,citroen,Citroën C3,79900.0,1 km,manual,1 499 cm3,Diesel,Sosnowiec,Śląskie,2023
+10375,citroen,Citroën C3,79900.0,1 km,manual,1 499 cm3,Diesel,Sosnowiec,Śląskie,2023
+10376,citroen,Citroën Berlingo M 1.5 BlueHDI Live Pack S&S,119900.0,1 km,manual,1 499 cm3,Diesel,Daleszyce,Świętokrzyskie,2023
+10377,citroen,Citroën C3 1.2 PureTech GPF Shine,55900.0,1 km,manual,1 499 cm3,Diesel,Warszawa,Mazowieckie,2023
+10378,citroen,Citroën C4 1.2 PureTech Shine S&S,118600.0,8 199 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2022
+10379,citroen,Citroën C4 SpaceTourer,75990.0,8 199 km,manual,1 199 cm3,Benzyna,Chojnice,Pomorskie,2022
+10380,citroen,Citroën C4 1.2 PureTech Shine S&S,118600.0,2 km,manual,1 499 cm3,Diesel,Łódź,Łódzkie,2022
+10381,citroen,Citroën C3 Aircross 1.5 BlueHDi Rip Curl S&S,59900.0,2 km,manual,1 499 cm3,Diesel,Kowalew,Wielkopolskie,2022
+10382,citroen,Citroën C4 1.2 PureTech Feel S&S,101500.0,2 000 km,manual,1 199 cm3,Benzyna,Kraków,Małopolskie,2022
+10383,citroen,Citroën C4 1.2 PureTech Feel S&S,99900.0,2 000 km,manual,1 199 cm3,Benzyna,Krasne,Podkarpackie,2022
+10384,citroen,Citroën C3 1.2 PureTech Shine,58900.0,5 km,manual,1 199 cm3,Benzyna,Słupca,Wielkopolskie,2023
+10385,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,115650.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10386,citroen,Citroën C1 1.0 VTi GPF Live,37500.0,1 199 cm3,manual,Benzyna,2022,Różnowo,Warmińsko-mazurskie,2022
+10387,citroen,Citroën C3,32500.0,Benzyna,manual,2023,5 km,Kęty,Małopolskie,1 199 cm3
+10388,citroen,Citroën C3 1.2 PureTech Shine,20900.0,Benzyna,manual,2023,5 km,Poznań,Wielkopolskie,1 199 cm3
+10389,citroen,Citroën Berlingo M 1.5 BlueHDI Feel S&S N1,112900.0,Benzyna,manual,2023,5 km,Bydgoszcz,Kujawsko-pomorskie,1 199 cm3
+10390,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine Pack S&S,102900.0,Benzyna,manual,2023,5 km,Bielsko-Biała,Śląskie,1 199 cm3
+10391,citroen,Citroën C3 Aircross 1.2 PureTech Rip Curl S&S,104900.0,Benzyna,manual,2021,26 596 km,Bielsko-Biała,Śląskie,1 199 cm3
+10392,citroen,Citroën Berlingo M 1.5 BlueHDI Feel Pack S&S N1,106900.0,5 km,manual,1 499 cm3,Diesel,Smardzów,Dolnośląskie,2023
+10393,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,89999.0,5 km,manual,1 499 cm3,Diesel,Bogumiłowice,Małopolskie,2023
+10394,citroen,Citroën C3,58501.0,3 900 km,manual,1 199 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2022
+10395,citroen,Citroën C3 1.2 PureTech Shine,79999.0,3 900 km,manual,1 199 cm3,Benzyna,Białystok,Podlaskie,2022
+10396,citroen,Citroën Berlingo M 1.5 BlueHDI Feel S&S,44900.0,40 524 km,manual,1 199 cm3,Benzyna,Węgrów,Mazowieckie,2021
+10397,citroen,Citroën C5 Aircross 1.2 PureTech Feel,107900.0,40 524 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+10398,citroen,Citroën C4 1.2 PureTech Shine S&S,99900.0,5 000 km,manual,1 199 cm3,Benzyna,Komorniki,Wielkopolskie,2022
+10399,citroen,Citroën C3 1.2 PureTech Live,54900.0,5 000 km,manual,1 199 cm3,Benzyna,Brodowo,Wielkopolskie,2022
+10400,citroen,Citroën C3 BlueHDi 100 S&S ORIGINS,58900.0,832 km,manual,1 499 cm3,Diesel,Wągrowiec,Wielkopolskie,2021
+10401,citroen,Citroën C3 1.2 PureTech Shine,58500.0,832 km,manual,1 499 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2021
+10402,citroen,Citroën C3 1.2 PureTech C-Series,39900.0,40 000 km,manual,1 199 cm3,Benzyna,Węgrów,Mazowieckie,2021
+10403,citroen,Citroën C3,69000.0,40 000 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2021
+10404,citroen,Citroën C3,49900.0,1 950 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10405,citroen,Citroën C4 1.2 PureTech Feel S&S,106700.0,1 950 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2022
+10406,citroen,Citroën C3,76900.0,24 763 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2021
+10407,citroen,Citroën C3 Aircross,95900.0,24 763 km,manual,1 199 cm3,Benzyna,Łódź,Łódzkie,2021
+10408,citroen,Citroën C3,64000.0,20 000 km,manual,1 499 cm3,Diesel,Kraków,Małopolskie,2021
+10409,citroen,Citroën C5 Aircross 1.2 PureTech Feel,89800.0,20 000 km,manual,1 499 cm3,Diesel,Przygodzice,Wielkopolskie,2021
+10410,citroen,Citroën C3 1.5 BlueHDi Feel S&S,54800.0,20 303 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2020
+10411,citroen,Citroën C5 Aircross 1.2 PureTech Feel Pack,125000.0,20 303 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2020
+10412,citroen,Citroën C3,83000.0,4 432 km,manual,1 199 cm3,Benzyna,Złotniki,Wielkopolskie,2020
+10413,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel S&S,57700.0,4 432 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2020
+10414,citroen,Citroën C3 Pure Tech 83 S&S C-SERIES,61700.0,3 km,manual,1 199 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2022
+10415,citroen,Citroën C3,55900.0,3 km,manual,1 199 cm3,Benzyna,Kłobuck,Śląskie,2022
+10416,citroen,Citroën C5 Aircross 1.5 BlueHDi C-Series,129900.0,77 000 km,manual,1 499 cm3,Diesel,Kraków,Małopolskie,2020
+10417,citroen,Citroën C3,65900.0,77 000 km,manual,1 499 cm3,Diesel,Jankowo Dolne,Wielkopolskie,2020
+10418,citroen,Citroën C3 BlueHDi 100 S&S SHINE,55700.0,5 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2023
+10419,citroen,Citroën C3,61900.0,5 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2023
+10420,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,106600.0,7 899 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10421,citroen,Citroën C3,61900.0,7 899 km,manual,1 199 cm3,Benzyna,Wągrowiec,Wielkopolskie,2022
+10422,citroen,Citroën C4 1.2 PureTech Feel S&S,108500.0,5 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2022
+10423,citroen,Citroën C3 Aircross,89900.0,5 km,manual,1 199 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2022
+10424,citroen,Citroën C3 Aircross,96950.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10425,citroen,Citroën C4,99000.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10426,citroen,Citroën C5 Aircross,34900.0,4 500 km,manual,1 199 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2021
+10427,citroen,Citroën C4 SpaceTourer 1.5 BlueHDi Shine S&S,49900.0,4 500 km,manual,1 199 cm3,Benzyna,Zbąszynek,Lubuskie,2021
+10428,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S,99500.0,6 015 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2020
+10429,citroen,Citroën C3 1.2 PureTech Feel Pack,74100.0,6 015 km,manual,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2020
+10430,citroen,Citroën C3 Aircross 1.2 PureTech Feel Pack S&S,93500.0,144 000 km,manual,1 499 cm3,Diesel,Warszawa,Mazowieckie,2020
+10431,citroen,Citroën C3 Aircross 1.2 PureTech GPF Feel Pack S&S,65900.0,144 000 km,manual,1 499 cm3,Diesel,Sieradz,Łódzkie,2020
+10432,citroen,Citroën C5 Aircross 1.2 PureTech Feel Pack,126900.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10433,citroen,Citroën C3 1.2 PureTech C-Series,77187.0,2 km,manual,1 199 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2022
+10434,citroen,Citroën C4 Cactus,72900.0,2 km,manual,1 199 cm3,Benzyna,Gniezno,Wielkopolskie,2022
+10435,citroen,Citroën Berlingo XL 1.5 BlueHDI Live Pack S&S (7-os.),89900.0,2 km,manual,1 199 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2022
+10436,citroen,Citroën C3,18900.0,2 km,manual,1 199 cm3,Benzyna,Zduńska Wola,Łódzkie,2022
+10437,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,49800.0,2 km,manual,1 199 cm3,Benzyna,Przygodzice,Wielkopolskie,2022
+10438,citroen,Citroën C-Elysée 1.5 BlueHDi Feel,45000.0,51 500 km,manual,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2020
+10439,citroen,Citroën C1,39900.0,51 500 km,manual,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2020
+10440,citroen,Citroën C3 Pure Tech 83 S&S ORIGINS,59900.0,2 km,manual,1 199 cm3,Benzyna,Ruda Śląska,Śląskie,2022
+10441,citroen,Citroën C3 1.2 PureTech GPF Feel,49900.0,2 km,manual,1 199 cm3,Benzyna,Turek,Wielkopolskie,2022
+10442,citroen,Citroën C3 Aircross 1.5 BlueHDi Feel S&S,29900.0,2 km,manual,1 199 cm3,Benzyna,Margonin,Wielkopolskie,2023
+10443,citroen,Citroën C3,47500.0,2 km,manual,1 199 cm3,Benzyna,Chojnice,Pomorskie,2023
+10444,citroen,Citroën C3 1.5 BlueHDi Shine,21900.0,15 045 km,manual,1 199 cm3,Benzyna,Przygodzice,Wielkopolskie,2020
+10445,citroen,Citroën C4 1.2 PureTech Feel Pack S&S,97000.0,15 045 km,manual,1 199 cm3,Benzyna,Kielce,Świętokrzyskie,2020
+10446,citroen,Citroën C5 Aircross 1.5 BlueHDi Feel,91000.0,34 000 km,manual,1 499 cm3,Diesel,Wodzisław Śląski,Śląskie,2020
+10447,citroen,Citroën C3,29500.0,34 000 km,manual,1 499 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2020
+10448,citroen,Citroën C3 1.2 PureTech Feel,49900.0,90 000 km,manual,1 499 cm3,Diesel,Brodowo,Wielkopolskie,2021
+10449,citroen,Citroën C3 1.2 PureTech Shine,88521.0,90 000 km,manual,1 499 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2021
+10450,citroen,Citroën C3 1.2 PureTech C-Series,82900.0,25 000 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2022
+10451,citroen,Citroën C3 Aircross 1.2 PureTech Shine S&S,98400.0,25 000 km,manual,1 199 cm3,Benzyna,Katowice,Śląskie,2022
+10452,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine Pack S&S,104900.0,66 000 km,manual,1 499 cm3,Diesel,Katowice,Śląskie,2020
+10453,citroen,Citroën C3 Aircross 1.2 PureTech Shine Pack S&S,102600.0,66 000 km,manual,1 499 cm3,Diesel,Katowice,Śląskie,2020
+10454,citroen,Citroën C3 1.2 PureTech GPF Feel,52900.0,18 288 km,manual,998 cm3,Benzyna,Wągrowiec,Wielkopolskie,2020
+10455,citroen,Citroën C3 1.2 PureTech Feel Pack,78000.0,18 288 km,manual,998 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2020
+10456,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10457,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10458,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10459,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10460,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10461,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10462,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10463,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10464,citroen,Citroën Xsara 1.8I Exclusive,6000.0,190 000 km,automatic,1 761 cm3,Benzyna,Słopsk,Mazowieckie,1998
+10465,citroen,Citroën XM,21500.0,190 000 km,automatic,1 761 cm3,Benzyna,Łaskarzew,Mazowieckie,1998
+10466,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10467,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10468,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10469,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10470,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10471,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10472,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10473,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10474,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10475,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10476,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10477,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10478,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10479,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10480,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10481,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10482,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10483,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10484,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10485,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10486,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10487,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10488,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10489,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10490,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10491,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10492,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10493,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10494,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10495,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10496,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10497,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10498,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10499,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10500,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10501,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10502,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10503,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10504,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10505,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10506,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10507,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10508,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10509,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10510,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10511,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10512,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10513,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10514,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10515,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10516,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10517,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10518,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10519,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10520,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10521,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10522,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10523,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10524,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10525,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10526,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10527,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10528,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10529,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10530,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10531,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10532,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10533,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10534,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10535,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10536,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10537,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10538,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10539,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10540,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10541,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10542,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10543,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10544,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10545,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10546,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10547,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10548,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10549,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10550,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10551,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10552,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10553,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10554,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10555,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10556,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10557,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10558,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10559,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10560,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10561,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10562,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10563,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10564,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10565,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10566,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10567,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10568,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10569,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10570,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10571,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10572,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10573,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10574,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10575,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10576,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10577,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10578,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10579,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10580,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10581,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10582,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10583,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10584,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10585,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10586,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10587,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10588,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10589,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10590,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10591,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10592,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10593,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10594,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10595,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10596,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10597,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10598,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10599,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10600,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10601,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10602,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10603,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10604,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10605,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10606,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10607,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10608,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10609,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10610,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10611,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10612,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10613,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10614,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10615,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10616,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10617,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10618,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10619,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10620,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10621,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10622,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10623,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10624,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10625,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10626,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10627,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10628,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10629,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10630,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10631,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10632,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10633,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10634,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10635,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10636,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10637,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10638,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10639,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10640,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10641,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10642,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10643,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10644,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10645,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10646,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10647,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10648,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10649,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10650,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10651,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10652,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10653,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10654,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10655,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10656,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10657,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10658,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10659,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10660,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10661,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10662,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10663,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10664,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10665,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10666,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10667,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10668,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10669,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10670,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10671,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10672,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10673,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10674,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10675,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10676,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10677,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10678,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10679,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10680,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10681,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10682,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10683,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10684,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10685,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10686,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10687,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10688,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10689,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10690,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10691,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10692,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10693,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10694,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10695,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10696,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10697,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10698,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10699,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10700,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10701,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10702,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10703,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10704,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10705,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10706,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10707,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10708,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10709,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10710,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10711,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10712,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10713,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10714,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10715,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10716,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10717,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10718,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10719,citroen,Citroën C2 1.4 VTR Senso Drive,10999.0,178 000 km,automatic,1 360 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10720,citroen,Citroën C2 1.4 VTR Senso Drive,7000.0,178 000 km,automatic,1 360 cm3,Benzyna,Koło,Wielkopolskie,2003
+10721,citroen,Citroën C2,9000.0,181 000 km,automatic,1 360 cm3,Benzyna,Włocławek,Kujawsko-pomorskie,2004
+10722,citroen,Citroën C2 1.6 VTR Senso Drive,9111.0,181 000 km,automatic,1 360 cm3,Benzyna,Rzeszów,Podkarpackie,2004
+10723,citroen,Citroën C2,5500.0,195 000 km,automatic,1 398 cm3,Diesel,Żyrardów,Mazowieckie,2004
+10724,citroen,Citroën XM,9999.0,195 000 km,automatic,1 398 cm3,Diesel,Żary,Lubuskie,2004
+10725,citroen,Citroën C3 Pluriel 1.6i SensoDrive,7300.0,168 889 km,automatic,1 587 cm3,Benzyna,Zgierz,Łódzkie,2004
+10726,citroen,Citroën C8,6800.0,168 889 km,automatic,1 587 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+10727,citroen,Citroën C3 1.6 Automatik Exclusive,12499.0,320 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2004
+10728,citroen,Citroën C8,13530.0,320 000 km,automatic,1 587 cm3,Benzyna,Skwierzyna,Lubuskie,2004
+10729,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Koło,Wielkopolskie,2000
+10730,citroen,Citroën C3 1.6 Exclusive Senso Drive,11499.0,299 000 km,automatic,2 946 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2000
+10731,citroen,Citroën C3 1.6 Exclusive Senso Drive,9999.0,154 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10732,citroen,Citroën C2,7400.0,154 000 km,automatic,1 587 cm3,Benzyna,Piaseczno,Mazowieckie,2003
+10733,citroen,Citroën C2,7500.0,296 340 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10734,citroen,Citroën C3,12900.0,296 340 km,automatic,1 997 cm3,Benzyna,Częstochowa,Śląskie,2003
+10735,citroen,Citroën C2,8499.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10736,citroen,Citroën C2,7500.0,186 000 km,automatic,1 587 cm3,Benzyna,Warszawa,Mazowieckie,2003
+10737,citroen,Citroën C5 2.2 HDi Prestige,4900.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2003
+10738,citroen,Citroën C5 2.0i 16V Control+,7490.0,227 000 km,automatic,1 997 cm3,Benzyna+LPG,Głogoczów,Małopolskie,2003
+10739,citroen,Citroën C3 Pluriel 1.6i SensoDrive,12000.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Łańcut,Podkarpackie,2004
+10740,citroen,Citroën Xsara Picasso 2.0 16V Exclusive,6900.0,191 000 km,automatic,1 997 cm3,Benzyna+LPG,Radziejów,Kujawsko-pomorskie,2004
+10741,citroen,Citroën C3 1.6 Exclusive Senso Drive,8900.0,161 000 km,automatic,1 587 cm3,Benzyna,Kłodzko,Dolnośląskie,2002
+10742,citroen,Citroën C5 2.0i 16V Exclusive,19900.0,320 000 km,automatic,1 997 cm3,Benzyna+LPG,Gorzów Wielkopolski,Lubuskie,2008
+10743,citroen,Citroën C4 Grand Picasso Gr 1.6 HDi Impress Pack MCP,11900.0,320 000 km,automatic,1 997 cm3,Benzyna+LPG,Lublin,Lubelskie,2008
+10744,citroen,Citroën C5 2.0 HDi Exclusive Equilibre Navi,30900.0,195 000 km,automatic,1 560 cm3,Diesel,Częstochowa,Śląskie,2008
+10745,citroen,Citroën C4,13900.0,195 000 km,automatic,1 560 cm3,Diesel,Bielsko-Biała,Śląskie,2008
+10746,citroen,Citroën C4 Picasso,11900.0,259 000 km,automatic,1 997 cm3,Diesel,Płock,Mazowieckie,2009
+10747,citroen,Citroën C5 2.0i 16V Exclusive,32000.0,259 000 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2009
+10748,citroen,Citroën C5 II 2.2 HDi SX,7900.0,115 500 km,automatic,1 598 cm3,Benzyna,Dębno,Zachodniopomorskie,2006
+10749,citroen,Citroën C4 Grand Picasso 1.6 THP Impress Exclusive MCP,16200.0,115 500 km,automatic,1 598 cm3,Benzyna,Krzymów,Wielkopolskie,2006
+10750,citroen,Citroën C4 Picasso,14900.0,265 000 km,automatic,1 560 cm3,Diesel,Rzeszów,Podkarpackie,2007
+10751,citroen,Citroën C6 2.2 HDi Exclusive,25000.0,265 000 km,automatic,1 560 cm3,Diesel,Złocieniec,Zachodniopomorskie,2007
+10752,citroen,Citroën C4 Grand Picasso 2.0i Exclusive MCP,6999.0,179 500 km,automatic,1 997 cm3,Benzyna,Kłodzko,Dolnośląskie,2008
+10753,citroen,Citroën C4 Picasso 1.6 HDi FAP EGS6 CoolTech,18900.0,179 500 km,automatic,1 997 cm3,Benzyna,Zwoleń,Mazowieckie,2008
+10754,citroen,Citroën C4 Picasso 1.6 HDi Impress MCP,13500.0,236 421 km,automatic,2 179 cm3,Diesel,Warszawa,Mazowieckie,2006
+10755,citroen,Citroën C4 Grand Picasso 1.6 HDi FAP EGS6 C-Chic,14000.0,236 421 km,automatic,2 179 cm3,Diesel,Mikołów,Śląskie,2006
+10756,citroen,Citroën C4 Grand Picasso 2.0 HDi Exclusive MCP,16900.0,222 588 km,automatic,1 598 cm3,Benzyna,Białystok,Podlaskie,2009
+10757,citroen,Citroën C4 Picasso,12000.0,222 588 km,automatic,1 598 cm3,Benzyna,Otwock,Mazowieckie,2009
+10758,citroen,Citroën C4 Picasso 2.0 HDi Exclusive,15900.0,212 000 km,automatic,1 560 cm3,Diesel,Jegłownik,Warmińsko-mazurskie,2007
+10759,citroen,Citroën C5 2.7 HDi V6 Exclusive,24900.0,212 000 km,automatic,1 560 cm3,Diesel,Kąck,Mazowieckie,2007
+10760,citroen,Citroën C4 Grand Picasso 2.0 HDi Equilibre Exclusive MCP,10500.0,197 000 km,automatic,2 179 cm3,Diesel,Szamotuły,Wielkopolskie,2009
+10761,citroen,Citroën C4 Grand Picasso 2.0 HDi Exclusive,18900.0,197 000 km,automatic,2 179 cm3,Diesel,Połaniec,Świętokrzyskie,2009
+10762,citroen,Citroën C5 2.0i 16V Exclusive,25999.0,453 000 km,automatic,1 997 cm3,Benzyna+LPG,Wałbrzych,Dolnośląskie,2007
+10763,citroen,Citroën C4 Grand Picasso,13900.0,453 000 km,automatic,1 997 cm3,Benzyna+LPG,Jarocin,Wielkopolskie,2007
+10764,citroen,Citroën C4 Picasso,6400.0,255 126 km,automatic,1 560 cm3,Diesel,Gniezno,Wielkopolskie,2007
+10765,citroen,Citroën C4 Grand Picasso 2.0 HDi Equilibre Exclusive,17900.0,255 126 km,automatic,1 560 cm3,Diesel,Wejherowo,Pomorskie,2007
+10766,citroen,Citroën C4,9000.0,215 000 km,automatic,1 560 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2008
+10767,citroen,Citroën C4 Picasso 2.0 HDi Equilibre Exclusive,19900.0,215 000 km,automatic,1 560 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2008
+10768,citroen,Citroën C5 2.0 HDi Exclusive,19000.0,290 000 km,automatic,1 560 cm3,Diesel,Osie,Kujawsko-pomorskie,2008
+10769,citroen,Citroën Nemo,14900.0,290 000 km,automatic,1 560 cm3,Diesel,Nowy Sącz,Małopolskie,2008
+10770,citroen,Citroën C1,16499.0,268 000 km,automatic,1 997 cm3,Diesel,Warszawa,Mazowieckie,2007
+10771,citroen,Citroën C5 2.0 HDi Exclusive,12900.0,268 000 km,automatic,1 997 cm3,Diesel,Wałbrzych,Dolnośląskie,2007
+10772,citroen,Citroën C4 Picasso,9900.0,378 737 km,automatic,1 997 cm3,Benzyna+LPG,Szarlejka,Śląskie,2008
+10773,citroen,Citroën C4 Grand Picasso 2.0 HDi Exclusive MCP,15000.0,378 737 km,automatic,1 997 cm3,Benzyna+LPG,Luboń,Wielkopolskie,2008
+10774,citroen,Citroën C5 2.0 HDi Exclusive,19900.0,259 000 km,automatic,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2010
+10775,citroen,Citroën C5 1.6 THP Exclusive,20000.0,259 000 km,automatic,1 997 cm3,Diesel,Terespol,Lubelskie,2010
+10776,citroen,Citroën C4 Picasso,38900.0,260 000 km,automatic,1 598 cm3,Benzyna,Cierpice,Kujawsko-pomorskie,2010
+10777,citroen,Citroën C5 2.0 HDi Exclusive,15000.0,260 000 km,automatic,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2010
+10778,citroen,Citroën DS5,34400.0,108 000 km,automatic,1 560 cm3,Diesel,Trzcianka,Wielkopolskie,2014
+10779,citroen,Citroën C4 Grand Picasso 2.0 HDi Exclusive MCP,10500.0,108 000 km,automatic,1 560 cm3,Diesel,Turek,Wielkopolskie,2014
+10780,citroen,Citroën DS5,39700.0,310 000 km,automatic,1 997 cm3,Diesel,Turka,Lubelskie,2010
+10781,citroen,Citroën DS5 2.0 HDi SoChic,41799.0,310 000 km,automatic,1 997 cm3,Diesel,Ostrołęka,Mazowieckie,2010
+10782,citroen,Citroën C4 Grand Picasso 2.0 HDi FAP EGS6 (7-Sitzer) Exclusive,18800.0,203 000 km,automatic,1 997 cm3,Diesel,Ciechanów,Mazowieckie,2011
+10783,citroen,Citroën DS5 2.0 HDi SportChic,49900.0,203 000 km,automatic,1 997 cm3,Diesel,Legionowo,Mazowieckie,2011
+10784,citroen,Citroën C3 Picasso,33900.0,245 078 km,automatic,1 997 cm3,Diesel,Kępno,Wielkopolskie,2011
+10785,citroen,Citroën C-Crosser 2.2 HDi Exclusive DCS,36000.0,245 078 km,automatic,1 997 cm3,Diesel,Otwock,Mazowieckie,2011
+10786,citroen,Citroën C4 Picasso,27900.0,218 000 km,automatic,1 997 cm3,Hybryda,Chodzież,Wielkopolskie,2013
+10787,citroen,Citroën C4 Picasso 1.6 THP Exclusive,24900.0,218 000 km,automatic,1 997 cm3,Hybryda,Konin,Wielkopolskie,2013
+10788,citroen,Citroën C5 2.0 HDi Exclusive,26999.0,189 000 km,automatic,1 997 cm3,Diesel,Warszawa,Mazowieckie,2012
+10789,citroen,Citroën C5 2.0 HDi Exclusive,25900.0,189 000 km,automatic,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2012
+10790,citroen,Citroën C5 2.0 HDi Exclusive,22500.0,195 000 km,automatic,1 997 cm3,Diesel,Koszyce Wielkie,Małopolskie,2011
+10791,citroen,Citroën C4 Grand Picasso,18800.0,195 000 km,automatic,1 997 cm3,Diesel,Chodzież,Wielkopolskie,2011
+10792,citroen,Citroën DS5,55000.0,230 000 km,automatic,1 997 cm3,Diesel,Piaseczno,Mazowieckie,2012
+10793,citroen,Citroën Berlingo,26500.0,230 000 km,automatic,1 997 cm3,Diesel,Zielona Góra,Lubuskie,2012
+10794,citroen,Citroën C4 THP 155 EGS6 Exclusive,33999.0,29 300 km,automatic,1 598 cm3,Benzyna,Gostyń,Wielkopolskie,2014
+10795,citroen,Citroën C4 Picasso 1.6 e-HDi Exclusive ETG6,39900.0,29 300 km,automatic,1 598 cm3,Benzyna,Latowice,Wielkopolskie,2014
+10796,citroen,Citroën DS4 1.6 e-HDi SoChic MCP,32999.0,191 803 km,automatic,2 179 cm3,Diesel,Wrocław,Dolnośląskie,2011
+10797,citroen,Citroën DS3 1.6 e-HDi SoChic MCP,35000.0,191 803 km,automatic,2 179 cm3,Diesel,Lublin,Lubelskie,2011
+10798,citroen,Citroën C4 1.6 e-HDi Exclusive MCP,36200.0,165 000 km,automatic,1 600 cm3,Diesel,Lublin,Lubelskie,2013
+10799,citroen,Citroën C4 Picasso,25900.0,165 000 km,automatic,1 600 cm3,Diesel,Zagórów,Wielkopolskie,2013
+10800,citroen,Citroën DS5,45900.0,163 317 km,automatic,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2011
+10801,citroen,Citroën C4 Picasso BlueHDi 150 EAT6 Exclusive,22900.0,163 317 km,automatic,1 598 cm3,Benzyna,Starogard Gdański,Pomorskie,2011
+10802,citroen,Citroën C4 Picasso,19999.0,271 429 km,automatic,1 997 cm3,Diesel,Zawiercie,Śląskie,2010
+10803,citroen,Citroën Nemo,18000.0,271 429 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2010
+10804,citroen,Citroën C4 Grand Picasso,37900.0,214 979 km,automatic,1 997 cm3,Diesel,Płock,Mazowieckie,2010
+10805,citroen,Citroën C4 Picasso 1.6 e-HDi Exclusive ETG6,29999.0,214 979 km,automatic,1 997 cm3,Diesel,Kielce,Świętokrzyskie,2010
+10806,citroen,Citroën C5X,206900.0,5 km,automatic,1 598 cm3,Hybryda,Łódź,Łódzkie,2022
+10807,citroen,Citroën C5 Aircross 1.2 PureTech Feel Pack EAT8,143400.0,5 km,automatic,1 598 cm3,Hybryda,Kalisz,Wielkopolskie,2022
+10808,citroen,Citroën C5 Aircross 1.6 PHEV Shine Pack EAT8,179990.0,5 km,automatic,1 199 cm3,Benzyna,Szczecin,Zachodniopomorskie,2023
+10809,citroen,Citroën C4 e-C4 Feel Pack,188675.0,5 km,automatic,1 199 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+10810,citroen,Citroën C5X,209000.0,3 km,automatic,1 598 cm3,Hybryda,Kraków,Małopolskie,2022
+10811,citroen,Citroën C5 Aircross,154900.0,3 km,automatic,1 598 cm3,Hybryda,Złotniki,Wielkopolskie,2022
+10812,citroen,Citroën C5X,209900.0,9 km,automatic,Elektryczny,2023,Złotniki,Wielkopolskie,2023
+10813,citroen,Citroën C4 e-C4 Feel Pack,188675.0,Elektryczny,automatic,2022,1 km,Bydgoszcz,Kujawsko-pomorskie,9 km
+10814,citroen,Citroën C5X,170600.0,Hybryda,automatic,2022,1 km,Bielsko-Biała,Śląskie,1 598 cm3
+10815,citroen,Citroën C4 PureTech 130 Stop&Start EAT8 C-SERIES,98800.0,Hybryda,automatic,2022,10 060 km,Chodzież,Wielkopolskie,1 598 cm3
+10816,citroen,Citroën C5X,228790.0,Benzyna,automatic,2022,10 060 km,Sosnowiec,Śląskie,1 199 cm3
+10817,citroen,Citroën C5 Aircross 1.6 PureTech Shine EAT8,134700.0,Benzyna,automatic,2022,11 166 km,Kutno,Łódzkie,1 199 cm3
+10818,citroen,Citroën C5X,165900.0,Hybryda,automatic,2022,11 166 km,Warszawa,Mazowieckie,1 598 cm3
+10819,citroen,Citroën C5X,165900.0,Hybryda,automatic,2023,9 km,Warszawa,Mazowieckie,1 598 cm3
+10820,citroen,Citroën C5X,238600.0,2023,automatic,9 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+10821,citroen,Citroën C5 Aircross 1.6 PHEV Shine Pack EAT8,214865.0,3 km,automatic,1 595 cm3,Benzyna,Mikołów,Śląskie,2022
+10822,citroen,Citroën C5 Aircross 1.5 BlueHDi Shine EAT8,155700.0,3 km,automatic,1 595 cm3,Benzyna,Mikołów,Śląskie,2022
+10823,citroen,Citroën C5 Aircross 1.6 PHEV Shine Pack EAT8,212200.0,25 200 km,automatic,1 199 cm3,Benzyna,Mikołów,Śląskie,2020
+10824,citroen,Citroën C5 Aircross 1.6 PHEV Shine Pack EAT8,224852.0,25 200 km,automatic,1 199 cm3,Benzyna,Mikołów,Śląskie,2020
+10825,citroen,Citroën C4 e-C4 C-Series,187400.0,2 km,automatic,1 598 cm3,Hybryda,Mikołów,Śląskie,2023
+10826,citroen,Citroën C4 1.5 BlueHDi Shine S&S EAT8,135792.0,2 km,automatic,1 598 cm3,Hybryda,Gdańsk,Pomorskie,2023
+10827,citroen,Citroën C5 Aircross,94900.0,57 233 km,automatic,1 598 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+10828,citroen,Citroën C5 Aircross 1.6 PHEV Shine Pack EAT8,189000.0,57 233 km,automatic,1 598 cm3,Benzyna,Opole,Opolskie,2021
+10829,citroen,Citroën C4 e-C4 Feel Pack,153500.0,1 km,automatic,1 199 cm3,Benzyna,Kutno,Łódzkie,2023
+10830,citroen,Citroën C5 Aircross 1.6 PHEV Feel Pack EAT8,179000.0,1 km,automatic,1 199 cm3,Benzyna,Opole,Opolskie,2023
+10831,citroen,Citroën C3 1.2 PureTech Shine S&S EAT6,89900.0,1 km,automatic,1 199 cm3,Benzyna,Kalisz,Wielkopolskie,2023
+10832,citroen,Citroën C3 Aircross 1.2 PureTech GPF Shine S&S EAT6,108300.0,1 km,automatic,1 199 cm3,Benzyna,Warszawa,Mazowieckie,2023
+10833,citroen,Citroën C5X,149300.0,1 km,automatic,1 598 cm3,Hybryda,Wałbrzych,Dolnośląskie,2023
+10834,citroen,Citroën C4X,206400.0,1 km,automatic,1 598 cm3,Hybryda,Łódź,Łódzkie,2023
+10835,citroen,Citroën C5X,198930.0,6 km,automatic,1 598 cm3,Hybryda,Opole,Opolskie,2023
+10836,citroen,Citroën C4X,174900.0,6 km,automatic,1 598 cm3,Hybryda,Kalisz,Wielkopolskie,2023
+10837,citroen,Citroën C4 1.2 PureTech Feel Pack S&S EAT8,121700.0,1 km,automatic,1 499 cm3,Diesel,Katowice,Śląskie,2023

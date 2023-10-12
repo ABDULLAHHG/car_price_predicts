@@ -1,0 +1,39 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+652,aston-martin,Aston Martin DB7,270000.0,20 000 km,manual,6 000 cm3,Benzyna,Bielsko-Biała,Śląskie,2003
+653,aston-martin,Aston Martin V8 Vantage,279007.0,69 000 km,manual,4 300 cm3,Benzyna,Gdańsk,Pomorskie,2006
+654,aston-martin,Aston Martin V8 Vantage,279007.0,69 000 km,manual,4 300 cm3,Benzyna,Gdańsk,Pomorskie,2006
+655,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,349800.0,35 248 km,automatic,4 735 cm3,Benzyna,Poznań,Wielkopolskie,2010
+656,aston-martin,Aston Martin DB9 Coupe Touchtronic,666666.0,35 248 km,automatic,4 735 cm3,Benzyna,Kalisz,Wielkopolskie,2010
+657,aston-martin,Aston Martin Rapide,429000.0,112 km,automatic,5 935 cm3,Benzyna,Tarnowskie Góry,Śląskie,2011
+658,aston-martin,Aston Martin Virage Touchtronic II,519900.0,112 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+659,aston-martin,Aston Martin Vantage,399000.0,43 000 km,automatic,5 935 cm3,Benzyna,Brzeg,Opolskie,2013
+660,aston-martin,Aston Martin Vantage,310000.0,43 000 km,automatic,5 935 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2013
+661,aston-martin,Aston Martin DB9,420000.0,45 600 km,automatic,5 935 cm3,Benzyna,Papowo Biskupie,Kujawsko-pomorskie,2011
+662,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,315000.0,45 600 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+663,aston-martin,Aston Martin Rapide S,269000.0,62 700 km,automatic,4 735 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2011
+664,aston-martin,Aston Martin DB7,83000.0,30 000 km,automatic,5 935 cm3,Benzyna,Łódź,Łódzkie,2001
+665,aston-martin,Aston Martin DBS Touchtronic II,599000.0,76 000 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2009
+666,aston-martin,Aston Martin DB9 Standard,249900.0,76 000 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2009
+667,aston-martin,Aston Martin DB9,315000.0,84 479 km,automatic,5 935 cm3,Benzyna,Międzyrzecze Dolne,Śląskie,2005
+668,aston-martin,Aston Martin V8 Vantage Roadster N400 Sportshift,245000.0,84 479 km,automatic,5 935 cm3,Benzyna,Wyszków,Mazowieckie,2005
+669,aston-martin,Aston Martin DB9 Volante Touchtronic,129000.0,43 000 km,automatic,5 935 cm3,Benzyna,Tarnów,Małopolskie,2007
+670,aston-martin,Aston Martin DB9 Standard,299900.0,43 000 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2007
+671,aston-martin,Aston Martin DB9 Standard,229000.0,26 302 km,automatic,4 300 cm3,Benzyna,Wasilków,Podlaskie,2008
+672,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,349800.0,35 248 km,automatic,4 735 cm3,Benzyna,Poznań,Wielkopolskie,2010
+673,aston-martin,Aston Martin DB9 Coupe Touchtronic,666666.0,35 248 km,automatic,4 735 cm3,Benzyna,Kalisz,Wielkopolskie,2010
+674,aston-martin,Aston Martin Rapide,429000.0,112 km,automatic,5 935 cm3,Benzyna,Tarnowskie Góry,Śląskie,2011
+675,aston-martin,Aston Martin Virage Touchtronic II,519900.0,112 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+676,aston-martin,Aston Martin Vantage,399000.0,43 000 km,automatic,5 935 cm3,Benzyna,Brzeg,Opolskie,2013
+677,aston-martin,Aston Martin Vantage,310000.0,43 000 km,automatic,5 935 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2013
+678,aston-martin,Aston Martin DB9,420000.0,45 600 km,automatic,5 935 cm3,Benzyna,Papowo Biskupie,Kujawsko-pomorskie,2011
+679,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,315000.0,45 600 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+680,aston-martin,Aston Martin Rapide S,269000.0,62 700 km,automatic,4 735 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2011
+681,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,349800.0,35 248 km,automatic,4 735 cm3,Benzyna,Poznań,Wielkopolskie,2010
+682,aston-martin,Aston Martin DB9 Coupe Touchtronic,666666.0,35 248 km,automatic,4 735 cm3,Benzyna,Kalisz,Wielkopolskie,2010
+683,aston-martin,Aston Martin Rapide,429000.0,112 km,automatic,5 935 cm3,Benzyna,Tarnowskie Góry,Śląskie,2011
+684,aston-martin,Aston Martin Virage Touchtronic II,519900.0,112 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+685,aston-martin,Aston Martin Vantage,399000.0,43 000 km,automatic,5 935 cm3,Benzyna,Brzeg,Opolskie,2013
+686,aston-martin,Aston Martin Vantage,310000.0,43 000 km,automatic,5 935 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2013
+687,aston-martin,Aston Martin DB9,420000.0,45 600 km,automatic,5 935 cm3,Benzyna,Papowo Biskupie,Kujawsko-pomorskie,2011
+688,aston-martin,Aston Martin V8 Vantage Roadster Sportshift,315000.0,45 600 km,automatic,5 935 cm3,Benzyna,Warszawa,Mazowieckie,2011
+689,aston-martin,Aston Martin Rapide S,269000.0,62 700 km,automatic,4 735 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2011

@@ -1,0 +1,653 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+0,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+1,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+2,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+3,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+4,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+5,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+6,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+7,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+8,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+9,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+10,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+11,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+12,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+13,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+14,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+15,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+16,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+17,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+18,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+19,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+20,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+21,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+22,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+23,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+24,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+25,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+26,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+27,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+28,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+29,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+30,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+31,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+32,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+33,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+34,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+35,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+36,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+37,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+38,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+39,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+40,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+41,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+42,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+43,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+44,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+45,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+46,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+47,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+48,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+49,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+50,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+51,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+52,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+53,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+54,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+55,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+56,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+57,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+58,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+59,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+60,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+61,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+62,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+63,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+64,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+65,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+66,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+67,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+68,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+69,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+70,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+71,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+72,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+73,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+74,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+75,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+76,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+77,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+78,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+79,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+80,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+81,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+82,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+83,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+84,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+85,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+86,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+87,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+88,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+89,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+90,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+91,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+92,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+93,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+94,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+95,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+96,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+97,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+98,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+99,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+100,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+101,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+102,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+103,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+104,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+105,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+106,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+107,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+108,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+109,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+110,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+111,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+112,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+113,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+114,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+115,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+116,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+117,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+118,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+119,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+120,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+121,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+122,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+123,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+124,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+125,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+126,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+127,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+128,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+129,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+130,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+131,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+132,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+133,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+134,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+135,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+136,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+137,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+138,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+139,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+140,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+141,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+142,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+143,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+144,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+145,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+146,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+147,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+148,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+149,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+150,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+151,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+152,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+153,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+154,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+155,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+156,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+157,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+158,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+159,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+160,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+161,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+162,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+163,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+164,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+165,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+166,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+167,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+168,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+169,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+170,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+171,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+172,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+173,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+174,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+175,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+176,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+177,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+178,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+179,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+180,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+181,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+182,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+183,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+184,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+185,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+186,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+187,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+188,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+189,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+190,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+191,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+192,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+193,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+194,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+195,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+196,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,14700.0,133 760 km,manual,1 970 cm3,Benzyna,Łask,Łódzkie,1998
+197,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14000.0,133 760 km,manual,1 970 cm3,Benzyna,Mława,Mazowieckie,1998
+198,alfa-romeo,Alfa Romeo 164 2.0 TSpark Super,4500.0,227 000 km,manual,1 970 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,1996
+199,alfa-romeo,Alfa Romeo Spider 2.0 TSpark,17100.0,227 000 km,manual,1 970 cm3,Benzyna,Jasło,Podkarpackie,1996
+200,alfa-romeo,Alfa Romeo 156 1.6 TSpark 16v,3900.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Pabianice,Łódzkie,1995
+201,alfa-romeo,Alfa Romeo GTV 2.0 TS,17200.0,239 000 km,manual,1 995 cm3,Benzyna+LPG,Warszawa,Mazowieckie,1995
+202,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,15500.0,180 711 km,manual,1 970 cm3,Benzyna,Legionowo,Mazowieckie,1998
+203,alfa-romeo,Alfa Romeo GTV 2.0 V6 Turbo,24900.0,180 711 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+204,alfa-romeo,Alfa Romeo 156 1.8 TSpark 16v,5800.0,195 000 km,manual,1 598 cm3,Benzyna,Opalenica,Wielkopolskie,1998
+205,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,17500.0,195 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1998
+206,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark,14999.0,261 300 km,manual,1 970 cm3,Benzyna,Pruszków,Mazowieckie,1998
+207,alfa-romeo,Alfa Romeo 166 2.0 V6 TB,18500.0,261 300 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1998
+208,alfa-romeo,Alfa Romeo Spider 2.0-16 TSpark,18200.0,238 250 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,1996
+209,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,11900.0,238 250 km,manual,1 970 cm3,Benzyna,Rzeszów,Podkarpackie,1996
+210,alfa-romeo,Alfa Romeo GT,13900.0,254 000 km,manual,1 910 cm3,Diesel,Zduńska Wola,Łódzkie,2004
+211,alfa-romeo,Alfa Romeo 156 2.5 V6 Distinctive,39000.0,254 000 km,manual,1 910 cm3,Diesel,Mińsk Mazowiecki,Mazowieckie,2004
+212,alfa-romeo,Alfa Romeo 147 1.6 T.S 16V 120 Veloce,9900.0,153 000 km,manual,2 492 cm3,Benzyna,Gdynia,Pomorskie,2003
+213,alfa-romeo,Alfa Romeo 147 1.9 JTD Progression,5000.0,153 000 km,manual,2 492 cm3,Benzyna,Legionowo,Mazowieckie,2003
+214,alfa-romeo,Alfa Romeo 156 2.0 JTS Distinctive,9999.0,121 787 km,manual,1 598 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2004
+215,alfa-romeo,Alfa Romeo 147,9999.0,121 787 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2004
+216,alfa-romeo,Alfa Romeo 147 1.6 T.S 16V Moving,4500.0,267 000 km,manual,1 910 cm3,Diesel,Polichty,Małopolskie,2004
+217,alfa-romeo,Alfa Romeo 147 1.9 JTD Progression,4199.0,267 000 km,manual,1 910 cm3,Diesel,Białystok,Podlaskie,2004
+218,alfa-romeo,Alfa Romeo 156 2.0 TSpark 16v,2900.0,131 000 km,manual,1 970 cm3,Benzyna,Chełmiec,Małopolskie,2004
+219,alfa-romeo,Alfa Romeo 156 2.0 JTS Distinctive,6900.0,131 000 km,manual,1 970 cm3,Benzyna,Rybnik,Śląskie,2004
+220,alfa-romeo,Alfa Romeo 147,4000.0,101 500 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2000
+221,alfa-romeo,Alfa Romeo GT 1.9JTD 16V Distinctive,8900.0,101 500 km,manual,1 598 cm3,Benzyna,Kacice,Małopolskie,2000
+222,alfa-romeo,Alfa Romeo GT,27777.0,128 000 km,manual,1 598 cm3,Benzyna+LPG,Radom,Mazowieckie,2003
+223,alfa-romeo,Alfa Romeo 156,4900.0,128 000 km,manual,1 598 cm3,Benzyna+LPG,Trzebinia,Małopolskie,2003
+224,alfa-romeo,Alfa Romeo 156 2.4JTD20v Progression,8000.0,213 121 km,manual,1 910 cm3,Diesel,Radziechowy,Śląskie,2004
+225,alfa-romeo,Alfa Romeo 147,1900.0,213 121 km,manual,1 910 cm3,Diesel,Warszawa,Mazowieckie,2004
+226,alfa-romeo,Alfa Romeo 156 2.4 JTD Distinctive,3700.0,191 000 km,manual,1 970 cm3,Benzyna,Słupsk,Pomorskie,2000
+227,alfa-romeo,Alfa Romeo 147 1.9 JTD Progression,4950.0,191 000 km,manual,1 970 cm3,Benzyna,Płońsk,Mazowieckie,2000
+228,alfa-romeo,Alfa Romeo 147 1.9 JTD Distinctive,2900.0,193 951 km,manual,1 970 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2002
+229,alfa-romeo,Alfa Romeo 156,5900.0,193 951 km,manual,1 970 cm3,Benzyna,Warszawa,Mazowieckie,2002
+230,alfa-romeo,Alfa Romeo 156,2400.0,200 604 km,manual,1 598 cm3,Benzyna,Rzeszów,Podkarpackie,2002
+231,alfa-romeo,Alfa Romeo 147,4500.0,200 604 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2002
+232,alfa-romeo,Alfa Romeo 156 2.0 TSpark 16v,2900.0,250 000 km,manual,1 910 cm3,Diesel,Dziekanów Leśny,Mazowieckie,2004
+233,alfa-romeo,Alfa Romeo 166 2.4 JTD Distinctive,5900.0,250 000 km,manual,1 910 cm3,Diesel,Biała Podlaska,Lubelskie,2004
+234,alfa-romeo,Alfa Romeo 156,6969.0,181 065 km,manual,1 910 cm3,Diesel,Wola Mrokowska,Mazowieckie,2004
+235,alfa-romeo,Alfa Romeo 166 2.5 24V Progression,6500.0,181 065 km,manual,1 910 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2004
+236,alfa-romeo,Alfa Romeo 147,6900.0,152 000 km,manual,1 598 cm3,Benzyna,Kobylanka,Małopolskie,2001
+237,alfa-romeo,Alfa Romeo 147 1.6 T.S 16V Corse,4700.0,152 000 km,manual,1 598 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2001
+238,alfa-romeo,Alfa Romeo GTV 2.0 16v TSpark L,17200.0,193 789 km,manual,2 387 cm3,Diesel,Białystok,Podlaskie,2004
+239,alfa-romeo,Alfa Romeo 156 1.9 JTD Progression,2900.0,193 789 km,manual,2 387 cm3,Diesel,Warszawa,Mazowieckie,2004
+240,alfa-romeo,Alfa Romeo 166 2.5 V6 24v,19800.0,246 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,2000
+241,alfa-romeo,Alfa Romeo 147,4900.0,246 000 km,manual,1 598 cm3,Benzyna,Wesoła,Podkarpackie,2000
+242,alfa-romeo,Alfa Romeo GT,10000.0,330 981 km,manual,1 910 cm3,Diesel,Raszyn,Mazowieckie,2004
+243,alfa-romeo,Alfa Romeo 166 2.0 TSpark 16V,6500.0,330 981 km,manual,1 910 cm3,Diesel,Wałbrzych,Dolnośląskie,2004
+244,alfa-romeo,Alfa Romeo 156,6660.0,140 000 km,manual,1 970 cm3,Benzyna,Sieradz,Łódzkie,2002
+245,alfa-romeo,Alfa Romeo 166,6500.0,140 000 km,manual,1 970 cm3,Benzyna,Kraków,Małopolskie,2002
+246,alfa-romeo,Alfa Romeo 147 1.9 JTD Progression,3600.0,259 000 km,manual,1 910 cm3,Diesel,Kraków,Małopolskie,2004
+247,alfa-romeo,Alfa Romeo 156 2.4JTD20v Progression,5000.0,259 000 km,manual,1 910 cm3,Diesel,Chełmża,Kujawsko-pomorskie,2004
+248,alfa-romeo,Alfa Romeo GT 1.9JTD 16V Progression,12499.0,308 000 km,manual,2 387 cm3,Diesel,Zawiercie,Śląskie,2003
+249,alfa-romeo,Alfa Romeo 156 2.4JTD20v Distinctive,3600.0,308 000 km,manual,2 387 cm3,Diesel,Gdynia,Pomorskie,2003
+250,alfa-romeo,Alfa Romeo 156 1.9 JTD,4900.0,241 000 km,manual,1 910 cm3,Diesel,Warszawa,Mazowieckie,2003
+251,alfa-romeo,Alfa Romeo 147 1.6 T.S Distinctive,4999.0,241 000 km,manual,1 910 cm3,Diesel,Żyrardów,Mazowieckie,2003
+252,alfa-romeo,Alfa Romeo 147,4990.0,380 554 km,manual,2 387 cm3,Diesel,Toruń,Kujawsko-pomorskie,2003
+253,alfa-romeo,Alfa Romeo 147 1.9 JTD 16V Black Line,15000.0,130 000 km,manual,1 910 cm3,Diesel,Michałowice I,Małopolskie,2008
+254,alfa-romeo,Alfa Romeo 159 1.9JTDM Distinctive,7500.0,130 000 km,manual,1 910 cm3,Diesel,Kraków,Małopolskie,2008
+255,alfa-romeo,Alfa Romeo 159 2.4JTDM Distinctive,14500.0,319 000 km,manual,1 910 cm3,Diesel,Ząbki,Mazowieckie,2006
+256,alfa-romeo,Alfa Romeo Mito 1.4 TB Distinctive,16500.0,319 000 km,manual,1 910 cm3,Diesel,Lubliniec,Śląskie,2006
+257,alfa-romeo,Alfa Romeo 159 1750TBi Progression,46000.0,285 000 km,manual,2 387 cm3,Diesel,Rudzica,Śląskie,2006
+258,alfa-romeo,Alfa Romeo 159 1.9JTDM Distinctive,14500.0,285 000 km,manual,2 387 cm3,Diesel,Jastrzębie-Zdrój,Śląskie,2006
+259,alfa-romeo,Alfa Romeo 159 2.0JTDM Sport,19000.0,188 000 km,manual,1 368 cm3,Benzyna+LPG,Siedlec,Małopolskie,2008
+260,alfa-romeo,Alfa Romeo 159 1.9JTDM Impression,16700.0,188 000 km,manual,1 368 cm3,Benzyna+LPG,Jaworzno,Śląskie,2008
+261,alfa-romeo,Alfa Romeo 147 1.9 JTD 8V Impression,10700.0,136 000 km,manual,1 742 cm3,Benzyna,Marcinkowice,Małopolskie,2009
+262,alfa-romeo,Alfa Romeo Mito,22900.0,136 000 km,manual,1 742 cm3,Benzyna,Zbożenna,Mazowieckie,2009
+263,alfa-romeo,Alfa Romeo 159,10999.0,340 000 km,manual,1 910 cm3,Diesel,Dąbrowa,Wielkopolskie,2007
+264,alfa-romeo,Alfa Romeo 159 1.9JTDM Impression,14999.0,340 000 km,manual,1 910 cm3,Diesel,Rzeszów,Podkarpackie,2007
+265,alfa-romeo,Alfa Romeo Mito,19500.0,214 380 km,manual,1 956 cm3,Diesel,Września,Wielkopolskie,2009
+266,alfa-romeo,Alfa Romeo 159 1.9JTS Progression,13900.0,214 380 km,manual,1 956 cm3,Diesel,Trzuskołoń,Wielkopolskie,2009
+267,alfa-romeo,Alfa Romeo 147 1.9 JTD 8V Impression,8900.0,276 700 km,manual,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+268,alfa-romeo,Alfa Romeo 159 1.9JTDM Progression,14500.0,276 700 km,manual,1 910 cm3,Diesel,Wrocław,Dolnośląskie,2006
+269,alfa-romeo,Alfa Romeo 159 1.9JTDM Progression,13500.0,124 000 km,manual,1 910 cm3,Diesel,Wrocław,Dolnośląskie,2008
+270,alfa-romeo,Alfa Romeo 147 1.6 T.S Black Line,8900.0,124 000 km,manual,1 910 cm3,Diesel,Kutno,Łódzkie,2008
+271,alfa-romeo,Alfa Romeo 159 1.8MPI Impression,9999.0,238 000 km,manual,1 368 cm3,Benzyna,Wałbrzych,Dolnośląskie,2009
+272,alfa-romeo,Alfa Romeo 147,5990.0,238 000 km,manual,1 368 cm3,Benzyna,Zgorzelec,Dolnośląskie,2009
+273,alfa-romeo,Alfa Romeo GT,7500.0,260 000 km,manual,1 910 cm3,Diesel,Kołobrzeg,Zachodniopomorskie,2007
+274,alfa-romeo,Alfa Romeo 159 2.4JTDM Progression,18900.0,260 000 km,manual,1 910 cm3,Diesel,Lublin,Lubelskie,2007
+275,alfa-romeo,Alfa Romeo 159 2.0JTDM Distinctive,18900.0,293 233 km,manual,1 910 cm3,Diesel,Topola Królewska,Łódzkie,2006
+276,alfa-romeo,Alfa Romeo 159 1.9JTDM Progression,16000.0,293 233 km,manual,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+277,alfa-romeo,Alfa Romeo Mito 1.3 JTDM Turismo,13900.0,163 000 km,manual,1 368 cm3,Benzyna,Międzyborów,Mazowieckie,2008
+278,alfa-romeo,Alfa Romeo Mito,22600.0,163 000 km,manual,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2008
+279,alfa-romeo,Alfa Romeo 156,8490.0,191 000 km,manual,1 858 cm3,Benzyna,Ruda Śląska,Śląskie,2007
+280,alfa-romeo,Alfa Romeo Crosswagon,14000.0,191 000 km,manual,1 858 cm3,Benzyna,Proszowice,Małopolskie,2007
+281,alfa-romeo,Alfa Romeo 159 1.9JTDM Distinctive,18200.0,283 091 km,manual,1 910 cm3,Diesel,Płock,Mazowieckie,2008
+282,alfa-romeo,Alfa Romeo Mito,22017.0,283 091 km,manual,1 910 cm3,Diesel,Szówsko,Podkarpackie,2008
+283,alfa-romeo,Alfa Romeo 159,23000.0,293 000 km,manual,1 910 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2006
+284,alfa-romeo,Alfa Romeo GT 1.9JTD 16V Impression,13900.0,293 000 km,manual,1 910 cm3,Diesel,Pruszków,Mazowieckie,2006
+285,alfa-romeo,Alfa Romeo Mito 1.4 16V,18900.0,119 000 km,manual,1 368 cm3,Benzyna,Wągrowiec,Wielkopolskie,2015
+286,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM Distinctive,41500.0,119 000 km,manual,1 368 cm3,Benzyna,Piła,Wielkopolskie,2015
+287,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super,50900.0,183 500 km,manual,1 598 cm3,Diesel,Rokitnica,Pomorskie,2015
+288,alfa-romeo,Alfa Romeo Giulietta,55000.0,183 500 km,manual,1 598 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2015
+289,alfa-romeo,Alfa Romeo Mito 1.4,33100.0,190 800 km,manual,1 368 cm3,Benzyna,Grodzisk Mazowiecki,Mazowieckie,2016
+290,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir,39800.0,190 800 km,manual,1 368 cm3,Benzyna,Ząbkowice Śląskie,Dolnośląskie,2016
+291,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super,69900.0,96 012 km,manual,1 368 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2017
+292,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM Sport,64500.0,96 012 km,manual,1 368 cm3,Benzyna,Turek,Wielkopolskie,2017
+293,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM 16V Lusso,29900.0,39 000 km,manual,1 368 cm3,Benzyna,Września,Wielkopolskie,2016
+294,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V Sprint,45400.0,39 000 km,manual,1 368 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2016
+295,alfa-romeo,Alfa Romeo Giulia,70900.0,105 000 km,manual,1 368 cm3,Benzyna,Grabów nad Prosną,Wielkopolskie,2016
+296,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir,47900.0,105 000 km,manual,1 368 cm3,Benzyna,Częstochowa,Śląskie,2016
+297,alfa-romeo,Alfa Romeo Giulietta,55450.0,108 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2018
+298,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM,51900.0,108 000 km,manual,1 368 cm3,Benzyna,Grabów nad Prosną,Wielkopolskie,2018
+299,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Super,55899.0,9 500 km,manual,1 598 cm3,Diesel,Janki,Mazowieckie,2018
+300,alfa-romeo,Alfa Romeo Giulia 2.2 D Turbo Super,85000.0,9 500 km,manual,1 598 cm3,Diesel,Grodzisk Mazowiecki,Mazowieckie,2018
+301,alfa-romeo,Alfa Romeo Giulietta,54900.0,136 000 km,manual,1 598 cm3,Diesel,Tychy,Śląskie,2016
+302,alfa-romeo,Alfa Romeo Giulia 2.9 V6 Bi-Turbo Quadrifoglio,195000.0,136 000 km,manual,1 598 cm3,Diesel,Szubin,Kujawsko-pomorskie,2016
+303,alfa-romeo,Alfa Romeo Mito,22900.0,191 500 km,manual,1 956 cm3,Diesel,Poznań,Wielkopolskie,2016
+304,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM Sport,51900.0,191 500 km,manual,1 956 cm3,Diesel,Mysłowice,Śląskie,2016
+305,alfa-romeo,Alfa Romeo Giulietta,67900.0,108 000 km,manual,2 143 cm3,Diesel,Warszawa,Mazowieckie,2016
+306,alfa-romeo,Alfa Romeo Giulia 2.2 D Turbo Super,88000.0,108 000 km,manual,2 143 cm3,Diesel,Rzeszów,Podkarpackie,2016
+307,alfa-romeo,Alfa Romeo Giulia 2.2 D Turbo Super,75000.0,195 000 km,manual,1 368 cm3,Benzyna,Katowice,Śląskie,2016
+308,alfa-romeo,Alfa Romeo Giulietta,52999.0,195 000 km,manual,1 368 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2016
+309,alfa-romeo,Alfa Romeo Giulietta,42900.0,82 000 km,manual,1 368 cm3,Benzyna,Łajski,Mazowieckie,2017
+310,alfa-romeo,Alfa Romeo Giulietta,45800.0,82 000 km,manual,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2017
+311,alfa-romeo,Alfa Romeo Mito,22900.0,62 300 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2016
+312,alfa-romeo,Alfa Romeo Giulia 2.2 D Turbo,69900.0,62 300 km,manual,1 598 cm3,Diesel,Poznań,Wielkopolskie,2016
+313,alfa-romeo,Alfa Romeo Giulia 2.2 D Turbo Super,95000.0,70 248 km,manual,1 956 cm3,Diesel,Wronowy,Kujawsko-pomorskie,2017
+314,alfa-romeo,Alfa Romeo Mito 0.9 TwinAir Distinctive,26900.0,70 248 km,manual,1 956 cm3,Diesel,Zduńska Wola,Łódzkie,2017
+315,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM,47900.0,105 000 km,manual,2 143 cm3,Diesel,Janki,Mazowieckie,2016
+316,alfa-romeo,Alfa Romeo Mito,39999.0,105 000 km,manual,2 143 cm3,Diesel,Warszawa,Mazowieckie,2016
+317,alfa-romeo,Alfa Romeo Mito 1.3 JTDM Distinctive S&S,26800.0,117 000 km,manual,1 248 cm3,Diesel,Kraków,Małopolskie,2014
+318,alfa-romeo,Alfa Romeo Mito,30000.0,117 000 km,manual,1 248 cm3,Diesel,Bielany Wrocławskie,Dolnośląskie,2014
+319,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Progression,29900.0,97 713 km,manual,1 368 cm3,Benzyna,Pierzchnica,Świętokrzyskie,2012
+320,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive,45000.0,97 713 km,manual,1 368 cm3,Benzyna,Koszalin,Zachodniopomorskie,2012
+321,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair,34999.0,143 000 km,manual,1 368 cm3,Benzyna,Poręba,Śląskie,2010
+322,alfa-romeo,Alfa Romeo 159 2.0JTDM Sport Plus,14900.0,143 000 km,manual,1 368 cm3,Benzyna,Żabno,Małopolskie,2010
+323,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Progression,27700.0,162 800 km,manual,1 368 cm3,Benzyna,Rudniki,Śląskie,2012
+324,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive,22900.0,162 800 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2012
+325,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive,27500.0,188 463 km,manual,1 368 cm3,Benzyna,Dobroszyce,Dolnośląskie,2013
+326,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Progression,52000.0,188 463 km,manual,1 368 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2013
+327,alfa-romeo,Alfa Romeo Giulietta 1750 TBi Quadrifoglio Verde,40500.0,218 000 km,manual,1 956 cm3,Diesel,Krzywaczka,Małopolskie,2010
+328,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM 16V Turismo,24900.0,218 000 km,manual,1 956 cm3,Diesel,Człuchów,Pomorskie,2010
+329,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM 16V,39999.0,176 000 km,manual,1 368 cm3,Benzyna,Będzin,Śląskie,2011
+330,alfa-romeo,Alfa Romeo Mito TB 1.4 16V MultiAir Super,19900.0,176 000 km,manual,1 368 cm3,Benzyna,Radom,Mazowieckie,2011
+331,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive,32500.0,290 000 km,manual,1 368 cm3,Benzyna,Niedary,Małopolskie,2010
+332,alfa-romeo,Alfa Romeo 159 2.0JTDM Sport Plus,32800.0,290 000 km,manual,1 368 cm3,Benzyna,Słomin,Mazowieckie,2010
+333,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V,34900.0,255 000 km,manual,1 956 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2010
+334,alfa-romeo,Alfa Romeo Giulietta,55000.0,255 000 km,manual,1 956 cm3,Diesel,Gdańsk,Pomorskie,2010
+335,alfa-romeo,Alfa Romeo Giulietta,24900.0,77 938 km,manual,1 368 cm3,Benzyna+LPG,Łask,Łódzkie,2014
+336,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Super,39900.0,77 938 km,manual,1 368 cm3,Benzyna+LPG,Zduńska Wola,Łódzkie,2014
+337,alfa-romeo,Alfa Romeo Giulietta,37300.0,190 200 km,manual,1 742 cm3,Benzyna,Warszawa,Mazowieckie,2011
+338,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Progression,23500.0,190 200 km,manual,1 742 cm3,Benzyna,Kraków,Małopolskie,2011
+339,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir QV,30900.0,244 350 km,manual,1 598 cm3,Diesel,Czeladź,Śląskie,2012
+340,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive,30900.0,244 350 km,manual,1 598 cm3,Diesel,Płock,Mazowieckie,2012
+341,alfa-romeo,Alfa Romeo Giulietta,39900.0,180 000 km,manual,1 598 cm3,Diesel,Kraków,Małopolskie,2014
+342,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Turismo,35000.0,180 000 km,manual,1 598 cm3,Diesel,Lublin,Lubelskie,2014
+343,alfa-romeo,Alfa Romeo Giulietta 1.6 JTDM Distinctive,24000.0,191 000 km,manual,1 368 cm3,Benzyna,Łomianki Dolne,Mazowieckie,2010
+344,alfa-romeo,Alfa Romeo 159 2.0JTDM Sport,25900.0,191 000 km,manual,1 368 cm3,Benzyna,Kraków,Małopolskie,2010
+345,alfa-romeo,Alfa Romeo Giulietta,33000.0,92 000 km,manual,1 368 cm3,Benzyna,Inowrocław,Kujawsko-pomorskie,2012
+346,alfa-romeo,Alfa Romeo Mito,18500.0,92 000 km,manual,1 368 cm3,Benzyna,Łowicz,Łódzkie,2012
+347,alfa-romeo,Alfa Romeo Mito,9900.0,196 000 km,manual,1 956 cm3,Diesel,Tomaszów Mazowiecki,Łódzkie,2010
+348,alfa-romeo,Alfa Romeo Giulietta,32900.0,196 000 km,manual,1 956 cm3,Diesel,Olkusz,Małopolskie,2010
+349,alfa-romeo,Alfa Romeo 145,49000.0,4 000 km,manual,1 900 cm3,Benzyna,Poznań,Wielkopolskie,2022
+350,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Sport,17900.0,4 000 km,manual,1 900 cm3,Benzyna,Goświnowice,Opolskie,2022
+351,alfa-romeo,Alfa Romeo 145,49000.0,4 000 km,manual,1 900 cm3,Benzyna,Poznań,Wielkopolskie,2022
+352,alfa-romeo,Alfa Romeo Giulietta 1.4 TB Sport,17900.0,4 000 km,manual,1 900 cm3,Benzyna,Goświnowice,Opolskie,2022
+353,alfa-romeo,Alfa Romeo 166 3.0 V6 24v Sportronic,13900.0,79 800 km,automatic,2 959 cm3,Benzyna,Ciechanów,Mazowieckie,1998
+354,alfa-romeo,Alfa Romeo 166 2.4JTD 20V Progress,7500.0,310 954 km,automatic,2 387 cm3,Diesel,Żagań,Lubuskie,2004
+355,alfa-romeo,Alfa Romeo 166 3.0 V6 24v Sportronic,13900.0,79 800 km,automatic,2 959 cm3,Benzyna,Ciechanów,Mazowieckie,1998
+356,alfa-romeo,Alfa Romeo 159,9999.0,290 000 km,automatic,2 387 cm3,Diesel,Niedary,Małopolskie,2007
+357,alfa-romeo,Alfa Romeo Spider 3.2JTSQ4 Q-Exclusive,82000.0,290 000 km,automatic,2 387 cm3,Diesel,Słupsk,Pomorskie,2007
+358,alfa-romeo,Alfa Romeo 159,17900.0,109 000 km,automatic,3 195 cm3,Benzyna,Dojazdów,Małopolskie,2007
+359,alfa-romeo,Alfa Romeo 159,11800.0,109 000 km,automatic,3 195 cm3,Benzyna,Tychy,Śląskie,2007
+360,alfa-romeo,Alfa Romeo Brera 2.4JTDM Q-Tronic,37900.0,211 000 km,automatic,1 910 cm3,Diesel,Jawor,Dolnośląskie,2009
+361,alfa-romeo,Alfa Romeo 147 2.0 Seles.Distinctive,7490.0,211 000 km,automatic,1 910 cm3,Diesel,Będzin,Śląskie,2009
+362,alfa-romeo,Alfa Romeo 166 3.0 24V Progression,33600.0,334 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+363,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Q-Tronic Turismo,24900.0,334 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2006
+364,alfa-romeo,Alfa Romeo 159,26500.0,176 300 km,automatic,2 387 cm3,Diesel,Gdynia,Pomorskie,2008
+365,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25900.0,176 300 km,automatic,2 387 cm3,Diesel,Kobyłka,Mazowieckie,2008
+366,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-ti,27900.0,133 424 km,automatic,1 970 cm3,Benzyna,Radom,Mazowieckie,2005
+367,alfa-romeo,Alfa Romeo 159 3.2JTS Q4 Q-ti,26000.0,133 424 km,automatic,1 970 cm3,Benzyna,Marki,Mazowieckie,2005
+368,alfa-romeo,Alfa Romeo Brera 2.2JTS Selespeed,39999.0,300 000 km,automatic,2 959 cm3,Benzyna,Warszawa,Mazowieckie,2006
+369,alfa-romeo,Alfa Romeo 159,16400.0,300 000 km,automatic,2 959 cm3,Benzyna,Lipowa Góra Wschodnia,Warmińsko-mazurskie,2006
+370,alfa-romeo,Alfa Romeo 159 1.9JTDM Q-Progression,12000.0,212 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2009
+371,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Turismo,26999.0,212 000 km,automatic,2 387 cm3,Diesel,Trojanów,Mazowieckie,2009
+372,alfa-romeo,Alfa Romeo 159,15500.0,210 900 km,automatic,2 387 cm3,Diesel,Jaworzno,Śląskie,2009
+373,alfa-romeo,Alfa Romeo 159 2.2 JTS 16V Selespeed ti,22900.0,210 900 km,automatic,2 387 cm3,Diesel,Dzierżoniów,Dolnośląskie,2009
+374,alfa-romeo,Alfa Romeo Sportwagon,16900.0,218 317 km,automatic,2 387 cm3,Diesel,Bodzanów,Małopolskie,2007
+375,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25590.0,218 317 km,automatic,2 387 cm3,Diesel,Opole,Opolskie,2007
+376,alfa-romeo,Alfa Romeo 159,18000.0,251 000 km,automatic,2 387 cm3,Diesel,Szczyrk,Śląskie,2008
+377,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Progression,17900.0,251 000 km,automatic,2 387 cm3,Diesel,Radom,Mazowieckie,2008
+378,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,23000.0,258 000 km,automatic,3 195 cm3,Benzyna,Jędrzejów,Świętokrzyskie,2008
+379,alfa-romeo,Alfa Romeo 159,34900.0,258 000 km,automatic,3 195 cm3,Benzyna,Bielsko-Biała,Śląskie,2008
+380,alfa-romeo,Alfa Romeo 159,17900.0,130 000 km,automatic,2 198 cm3,Benzyna,Chodzież,Wielkopolskie,2008
+381,alfa-romeo,Alfa Romeo 159,14100.0,130 000 km,automatic,2 198 cm3,Benzyna,Koszalin,Zachodniopomorskie,2008
+382,alfa-romeo,Alfa Romeo 159,15900.0,355 000 km,automatic,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2007
+383,alfa-romeo,Alfa Romeo 159,9999.0,290 000 km,automatic,2 387 cm3,Diesel,Niedary,Małopolskie,2007
+384,alfa-romeo,Alfa Romeo Spider 3.2JTSQ4 Q-Exclusive,82000.0,290 000 km,automatic,2 387 cm3,Diesel,Słupsk,Pomorskie,2007
+385,alfa-romeo,Alfa Romeo 159,17900.0,109 000 km,automatic,3 195 cm3,Benzyna,Dojazdów,Małopolskie,2007
+386,alfa-romeo,Alfa Romeo 159,11800.0,109 000 km,automatic,3 195 cm3,Benzyna,Tychy,Śląskie,2007
+387,alfa-romeo,Alfa Romeo Brera 2.4JTDM Q-Tronic,37900.0,211 000 km,automatic,1 910 cm3,Diesel,Jawor,Dolnośląskie,2009
+388,alfa-romeo,Alfa Romeo 147 2.0 Seles.Distinctive,7490.0,211 000 km,automatic,1 910 cm3,Diesel,Będzin,Śląskie,2009
+389,alfa-romeo,Alfa Romeo 166 3.0 24V Progression,33600.0,334 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+390,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Q-Tronic Turismo,24900.0,334 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2006
+391,alfa-romeo,Alfa Romeo 159,26500.0,176 300 km,automatic,2 387 cm3,Diesel,Gdynia,Pomorskie,2008
+392,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25900.0,176 300 km,automatic,2 387 cm3,Diesel,Kobyłka,Mazowieckie,2008
+393,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-ti,27900.0,133 424 km,automatic,1 970 cm3,Benzyna,Radom,Mazowieckie,2005
+394,alfa-romeo,Alfa Romeo 159 3.2JTS Q4 Q-ti,26000.0,133 424 km,automatic,1 970 cm3,Benzyna,Marki,Mazowieckie,2005
+395,alfa-romeo,Alfa Romeo Brera 2.2JTS Selespeed,39999.0,300 000 km,automatic,2 959 cm3,Benzyna,Warszawa,Mazowieckie,2006
+396,alfa-romeo,Alfa Romeo 159,16400.0,300 000 km,automatic,2 959 cm3,Benzyna,Lipowa Góra Wschodnia,Warmińsko-mazurskie,2006
+397,alfa-romeo,Alfa Romeo 159 1.9JTDM Q-Progression,12000.0,212 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2009
+398,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Turismo,26999.0,212 000 km,automatic,2 387 cm3,Diesel,Trojanów,Mazowieckie,2009
+399,alfa-romeo,Alfa Romeo 159,15500.0,210 900 km,automatic,2 387 cm3,Diesel,Jaworzno,Śląskie,2009
+400,alfa-romeo,Alfa Romeo 159 2.2 JTS 16V Selespeed ti,22900.0,210 900 km,automatic,2 387 cm3,Diesel,Dzierżoniów,Dolnośląskie,2009
+401,alfa-romeo,Alfa Romeo Sportwagon,16900.0,218 317 km,automatic,2 387 cm3,Diesel,Bodzanów,Małopolskie,2007
+402,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25590.0,218 317 km,automatic,2 387 cm3,Diesel,Opole,Opolskie,2007
+403,alfa-romeo,Alfa Romeo 159,18000.0,251 000 km,automatic,2 387 cm3,Diesel,Szczyrk,Śląskie,2008
+404,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Progression,17900.0,251 000 km,automatic,2 387 cm3,Diesel,Radom,Mazowieckie,2008
+405,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,23000.0,258 000 km,automatic,3 195 cm3,Benzyna,Jędrzejów,Świętokrzyskie,2008
+406,alfa-romeo,Alfa Romeo 159,34900.0,258 000 km,automatic,3 195 cm3,Benzyna,Bielsko-Biała,Śląskie,2008
+407,alfa-romeo,Alfa Romeo 159,17900.0,130 000 km,automatic,2 198 cm3,Benzyna,Chodzież,Wielkopolskie,2008
+408,alfa-romeo,Alfa Romeo 159,14100.0,130 000 km,automatic,2 198 cm3,Benzyna,Koszalin,Zachodniopomorskie,2008
+409,alfa-romeo,Alfa Romeo 159,15900.0,355 000 km,automatic,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2007
+410,alfa-romeo,Alfa Romeo 159,9999.0,290 000 km,automatic,2 387 cm3,Diesel,Niedary,Małopolskie,2007
+411,alfa-romeo,Alfa Romeo Spider 3.2JTSQ4 Q-Exclusive,82000.0,290 000 km,automatic,2 387 cm3,Diesel,Słupsk,Pomorskie,2007
+412,alfa-romeo,Alfa Romeo 159,17900.0,109 000 km,automatic,3 195 cm3,Benzyna,Dojazdów,Małopolskie,2007
+413,alfa-romeo,Alfa Romeo 159,11800.0,109 000 km,automatic,3 195 cm3,Benzyna,Tychy,Śląskie,2007
+414,alfa-romeo,Alfa Romeo Brera 2.4JTDM Q-Tronic,37900.0,211 000 km,automatic,1 910 cm3,Diesel,Jawor,Dolnośląskie,2009
+415,alfa-romeo,Alfa Romeo 147 2.0 Seles.Distinctive,7490.0,211 000 km,automatic,1 910 cm3,Diesel,Będzin,Śląskie,2009
+416,alfa-romeo,Alfa Romeo 166 3.0 24V Progression,33600.0,334 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+417,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Q-Tronic Turismo,24900.0,334 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2006
+418,alfa-romeo,Alfa Romeo 159,26500.0,176 300 km,automatic,2 387 cm3,Diesel,Gdynia,Pomorskie,2008
+419,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25900.0,176 300 km,automatic,2 387 cm3,Diesel,Kobyłka,Mazowieckie,2008
+420,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-ti,27900.0,133 424 km,automatic,1 970 cm3,Benzyna,Radom,Mazowieckie,2005
+421,alfa-romeo,Alfa Romeo 159 3.2JTS Q4 Q-ti,26000.0,133 424 km,automatic,1 970 cm3,Benzyna,Marki,Mazowieckie,2005
+422,alfa-romeo,Alfa Romeo Brera 2.2JTS Selespeed,39999.0,300 000 km,automatic,2 959 cm3,Benzyna,Warszawa,Mazowieckie,2006
+423,alfa-romeo,Alfa Romeo 159,16400.0,300 000 km,automatic,2 959 cm3,Benzyna,Lipowa Góra Wschodnia,Warmińsko-mazurskie,2006
+424,alfa-romeo,Alfa Romeo 159 1.9JTDM Q-Progression,12000.0,212 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2009
+425,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Turismo,26999.0,212 000 km,automatic,2 387 cm3,Diesel,Trojanów,Mazowieckie,2009
+426,alfa-romeo,Alfa Romeo 159,15500.0,210 900 km,automatic,2 387 cm3,Diesel,Jaworzno,Śląskie,2009
+427,alfa-romeo,Alfa Romeo 159 2.2 JTS 16V Selespeed ti,22900.0,210 900 km,automatic,2 387 cm3,Diesel,Dzierżoniów,Dolnośląskie,2009
+428,alfa-romeo,Alfa Romeo Sportwagon,16900.0,218 317 km,automatic,2 387 cm3,Diesel,Bodzanów,Małopolskie,2007
+429,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25590.0,218 317 km,automatic,2 387 cm3,Diesel,Opole,Opolskie,2007
+430,alfa-romeo,Alfa Romeo 159,18000.0,251 000 km,automatic,2 387 cm3,Diesel,Szczyrk,Śląskie,2008
+431,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Progression,17900.0,251 000 km,automatic,2 387 cm3,Diesel,Radom,Mazowieckie,2008
+432,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,23000.0,258 000 km,automatic,3 195 cm3,Benzyna,Jędrzejów,Świętokrzyskie,2008
+433,alfa-romeo,Alfa Romeo 159,34900.0,258 000 km,automatic,3 195 cm3,Benzyna,Bielsko-Biała,Śląskie,2008
+434,alfa-romeo,Alfa Romeo 159,17900.0,130 000 km,automatic,2 198 cm3,Benzyna,Chodzież,Wielkopolskie,2008
+435,alfa-romeo,Alfa Romeo 159,14100.0,130 000 km,automatic,2 198 cm3,Benzyna,Koszalin,Zachodniopomorskie,2008
+436,alfa-romeo,Alfa Romeo 159,15900.0,355 000 km,automatic,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2007
+437,alfa-romeo,Alfa Romeo 159,9999.0,290 000 km,automatic,2 387 cm3,Diesel,Niedary,Małopolskie,2007
+438,alfa-romeo,Alfa Romeo Spider 3.2JTSQ4 Q-Exclusive,82000.0,290 000 km,automatic,2 387 cm3,Diesel,Słupsk,Pomorskie,2007
+439,alfa-romeo,Alfa Romeo 159,17900.0,109 000 km,automatic,3 195 cm3,Benzyna,Dojazdów,Małopolskie,2007
+440,alfa-romeo,Alfa Romeo 159,11800.0,109 000 km,automatic,3 195 cm3,Benzyna,Tychy,Śląskie,2007
+441,alfa-romeo,Alfa Romeo Brera 2.4JTDM Q-Tronic,37900.0,211 000 km,automatic,1 910 cm3,Diesel,Jawor,Dolnośląskie,2009
+442,alfa-romeo,Alfa Romeo 147 2.0 Seles.Distinctive,7490.0,211 000 km,automatic,1 910 cm3,Diesel,Będzin,Śląskie,2009
+443,alfa-romeo,Alfa Romeo 166 3.0 24V Progression,33600.0,334 000 km,automatic,1 910 cm3,Diesel,Kraków,Małopolskie,2006
+444,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Q-Tronic Turismo,24900.0,334 000 km,automatic,1 910 cm3,Diesel,Warszawa,Mazowieckie,2006
+445,alfa-romeo,Alfa Romeo 159,26500.0,176 300 km,automatic,2 387 cm3,Diesel,Gdynia,Pomorskie,2008
+446,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25900.0,176 300 km,automatic,2 387 cm3,Diesel,Kobyłka,Mazowieckie,2008
+447,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-ti,27900.0,133 424 km,automatic,1 970 cm3,Benzyna,Radom,Mazowieckie,2005
+448,alfa-romeo,Alfa Romeo 159 3.2JTS Q4 Q-ti,26000.0,133 424 km,automatic,1 970 cm3,Benzyna,Marki,Mazowieckie,2005
+449,alfa-romeo,Alfa Romeo Brera 2.2JTS Selespeed,39999.0,300 000 km,automatic,2 959 cm3,Benzyna,Warszawa,Mazowieckie,2006
+450,alfa-romeo,Alfa Romeo 159,16400.0,300 000 km,automatic,2 959 cm3,Benzyna,Lipowa Góra Wschodnia,Warmińsko-mazurskie,2006
+451,alfa-romeo,Alfa Romeo 159 1.9JTDM Q-Progression,12000.0,212 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2009
+452,alfa-romeo,Alfa Romeo 159 2.4 JTDM 20V DPF Turismo,26999.0,212 000 km,automatic,2 387 cm3,Diesel,Trojanów,Mazowieckie,2009
+453,alfa-romeo,Alfa Romeo 159,15500.0,210 900 km,automatic,2 387 cm3,Diesel,Jaworzno,Śląskie,2009
+454,alfa-romeo,Alfa Romeo 159 2.2 JTS 16V Selespeed ti,22900.0,210 900 km,automatic,2 387 cm3,Diesel,Dzierżoniów,Dolnośląskie,2009
+455,alfa-romeo,Alfa Romeo Sportwagon,16900.0,218 317 km,automatic,2 387 cm3,Diesel,Bodzanów,Małopolskie,2007
+456,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,25590.0,218 317 km,automatic,2 387 cm3,Diesel,Opole,Opolskie,2007
+457,alfa-romeo,Alfa Romeo 159,18000.0,251 000 km,automatic,2 387 cm3,Diesel,Szczyrk,Śląskie,2008
+458,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Progression,17900.0,251 000 km,automatic,2 387 cm3,Diesel,Radom,Mazowieckie,2008
+459,alfa-romeo,Alfa Romeo 159 2.4JTDM Q-Distinctive,23000.0,258 000 km,automatic,3 195 cm3,Benzyna,Jędrzejów,Świętokrzyskie,2008
+460,alfa-romeo,Alfa Romeo 159,34900.0,258 000 km,automatic,3 195 cm3,Benzyna,Bielsko-Biała,Śląskie,2008
+461,alfa-romeo,Alfa Romeo 159,17900.0,130 000 km,automatic,2 198 cm3,Benzyna,Chodzież,Wielkopolskie,2008
+462,alfa-romeo,Alfa Romeo 159,14100.0,130 000 km,automatic,2 198 cm3,Benzyna,Koszalin,Zachodniopomorskie,2008
+463,alfa-romeo,Alfa Romeo 159,15900.0,355 000 km,automatic,1 956 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2007
+464,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,42300.0,126 445 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2013
+465,alfa-romeo,Alfa Romeo Giulietta,36800.0,126 445 km,automatic,1 368 cm3,Benzyna,Ludwinów,Mazowieckie,2013
+466,alfa-romeo,Alfa Romeo Giulietta,38000.0,174 000 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2012
+467,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,29900.0,174 000 km,automatic,1 368 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+468,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Progression S&S TCT,29900.0,177 565 km,automatic,1 956 cm3,Diesel,Białystok,Podlaskie,2012
+469,alfa-romeo,Alfa Romeo Giulietta,17600.0,177 565 km,automatic,1 956 cm3,Diesel,Turek,Wielkopolskie,2012
+470,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,31500.0,196 669 km,automatic,1 956 cm3,Diesel,Ostrzeszów,Wielkopolskie,2011
+471,alfa-romeo,Alfa Romeo Giulietta,37900.0,196 669 km,automatic,1 956 cm3,Diesel,Stalowa Wola,Podkarpackie,2011
+472,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,54000.0,181 500 km,automatic,1 368 cm3,Benzyna,Pruszcz Gdański,Pomorskie,2011
+473,alfa-romeo,Alfa Romeo 159,12000.0,181 500 km,automatic,1 368 cm3,Benzyna,Bodzanów,Opolskie,2011
+474,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sprint,41000.0,220 000 km,automatic,1 956 cm3,Diesel,Kielce,Świętokrzyskie,2012
+475,alfa-romeo,Alfa Romeo Giulietta,40000.0,220 000 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2012
+476,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super TCT,43900.0,255 000 km,automatic,1 368 cm3,Benzyna,Lublin,Lubelskie,2012
+477,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,38880.0,255 000 km,automatic,1 368 cm3,Benzyna,Sopot,Pomorskie,2012
+478,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,38500.0,183 000 km,automatic,1 956 cm3,Diesel,Chełmno,Kujawsko-pomorskie,2012
+479,alfa-romeo,Alfa Romeo Giulietta,41700.0,183 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2012
+480,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V TCT Sport,45900.0,111 000 km,automatic,1 368 cm3,Benzyna,Koronowo,Kujawsko-pomorskie,2012
+481,alfa-romeo,Alfa Romeo Giulietta,32900.0,111 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2012
+482,alfa-romeo,Alfa Romeo Giulietta,56900.0,200 000 km,automatic,2 387 cm3,Diesel,Alwernia,Małopolskie,2010
+483,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Progression TCT,34800.0,200 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2010
+484,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,34000.0,124 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2011
+485,alfa-romeo,Alfa Romeo Giulietta,34900.0,124 000 km,automatic,1 368 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2011
+486,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Distinctive S&S TCT,31500.0,194 512 km,automatic,1 368 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2013
+487,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,42300.0,126 445 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2013
+488,alfa-romeo,Alfa Romeo Giulietta,36800.0,126 445 km,automatic,1 368 cm3,Benzyna,Ludwinów,Mazowieckie,2013
+489,alfa-romeo,Alfa Romeo Giulietta,38000.0,174 000 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2012
+490,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,29900.0,174 000 km,automatic,1 368 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+491,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Progression S&S TCT,29900.0,177 565 km,automatic,1 956 cm3,Diesel,Białystok,Podlaskie,2012
+492,alfa-romeo,Alfa Romeo Giulietta,17600.0,177 565 km,automatic,1 956 cm3,Diesel,Turek,Wielkopolskie,2012
+493,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,31500.0,196 669 km,automatic,1 956 cm3,Diesel,Ostrzeszów,Wielkopolskie,2011
+494,alfa-romeo,Alfa Romeo Giulietta,37900.0,196 669 km,automatic,1 956 cm3,Diesel,Stalowa Wola,Podkarpackie,2011
+495,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,54000.0,181 500 km,automatic,1 368 cm3,Benzyna,Pruszcz Gdański,Pomorskie,2011
+496,alfa-romeo,Alfa Romeo 159,12000.0,181 500 km,automatic,1 368 cm3,Benzyna,Bodzanów,Opolskie,2011
+497,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sprint,41000.0,220 000 km,automatic,1 956 cm3,Diesel,Kielce,Świętokrzyskie,2012
+498,alfa-romeo,Alfa Romeo Giulietta,40000.0,220 000 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2012
+499,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super TCT,43900.0,255 000 km,automatic,1 368 cm3,Benzyna,Lublin,Lubelskie,2012
+500,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,38880.0,255 000 km,automatic,1 368 cm3,Benzyna,Sopot,Pomorskie,2012
+501,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,38500.0,183 000 km,automatic,1 956 cm3,Diesel,Chełmno,Kujawsko-pomorskie,2012
+502,alfa-romeo,Alfa Romeo Giulietta,41700.0,183 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2012
+503,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V TCT Sport,45900.0,111 000 km,automatic,1 368 cm3,Benzyna,Koronowo,Kujawsko-pomorskie,2012
+504,alfa-romeo,Alfa Romeo Giulietta,32900.0,111 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2012
+505,alfa-romeo,Alfa Romeo Giulietta,56900.0,200 000 km,automatic,2 387 cm3,Diesel,Alwernia,Małopolskie,2010
+506,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Progression TCT,34800.0,200 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2010
+507,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,34000.0,124 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2011
+508,alfa-romeo,Alfa Romeo Giulietta,34900.0,124 000 km,automatic,1 368 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2011
+509,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Distinctive S&S TCT,31500.0,194 512 km,automatic,1 368 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2013
+510,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,42300.0,126 445 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2013
+511,alfa-romeo,Alfa Romeo Giulietta,36800.0,126 445 km,automatic,1 368 cm3,Benzyna,Ludwinów,Mazowieckie,2013
+512,alfa-romeo,Alfa Romeo Giulietta,38000.0,174 000 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2012
+513,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,29900.0,174 000 km,automatic,1 368 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+514,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Progression S&S TCT,29900.0,177 565 km,automatic,1 956 cm3,Diesel,Białystok,Podlaskie,2012
+515,alfa-romeo,Alfa Romeo Giulietta,17600.0,177 565 km,automatic,1 956 cm3,Diesel,Turek,Wielkopolskie,2012
+516,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,31500.0,196 669 km,automatic,1 956 cm3,Diesel,Ostrzeszów,Wielkopolskie,2011
+517,alfa-romeo,Alfa Romeo Giulietta,37900.0,196 669 km,automatic,1 956 cm3,Diesel,Stalowa Wola,Podkarpackie,2011
+518,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,54000.0,181 500 km,automatic,1 368 cm3,Benzyna,Pruszcz Gdański,Pomorskie,2011
+519,alfa-romeo,Alfa Romeo 159,12000.0,181 500 km,automatic,1 368 cm3,Benzyna,Bodzanów,Opolskie,2011
+520,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sprint,41000.0,220 000 km,automatic,1 956 cm3,Diesel,Kielce,Świętokrzyskie,2012
+521,alfa-romeo,Alfa Romeo Giulietta,40000.0,220 000 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2012
+522,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super TCT,43900.0,255 000 km,automatic,1 368 cm3,Benzyna,Lublin,Lubelskie,2012
+523,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,38880.0,255 000 km,automatic,1 368 cm3,Benzyna,Sopot,Pomorskie,2012
+524,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,38500.0,183 000 km,automatic,1 956 cm3,Diesel,Chełmno,Kujawsko-pomorskie,2012
+525,alfa-romeo,Alfa Romeo Giulietta,41700.0,183 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2012
+526,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V TCT Sport,45900.0,111 000 km,automatic,1 368 cm3,Benzyna,Koronowo,Kujawsko-pomorskie,2012
+527,alfa-romeo,Alfa Romeo Giulietta,32900.0,111 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2012
+528,alfa-romeo,Alfa Romeo Giulietta,56900.0,200 000 km,automatic,2 387 cm3,Diesel,Alwernia,Małopolskie,2010
+529,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Progression TCT,34800.0,200 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2010
+530,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,34000.0,124 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2011
+531,alfa-romeo,Alfa Romeo Giulietta,34900.0,124 000 km,automatic,1 368 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2011
+532,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Distinctive S&S TCT,31500.0,194 512 km,automatic,1 368 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2013
+533,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce TI Q4,129000.0,76 794 km,automatic,1 995 cm3,Benzyna,Nowy Sącz,Małopolskie,2018
+534,alfa-romeo,Alfa Romeo Stelvio 2.2 JTDM Super Q4,181900.0,76 794 km,automatic,1 995 cm3,Benzyna,Bielsko-Biała,Śląskie,2018
+535,alfa-romeo,Alfa Romeo Stelvio,155000.0,54 350 km,automatic,2 143 cm3,Diesel,Łomianki,Mazowieckie,2019
+536,alfa-romeo,Alfa Romeo Stelvio,116000.0,54 350 km,automatic,2 143 cm3,Diesel,Kraków,Małopolskie,2019
+537,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce TI Q4,59000.0,42 700 km,automatic,1 995 cm3,Benzyna,Gdańsk,Pomorskie,2019
+538,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo 16V AT8 Veloce Ti,89900.0,42 700 km,automatic,1 995 cm3,Benzyna,Buczkowice,Śląskie,2019
+539,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,134000.0,115 989 km,automatic,1 995 cm3,Benzyna,Piaseczno,Mazowieckie,2017
+540,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo 16V AT8-Q4 Executive,120000.0,115 989 km,automatic,1 995 cm3,Benzyna,Ujanowice,Małopolskie,2017
+541,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo TI Q4,109999.0,104 114 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2018
+542,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Super Q4,129932.0,104 114 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2018
+543,alfa-romeo,Alfa Romeo Stelvio,45600.0,135 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+544,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,47900.0,135 000 km,automatic,1 995 cm3,Benzyna,Ostrołęka,Mazowieckie,2017
+545,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Executive Q4,159900.0,42 000 km,automatic,1 995 cm3,Benzyna,Czerwionka-Leszczyny,Śląskie,2019
+546,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,119800.0,42 000 km,automatic,1 995 cm3,Benzyna,Kotlin,Wielkopolskie,2019
+547,alfa-romeo,Alfa Romeo Stelvio 2.9 V6 Bi-Turbo Quadrifoglio Q4,303900.0,93 000 km,automatic,1 995 cm3,Benzyna,Tychy,Śląskie,2017
+548,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo,112999.0,93 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+549,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,96500.0,55 400 km,automatic,1 995 cm3,Benzyna,Brzesko,Małopolskie,2017
+550,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Super Q4,120000.0,55 400 km,automatic,1 995 cm3,Benzyna,Bielsko-Biała,Śląskie,2017
+551,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Super Q4,119000.0,83 850 km,automatic,1 995 cm3,Benzyna,Wodzisław Śląski,Śląskie,2018
+552,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V TCT Super,65900.0,83 850 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2018
+553,alfa-romeo,Alfa Romeo Stelvio 2.9 V6 Bi-Turbo Quadrifoglio Q4,219900.0,10 746 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+554,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,98900.0,10 746 km,automatic,1 995 cm3,Benzyna,Siedlce,Mazowieckie,2019
+555,alfa-romeo,Alfa Romeo Giulia,50000.0,182 349 km,automatic,1 368 cm3,Benzyna,Katowice,Śląskie,2015
+556,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo TI Q4,59950.0,182 349 km,automatic,1 368 cm3,Benzyna,Bielany-Jarosławy,Mazowieckie,2015
+557,alfa-romeo,Alfa Romeo Giulietta,59800.0,58 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+558,alfa-romeo,Alfa Romeo Stelvio,127900.0,58 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+559,alfa-romeo,Alfa Romeo Mito TB 1.4 16V MultiAir TCT Super,55900.0,46 850 km,automatic,1 995 cm3,Benzyna,Kalisz,Wielkopolskie,2018
+560,alfa-romeo,Alfa Romeo Giulia 2.9 Bi Turbo V6 Quadrifoglio,300120.0,46 850 km,automatic,1 995 cm3,Benzyna,Katowice,Śląskie,2018
+561,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,104950.0,29 000 km,automatic,2 891 cm3,Benzyna,Nielisz,Lubelskie,2019
+562,alfa-romeo,Alfa Romeo Giulietta,63700.0,29 000 km,automatic,2 891 cm3,Benzyna,Łódź,Łódzkie,2019
+563,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Estrema Q4,99900.0,47 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+564,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Super Q4,57900.0,47 000 km,automatic,1 995 cm3,Benzyna,Białobrzegi,Mazowieckie,2019
+565,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce TI Q4,169000.0,45 000 km,automatic,1 995 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2020
+566,alfa-romeo,Alfa Romeo Stelvio,248900.0,45 000 km,automatic,1 995 cm3,Benzyna,Opole,Opolskie,2020
+567,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,245900.0,1 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2022
+568,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,229579.0,1 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2022
+569,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,288810.0,3 000 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2022
+570,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo 16V AT8-Q4 Veloce Ti,208000.0,3 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2022
+571,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,134900.0,47 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2021
+572,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,232900.0,47 000 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2021
+573,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,286704.0,5 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2023
+574,alfa-romeo,Alfa Romeo Tonale,179900.0,5 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2023
+575,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,175000.0,10 100 km,automatic,1 995 cm3,Benzyna,Smolnica,Śląskie,2021
+576,alfa-romeo,Alfa Romeo Stelvio 2.9 V6 Bi-Turbo Quadrifoglio Q4,419000.0,10 100 km,automatic,1 995 cm3,Benzyna,Lublin,Lubelskie,2021
+577,alfa-romeo,Alfa Romeo Stelvio,274890.0,34 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2020
+578,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Business,149000.0,34 000 km,automatic,1 995 cm3,Benzyna,Resko,Zachodniopomorskie,2020
+579,alfa-romeo,Alfa Romeo Tonale,179900.0,1 km,automatic,1 995 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+580,alfa-romeo,Alfa Romeo Stelvio,74900.0,1 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2023
+581,alfa-romeo,Alfa Romeo Tonale,249900.0,5 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2023
+582,alfa-romeo,Alfa Romeo Giulia,152361.0,5 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2023
+583,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce,200000.0,38 km,automatic,1 469 cm3,Hybryda,Łódź,Łódzkie,2023
+584,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,287500.0,38 km,automatic,1 469 cm3,Hybryda,Tychy,Śląskie,2023
+585,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,239000.0,27 800 km,automatic,1 995 cm3,Benzyna,Lublin,Lubelskie,2021
+586,alfa-romeo,Alfa Romeo Stelvio,159900.0,27 800 km,automatic,1 995 cm3,Benzyna,Rumia,Pomorskie,2021
+587,alfa-romeo,Alfa Romeo Stelvio 2.9 V6 Bi-Turbo Quadrifoglio Q4,405000.0,5 km,automatic,2 891 cm3,Benzyna,Lublin,Lubelskie,2022
+588,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,249900.0,5 km,automatic,2 891 cm3,Benzyna,Opole,Opolskie,2022
+589,alfa-romeo,Alfa Romeo Tonale 1.5 T4 GSE Hybrid Sprint DCT,172500.0,5 km,automatic,1 995 cm3,Benzyna,Tychy,Śląskie,2023
+590,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,225000.0,5 km,automatic,1 995 cm3,Benzyna,Poznań,Wielkopolskie,2023
+591,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,279900.0,62 800 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2021
+592,alfa-romeo,Alfa Romeo Stelvio,289900.0,62 800 km,automatic,1 995 cm3,Benzyna,Starowa Góra,Łódzkie,2021
+593,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Veloce Q4,269900.0,5 000 km,automatic,1 469 cm3,Hybryda,Bydgoszcz,Kujawsko-pomorskie,2022
+594,alfa-romeo,Alfa Romeo Tonale 1.5 T4 GSE Hybrid Edizione Speciale DCT,190800.0,5 000 km,automatic,1 469 cm3,Hybryda,Warszawa,Mazowieckie,2022
+595,alfa-romeo,Alfa Romeo Tonale 1.3 PHEV Q4 Edizione Speciale,196500.0,12 298 km,automatic,1 995 cm3,Benzyna,Starowa Góra,Łódzkie,2020
+596,alfa-romeo,Alfa Romeo Tonale 1.5 T4 GSE Hybrid Sprint DCT,174050.0,12 298 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2020
+597,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,42300.0,126 445 km,automatic,1 368 cm3,Benzyna,Szczecin,Zachodniopomorskie,2013
+598,alfa-romeo,Alfa Romeo Giulietta,36800.0,126 445 km,automatic,1 368 cm3,Benzyna,Ludwinów,Mazowieckie,2013
+599,alfa-romeo,Alfa Romeo Giulietta,38000.0,174 000 km,automatic,1 368 cm3,Benzyna,Zabrze,Śląskie,2012
+600,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,29900.0,174 000 km,automatic,1 368 cm3,Benzyna,Kalisz,Wielkopolskie,2012
+601,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Progression S&S TCT,29900.0,177 565 km,automatic,1 956 cm3,Diesel,Białystok,Podlaskie,2012
+602,alfa-romeo,Alfa Romeo Giulietta,17600.0,177 565 km,automatic,1 956 cm3,Diesel,Turek,Wielkopolskie,2012
+603,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,31500.0,196 669 km,automatic,1 956 cm3,Diesel,Ostrzeszów,Wielkopolskie,2011
+604,alfa-romeo,Alfa Romeo Giulietta,37900.0,196 669 km,automatic,1 956 cm3,Diesel,Stalowa Wola,Podkarpackie,2011
+605,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,54000.0,181 500 km,automatic,1 368 cm3,Benzyna,Pruszcz Gdański,Pomorskie,2011
+606,alfa-romeo,Alfa Romeo 159,12000.0,181 500 km,automatic,1 368 cm3,Benzyna,Bodzanów,Opolskie,2011
+607,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sprint,41000.0,220 000 km,automatic,1 956 cm3,Diesel,Kielce,Świętokrzyskie,2012
+608,alfa-romeo,Alfa Romeo Giulietta,40000.0,220 000 km,automatic,1 956 cm3,Diesel,Łódź,Łódzkie,2012
+609,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Super TCT,43900.0,255 000 km,automatic,1 368 cm3,Benzyna,Lublin,Lubelskie,2012
+610,alfa-romeo,Alfa Romeo Giulietta 1.4 TB MultiAir Distinctive TCT,38880.0,255 000 km,automatic,1 368 cm3,Benzyna,Sopot,Pomorskie,2012
+611,alfa-romeo,Alfa Romeo Giulietta 1.4 TB 16V Multiair TCT Sport,38500.0,183 000 km,automatic,1 956 cm3,Diesel,Chełmno,Kujawsko-pomorskie,2012
+612,alfa-romeo,Alfa Romeo Giulietta,41700.0,183 000 km,automatic,1 956 cm3,Diesel,Płock,Mazowieckie,2012
+613,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM 16V TCT Sport,45900.0,111 000 km,automatic,1 368 cm3,Benzyna,Koronowo,Kujawsko-pomorskie,2012
+614,alfa-romeo,Alfa Romeo Giulietta,32900.0,111 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2012
+615,alfa-romeo,Alfa Romeo Giulietta,56900.0,200 000 km,automatic,2 387 cm3,Diesel,Alwernia,Małopolskie,2010
+616,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Progression TCT,34800.0,200 000 km,automatic,2 387 cm3,Diesel,Częstochowa,Śląskie,2010
+617,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Distinctive TCT,34000.0,124 000 km,automatic,1 368 cm3,Benzyna,Warszawa,Mazowieckie,2011
+618,alfa-romeo,Alfa Romeo Giulietta,34900.0,124 000 km,automatic,1 368 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2011
+619,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Distinctive S&S TCT,31500.0,194 512 km,automatic,1 368 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2013
+620,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo TI Q4,55000.0,60 934 km,automatic,1 995 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+621,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo TI Q4,44900.0,60 934 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+622,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Super Q4,142799.0,62 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2018
+623,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Executive Q4,139999.0,62 000 km,automatic,1 995 cm3,Benzyna,Warszawa,Mazowieckie,2018
+624,alfa-romeo,Alfa Romeo Giulietta,41900.0,66 027 km,automatic,1 995 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2018
+625,alfa-romeo,Alfa Romeo Giulia,85900.0,66 027 km,automatic,1 995 cm3,Benzyna,Kawęczyn,Wielkopolskie,2018
+626,alfa-romeo,Alfa Romeo Stelvio 2.2 JTDM Super Q4,68900.0,107 000 km,automatic,1 995 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2019
+627,alfa-romeo,Alfa Romeo Stelvio,59900.0,107 000 km,automatic,1 995 cm3,Benzyna,Kielce,Świętokrzyskie,2019
+628,alfa-romeo,Alfa Romeo Stelvio,113000.0,140 596 km,automatic,1 742 cm3,Benzyna,Zawiercie,Śląskie,2017
+629,alfa-romeo,Alfa Romeo Stelvio 2.9 V6 Bi-Turbo Quadrifoglio Q4,253000.0,140 596 km,automatic,1 742 cm3,Benzyna,Katowice,Śląskie,2017
+630,alfa-romeo,Alfa Romeo Giulietta 2.0 JTDM Sport TCT,35900.0,50 000 km,automatic,2 143 cm3,Diesel,Skawina,Małopolskie,2017
+631,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo TI Q4,58000.0,50 000 km,automatic,2 143 cm3,Diesel,Warszawa,Mazowieckie,2017
+632,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo TI Q4,88800.0,98 591 km,automatic,2 143 cm3,Diesel,Zamienie,Mazowieckie,2018
+633,alfa-romeo,Alfa Romeo Stelvio,127400.0,98 591 km,automatic,2 143 cm3,Diesel,Łajski,Mazowieckie,2018
+634,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Executive Q4,167999.0,67 352 km,automatic,2 143 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2018
+635,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo,109905.0,67 352 km,automatic,2 143 cm3,Diesel,Długołęka,Dolnośląskie,2018
+636,alfa-romeo,Alfa Romeo Giulietta,66000.0,144 000 km,automatic,1 995 cm3,Benzyna,Łódź,Łódzkie,2018
+637,alfa-romeo,Alfa Romeo Giulia,109900.0,144 000 km,automatic,1 995 cm3,Benzyna,Kraków,Małopolskie,2018
+638,alfa-romeo,Alfa Romeo Stelvio,113900.0,65 105 km,automatic,2 891 cm3,Benzyna,Łańcut,Podkarpackie,2018
+639,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo Veloce Q4,144850.0,65 105 km,automatic,2 891 cm3,Benzyna,Mysłowice,Śląskie,2018
+640,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Q4,134900.0,161 000 km,automatic,1 956 cm3,Diesel,Poznań,Wielkopolskie,2017
+641,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo 16V AT8-Q4 Executive,129240.0,161 000 km,automatic,1 956 cm3,Diesel,Sosnowiec,Śląskie,2017
+642,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo 16V AT8-Q4 Veloce,59000.0,105 056 km,automatic,1 995 cm3,Benzyna,Tarnów,Małopolskie,2018
+643,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Business Q4,126900.0,105 056 km,automatic,1 995 cm3,Benzyna,Stara Iwiczna,Mazowieckie,2018
+644,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo 16V AT8 Veloce,63000.0,44 000 km,automatic,1 995 cm3,Benzyna,Tarnów,Małopolskie,2017
+645,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Q4,129990.0,44 000 km,automatic,1 995 cm3,Benzyna,Miedary,Śląskie,2017
+646,alfa-romeo,Alfa Romeo Mito 1.4 TB MultiAir Veloce TCT,64900.0,112 071 km,automatic,1 995 cm3,Benzyna,Krosno Odrzańskie,Lubuskie,2018
+647,alfa-romeo,Alfa Romeo Giulia 2.0 Turbo 16V AT8 Veloce,108700.0,112 071 km,automatic,1 995 cm3,Benzyna,Gilowice,Śląskie,2018
+648,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo Executive Q4,165999.0,36 194 km,automatic,1 995 cm3,Benzyna,Ozorków,Łódzkie,2019
+649,alfa-romeo,Alfa Romeo Giulia,107900.0,36 194 km,automatic,1 995 cm3,Benzyna,Piaski,Wielkopolskie,2019
+650,alfa-romeo,Alfa Romeo Stelvio 2.0 Turbo B-Tech Edition Q4,134900.0,71 777 km,automatic,1 995 cm3,Benzyna,Modlnica,Małopolskie,2018
+651,alfa-romeo,Alfa Romeo Giulia 2.9 Bi Turbo V6 Quadrifoglio,70500.0,71 777 km,automatic,1 995 cm3,Benzyna,Słupsk,Pomorskie,2018

@@ -1,0 +1,670 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+58659,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58660,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58661,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58662,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58663,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58664,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58665,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58666,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58667,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58668,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58669,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58670,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58671,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58672,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58673,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58674,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58675,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58676,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58677,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58678,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58679,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58680,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58681,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58682,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58683,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58684,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58685,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58686,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58687,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58688,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58689,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58690,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58691,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58692,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58693,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58694,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58695,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58696,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58697,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58698,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58699,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58700,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58701,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58702,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58703,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58704,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58705,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58706,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58707,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58708,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58709,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58710,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58711,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58712,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58713,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58714,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58715,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58716,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58717,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58718,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58719,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58720,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58721,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58722,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58723,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58724,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58725,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58726,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58727,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58728,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58729,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58730,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58731,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58732,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58733,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58734,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58735,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58736,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58737,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58738,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58739,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58740,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58741,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58742,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58743,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58744,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58745,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58746,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58747,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58748,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58749,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58750,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58751,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58752,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58753,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58754,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58755,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58756,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58757,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58758,porsche,Porsche Boxster 3.2 S,49700.0,171 938 km,manual,3 179 cm3,Benzyna,Płock,Mazowieckie,2000
+58759,porsche,Porsche 911 Carrera 4S,126800.0,171 938 km,manual,3 179 cm3,Benzyna,Nowy Sącz,Małopolskie,2000
+58760,porsche,Porsche 911 Carrera 4,160911.0,190 000 km,manual,3 596 cm3,Benzyna,Giżycko,Warmińsko-mazurskie,2002
+58761,porsche,Porsche 911,209000.0,190 000 km,manual,3 596 cm3,Benzyna,Rybnik,Śląskie,2002
+58762,porsche,Porsche Boxster 3.2 S,79500.0,102 000 km,manual,3 387 cm3,Benzyna,Gdańsk,Pomorskie,2001
+58763,porsche,Porsche Boxster 3.2 S,92000.0,102 000 km,manual,3 387 cm3,Benzyna,Warszawa,Mazowieckie,2001
+58764,porsche,Porsche Boxster 3.2 S,85000.0,171 000 km,manual,3 596 cm3,Benzyna,Poznań,Wielkopolskie,2004
+58765,porsche,Porsche Boxster 3.2 S,119000.0,171 000 km,manual,3 596 cm3,Benzyna,Gdańsk,Pomorskie,2004
+58766,porsche,Porsche 911 Carrera,150000.0,173 000 km,manual,3 179 cm3,Benzyna,Kartuzy,Pomorskie,2001
+58767,porsche,Porsche Cayenne S,27900.0,173 000 km,manual,3 179 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2001
+58768,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58769,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58770,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58771,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58772,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58773,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58774,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58775,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58776,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58777,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58778,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58779,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58780,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58781,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58782,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58783,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58784,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58785,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58786,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58787,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58788,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58789,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58790,porsche,Porsche Boxster 2.5,80000.0,62 400 km,manual,2 480 cm3,Benzyna,Morzyczyn,Zachodniopomorskie,1999
+58791,porsche,Porsche Boxster 2.5,49900.0,62 400 km,manual,2 480 cm3,Benzyna,Żyrardów,Mazowieckie,1999
+58792,porsche,Porsche 911 Carrera Cabrio,320000.0,154 000 km,manual,2 480 cm3,Benzyna,Serock,Mazowieckie,1999
+58793,porsche,Porsche 911 Carrera 4,249911.0,154 000 km,manual,2 480 cm3,Benzyna,Gdańsk,Pomorskie,1999
+58794,porsche,Porsche Boxster 2.5,47700.0,45 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,1995
+58795,porsche,Porsche Boxster 2.5,55900.0,45 000 km,manual,3 600 cm3,Benzyna,Lubaczów,Podkarpackie,1995
+58796,porsche,Porsche 911 Carrera,91000.0,60 000 km,manual,3 387 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,1999
+58797,porsche,Porsche 911 Carrera 4,139900.0,60 000 km,manual,3 387 cm3,Benzyna,Czchów,Małopolskie,1999
+58798,porsche,Porsche 911 Carrera 4,189500.0,223 000 km,manual,2 480 cm3,Benzyna,Masłów Pierwszy,Świętokrzyskie,1997
+58799,porsche,Porsche Boxster,49900.0,223 000 km,manual,2 480 cm3,Benzyna,Lublin,Lubelskie,1997
+58800,porsche,Porsche 911 Carrera,449000.0,207 000 km,manual,2 480 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+58801,porsche,Porsche Cayenne Standard,36500.0,217 000 km,manual,3 189 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+58802,porsche,Porsche 911 Carrera 4,134000.0,217 000 km,manual,3 189 cm3,Benzyna,Giżycko,Warmińsko-mazurskie,2004
+58803,porsche,Porsche 911,91900.0,146 000 km,manual,3 387 cm3,Benzyna,Koszalin,Zachodniopomorskie,2000
+58804,porsche,Porsche 911 Carrera,159000.0,146 000 km,manual,3 387 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2000
+58805,porsche,Porsche 911,107900.0,124 152 km,manual,3 600 cm3,Benzyna,Koszalin,Zachodniopomorskie,2003
+58806,porsche,Porsche Boxster 2.7,69900.0,124 152 km,manual,3 600 cm3,Benzyna,Białystok,Podlaskie,2003
+58807,porsche,Porsche Boxster 3.2 S,89900.0,209 551 km,manual,3 387 cm3,Benzyna,Kielce,Świętokrzyskie,2000
+58808,porsche,Porsche Cayenne Standard,37000.0,209 551 km,manual,3 387 cm3,Benzyna,Alwernia,Małopolskie,2000
+58809,porsche,Porsche Boxster 2.7,73800.0,109 645 km,manual,3 600 cm3,Benzyna,Piotrowice,Wielkopolskie,2004
+58810,porsche,Porsche 911 Carrera Cabrio,150000.0,109 645 km,manual,3 600 cm3,Benzyna,Poznań,Wielkopolskie,2004
+58811,porsche,Porsche 911 Carrera 4S,185000.0,68 000 km,manual,2 687 cm3,Benzyna,Warszawa,Mazowieckie,2000
+58812,porsche,Porsche Boxster 2.5,39000.0,68 000 km,manual,2 687 cm3,Benzyna,Sława,Lubuskie,2000
+58813,porsche,Porsche 911 Turbo,289911.0,158 000 km,manual,3 179 cm3,Benzyna,Gdańsk,Pomorskie,2000
+58814,porsche,Porsche 911 Carrera 4S,219800.0,158 000 km,manual,3 179 cm3,Benzyna,Janikowo,Wielkopolskie,2000
+58815,porsche,Porsche Boxster 2.7,37999.0,173 000 km,manual,3 189 cm3,Benzyna+LPG,Turek,Wielkopolskie,2004
+58816,porsche,Porsche 911 Carrera 4S,179900.0,173 000 km,manual,3 189 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2004
+58817,porsche,Porsche Boxster 2.7,60000.0,194 000 km,manual,2 687 cm3,Benzyna,Lublin,Lubelskie,2003
+58818,porsche,Porsche Boxster 3.2 S,95000.0,194 000 km,manual,2 687 cm3,Benzyna,Warszawa,Mazowieckie,2003
+58819,porsche,Porsche Boxster 3.2 S,39700.0,48 000 km,manual,3 387 cm3,Benzyna,Żerniki Górne,Świętokrzyskie,2000
+58820,porsche,Porsche Boxster Standard,69000.0,48 000 km,manual,3 387 cm3,Benzyna,Świętochłowice,Śląskie,2000
+58821,porsche,Porsche Boxster 2.7,49000.0,177 000 km,manual,3 596 cm3,Benzyna,Jarosław,Podkarpackie,2002
+58822,porsche,Porsche Cayenne Standard,27900.0,177 000 km,manual,3 596 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,2002
+58823,porsche,Porsche 911 Carrera Cabriolet,229999.0,160 000 km,manual,2 480 cm3,Benzyna,Susz,Warmińsko-mazurskie,2001
+58824,porsche,Porsche 911,142000.0,160 000 km,manual,2 480 cm3,Benzyna,Poznań,Wielkopolskie,2001
+58825,porsche,Porsche Cayenne Standard,26000.0,100 000 km,manual,3 600 cm3,Benzyna,Chechło Pierwsze,Łódzkie,2002
+58826,porsche,Porsche 911 Turbo,359000.0,100 000 km,manual,3 600 cm3,Benzyna,Katowice,Śląskie,2002
+58827,porsche,Porsche Cayenne S,19900.0,86 000 km,manual,3 596 cm3,Benzyna,Dobrzyniewo Duże,Podlaskie,2002
+58828,porsche,Porsche Boxster 2.7,45000.0,86 000 km,manual,3 596 cm3,Benzyna,Warszawa,Mazowieckie,2002
+58829,porsche,Porsche 911,155000.0,167 000 km,manual,2 687 cm3,Benzyna,Kraków,Małopolskie,2000
+58830,porsche,Porsche 911 Carrera Cabrio,135000.0,167 000 km,manual,2 687 cm3,Benzyna,Kraków,Małopolskie,2000
+58831,porsche,Porsche 911 Turbo,385000.0,99 800 km,manual,3 600 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2007
+58832,porsche,Porsche Boxster RS 60 Spyder,153000.0,99 800 km,manual,3 600 cm3,Benzyna,Poznań,Wielkopolskie,2007
+58833,porsche,Porsche 911 Carrera 4S,189000.0,137 600 km,manual,3 387 cm3,Benzyna,Mikołów,Śląskie,2008
+58834,porsche,Porsche Boxster,219987.0,137 600 km,manual,3 387 cm3,Benzyna,Sopot,Pomorskie,2008
+58835,porsche,Porsche 911 GT3 RS,849000.0,114 400 km,manual,3 824 cm3,Benzyna,Racibory,Mazowieckie,2007
+58836,porsche,Porsche 911 Carrera S,209500.0,114 400 km,manual,3 824 cm3,Benzyna,Wieliczka,Małopolskie,2007
+58837,porsche,Porsche Cayenne S,45900.0,75 166 km,manual,2 687 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58838,porsche,Porsche 911 GT3 RS,849911.0,75 166 km,manual,2 687 cm3,Benzyna,Gdańsk,Pomorskie,2007
+58839,porsche,Porsche Boxster 2.7,100000.0,11 500 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+58840,porsche,Porsche 911 Carrera S,245900.0,11 500 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58841,porsche,Porsche 911 Carrera Cabrio,269900.0,143 000 km,manual,3 824 cm3,Benzyna,Radom,Mazowieckie,2006
+58842,porsche,Porsche 911 GT2,320000.0,143 000 km,manual,3 824 cm3,Benzyna,Kielce,Świętokrzyskie,2006
+58843,porsche,Porsche 911 Carrera,220000.0,168 000 km,manual,4 806 cm3,Benzyna,Sandomierz,Świętokrzyskie,2007
+58844,porsche,Porsche 911 Carrera S,269000.0,168 000 km,manual,4 806 cm3,Benzyna,Katowice,Śląskie,2007
+58845,porsche,Porsche 911 Carrera S Cabrio,109000.0,74 999 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58846,porsche,Porsche 911,114900.0,74 999 km,manual,3 600 cm3,Benzyna,Ciemne,Mazowieckie,2007
+58847,porsche,Porsche Cayman S,123000.0,105 000 km,manual,2 687 cm3,Benzyna,Kalisz,Wielkopolskie,2005
+58848,porsche,Porsche 911,338250.0,105 000 km,manual,2 687 cm3,Benzyna,Warszawa,Mazowieckie,2005
+58849,porsche,Porsche 911,244000.0,182 000 km,manual,3 800 cm3,Benzyna,Mikołów,Śląskie,2007
+58850,porsche,Porsche 911 Carrera Cabrio,109000.0,182 000 km,manual,3 800 cm3,Benzyna,Jaworzno,Śląskie,2007
+58851,porsche,Porsche Boxster S,139987.0,97 000 km,manual,3 614 cm3,Benzyna,Sopot,Pomorskie,2009
+58852,porsche,Porsche Cayman Standard,199000.0,97 000 km,manual,3 614 cm3,Benzyna,Poznań,Wielkopolskie,2009
+58853,porsche,Porsche 911 Carrera Cabrio,239900.0,65 000 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2009
+58854,porsche,Porsche Cayenne S,65000.0,65 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,2009
+58855,porsche,Porsche Cayman S,99999.0,156 900 km,manual,3 596 cm3,Benzyna,Lubań,Dolnośląskie,2007
+58856,porsche,Porsche Cayenne S,16800.0,156 900 km,manual,3 596 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2007
+58857,porsche,Porsche 911 Carrera 4S Cabrio,269000.0,36 000 km,manual,3 824 cm3,Benzyna,Gdynia,Pomorskie,2008
+58858,porsche,Porsche 911 GT2,799900.0,36 000 km,manual,3 824 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58859,porsche,Porsche 911 Targa 4S,339000.0,65 352 km,manual,3 800 cm3,Benzyna,Szczecin,Zachodniopomorskie,2006
+58860,porsche,Porsche Boxster,109000.0,65 352 km,manual,3 800 cm3,Benzyna,Gdańsk,Pomorskie,2006
+58861,porsche,Porsche Cayenne Standard,54900.0,73 806 km,manual,3 800 cm3,Benzyna,Przysiek,Kujawsko-pomorskie,2007
+58862,porsche,Porsche Boxster Standard,78500.0,73 806 km,manual,3 800 cm3,Benzyna,Kraków,Małopolskie,2007
+58863,porsche,Porsche 911 Turbo,385000.0,99 800 km,manual,3 600 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2007
+58864,porsche,Porsche Boxster RS 60 Spyder,153000.0,99 800 km,manual,3 600 cm3,Benzyna,Poznań,Wielkopolskie,2007
+58865,porsche,Porsche 911 Carrera 4S,189000.0,137 600 km,manual,3 387 cm3,Benzyna,Mikołów,Śląskie,2008
+58866,porsche,Porsche Boxster,219987.0,137 600 km,manual,3 387 cm3,Benzyna,Sopot,Pomorskie,2008
+58867,porsche,Porsche 911 GT3 RS,849000.0,114 400 km,manual,3 824 cm3,Benzyna,Racibory,Mazowieckie,2007
+58868,porsche,Porsche 911 Carrera S,209500.0,114 400 km,manual,3 824 cm3,Benzyna,Wieliczka,Małopolskie,2007
+58869,porsche,Porsche Cayenne S,45900.0,75 166 km,manual,2 687 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58870,porsche,Porsche 911 GT3 RS,849911.0,75 166 km,manual,2 687 cm3,Benzyna,Gdańsk,Pomorskie,2007
+58871,porsche,Porsche Boxster 2.7,100000.0,11 500 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+58872,porsche,Porsche 911 Carrera S,245900.0,11 500 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58873,porsche,Porsche 911 Carrera Cabrio,269900.0,143 000 km,manual,3 824 cm3,Benzyna,Radom,Mazowieckie,2006
+58874,porsche,Porsche 911 GT2,320000.0,143 000 km,manual,3 824 cm3,Benzyna,Kielce,Świętokrzyskie,2006
+58875,porsche,Porsche 911 Carrera,220000.0,168 000 km,manual,4 806 cm3,Benzyna,Sandomierz,Świętokrzyskie,2007
+58876,porsche,Porsche 911 Carrera S,269000.0,168 000 km,manual,4 806 cm3,Benzyna,Katowice,Śląskie,2007
+58877,porsche,Porsche 911 Carrera S Cabrio,109000.0,74 999 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58878,porsche,Porsche 911,114900.0,74 999 km,manual,3 600 cm3,Benzyna,Ciemne,Mazowieckie,2007
+58879,porsche,Porsche Cayman S,123000.0,105 000 km,manual,2 687 cm3,Benzyna,Kalisz,Wielkopolskie,2005
+58880,porsche,Porsche 911,338250.0,105 000 km,manual,2 687 cm3,Benzyna,Warszawa,Mazowieckie,2005
+58881,porsche,Porsche 911,244000.0,182 000 km,manual,3 800 cm3,Benzyna,Mikołów,Śląskie,2007
+58882,porsche,Porsche 911 Carrera Cabrio,109000.0,182 000 km,manual,3 800 cm3,Benzyna,Jaworzno,Śląskie,2007
+58883,porsche,Porsche Boxster S,139987.0,97 000 km,manual,3 614 cm3,Benzyna,Sopot,Pomorskie,2009
+58884,porsche,Porsche Cayman Standard,199000.0,97 000 km,manual,3 614 cm3,Benzyna,Poznań,Wielkopolskie,2009
+58885,porsche,Porsche 911 Carrera Cabrio,239900.0,65 000 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2009
+58886,porsche,Porsche Cayenne S,65000.0,65 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,2009
+58887,porsche,Porsche Cayman S,99999.0,156 900 km,manual,3 596 cm3,Benzyna,Lubań,Dolnośląskie,2007
+58888,porsche,Porsche Cayenne S,16800.0,156 900 km,manual,3 596 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2007
+58889,porsche,Porsche 911 Carrera 4S Cabrio,269000.0,36 000 km,manual,3 824 cm3,Benzyna,Gdynia,Pomorskie,2008
+58890,porsche,Porsche 911 GT2,799900.0,36 000 km,manual,3 824 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58891,porsche,Porsche 911 Targa 4S,339000.0,65 352 km,manual,3 800 cm3,Benzyna,Szczecin,Zachodniopomorskie,2006
+58892,porsche,Porsche Boxster,109000.0,65 352 km,manual,3 800 cm3,Benzyna,Gdańsk,Pomorskie,2006
+58893,porsche,Porsche Cayenne Standard,54900.0,73 806 km,manual,3 800 cm3,Benzyna,Przysiek,Kujawsko-pomorskie,2007
+58894,porsche,Porsche Boxster Standard,78500.0,73 806 km,manual,3 800 cm3,Benzyna,Kraków,Małopolskie,2007
+58895,porsche,Porsche 911 Turbo,385000.0,99 800 km,manual,3 600 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2007
+58896,porsche,Porsche Boxster RS 60 Spyder,153000.0,99 800 km,manual,3 600 cm3,Benzyna,Poznań,Wielkopolskie,2007
+58897,porsche,Porsche 911 Carrera 4S,189000.0,137 600 km,manual,3 387 cm3,Benzyna,Mikołów,Śląskie,2008
+58898,porsche,Porsche Boxster,219987.0,137 600 km,manual,3 387 cm3,Benzyna,Sopot,Pomorskie,2008
+58899,porsche,Porsche 911 GT3 RS,849000.0,114 400 km,manual,3 824 cm3,Benzyna,Racibory,Mazowieckie,2007
+58900,porsche,Porsche 911 Carrera S,209500.0,114 400 km,manual,3 824 cm3,Benzyna,Wieliczka,Małopolskie,2007
+58901,porsche,Porsche Cayenne S,45900.0,75 166 km,manual,2 687 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58902,porsche,Porsche 911 GT3 RS,849911.0,75 166 km,manual,2 687 cm3,Benzyna,Gdańsk,Pomorskie,2007
+58903,porsche,Porsche Boxster 2.7,100000.0,11 500 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2008
+58904,porsche,Porsche 911 Carrera S,245900.0,11 500 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58905,porsche,Porsche 911 Carrera Cabrio,269900.0,143 000 km,manual,3 824 cm3,Benzyna,Radom,Mazowieckie,2006
+58906,porsche,Porsche 911 GT2,320000.0,143 000 km,manual,3 824 cm3,Benzyna,Kielce,Świętokrzyskie,2006
+58907,porsche,Porsche 911 Carrera,220000.0,168 000 km,manual,4 806 cm3,Benzyna,Sandomierz,Świętokrzyskie,2007
+58908,porsche,Porsche 911 Carrera S,269000.0,168 000 km,manual,4 806 cm3,Benzyna,Katowice,Śląskie,2007
+58909,porsche,Porsche 911 Carrera S Cabrio,109000.0,74 999 km,manual,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2007
+58910,porsche,Porsche 911,114900.0,74 999 km,manual,3 600 cm3,Benzyna,Ciemne,Mazowieckie,2007
+58911,porsche,Porsche Cayman S,123000.0,105 000 km,manual,2 687 cm3,Benzyna,Kalisz,Wielkopolskie,2005
+58912,porsche,Porsche 911,338250.0,105 000 km,manual,2 687 cm3,Benzyna,Warszawa,Mazowieckie,2005
+58913,porsche,Porsche 911,244000.0,182 000 km,manual,3 800 cm3,Benzyna,Mikołów,Śląskie,2007
+58914,porsche,Porsche 911 Carrera Cabrio,109000.0,182 000 km,manual,3 800 cm3,Benzyna,Jaworzno,Śląskie,2007
+58915,porsche,Porsche Boxster S,139987.0,97 000 km,manual,3 614 cm3,Benzyna,Sopot,Pomorskie,2009
+58916,porsche,Porsche Cayman Standard,199000.0,97 000 km,manual,3 614 cm3,Benzyna,Poznań,Wielkopolskie,2009
+58917,porsche,Porsche 911 Carrera Cabrio,239900.0,65 000 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2009
+58918,porsche,Porsche Cayenne S,65000.0,65 000 km,manual,3 600 cm3,Benzyna,Radom,Mazowieckie,2009
+58919,porsche,Porsche Cayman S,99999.0,156 900 km,manual,3 596 cm3,Benzyna,Lubań,Dolnośląskie,2007
+58920,porsche,Porsche Cayenne S,16800.0,156 900 km,manual,3 596 cm3,Benzyna,Kędzierzyn-Koźle,Opolskie,2007
+58921,porsche,Porsche 911 Carrera 4S Cabrio,269000.0,36 000 km,manual,3 824 cm3,Benzyna,Gdynia,Pomorskie,2008
+58922,porsche,Porsche 911 GT2,799900.0,36 000 km,manual,3 824 cm3,Benzyna,Warszawa,Mazowieckie,2008
+58923,porsche,Porsche 911 Targa 4S,339000.0,65 352 km,manual,3 800 cm3,Benzyna,Szczecin,Zachodniopomorskie,2006
+58924,porsche,Porsche Boxster,109000.0,65 352 km,manual,3 800 cm3,Benzyna,Gdańsk,Pomorskie,2006
+58925,porsche,Porsche Cayenne Standard,54900.0,73 806 km,manual,3 800 cm3,Benzyna,Przysiek,Kujawsko-pomorskie,2007
+58926,porsche,Porsche Boxster Standard,78500.0,73 806 km,manual,3 800 cm3,Benzyna,Kraków,Małopolskie,2007
+58927,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+58928,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+58929,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+58930,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58931,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+58932,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+58933,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58934,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58935,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+58936,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+58937,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+58938,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+58939,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58940,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+58941,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+58942,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+58943,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58944,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+58945,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+58946,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58947,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58948,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+58949,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+58950,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+58951,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+58952,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58953,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+58954,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+58955,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+58956,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58957,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+58958,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+58959,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58960,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58961,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+58962,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+58963,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+58964,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+58965,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58966,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+58967,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+58968,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+58969,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58970,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+58971,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+58972,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58973,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58974,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+58975,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+58976,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+58977,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+58978,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58979,porsche,Porsche Boxster S,115000.0,130 000 km,manual,3 436 cm3,Benzyna,Chełmża,Kujawsko-pomorskie,2013
+58980,porsche,Porsche 911 Carrera Cabrio,292000.0,130 000 km,manual,3 436 cm3,Benzyna,Rumia,Pomorskie,2013
+58981,porsche,Porsche Cayenne Platinum Edition,91900.0,89 316 km,manual,3 436 cm3,Benzyna,Budzyń,Wielkopolskie,2012
+58982,porsche,Porsche 718 Cayman,165000.0,89 316 km,manual,3 436 cm3,Benzyna,Częstochowa,Śląskie,2012
+58983,porsche,Porsche Boxster,179000.0,239 000 km,manual,3 598 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2010
+58984,porsche,Porsche Cayenne Platinum Edition,57000.0,239 000 km,manual,3 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2010
+58985,porsche,Porsche Boxster,164900.0,110 000 km,manual,2 893 cm3,Benzyna,Białystok,Podlaskie,2011
+58986,porsche,Porsche Boxster Standard,159000.0,110 000 km,manual,2 893 cm3,Benzyna,Katowice,Śląskie,2011
+58987,porsche,Porsche Cayman,155000.0,112 000 km,manual,2 706 cm3,Benzyna,Mikołów,Śląskie,2014
+58988,porsche,Porsche Panamera S,105900.0,112 000 km,manual,2 706 cm3,Benzyna,Bielsko-Biała,Śląskie,2014
+58989,porsche,Porsche 911 Carrera 4S,359000.0,187 000 km,manual,3 598 cm3,Benzyna,Bielsko-Biała,Śląskie,2013
+58990,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+58991,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+58992,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+58993,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+58994,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+58995,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+58996,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58997,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+58998,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+58999,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59000,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59001,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59002,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59003,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+59004,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59005,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+59006,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59007,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+59008,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+59009,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59010,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59011,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+59012,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59013,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59014,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59015,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59016,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+59017,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59018,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+59019,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59020,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+59021,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+59022,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59023,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59024,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+59025,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59026,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59027,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59028,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59029,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+59030,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59031,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+59032,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59033,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+59034,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+59035,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59036,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59037,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+59038,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59039,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59040,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59041,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59042,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+59043,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59044,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+59045,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59046,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+59047,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+59048,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59049,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59050,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+59051,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59052,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59053,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59054,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59055,porsche,Porsche 911,563700.0,1 234 km,manual,4 000 cm3,Benzyna,Mława,Mazowieckie,2022
+59056,porsche,Porsche 718 Spyder,549000.0,1 234 km,manual,4 000 cm3,Benzyna,Warszawa,Mazowieckie,2022
+59057,porsche,Porsche 718 Boxster S,429000.0,6 700 km,manual,3 995 cm3,Benzyna,Łódź,Łódzkie,2020
+59058,porsche,Porsche 718 Cayman GT4,599718.0,6 700 km,manual,3 995 cm3,Benzyna,Gdańsk,Pomorskie,2020
+59059,porsche,Porsche 718 Boxster Standard,297000.0,3 000 km,manual,2 497 cm3,Benzyna,Gdańsk,Pomorskie,2023
+59060,porsche,Porsche 718 Cayman GPF GT4,599900.0,3 000 km,manual,2 497 cm3,Benzyna,Łódź,Łódzkie,2023
+59061,porsche,Porsche 718 Boxster GTS 4.0,445000.0,20 000 km,manual,3 995 cm3,Benzyna,Warszawa,Mazowieckie,2020
+59062,porsche,Porsche 718 Spyder,499718.0,20 000 km,manual,3 995 cm3,Benzyna,Sopot,Pomorskie,2020
+59063,porsche,Porsche Taycan,938520.0,5 km,manual,1 988 cm3,Benzyna,Katowice,Śląskie,2023
+59064,porsche,Porsche Taycan,556156.0,5 km,manual,1 988 cm3,Benzyna,Katowice,Śląskie,2023
+59065,porsche,Porsche 718 Spyder,499000.0,5 850 km,manual,3 995 cm3,Benzyna,Ostrołęka,Mazowieckie,2022
+59066,porsche,Porsche 718 Boxster,309000.0,102 km,manual,1 988 cm3,Benzyna,Mikołów,Śląskie,2019
+59067,porsche,Porsche 718 Boxster,259000.0,102 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59068,porsche,Porsche 911 Carrera S Cabrio,218000.0,20 624 km,manual,1 988 cm3,Benzyna,Gdańsk,Pomorskie,2016
+59069,porsche,Porsche 911 GT3,870000.0,20 624 km,manual,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59070,porsche,Porsche 718 Cayman,210000.0,30 355 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2015
+59071,porsche,Porsche 718 Cayman GTS,269000.0,30 355 km,manual,3 800 cm3,Benzyna,Łódź,Łódzkie,2015
+59072,porsche,Porsche Cayman GT4,600000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59073,porsche,Porsche Cayman,489000.0,29 362 km,manual,3 996 cm3,Benzyna,Katowice,Śląskie,2019
+59074,porsche,Porsche Cayenne,269900.0,98 000 km,manual,1 988 cm3,Benzyna,Gdynia,Pomorskie,2017
+59075,porsche,Porsche Cayman GT4,399981.0,98 000 km,manual,1 988 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+59076,porsche,Porsche 911 Carrera,335000.0,44 000 km,manual,2 497 cm3,Benzyna,Poznań,Wielkopolskie,2018
+59077,porsche,Porsche 718 Cayman S,293000.0,44 000 km,manual,2 497 cm3,Benzyna,Rabka-Zdrój,Małopolskie,2018
+59078,porsche,Porsche 911 Carrera S,569000.0,10 655 km,manual,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59079,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59080,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59081,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59082,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59083,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59084,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59085,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59086,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59087,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59088,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59089,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59090,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59091,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59092,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59093,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59094,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59095,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59096,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59097,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59098,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59099,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59100,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59101,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59102,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59103,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59104,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59105,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59106,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59107,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59108,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59109,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59110,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59111,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59112,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59113,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59114,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59115,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59116,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59117,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59118,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59119,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59120,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59121,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59122,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59123,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59124,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59125,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59126,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59127,porsche,Porsche Boxster,62900.0,175 777 km,automatic,2 480 cm3,Benzyna,Zwoleń,Mazowieckie,1999
+59128,porsche,Porsche 911,94000.0,175 777 km,automatic,2 480 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+59129,porsche,Porsche 911,189000.0,217 000 km,automatic,3 387 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,1999
+59130,porsche,Porsche 911,170000.0,217 000 km,automatic,3 387 cm3,Benzyna,Mława,Mazowieckie,1999
+59131,porsche,Porsche 911,109900.0,57 000 km,automatic,3 387 cm3,Benzyna,Śliwice,Kujawsko-pomorskie,1998
+59132,porsche,Porsche 911,140000.0,57 000 km,automatic,3 387 cm3,Benzyna,Warszawa,Mazowieckie,1998
+59133,porsche,Porsche 911,265000.0,95 137 km,automatic,3 824 cm3,Benzyna,Białystok,Podlaskie,2006
+59134,porsche,Porsche 911,249999.0,95 137 km,automatic,3 824 cm3,Benzyna,Świdnik,Lubelskie,2006
+59135,porsche,Porsche Cayenne,49000.0,150 612 km,automatic,3 824 cm3,Benzyna,Nowy Sącz,Małopolskie,2006
+59136,porsche,Porsche 911,159000.0,170 500 km,automatic,3 596 cm3,Benzyna,Poznań,Wielkopolskie,2006
+59137,porsche,Porsche 718 Cayman,60000.0,170 500 km,automatic,3 596 cm3,Benzyna,Konin,Wielkopolskie,2006
+59138,porsche,Porsche Cayenne,37000.0,191 246 km,automatic,3 386 cm3,Benzyna,Lubomierz,Dolnośląskie,2007
+59139,porsche,Porsche Panamera 4S,100000.0,191 246 km,automatic,3 386 cm3,Benzyna,Katowice,Śląskie,2007
+59140,porsche,Porsche 911,249000.0,207 979 km,automatic,4 511 cm3,Benzyna,Katowice,Śląskie,2006
+59141,porsche,Porsche Cayenne,64900.0,207 979 km,automatic,4 511 cm3,Benzyna,Podzagajnik,Mazowieckie,2006
+59142,porsche,Porsche 911,189750.0,301 000 km,automatic,4 806 cm3,Benzyna,Pabianice,Łódzkie,2009
+59143,porsche,Porsche Cayenne,47900.0,301 000 km,automatic,4 806 cm3,Benzyna,Marki,Mazowieckie,2009
+59144,porsche,Porsche Cayenne,61000.0,88 000 km,automatic,3 824 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2007
+59145,porsche,Porsche 911,365000.0,88 000 km,automatic,3 824 cm3,Benzyna,Leszno,Wielkopolskie,2007
+59146,porsche,Porsche Cayenne GTS,47900.0,164 523 km,automatic,4 806 cm3,Benzyna,Mikołów,Śląskie,2007
+59147,porsche,Porsche Cayenne,33000.0,164 523 km,automatic,4 806 cm3,Benzyna,Koszalin,Zachodniopomorskie,2007
+59148,porsche,Porsche 911,179000.0,72 000 km,automatic,3 800 cm3,Benzyna,Nisko,Podkarpackie,2005
+59149,porsche,Porsche Cayenne Turbo S,99900.0,72 000 km,automatic,3 800 cm3,Benzyna,Gdynia,Pomorskie,2005
+59150,porsche,Porsche Cayenne Turbo,38700.0,188 000 km,automatic,4 806 cm3,Benzyna,Jawiszowice,Małopolskie,2007
+59151,porsche,Porsche 911,295500.0,188 000 km,automatic,4 806 cm3,Benzyna,Warszawa,Mazowieckie,2007
+59152,porsche,Porsche Cayenne,48888.0,303 000 km,automatic,4 806 cm3,Benzyna,Wilkowice,Wielkopolskie,2007
+59153,porsche,Porsche 911,179900.0,303 000 km,automatic,4 806 cm3,Benzyna,Opole,Opolskie,2007
+59154,porsche,Porsche Cayenne,40000.0,174 207 km,automatic,3 600 cm3,Benzyna,Okonek,Wielkopolskie,2006
+59155,porsche,Porsche 911,209900.0,174 207 km,automatic,3 600 cm3,Benzyna,Świdnik,Lubelskie,2006
+59156,porsche,Porsche Cayenne,44900.0,182 000 km,automatic,4 806 cm3,Benzyna,Lądek-Zdrój,Dolnośląskie,2008
+59157,porsche,Porsche Cayman,129999.0,182 000 km,automatic,4 806 cm3,Benzyna,Warszawa,Mazowieckie,2008
+59158,porsche,Porsche Boxster Tiptronic S,85900.0,328 757 km,automatic,4 511 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2005
+59159,porsche,Porsche Cayenne Turbo,66000.0,328 757 km,automatic,4 511 cm3,Benzyna+LPG,Przasnysz,Mazowieckie,2005
+59160,porsche,Porsche 911,249900.0,169 000 km,automatic,3 824 cm3,Benzyna,Kraków,Małopolskie,2005
+59161,porsche,Porsche Cayenne,58000.0,169 000 km,automatic,3 824 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+59162,porsche,Porsche Cayenne,50000.0,136 000 km,automatic,4 806 cm3,Benzyna,Kozienice,Mazowieckie,2008
+59163,porsche,Porsche Cayenne,64000.0,136 000 km,automatic,4 806 cm3,Benzyna,Białe Błota,Kujawsko-pomorskie,2008
+59164,porsche,Porsche Cayenne,67900.0,273 000 km,automatic,4 806 cm3,Benzyna,Lublin,Lubelskie,2007
+59165,porsche,Porsche Cayman,81900.0,273 000 km,automatic,4 806 cm3,Benzyna,Ryki,Lubelskie,2007
+59166,porsche,Porsche Panamera Turbo PDK,182000.0,78 200 km,automatic,3 800 cm3,Benzyna,Lubliniec,Śląskie,2008
+59167,porsche,Porsche Cayenne,89900.0,78 200 km,automatic,3 800 cm3,Benzyna,Gliwice,Śląskie,2008
+59168,porsche,Porsche 911,219900.0,120 500 km,automatic,3 596 cm3,Benzyna,Gliwice,Śląskie,2005
+59169,porsche,Porsche Cayenne GTS PD Edition 3,150000.0,120 500 km,automatic,3 596 cm3,Benzyna,Łódź,Łódzkie,2005
+59170,porsche,Porsche Cayenne Turbo S,110000.0,18 000 km,automatic,4 806 cm3,Benzyna,Gdańsk,Pomorskie,2008
+59171,porsche,Porsche Panamera 4S,150000.0,18 000 km,automatic,4 806 cm3,Benzyna,Łódź,Łódzkie,2008
+59172,porsche,Porsche Cayenne Turbo,59900.0,290 000 km,automatic,4 806 cm3,Benzyna,Radom,Mazowieckie,2008
+59173,porsche,Porsche 911,209000.0,290 000 km,automatic,4 806 cm3,Benzyna,Radom,Mazowieckie,2008
+59174,porsche,Porsche Cayenne,39900.0,139 367 km,automatic,4 806 cm3,Benzyna,Ruda Śląska,Śląskie,2009
+59175,porsche,Porsche Cayenne,43900.0,139 367 km,automatic,4 806 cm3,Benzyna,Strzelce Opolskie,Opolskie,2009
+59176,porsche,Porsche 911,249000.0,178 000 km,automatic,4 806 cm3,Benzyna,Stary Dzierzgoń,Pomorskie,2008
+59177,porsche,Porsche 911,217000.0,178 000 km,automatic,4 806 cm3,Benzyna,Mikołów,Śląskie,2008
+59178,porsche,Porsche 911,229900.0,128 000 km,automatic,3 596 cm3,Benzyna,Szczecin,Zachodniopomorskie,2005
+59179,porsche,Porsche Cayenne GTS PD Edition 3,69000.0,128 000 km,automatic,3 596 cm3,Benzyna,Bukowiec,Łódzkie,2005
+59180,porsche,Porsche 911,445000.0,185 790 km,automatic,4 511 cm3,Benzyna,Węgrzce,Małopolskie,2007
+59181,porsche,Porsche Cayenne Diesel,92900.0,185 790 km,automatic,4 511 cm3,Benzyna,Rzuchów,Śląskie,2007
+59182,porsche,Porsche Cayman,158000.0,211 000 km,automatic,3 598 cm3,Benzyna,Radzyń Podlaski,Lubelskie,2009
+59183,porsche,Porsche 911,209900.0,211 000 km,automatic,3 598 cm3,Benzyna,Jawornik,Małopolskie,2009
+59184,porsche,Porsche Cayenne,58000.0,48 000 km,automatic,3 596 cm3,Benzyna,Zielona Góra,Lubuskie,2007
+59185,porsche,Porsche Cayenne Turbo S,88900.0,48 000 km,automatic,3 596 cm3,Benzyna,Kiedrzyn,Mazowieckie,2007
+59186,porsche,Porsche Cayenne,38500.0,137 742 km,automatic,3 596 cm3,Benzyna,Warszawa,Mazowieckie,2008
+59187,porsche,Porsche Cayenne,27500.0,137 742 km,automatic,3 596 cm3,Benzyna,Mrągowo,Warmińsko-mazurskie,2008
+59188,porsche,Porsche 911 Carrera S PDK,277000.0,85 200 km,automatic,3 596 cm3,Benzyna,Konin,Wielkopolskie,2007
+59189,porsche,Porsche Cayenne GTS PD Edition 3,150000.0,85 200 km,automatic,3 596 cm3,Benzyna,Oborniki Śląskie,Dolnośląskie,2007
+59190,porsche,Porsche 911,499000.0,204 000 km,automatic,4 806 cm3,Benzyna,Poznań,Wielkopolskie,2008
+59191,porsche,Porsche Cayenne,28800.0,204 000 km,automatic,4 806 cm3,Benzyna,Jasienica,Śląskie,2008
+59192,porsche,Porsche Boxster,80900.0,126 000 km,automatic,3 600 cm3,Benzyna,Łódź,Łódzkie,2008
+59193,porsche,Porsche Cayenne Turbo,69900.0,126 000 km,automatic,3 600 cm3,Benzyna,Włodawa,Lubelskie,2008
+59194,porsche,Porsche Cayenne Turbo,34999.0,330 800 km,automatic,2 967 cm3,Diesel,Swarzędz,Wielkopolskie,2009
+59195,porsche,Porsche Cayenne,49999.0,330 800 km,automatic,2 967 cm3,Diesel,Przysucha,Mazowieckie,2009
+59196,porsche,Porsche 911,360000.0,122 500 km,automatic,3 387 cm3,Benzyna,Ostróda,Warmińsko-mazurskie,2008
+59197,porsche,Porsche 911 Carrera PDK,335000.0,122 500 km,automatic,3 387 cm3,Benzyna,Łódź,Łódzkie,2008
+59198,porsche,Porsche Cayenne,41000.0,139 731 km,automatic,3 824 cm3,Benzyna,Szczecin,Zachodniopomorskie,2005
+59199,porsche,Porsche Cayenne GTS PD Edition 3,69987.0,139 731 km,automatic,3 824 cm3,Benzyna,Gdańsk,Pomorskie,2005
+59200,porsche,Porsche Panamera GTS,292000.0,108 000 km,automatic,4 806 cm3,Benzyna,Jelonek,Wielkopolskie,2015
+59201,porsche,Porsche Macan Standard,233000.0,108 000 km,automatic,4 806 cm3,Benzyna,Kraków,Małopolskie,2015
+59202,porsche,Porsche Macan S Diesel,159900.0,130 000 km,automatic,1 984 cm3,Benzyna,Kielce,Świętokrzyskie,2019
+59203,porsche,Porsche 911,489000.0,130 000 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59204,porsche,Porsche Macan S Diesel,175000.0,179 911 km,automatic,2 967 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2015
+59205,porsche,Porsche 911 Turbo S,700000.0,179 911 km,automatic,2 967 cm3,Diesel,Toruń,Kujawsko-pomorskie,2015
+59206,porsche,Porsche Panamera 4S,288700.0,67 870 km,automatic,3 800 cm3,Benzyna,Pawłowice,Śląskie,2015
+59207,porsche,Porsche Cayenne S,199000.0,67 870 km,automatic,3 800 cm3,Benzyna,Marcewo,Wielkopolskie,2015
+59208,porsche,Porsche Cayenne,379000.0,85 000 km,automatic,2 967 cm3,Diesel,Janki,Mazowieckie,2015
+59209,porsche,Porsche Panamera,318000.0,85 000 km,automatic,2 967 cm3,Diesel,Warszawa,Mazowieckie,2015
+59210,porsche,Porsche Macan,309000.0,47 000 km,automatic,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2016
+59211,porsche,Porsche Panamera 4S Executive,339900.0,47 000 km,automatic,3 800 cm3,Benzyna,Myślenice,Małopolskie,2016
+59212,porsche,Porsche Panamera 4S,399000.0,139 000 km,automatic,2 894 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59213,porsche,Porsche Cayenne,196800.0,139 000 km,automatic,2 894 cm3,Benzyna,Siedlce,Mazowieckie,2017
+59214,porsche,Porsche 911 Carrera 4S Cabrio,829000.0,85 500 km,automatic,3 604 cm3,Benzyna,Limanowa,Małopolskie,2016
+59215,porsche,Porsche Macan Standard,179000.0,85 500 km,automatic,3 604 cm3,Benzyna,Poznań,Wielkopolskie,2016
+59216,porsche,Porsche Panamera 4S Diesel,455000.0,105 000 km,automatic,2 995 cm3,Benzyna,Baranowo,Wielkopolskie,2019
+59217,porsche,Porsche Panamera,549000.0,105 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59218,porsche,Porsche Cayman S PDK,249000.0,49 150 km,automatic,2 995 cm3,Benzyna,Baranowo,Wielkopolskie,2018
+59219,porsche,Porsche Macan S,134900.0,49 150 km,automatic,2 995 cm3,Benzyna,Korytnica,Mazowieckie,2018
+59220,porsche,Porsche Panamera 4 GPF Executive,299999.0,45 723 km,automatic,2 995 cm3,Benzyna,Dobroszyce,Dolnośląskie,2019
+59221,porsche,Porsche Macan S Diesel,158900.0,45 723 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59222,porsche,Porsche Macan,249000.0,70 000 km,automatic,2 894 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59223,porsche,Porsche Macan,234900.0,70 000 km,automatic,2 894 cm3,Benzyna,Poznań,Wielkopolskie,2017
+59224,porsche,Porsche Cayenne Turbo,450000.0,79 243 km,automatic,2 894 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2017
+59225,porsche,Porsche Panamera,559900.0,79 243 km,automatic,2 894 cm3,Benzyna,Poznań,Wielkopolskie,2017
+59226,porsche,Porsche Macan GTS,73800.0,195 440 km,automatic,2 967 cm3,Diesel,Marki,Mazowieckie,2016
+59227,porsche,Porsche 911 Carrera 4,569000.0,195 440 km,automatic,2 967 cm3,Diesel,Kraków,Małopolskie,2016
+59228,porsche,Porsche Panamera,479000.0,14 000 km,automatic,2 981 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59229,porsche,Porsche Macan PDK,218000.0,14 000 km,automatic,2 981 cm3,Benzyna,Drezdenko,Lubuskie,2019
+59230,porsche,Porsche Macan Standard,179000.0,98 500 km,automatic,1 984 cm3,Benzyna,Radzyń Podlaski,Lubelskie,2018
+59231,porsche,Porsche Cayenne Diesel,199000.0,98 500 km,automatic,1 984 cm3,Benzyna,Warszawa,Mazowieckie,2018
+59232,porsche,Porsche 911 Turbo S,550000.0,80 500 km,automatic,3 800 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2014
+59233,porsche,Porsche Macan S,129900.0,80 500 km,automatic,3 800 cm3,Benzyna,Zblewo,Pomorskie,2014
+59234,porsche,Porsche Cayenne Diesel,115000.0,201 000 km,automatic,2 997 cm3,Benzyna,Gliwice,Śląskie,2014
+59235,porsche,Porsche Cayenne S Tiptronic S,105000.0,201 000 km,automatic,2 997 cm3,Benzyna,Końskie,Świętokrzyskie,2014
+59236,porsche,Porsche 911 Carrera S PDK,309999.0,271 800 km,automatic,2 967 cm3,Diesel,Tychy,Śląskie,2011
+59237,porsche,Porsche Panamera GTS,154900.0,271 800 km,automatic,2 967 cm3,Diesel,Nowy Sącz,Małopolskie,2011
+59238,porsche,Porsche Cayenne,87000.0,221 815 km,automatic,4 806 cm3,Benzyna,Koszalin,Zachodniopomorskie,2011
+59239,porsche,Porsche Panamera GTS PDK,168000.0,221 815 km,automatic,4 806 cm3,Benzyna,Kielce,Świętokrzyskie,2011
+59240,porsche,Porsche Cayenne Diesel,139000.0,147 000 km,automatic,3 800 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2013
+59241,porsche,Porsche Cayenne Turbo,165000.0,147 000 km,automatic,3 800 cm3,Benzyna,Częstochowa,Śląskie,2013
+59242,porsche,Porsche Cayenne Diesel,91500.0,220 000 km,automatic,4 806 cm3,Benzyna,Sochaczew,Mazowieckie,2013
+59243,porsche,Porsche Panamera GTS,165000.0,220 000 km,automatic,4 806 cm3,Benzyna,Dobczyce,Małopolskie,2013
+59244,porsche,Porsche Panamera Turbo,169900.0,234 000 km,automatic,3 000 cm3,Diesel,Warszawa,Mazowieckie,2010
+59245,porsche,Porsche Panamera Diesel,179900.0,234 000 km,automatic,3 000 cm3,Diesel,Radom,Mazowieckie,2010
+59246,porsche,Porsche Panamera 4S,110000.0,157 420 km,automatic,4 806 cm3,Benzyna,Szczecin,Zachodniopomorskie,2012
+59247,porsche,Porsche 911 Carrera PDK,294000.0,157 420 km,automatic,4 806 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2012
+59248,porsche,Porsche Panamera 4 PDK,108000.0,120 000 km,automatic,2 967 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2012
+59249,porsche,Porsche Panamera S PDK,100000.0,120 000 km,automatic,2 967 cm3,Diesel,Warszawa,Mazowieckie,2012
+59250,porsche,Porsche Panamera GTS,169500.0,170 000 km,automatic,4 806 cm3,Benzyna,Gdańsk,Pomorskie,2011
+59251,porsche,Porsche Panamera 4,128800.0,170 000 km,automatic,4 806 cm3,Benzyna,Białobrzegi,Lubelskie,2011
+59252,porsche,Porsche Cayenne Turbo S,165000.0,235 000 km,automatic,2 967 cm3,Diesel,Warszawa,Mazowieckie,2012
+59253,porsche,Porsche Cayenne,123000.0,235 000 km,automatic,2 967 cm3,Diesel,Bielsko-Biała,Śląskie,2012
+59254,porsche,Porsche Panamera,135000.0,136 000 km,automatic,4 806 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2012
+59255,porsche,Porsche Panamera GTS,175000.0,136 000 km,automatic,4 806 cm3,Benzyna,Starowa Góra,Łódzkie,2012
+59256,porsche,Porsche Panamera GTS,249000.0,91 200 km,automatic,4 806 cm3,Benzyna,Oleśnica,Dolnośląskie,2012
+59257,porsche,Porsche Panamera Standard,46700.0,91 200 km,automatic,4 806 cm3,Benzyna,Radom,Mazowieckie,2012
+59258,porsche,Porsche Panamera,154900.0,209 000 km,automatic,2 967 cm3,Diesel,Rumia,Pomorskie,2014
+59259,porsche,Porsche Panamera 4S PDK,104900.0,209 000 km,automatic,2 967 cm3,Diesel,Pszczyna,Śląskie,2014
+59260,porsche,Porsche 911 Turbo,599900.0,216 000 km,automatic,4 806 cm3,Benzyna,Żory,Śląskie,2010
+59261,porsche,Porsche Cayenne,129500.0,216 000 km,automatic,4 806 cm3,Benzyna,Kraków,Małopolskie,2010
+59262,porsche,Porsche Cayenne,48950.0,95 000 km,automatic,3 436 cm3,Benzyna,Ciemne,Mazowieckie,2013
+59263,porsche,Porsche Cayenne Diesel,125000.0,95 000 km,automatic,3 436 cm3,Benzyna,Plewiska,Wielkopolskie,2013
+59264,porsche,Porsche Panamera 4S Diesel,389000.0,160 000 km,automatic,3 956 cm3,Diesel,Gdańsk,Pomorskie,2016
+59265,porsche,Porsche Macan GTS,189999.0,160 000 km,automatic,3 956 cm3,Diesel,Kraków,Małopolskie,2016
+59266,porsche,Porsche Panamera Turbo,599999.0,91 200 km,automatic,2 997 cm3,Benzyna,Kutno,Łódzkie,2016
+59267,porsche,Porsche Cayenne,169900.0,91 200 km,automatic,2 997 cm3,Benzyna,Bochnia,Małopolskie,2016
+59268,porsche,Porsche Panamera GTS,300000.0,61 000 km,automatic,3 996 cm3,Benzyna,Słubice,Lubuskie,2019
+59269,porsche,Porsche 911 Carrera S PDK,425000.0,61 000 km,automatic,3 996 cm3,Benzyna,Warszawa,Mazowieckie,2019
+59270,porsche,Porsche Macan,285000.0,116 000 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59271,porsche,Porsche Macan,310000.0,116 000 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59272,porsche,Porsche Boxster,169000.0,180 000 km,automatic,4 806 cm3,Benzyna,Białystok,Podlaskie,2016
+59273,porsche,Porsche Panamera Turbo S e-Hybrid,715000.0,180 000 km,automatic,4 806 cm3,Benzyna,Wolbrom,Małopolskie,2016
+59274,porsche,Porsche Cayenne S Diesel,156210.0,60 000 km,automatic,2 981 cm3,Benzyna,Rybnik,Śląskie,2018
+59275,porsche,Porsche Panamera,225000.0,60 000 km,automatic,2 981 cm3,Benzyna,Młochów,Mazowieckie,2018
+59276,porsche,Porsche Cayenne GTS,138200.0,55 680 km,automatic,2 997 cm3,Benzyna,Karczew,Mazowieckie,2017
+59277,porsche,Porsche Macan Standard,149000.0,55 680 km,automatic,2 997 cm3,Benzyna,Kraków,Małopolskie,2017
+59278,porsche,Porsche 911 Turbo S,845000.0,85 012 km,automatic,2 997 cm3,Benzyna,Wrocław,Dolnośląskie,2018
+59279,porsche,Porsche 718 Cayman PDK,229000.0,85 012 km,automatic,2 997 cm3,Benzyna,Kraków,Małopolskie,2018
+59280,porsche,Porsche Panamera,430000.0,45 000 km,automatic,2 706 cm3,Benzyna,Odolanów,Wielkopolskie,2015
+59281,porsche,Porsche Macan S,179000.0,45 000 km,automatic,2 706 cm3,Benzyna,Piotrków Trybunalski,Łódzkie,2015
+59282,porsche,Porsche 911,549000.0,50 000 km,automatic,3 996 cm3,Hybryda,Warszawa,Mazowieckie,2019
+59283,porsche,Porsche Cayenne Standard,259900.0,50 000 km,automatic,3 996 cm3,Hybryda,Złocieniec,Zachodniopomorskie,2019
+59284,porsche,Porsche Panamera 4S,329000.0,309 000 km,automatic,4 134 cm3,Diesel,Kalisz,Wielkopolskie,2015
+59285,porsche,Porsche 911 Carrera PDK Cabrio,450000.0,309 000 km,automatic,4 134 cm3,Diesel,Warszawa,Mazowieckie,2015
+59286,porsche,Porsche Panamera Turbo Executive PDK,86100.0,105 001 km,automatic,2 995 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+59287,porsche,Porsche Cayenne S Diesel,249000.0,105 001 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59288,porsche,Porsche Cayenne E-Hybrid Platinum Edition,435000.0,114 000 km,automatic,3 604 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2016
+59289,porsche,Porsche Cayenne Coupe Turbo,674998.0,114 000 km,automatic,3 604 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2016
+59290,porsche,Porsche 911 Turbo S,659000.0,187 000 km,automatic,1 984 cm3,Benzyna,Skierniewice,Łódzkie,2017
+59291,porsche,Porsche Cayenne GTS,245000.0,187 000 km,automatic,1 984 cm3,Benzyna,Kraków,Małopolskie,2017
+59292,porsche,Porsche Macan Standard,175000.0,32 200 km,automatic,3 800 cm3,Benzyna,Końskie,Świętokrzyskie,2017
+59293,porsche,Porsche Macan S,134999.0,32 200 km,automatic,3 800 cm3,Benzyna,Warszawa,Mazowieckie,2017
+59294,porsche,Porsche 911,860900.0,130 291 km,automatic,1 988 cm3,Benzyna,Łódź,Łódzkie,2018
+59295,porsche,Porsche Cayman,160000.0,130 291 km,automatic,1 988 cm3,Benzyna,Kielce,Świętokrzyskie,2018
+59328,porsche,Porsche Taycan GTS Sport Turismo,691100.0,5 km,automatic,Elektryczny,2023,Łódź,Łódzkie,2023
+59329,porsche,Porsche 911 Carrera 4S Cabrio,845000.0,Elektryczny,automatic,2021,31 500 km,Brzoza,Kujawsko-pomorskie,5 km
+59330,porsche,Porsche Macan Standard,330000.0,Benzyna,automatic,2021,31 500 km,Warszawa,Mazowieckie,2 981 cm3
+59331,porsche,Porsche 911 Carrera 4 Cabriolet PDK,799000.0,Benzyna,automatic,2023,10 km,Ostrów Mazowiecka,Mazowieckie,2 981 cm3
+59332,porsche,Porsche 911,1199999.0,Benzyna,automatic,2023,10 km,Warszawa,Mazowieckie,1 984 cm3
+59333,porsche,Porsche 911 Carrera 4 Cabrio,724900.0,Benzyna,automatic,2023,9 000 km,Kraków,Małopolskie,1 984 cm3
+59334,porsche,Porsche 718 Cayman GPF GT4 RS PDK,999000.0,Benzyna,automatic,2023,9 000 km,Baranowo,Wielkopolskie,2 981 cm3
+59335,porsche,Porsche Taycan 4S,457800.0,Benzyna,automatic,2022,3 000 km,Kraków,Małopolskie,2 981 cm3
+59336,porsche,Porsche Cayenne,539300.0,Benzyna,automatic,2022,3 000 km,Łódź,Łódzkie,3 996 cm3
+59337,porsche,Porsche Taycan Turbo S Cross Turismo,699870.0,Benzyna,automatic,2020,14 550 km,Mikołów,Śląskie,3 996 cm3
+59338,porsche,Porsche Cayenne Turbo GT,1160000.0,Benzyna,automatic,2020,14 550 km,Zabrze,Śląskie,2 981 cm3
+59339,porsche,Porsche Cayenne Coupe GTS,680000.0,Benzyna,automatic,2023,10 km,Wrocław,Dolnośląskie,2 981 cm3
+59340,porsche,Porsche Panamera GTS,769000.0,Benzyna,automatic,2023,10 km,Bielsko-Biała,Śląskie,3 996 cm3
+59341,porsche,Porsche Taycan,599000.0,Benzyna,automatic,2020,39 000 km,Warszawa,Mazowieckie,3 996 cm3
+59342,porsche,Porsche 718 Cayman,309000.0,2020,automatic,39 000 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+59343,porsche,Porsche Cayenne E-Hybrid Platinum Edition,539000.0,4 900 km,automatic,2 995 cm3,Hybryda,Szczecin,Zachodniopomorskie,2022
+59344,porsche,Porsche Cayenne,359000.0,4 900 km,automatic,2 995 cm3,Hybryda,Warszawa,Mazowieckie,2022
+59345,porsche,Porsche Cayenne Coupe,459000.0,13 000 km,automatic,Elektryczny,2021,Kraków,Małopolskie,2021
+59346,porsche,Porsche 911,1159000.0,Elektryczny,automatic,2022,4 900 km,Warszawa,Mazowieckie,13 000 km
+59347,porsche,Porsche Taycan GTS,569000.0,Benzyna,automatic,2022,4 900 km,Radom,Mazowieckie,3 996 cm3
+59348,porsche,Porsche 911 Carrera S,599999.0,Benzyna,automatic,2021,13 000 km,Warszawa,Mazowieckie,3 996 cm3
+59349,porsche,Porsche 911 Targa 4,955000.0,Benzyna,automatic,2021,13 000 km,Baranowo,Wielkopolskie,3 996 cm3
+59350,porsche,Porsche Cayenne Standard,359999.0,Benzyna,automatic,2021,45 000 km,Warszawa,Mazowieckie,3 996 cm3
+59351,porsche,Porsche Cayenne Coupe E-Hybrid,450000.0,Benzyna,automatic,2021,45 000 km,Katowice,Śląskie,3 996 cm3
+59352,porsche,Porsche Cayenne,649000.0,Benzyna,automatic,2021,14 255 km,Warszawa,Mazowieckie,3 996 cm3
+59353,porsche,Porsche Cayenne,418200.0,2021,automatic,14 255 km,Benzyna,Siemianowice Śląskie,Śląskie,Benzyna
+59354,porsche,Porsche 911,659000.0,25 554 km,automatic,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2020
+59355,porsche,Porsche 911,1359000.0,25 554 km,automatic,1 988 cm3,Benzyna,Warszawa,Mazowieckie,2020
+59356,porsche,Porsche Taycan Performancebatterie Plus,349900.0,100 km,automatic,2 995 cm3,Hybryda,Chyby,Wielkopolskie,2023
+59357,porsche,Porsche Cayenne Coupe Turbo,959400.0,100 km,automatic,2 995 cm3,Hybryda,Gliwice,Śląskie,2023
+59358,porsche,Porsche Panamera GTS Sport Turismo,599900.0,57 123 km,automatic,2 995 cm3,Hybryda,Gubin,Lubuskie,2020
+59359,porsche,Porsche Panamera Turbo S e-Hybrid,699999.0,57 123 km,automatic,2 995 cm3,Hybryda,Toruń,Kujawsko-pomorskie,2020

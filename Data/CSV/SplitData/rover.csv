@@ -1,0 +1,1187 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+28753,land-rover,Land Rover Discovery,35000.0,307 000 km,manual,2 496 cm3,Diesel,Piaseczno,Mazowieckie,1996
+28754,land-rover,Land Rover Defender,199000.0,307 000 km,manual,2 496 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,1996
+28755,land-rover,Land Rover Discovery 2.5 TDI,17000.0,188 777 km,manual,2 495 cm3,Diesel,Jaktorów,Mazowieckie,1995
+28756,land-rover,Land Rover Defender 90 2.5 TDI,79900.0,188 777 km,manual,2 495 cm3,Diesel,Długołęka,Dolnośląskie,1995
+28757,land-rover,Land Rover Discovery 2.5 TDI,10900.0,350 000 km,manual,2 496 cm3,Diesel,Warszawa,Mazowieckie,1995
+28758,land-rover,Land Rover Defender 110 2.5 TDI,49999.0,350 000 km,manual,2 496 cm3,Diesel,Łomża,Podlaskie,1995
+28759,land-rover,Land Rover Defender,129000.0,59 900 km,manual,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28760,land-rover,Land Rover Discovery 2.5 TDI,18900.0,59 900 km,manual,2 495 cm3,Diesel,Garwolin,Mazowieckie,1999
+28761,land-rover,Land Rover Discovery,24400.0,333 133 km,manual,2 496 cm3,Diesel,Garwolin,Mazowieckie,1996
+28762,land-rover,Land Rover Freelander,13900.0,333 133 km,manual,2 496 cm3,Diesel,Dzierzgoń,Pomorskie,1996
+28763,land-rover,Land Rover Freelander 2.0 D,9900.0,246 000 km,manual,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28764,land-rover,Land Rover Defender,68000.0,246 000 km,manual,2 495 cm3,Diesel,Gniezno,Wielkopolskie,1999
+28765,land-rover,Land Rover Defender 90 2.5 TDI,45000.0,177 077 km,manual,2 495 cm3,Diesel,Łomża,Podlaskie,1997
+28766,land-rover,Land Rover Freelander 1.8,9400.0,177 077 km,manual,2 495 cm3,Diesel,Warszawa,Mazowieckie,1997
+28767,land-rover,Land Rover Freelander 2.0 Td Energy,18800.0,198 888 km,manual,1 950 cm3,Diesel,Dzierżoniów,Dolnośląskie,2006
+28768,land-rover,Land Rover Discovery,25900.0,198 888 km,manual,1 950 cm3,Diesel,Kłodzko,Dolnośląskie,2006
+28769,land-rover,Land Rover Discovery,28500.0,299 000 km,manual,2 720 cm3,Diesel,Radomsko,Łódzkie,2007
+28770,land-rover,Land Rover Defender,52000.0,299 000 km,manual,2 720 cm3,Diesel,Turek,Wielkopolskie,2007
+28771,land-rover,Land Rover Defender 90 2.5 TD5,57900.0,330 000 km,manual,2 720 cm3,Diesel,Kielce,Świętokrzyskie,2008
+28772,land-rover,Land Rover Freelander II 2.2TD S,33000.0,330 000 km,manual,2 720 cm3,Diesel,Białystok,Podlaskie,2008
+28773,land-rover,Land Rover Freelander II 2.2TD XS,28800.0,88 000 km,manual,2 402 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2009
+28774,land-rover,Land Rover Freelander 2.0 D,26900.0,88 000 km,manual,2 402 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2009
+28775,land-rover,Land Rover Freelander,23900.0,386 000 km,manual,2 495 cm3,Diesel,Częstochowa,Śląskie,2006
+28776,land-rover,Land Rover Freelander 2.0 Td,14600.0,386 000 km,manual,2 495 cm3,Diesel,Kudowa-Zdrój,Dolnośląskie,2006
+28777,land-rover,Land Rover Freelander II 2.2TD HSE,26000.0,210 000 km,manual,2 179 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2008
+28778,land-rover,Land Rover Defender,69900.0,210 000 km,manual,2 179 cm3,Diesel,Górzno,Mazowieckie,2008
+28779,land-rover,Land Rover Defender 90 2.4 TD4 SE,215000.0,255 147 km,manual,2 179 cm3,Diesel,Gębarzewo,Wielkopolskie,2007
+28780,land-rover,Land Rover Defender 90 2.4 TD4 SE,159000.0,255 147 km,manual,2 179 cm3,Diesel,Boduszyn,Lubelskie,2007
+28781,land-rover,Land Rover Defender 90 2.4 TD4 SE,132000.0,156 400 km,manual,1 950 cm3,Diesel,Orzelec,Lubuskie,2005
+28782,land-rover,Land Rover Freelander 2.0 Td,16300.0,156 400 km,manual,1 950 cm3,Diesel,Stare Załubice,Mazowieckie,2005
+28783,land-rover,Land Rover Discovery,12900.0,260 000 km,manual,1 951 cm3,Diesel,Sławsk,Wielkopolskie,2006
+28784,land-rover,Land Rover Defender 110 2.4 TD4 S,109500.0,260 000 km,manual,1 951 cm3,Diesel,Sulechów,Lubuskie,2006
+28785,land-rover,Land Rover Discovery III 2.7D V6 HSE,47000.0,227 000 km,manual,1 950 cm3,Diesel,Gdynia,Pomorskie,2006
+28786,land-rover,Land Rover Defender 90 2.4 TD4 S,129000.0,227 000 km,manual,1 950 cm3,Diesel,Goworowo,Mazowieckie,2006
+28787,land-rover,Land Rover Freelander,23900.0,370 000 km,manual,2 179 cm3,Diesel,Dębica,Podkarpackie,2007
+28788,land-rover,Land Rover Freelander II 2.2TD E,42000.0,370 000 km,manual,2 179 cm3,Diesel,Warszawa,Mazowieckie,2007
+28789,land-rover,Land Rover Discovery,19900.0,314 000 km,manual,2 495 cm3,Diesel,Gniezno,Wielkopolskie,2006
+28790,land-rover,Land Rover Defender 110 2.4 TD4 SE,190000.0,314 000 km,manual,2 495 cm3,Diesel,Gdańsk,Pomorskie,2006
+28791,land-rover,Land Rover Freelander,19000.0,140 000 km,manual,2 402 cm3,Diesel,Poznań,Wielkopolskie,2009
+28792,land-rover,Land Rover Freelander II 2.2TD HSE,25600.0,140 000 km,manual,2 402 cm3,Diesel,Ostroróg,Wielkopolskie,2009
+28793,land-rover,Land Rover Freelander 2.0 Td,21500.0,191 000 km,manual,2 402 cm3,Diesel,Daleszyce,Świętokrzyskie,2009
+28794,land-rover,Land Rover Defender 110 2.5 TDI,114000.0,191 000 km,manual,2 402 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2009
+28795,land-rover,Land Rover Freelander,14900.0,305 000 km,manual,2 402 cm3,Diesel,Mogilno,Kujawsko-pomorskie,2007
+28796,land-rover,Land Rover Discovery,36000.0,305 000 km,manual,2 402 cm3,Diesel,Skierniewice,Łódzkie,2007
+28797,land-rover,Land Rover Defender 90 2.4 TD4 E,199000.0,210 000 km,manual,1 950 cm3,Diesel,Kraków,Małopolskie,2006
+28798,land-rover,Land Rover Discovery III 2.7D V6 SE,19900.0,210 000 km,manual,1 950 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2006
+28799,land-rover,Land Rover Range Rover Evoque 2.2eD4 Dynamic,43900.0,334 032 km,manual,2 179 cm3,Diesel,Syców,Dolnośląskie,2013
+28800,land-rover,Land Rover Range Rover Evoque 2.2TD4 Prestige,68500.0,334 032 km,manual,2 179 cm3,Diesel,Radom,Mazowieckie,2013
+28801,land-rover,Land Rover Range Rover Evoque 2.2TD4 Dynamic,71900.0,114 000 km,manual,2 179 cm3,Diesel,Radom,Mazowieckie,2011
+28802,land-rover,Land Rover Freelander II 2.2 TD4 S,41900.0,114 000 km,manual,2 179 cm3,Diesel,Skawina,Małopolskie,2011
+28803,land-rover,Land Rover Range Rover Evoque 2.2TD4 Dynamic,24900.0,285 000 km,manual,2 179 cm3,Diesel,Inowrocław,Kujawsko-pomorskie,2011
+28804,land-rover,Land Rover Range Rover Evoque,75900.0,285 000 km,manual,2 179 cm3,Diesel,Zamość,Lubelskie,2011
+28805,land-rover,Land Rover Range Rover Evoque 2.2TD4 Prestige,87900.0,168 000 km,manual,2 179 cm3,Diesel,Mysłowice,Śląskie,2011
+28806,land-rover,Land Rover Freelander,33500.0,168 000 km,manual,2 179 cm3,Diesel,Orzelec,Lubuskie,2011
+28807,land-rover,Land Rover Range Rover Evoque 2.2TD4 Dynamic,59900.0,150 000 km,manual,2 179 cm3,Diesel,Osusz,Wielkopolskie,2012
+28808,land-rover,Land Rover Defender 90 2.4 TD4 E,254000.0,150 000 km,manual,2 179 cm3,Diesel,Szczecin,Zachodniopomorskie,2012
+28809,land-rover,Land Rover Range Rover Evoque 2.2eD4 Dynamic,64900.0,216 000 km,manual,2 179 cm3,Diesel,Gubin,Lubuskie,2014
+28810,land-rover,Land Rover Range Rover Evoque 2.2eD4 Prestige,49900.0,216 000 km,manual,2 179 cm3,Diesel,Łuków,Lubelskie,2014
+28811,land-rover,Land Rover Range Rover Evoque 2.2eD4 Prestige,68900.0,128 001 km,manual,2 179 cm3,Diesel,Płock,Mazowieckie,2013
+28812,land-rover,Land Rover Range Rover Evoque,68000.0,128 001 km,manual,2 179 cm3,Diesel,Goleniów,Zachodniopomorskie,2013
+28813,land-rover,Land Rover Defender 2.2 TD4 E Utility,349110.0,250 000 km,manual,2 179 cm3,Diesel,Gdańsk,Pomorskie,2010
+28814,land-rover,Land Rover Defender 90 2.2 TD4 E,189000.0,250 000 km,manual,2 179 cm3,Diesel,Łańcut,Podkarpackie,2010
+28815,land-rover,Land Rover Defender,239900.0,144 000 km,manual,2 179 cm3,Diesel,Warszawa,Mazowieckie,2013
+28816,land-rover,Land Rover Defender,49990.0,144 000 km,manual,2 179 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2013
+28817,land-rover,Land Rover Freelander,41900.0,5 590 km,manual,2 402 cm3,Diesel,Siedlec,Małopolskie,2010
+28818,land-rover,Land Rover Range Rover Evoque 2.2SD4 Dynamic,69999.0,5 590 km,manual,2 402 cm3,Diesel,Żary,Lubuskie,2010
+28819,land-rover,Land Rover Range Rover Evoque,88000.0,177 000 km,manual,2 179 cm3,Diesel,Rawicz,Wielkopolskie,2012
+28820,land-rover,Land Rover Range Rover Evoque 2.2eD4 Dynamic,61900.0,177 000 km,manual,2 179 cm3,Diesel,Chmielów,Podkarpackie,2012
+28821,land-rover,Land Rover Freelander II 2.2TD XS,36400.0,207 000 km,manual,2 179 cm3,Diesel,Iława,Warmińsko-mazurskie,2012
+28822,land-rover,Land Rover Defender,275000.0,207 000 km,manual,2 179 cm3,Diesel,Wilkowice,Śląskie,2012
+28823,land-rover,Land Rover Defender,102900.0,223 464 km,manual,2 179 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2013
+28824,land-rover,Land Rover Range Rover Evoque,75000.0,223 464 km,manual,2 179 cm3,Diesel,Ostrzeszów,Wielkopolskie,2013
+28825,land-rover,Land Rover Range Rover Evoque,62999.0,111 500 km,manual,2 179 cm3,Diesel,Poznań,Wielkopolskie,2013
+28826,land-rover,Land Rover Freelander II 2.2TD E,34800.0,111 500 km,manual,2 179 cm3,Diesel,Bojadła,Lubuskie,2013
+28827,land-rover,Land Rover Freelander II 2.2TD SE,27900.0,170 000 km,manual,2 179 cm3,Diesel,Bodzanów,Małopolskie,2013
+28828,land-rover,Land Rover Range Rover Sport,165000.0,170 000 km,manual,2 179 cm3,Diesel,Warszawa,Mazowieckie,2013
+28829,land-rover,Land Rover Range Rover Evoque 2.2TD4 Prestige,46900.0,35 000 km,manual,2 179 cm3,Diesel,Mińsk Mazowiecki,Mazowieckie,2014
+28830,land-rover,Land Rover Freelander,59900.0,35 000 km,manual,2 179 cm3,Diesel,Zawoja,Małopolskie,2014
+28831,land-rover,Land Rover Discovery,36500.0,358 000 km,manual,2 495 cm3,Diesel,Gliwice,Śląskie,2003
+28832,land-rover,Land Rover Discovery,30000.0,358 000 km,manual,2 495 cm3,Diesel,Baniocha,Mazowieckie,2003
+28833,land-rover,Land Rover Defender 90 2.5 TDI,57900.0,259 500 km,manual,2 720 cm3,Diesel,Garwolin,Mazowieckie,2004
+28834,land-rover,Land Rover Freelander 2.0 D,8900.0,259 500 km,manual,2 720 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2004
+28835,land-rover,Land Rover Freelander 2.0 D,13800.0,199 000 km,manual,2 495 cm3,Diesel,Turek,Wielkopolskie,2002
+28836,land-rover,Land Rover Freelander 2.0 Td Energy,6900.0,199 000 km,manual,2 495 cm3,Diesel,Bielsko-Biała,Śląskie,2002
+28837,land-rover,Land Rover Freelander 2.0 D,9400.0,354 000 km,manual,1 998 cm3,Diesel,Sierakowice,Pomorskie,2000
+28838,land-rover,Land Rover Discovery II 2.5 TD5,32900.0,354 000 km,manual,1 998 cm3,Diesel,Kraków,Małopolskie,2000
+28839,land-rover,Land Rover Freelander 2.0 D,12950.0,242 000 km,manual,1 950 cm3,Diesel,Ryczówek,Małopolskie,2002
+28840,land-rover,Land Rover Freelander 1.8,8000.0,242 000 km,manual,1 950 cm3,Diesel,Przemyśl,Podkarpackie,2002
+28841,land-rover,Land Rover Freelander 1.8i,13500.0,320 000 km,manual,1 950 cm3,Diesel,Warszawa,Mazowieckie,2004
+28842,land-rover,Land Rover Freelander,14999.0,320 000 km,manual,1 950 cm3,Diesel,Przybynów,Śląskie,2004
+28843,land-rover,Land Rover Discovery II 2.5 TD5,53000.0,470 000 km,manual,1 950 cm3,Diesel,Biała,Lubelskie,2003
+28844,land-rover,Land Rover Freelander 1.8,25900.0,470 000 km,manual,1 950 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2003
+28845,land-rover,Land Rover Defender 90 2.5 TDI,57900.0,350 000 km,manual,2 495 cm3,Diesel,Górzno,Mazowieckie,2003
+28846,land-rover,Land Rover Freelander 1.8,10900.0,350 000 km,manual,2 495 cm3,Diesel,Trzcianka,Wielkopolskie,2003
+28847,land-rover,Land Rover Freelander 1.8,10500.0,250 000 km,manual,1 950 cm3,Diesel,Wrocław,Dolnośląskie,2003
+28848,land-rover,Land Rover Defender,140900.0,250 000 km,manual,1 950 cm3,Diesel,Sopot,Pomorskie,2003
+28849,land-rover,Land Rover Discovery II 2.5 TD S,18500.0,170 000 km,manual,1 796 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2002
+28850,land-rover,Land Rover Freelander,13000.0,170 000 km,manual,1 796 cm3,Benzyna,Tarnowskie Góry,Śląskie,2002
+28851,land-rover,Land Rover Discovery II 2.5 TD S,33000.0,170 000 km,manual,1 796 cm3,Benzyna,Leszno,Wielkopolskie,2004
+28852,land-rover,Land Rover Discovery II 2.5 TD5,39000.0,170 000 km,manual,1 796 cm3,Benzyna,Wschowa,Lubuskie,2004
+28853,land-rover,Land Rover Freelander 2.0 D,15900.0,180 000 km,manual,1 800 cm3,Benzyna+LPG,Czeladź,Śląskie,2001
+28854,land-rover,Land Rover Freelander,9900.0,180 000 km,manual,1 800 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2001
+28855,land-rover,Land Rover Defender 110 2.5 TDI,62000.0,145 000 km,manual,2 495 cm3,Diesel,Gowarczów,Świętokrzyskie,2001
+28856,land-rover,Land Rover Freelander 2.0 D,14900.0,145 000 km,manual,2 495 cm3,Diesel,Przemyśl,Podkarpackie,2001
+28857,land-rover,Land Rover Discovery II 2.5 TD5,52000.0,191 288 km,manual,1 796 cm3,Benzyna,Mikołów,Śląskie,2001
+28858,land-rover,Land Rover Discovery III 2.7D V6 S,26900.0,191 288 km,manual,1 796 cm3,Benzyna,Nowa Sól,Lubuskie,2001
+28859,land-rover,Land Rover Discovery II 2.5 TD5,29900.0,246 000 km,manual,2 495 cm3,Diesel,Bilcza,Świętokrzyskie,2000
+28860,land-rover,Land Rover Freelander 2.0 D,13000.0,246 000 km,manual,2 495 cm3,Diesel,Kruszewo,Wielkopolskie,2000
+28861,land-rover,Land Rover Freelander 1.8,8500.0,212 000 km,manual,1 796 cm3,Benzyna,Warszawa,Mazowieckie,2001
+28862,land-rover,Land Rover Defender 110 2.5 TDI,79999.0,212 000 km,manual,1 796 cm3,Benzyna,Środa Śląska,Dolnośląskie,2001
+28863,land-rover,Land Rover Range Rover Evoque,99900.0,130 000 km,manual,1 999 cm3,Diesel,Kamienna Góra,Dolnośląskie,2017
+28864,land-rover,Land Rover Discovery Sport 2.0 D150,107500.0,130 000 km,manual,1 999 cm3,Diesel,Koło,Wielkopolskie,2017
+28865,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,114900.0,64 500 km,manual,1 999 cm3,Diesel,Michałowice,Mazowieckie,2019
+28866,land-rover,Land Rover Discovery Sport 2.0 D150 SE,71900.0,64 500 km,manual,1 999 cm3,Diesel,Zamość,Lubelskie,2019
+28867,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE Dynamic,89900.0,132 957 km,manual,1 999 cm3,Diesel,Kotlin,Wielkopolskie,2018
+28868,land-rover,Land Rover Discovery Sport 2.0 TD4 Pure,65000.0,132 957 km,manual,1 999 cm3,Diesel,Żary,Lubuskie,2018
+28869,land-rover,Land Rover Discovery Sport 2.0 eD4 HSE,78000.0,174 000 km,manual,1 999 cm3,Diesel,Szczecin,Zachodniopomorskie,2017
+28870,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE Dynamic,95900.0,174 000 km,manual,1 999 cm3,Diesel,Tychy,Śląskie,2017
+28871,land-rover,Land Rover Discovery Sport 2.0 D150 SE,59900.0,57 100 km,manual,1 999 cm3,Diesel,Mielec,Podkarpackie,2016
+28872,land-rover,Land Rover Range Rover Evoque 2.2eD4 Prestige,67777.0,57 100 km,manual,1 999 cm3,Diesel,Kielce,Świętokrzyskie,2016
+28873,land-rover,Land Rover Discovery Sport 2.0 eD4 HSE Luxury,73900.0,179 000 km,manual,1 999 cm3,Diesel,Morzyczyn,Zachodniopomorskie,2017
+28874,land-rover,Land Rover Range Rover Evoque 2.2eD4 Prestige,52500.0,179 000 km,manual,1 999 cm3,Diesel,Szamotuły,Wielkopolskie,2017
+28875,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,29999.0,115 000 km,manual,2 179 cm3,Diesel,Pyzdry,Wielkopolskie,2015
+28876,land-rover,Land Rover Discovery Sport,69000.0,115 000 km,manual,2 179 cm3,Diesel,Osiek,Pomorskie,2015
+28877,land-rover,Land Rover Range Rover Evoque 2.0 D150 R-Dynamic,157000.0,74 251 km,manual,1 999 cm3,Diesel,Szamotuły,Wielkopolskie,2017
+28878,land-rover,Land Rover Range Rover Evoque 2.0 D150,70900.0,74 251 km,manual,1 999 cm3,Diesel,Turek,Wielkopolskie,2017
+28879,land-rover,Land Rover Discovery Sport 2.0 TD4 Pure,105000.0,180 000 km,manual,2 179 cm3,Diesel,Poznań,Wielkopolskie,2015
+28880,land-rover,Land Rover Discovery Sport,89700.0,180 000 km,manual,2 179 cm3,Diesel,Piła,Wielkopolskie,2015
+28881,land-rover,Land Rover Discovery Sport,89900.0,47 000 km,manual,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+28882,land-rover,Land Rover Discovery Sport,79900.0,47 000 km,manual,1 999 cm3,Diesel,Kobylanka,Zachodniopomorskie,2019
+28883,land-rover,Land Rover Discovery Sport 2.0 D150 R-Dynamic SE,67900.0,124 140 km,manual,1 999 cm3,Diesel,Sulechów,Lubuskie,2017
+28884,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,76700.0,124 140 km,manual,1 999 cm3,Diesel,Płock,Mazowieckie,2017
+28885,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,86900.0,136 138 km,manual,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+28886,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,102900.0,136 138 km,manual,1 999 cm3,Diesel,Tarnów,Małopolskie,2016
+28887,land-rover,Land Rover Discovery Sport,61900.0,106 493 km,manual,1 999 cm3,Diesel,Ropczyce,Podkarpackie,2016
+28888,land-rover,Land Rover Range Rover Evoque 2.0 D150,79950.0,106 493 km,manual,1 999 cm3,Diesel,Gdańsk,Pomorskie,2016
+28889,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,79700.0,115 851 km,manual,1 998 cm3,Diesel,Gniezno,Wielkopolskie,2018
+28890,land-rover,Land Rover Discovery Sport,77800.0,115 851 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2018
+28891,land-rover,Land Rover Range Rover Evoque 2.0eD4 SE Dynamic Special Edition,79980.0,177 231 km,manual,1 999 cm3,Diesel,Żyrardów,Mazowieckie,2018
+28892,land-rover,Land Rover Range Rover Evoque 2.0eD4 SE,88929.0,177 231 km,manual,1 999 cm3,Diesel,Warszawa,Mazowieckie,2018
+28893,land-rover,Land Rover Discovery Sport 2.0 eD4 HSE,74999.0,238 000 km,manual,1 999 cm3,Diesel,Jelenia Góra,Dolnośląskie,2017
+28894,land-rover,Land Rover Discovery Sport 2.0 D150,56900.0,238 000 km,manual,1 999 cm3,Diesel,Szczecin,Zachodniopomorskie,2017
+28895,land-rover,Land Rover Range Rover Evoque 2.0eD4 SE Dynamic Special Edition,92900.0,120 000 km,manual,1 999 cm3,Diesel,Płock,Mazowieckie,2017
+28896,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE,142900.0,120 000 km,manual,1 999 cm3,Diesel,Gdańsk,Pomorskie,2017
+28897,land-rover,Land Rover Discovery Sport 2.0 eD4 SE,79500.0,89 000 km,manual,1 999 cm3,Diesel,Bolesławiec,Dolnośląskie,2018
+28898,land-rover,Land Rover Range Rover Evoque,103900.0,89 000 km,manual,1 999 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2018
+28899,land-rover,Land Rover Discovery,69900.0,70 000 km,manual,1 999 cm3,Diesel,Mława,Mazowieckie,2016
+28900,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,57900.0,70 000 km,manual,1 999 cm3,Diesel,Elbląg,Warmińsko-mazurskie,2016
+28901,land-rover,Land Rover Range Rover Evoque 2.2eD4 Pure,46700.0,119 000 km,manual,1 999 cm3,Diesel,Głogoczów,Małopolskie,2015
+28902,land-rover,Land Rover Defender,500000.0,119 000 km,manual,1 999 cm3,Diesel,Gdynia,Pomorskie,2015
+28903,land-rover,Land Rover Discovery Sport,79999.0,158 000 km,manual,1 999 cm3,Diesel,Morzyczyn,Zachodniopomorskie,2016
+28904,land-rover,Land Rover Range Rover Evoque 2.0 D150,159000.0,158 000 km,manual,1 999 cm3,Diesel,Wągrowiec,Wielkopolskie,2016
+28905,land-rover,Land Rover Range Rover 4.6 HSE,49500.0,320 000 km,automatic,4 553 cm3,Benzyna,Kamienna Góra,Dolnośląskie,1997
+28906,land-rover,Land Rover Defender,45000.0,320 000 km,automatic,4 553 cm3,Benzyna,Warszawa,Mazowieckie,1997
+28907,land-rover,Land Rover Discovery II 4.0 V8 S,27000.0,134 000 km,automatic,2 495 cm3,Diesel,Jarocin,Wielkopolskie,1995
+28908,land-rover,Land Rover Discovery,26900.0,134 000 km,automatic,2 495 cm3,Diesel,Wrocław,Dolnośląskie,1995
+28909,land-rover,Land Rover Range Rover,8000.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,1999
+28910,land-rover,Land Rover Discovery,21900.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,1999
+28911,land-rover,Land Rover Range Rover 4.3 Vouge LSE,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28912,land-rover,Land Rover Discovery,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Łomża,Podlaskie,1999
+28913,land-rover,Land Rover Range Rover 4.6 HSE,20900.0,162 000 km,automatic,2 497 cm3,Diesel,Wrocław,Dolnośląskie,1997
+28914,land-rover,Land Rover Range Rover 4.6 HSE,49500.0,320 000 km,automatic,4 553 cm3,Benzyna,Kamienna Góra,Dolnośląskie,1997
+28915,land-rover,Land Rover Defender,45000.0,320 000 km,automatic,4 553 cm3,Benzyna,Warszawa,Mazowieckie,1997
+28916,land-rover,Land Rover Discovery II 4.0 V8 S,27000.0,134 000 km,automatic,2 495 cm3,Diesel,Jarocin,Wielkopolskie,1995
+28917,land-rover,Land Rover Discovery,26900.0,134 000 km,automatic,2 495 cm3,Diesel,Wrocław,Dolnośląskie,1995
+28918,land-rover,Land Rover Range Rover,8000.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,1999
+28919,land-rover,Land Rover Discovery,21900.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,1999
+28920,land-rover,Land Rover Range Rover 4.3 Vouge LSE,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28921,land-rover,Land Rover Discovery,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Łomża,Podlaskie,1999
+28922,land-rover,Land Rover Range Rover 4.6 HSE,20900.0,162 000 km,automatic,2 497 cm3,Diesel,Wrocław,Dolnośląskie,1997
+28923,land-rover,Land Rover Range Rover 4.6 HSE,49500.0,320 000 km,automatic,4 553 cm3,Benzyna,Kamienna Góra,Dolnośląskie,1997
+28924,land-rover,Land Rover Defender,45000.0,320 000 km,automatic,4 553 cm3,Benzyna,Warszawa,Mazowieckie,1997
+28925,land-rover,Land Rover Discovery II 4.0 V8 S,27000.0,134 000 km,automatic,2 495 cm3,Diesel,Jarocin,Wielkopolskie,1995
+28926,land-rover,Land Rover Discovery,26900.0,134 000 km,automatic,2 495 cm3,Diesel,Wrocław,Dolnośląskie,1995
+28927,land-rover,Land Rover Range Rover,8000.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,1999
+28928,land-rover,Land Rover Discovery,21900.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,1999
+28929,land-rover,Land Rover Range Rover 4.3 Vouge LSE,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28930,land-rover,Land Rover Discovery,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Łomża,Podlaskie,1999
+28931,land-rover,Land Rover Range Rover 4.6 HSE,20900.0,162 000 km,automatic,2 497 cm3,Diesel,Wrocław,Dolnośląskie,1997
+28932,land-rover,Land Rover Range Rover 4.6 HSE,49500.0,320 000 km,automatic,4 553 cm3,Benzyna,Kamienna Góra,Dolnośląskie,1997
+28933,land-rover,Land Rover Defender,45000.0,320 000 km,automatic,4 553 cm3,Benzyna,Warszawa,Mazowieckie,1997
+28934,land-rover,Land Rover Discovery II 4.0 V8 S,27000.0,134 000 km,automatic,2 495 cm3,Diesel,Jarocin,Wielkopolskie,1995
+28935,land-rover,Land Rover Discovery,26900.0,134 000 km,automatic,2 495 cm3,Diesel,Wrocław,Dolnośląskie,1995
+28936,land-rover,Land Rover Range Rover,8000.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,1999
+28937,land-rover,Land Rover Discovery,21900.0,276 000 km,automatic,3 950 cm3,Benzyna+LPG,Piaseczno,Mazowieckie,1999
+28938,land-rover,Land Rover Range Rover 4.3 Vouge LSE,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Warszawa,Mazowieckie,1999
+28939,land-rover,Land Rover Discovery,13900.0,374 000 km,automatic,2 495 cm3,Diesel,Łomża,Podlaskie,1999
+28940,land-rover,Land Rover Range Rover 4.6 HSE,20900.0,162 000 km,automatic,2 497 cm3,Diesel,Wrocław,Dolnośląskie,1997
+28941,land-rover,Land Rover Discovery,33999.0,338 479 km,automatic,2 495 cm3,Diesel,Wrocław,Dolnośląskie,2003
+28942,land-rover,Land Rover Freelander 2.0 Td,21900.0,338 479 km,automatic,2 495 cm3,Diesel,Myszyniec,Mazowieckie,2003
+28943,land-rover,Land Rover Discovery,28900.0,224 000 km,automatic,1 950 cm3,Diesel,Lusówko,Wielkopolskie,2004
+28944,land-rover,Land Rover Range Rover,23000.0,224 000 km,automatic,1 950 cm3,Diesel,Jędrzejów,Świętokrzyskie,2004
+28945,land-rover,Land Rover Discovery II 4.0 V8 XS,15900.0,317 351 km,automatic,3 950 cm3,Benzyna+LPG,Białystok,Podlaskie,2000
+28946,land-rover,Land Rover Discovery,42500.0,317 351 km,automatic,3 950 cm3,Benzyna+LPG,Miastko,Pomorskie,2000
+28947,land-rover,Land Rover Range Rover 4.4 HSE,37999.0,199 852 km,automatic,2 497 cm3,Diesel,Więcbork,Kujawsko-pomorskie,2000
+28948,land-rover,Land Rover Discovery,49900.0,199 852 km,automatic,2 497 cm3,Diesel,Wyszków,Mazowieckie,2000
+28949,land-rover,Land Rover Freelander,20500.0,177 000 km,automatic,3 950 cm3,Benzyna+LPG,Lidzbark Warmiński,Warmińsko-mazurskie,2002
+28950,land-rover,Land Rover Range Rover,23900.0,177 000 km,automatic,3 950 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2002
+28951,land-rover,Land Rover Discovery,29000.0,145 000 km,automatic,4 553 cm3,Benzyna,Lipsko,Mazowieckie,2003
+28952,land-rover,Land Rover Range Rover 4.4 Vogue,32900.0,145 000 km,automatic,4 553 cm3,Benzyna,Ostrołęka,Mazowieckie,2003
+28953,land-rover,Land Rover Range Rover 3.0TD Vogue,25900.0,133 267 km,automatic,4 398 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2004
+28954,land-rover,Land Rover Freelander,10500.0,133 267 km,automatic,4 398 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2004
+28955,land-rover,Land Rover Range Rover 4.4 Vogue,14999.0,200 000 km,automatic,2 495 cm3,Diesel,Starogard Gdański,Pomorskie,2003
+28956,land-rover,Land Rover Range Rover 3.0TD Vogue,19900.0,200 000 km,automatic,2 495 cm3,Diesel,Warszawa,Mazowieckie,2003
+28957,land-rover,Land Rover Discovery,45500.0,151 000 km,automatic,1 950 cm3,Diesel,Pruszcz Gdański,Pomorskie,2004
+28958,land-rover,Land Rover Discovery,25900.0,151 000 km,automatic,1 950 cm3,Diesel,Śmigiel,Wielkopolskie,2004
+28959,land-rover,Land Rover Discovery,79950.0,305 903 km,automatic,2 497 cm3,Diesel,Smardzów,Dolnośląskie,2001
+28960,land-rover,Land Rover Discovery,27500.0,305 903 km,automatic,2 497 cm3,Diesel,Dąbrówka,Wielkopolskie,2001
+28961,land-rover,Land Rover Range Rover,28000.0,250 000 km,automatic,2 495 cm3,Diesel,Lublin,Lubelskie,2004
+28962,land-rover,Land Rover Range Rover,14800.0,250 000 km,automatic,2 495 cm3,Diesel,Niedźwiedź,Małopolskie,2004
+28963,land-rover,Land Rover Discovery,31800.0,252 000 km,automatic,4 398 cm3,Benzyna,Warszawa,Mazowieckie,2003
+28964,land-rover,Land Rover Discovery,25900.0,252 000 km,automatic,4 398 cm3,Benzyna,Gdynia,Pomorskie,2003
+28965,land-rover,Land Rover Freelander 2.0 Td,14800.0,558 000 km,automatic,2 926 cm3,Diesel,Płock,Mazowieckie,2002
+28966,land-rover,Land Rover Discovery,27900.0,558 000 km,automatic,2 926 cm3,Diesel,Żary,Lubuskie,2002
+28967,land-rover,Land Rover Range Rover,24900.0,308 000 km,automatic,1 950 cm3,Diesel,Warszawa,Mazowieckie,2001
+28968,land-rover,Land Rover Range Rover 4.4 Vogue,23000.0,308 000 km,automatic,1 950 cm3,Diesel,Oleśnica,Dolnośląskie,2001
+28969,land-rover,Land Rover Discovery,53000.0,280 000 km,automatic,4 398 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2002
+28970,land-rover,Land Rover Range Rover 4.4 Vogue,31500.0,280 000 km,automatic,4 398 cm3,Benzyna,Grójec,Mazowieckie,2002
+28971,land-rover,Land Rover Range Rover,14900.0,376 000 km,automatic,2 926 cm3,Diesel,Kacprówek,Mazowieckie,2002
+28972,land-rover,Land Rover Discovery,44900.0,376 000 km,automatic,2 926 cm3,Diesel,Warszawa,Mazowieckie,2002
+28973,land-rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,154900.0,308 500 km,automatic,4 367 cm3,Diesel,Łódź,Łódzkie,2014
+28974,land-rover,Land Rover Discovery IV 3.0 SD V6 HSE,95940.0,308 500 km,automatic,4 367 cm3,Diesel,Grójec,Mazowieckie,2014
+28975,land-rover,Land Rover Range Rover Sport,145770.0,293 000 km,automatic,2 993 cm3,Diesel,Zielona Góra,Lubuskie,2014
+28976,land-rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,66420.0,293 000 km,automatic,2 993 cm3,Diesel,Bytom,Śląskie,2014
+28977,land-rover,Land Rover Range Rover Sport S 3.6TD V8 HSE,68000.0,106 720 km,automatic,2 998 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2014
+28978,land-rover,Land Rover Range Rover 5.0 V8 S/C Vogue,95400.0,106 720 km,automatic,2 998 cm3,Diesel,Iława,Warmińsko-mazurskie,2014
+28979,land-rover,Land Rover Range Rover Evoque 2.0Si4 Dynamic,89000.0,250 000 km,automatic,2 993 cm3,Diesel,Konstancin-Jeziorna,Mazowieckie,2012
+28980,land-rover,Land Rover Range Rover Evoque 2.0Si4 Pure Tech,99900.0,250 000 km,automatic,2 993 cm3,Diesel,Częstochowa,Śląskie,2012
+28981,land-rover,Land Rover Freelander,63500.0,155 000 km,automatic,3 628 cm3,Diesel,Tomaszów Lubelski,Lubelskie,2010
+28982,land-rover,Land Rover Range Rover 4.4TD V8 Vogue,118900.0,155 000 km,automatic,3 628 cm3,Diesel,Sopot,Pomorskie,2010
+28983,land-rover,Land Rover Range Rover,205000.0,151 000 km,automatic,5 000 cm3,Benzyna,Grójec,Mazowieckie,2010
+28984,land-rover,Land Rover Freelander II 2.2 sD4 SE,42500.0,151 000 km,automatic,5 000 cm3,Benzyna,Nowe Dąbie,Kujawsko-pomorskie,2010
+28985,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 AB,178900.0,148 000 km,automatic,1 999 cm3,Benzyna,Bielsko-Biała,Śląskie,2014
+28986,land-rover,Land Rover Range Rover Evoque,80500.0,148 000 km,automatic,1 999 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2014
+28987,land-rover,Land Rover Range Rover Evoque,60000.0,157 413 km,automatic,1 999 cm3,Benzyna+LPG,Wieliczka,Małopolskie,2014
+28988,land-rover,Land Rover Range Rover,229000.0,157 413 km,automatic,1 999 cm3,Benzyna+LPG,Ząbkowice Śląskie,Dolnośląskie,2014
+28989,land-rover,Land Rover Range Rover Evoque,84999.0,154 000 km,automatic,2 179 cm3,Diesel,Pokój,Opolskie,2013
+28990,land-rover,Land Rover Range Rover Evoque,89900.0,154 000 km,automatic,2 179 cm3,Diesel,Słupsk,Pomorskie,2013
+28991,land-rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,74000.0,157 900 km,automatic,4 367 cm3,Diesel,Dąbrowa Tarnowska,Małopolskie,2012
+28992,land-rover,Land Rover Discovery IV 5.0 V8 HSE,104000.0,157 900 km,automatic,4 367 cm3,Diesel,Wieliczka,Małopolskie,2012
+28993,land-rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,83900.0,157 689 km,automatic,4 367 cm3,Diesel,Krosno,Podkarpackie,2014
+28994,land-rover,Land Rover Range Rover Sport S 3.6TD HSE,65000.0,157 689 km,automatic,4 367 cm3,Diesel,Wrzosowa,Śląskie,2014
+28995,land-rover,Land Rover Range Rover Evoque,67500.0,205 000 km,automatic,2 179 cm3,Diesel,Warszawa,Mazowieckie,2010
+28996,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C HSE Dynamic,35000.0,205 000 km,automatic,2 179 cm3,Diesel,Gręzów,Mazowieckie,2010
+28997,land-rover,Land Rover Range Rover Sport S 3.0TD V6 S,72900.0,157 000 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2014
+28998,land-rover,Land Rover Range Rover Evoque 2.0Si4 Dynamic,99500.0,157 000 km,automatic,4 367 cm3,Diesel,Gdańsk,Pomorskie,2014
+28999,land-rover,Land Rover Freelander II 2.2 sD4 S,48600.0,90 500 km,automatic,1 999 cm3,Benzyna,Krzyszkowice,Małopolskie,2012
+29000,land-rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,146260.0,90 500 km,automatic,1 999 cm3,Benzyna,Łódź,Łódzkie,2012
+29001,land-rover,Land Rover Range Rover 3.0TD V6 HSE,119900.0,228 000 km,automatic,2 179 cm3,Diesel,Kamienna Góra,Dolnośląskie,2013
+29002,land-rover,Land Rover Range Rover 4.4TD V8 Vogue,82900.0,228 000 km,automatic,2 179 cm3,Diesel,Płock,Mazowieckie,2013
+29003,land-rover,Land Rover Range Rover,184500.0,107 943 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2014
+29004,land-rover,Land Rover Range Rover Evoque 2.0Si4 Prestige,91999.0,107 943 km,automatic,4 367 cm3,Diesel,Radwanice,Dolnośląskie,2014
+29005,land-rover,Land Rover Discovery 3.0SD V6 HSE,42500.0,332 000 km,automatic,2 993 cm3,Diesel,Rudniki,Śląskie,2012
+29006,land-rover,Land Rover Range Rover Sport,129000.0,332 000 km,automatic,2 993 cm3,Diesel,Swarzędz,Wielkopolskie,2012
+29007,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,89800.0,232 500 km,automatic,2 993 cm3,Diesel,Szczekociny,Śląskie,2013
+29008,land-rover,Land Rover Discovery IV 5.0 V8 HSE,53800.0,232 500 km,automatic,2 993 cm3,Diesel,Szczekociny,Śląskie,2013
+29009,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,87000.0,94 057 km,automatic,2 995 cm3,Benzyna,Szczekociny,Śląskie,2014
+29010,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,78800.0,94 057 km,automatic,2 995 cm3,Benzyna,Szczekociny,Śląskie,2014
+29011,land-rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,139900.0,139 302 km,automatic,4 999 cm3,Benzyna,Warszawa,Mazowieckie,2013
+29012,land-rover,Land Rover Range Rover Evoque,64900.0,139 302 km,automatic,4 999 cm3,Benzyna,Warszawa,Mazowieckie,2013
+29013,land-rover,Land Rover Range Rover Evoque,89900.0,115 157 km,automatic,2 995 cm3,Benzyna,Kraków,Małopolskie,2014
+29014,land-rover,Land Rover Discovery IV 3.0 TD V6 HSE,88900.0,115 157 km,automatic,2 995 cm3,Benzyna,Tarnobrzeg,Podkarpackie,2014
+29015,land-rover,Land Rover Range Rover 4.4SD V8 Vogue,209000.0,149 136 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2014
+29016,land-rover,Land Rover Range Rover Evoque 2.0Si4 Prestige,68800.0,149 136 km,automatic,2 995 cm3,Benzyna,Poznań,Wielkopolskie,2014
+29017,land-rover,Land Rover Range Rover 4.4SD V8 AB,239900.0,299 000 km,automatic,4 367 cm3,Diesel,Gdańsk,Pomorskie,2014
+29018,land-rover,Land Rover Range Rover,239900.0,299 000 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2014
+29019,land-rover,Land Rover Range Rover 4.4TD V8 Vogue,84999.0,269 000 km,automatic,2 179 cm3,Diesel,Pruszków,Mazowieckie,2013
+29020,land-rover,Land Rover Discovery IV 2.7D V6 HSE,64900.0,269 000 km,automatic,2 179 cm3,Diesel,Białystok,Podlaskie,2013
+29021,land-rover,Land Rover Range Rover,76900.0,149 800 km,automatic,2 179 cm3,Diesel,Łódź,Łódzkie,2014
+29022,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C AB,259999.0,149 800 km,automatic,2 179 cm3,Diesel,Nowy Sącz,Małopolskie,2014
+29023,land-rover,Land Rover Range Rover Sport S 3.0TD V6 SE,33000.0,169 000 km,automatic,2 993 cm3,Diesel,Łosice,Mazowieckie,2013
+29024,land-rover,Land Rover Range Rover,89900.0,169 000 km,automatic,2 993 cm3,Diesel,Lębork,Pomorskie,2013
+29025,land-rover,Land Rover Discovery IV 3.0SD V6 HSE,89900.0,167 500 km,automatic,4 367 cm3,Diesel,Kraków,Małopolskie,2013
+29026,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,130000.0,167 500 km,automatic,4 367 cm3,Diesel,Szamotuły,Wielkopolskie,2013
+29027,land-rover,Land Rover Range Rover Sport,77777.0,194 600 km,automatic,1 999 cm3,Benzyna,Ożarów Mazowiecki,Mazowieckie,2011
+29028,land-rover,Land Rover Range Rover Sport,93000.0,194 600 km,automatic,1 999 cm3,Benzyna,Białystok,Podlaskie,2011
+29029,land-rover,Land Rover Discovery IV 3.0 SD V6 SE,110000.0,79 462 km,automatic,4 367 cm3,Diesel,Bolesławiec,Dolnośląskie,2014
+29030,land-rover,Land Rover Range Rover Evoque,79900.0,79 462 km,automatic,4 367 cm3,Diesel,Wągrowiec,Wielkopolskie,2014
+29031,land-rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,36900.0,153 000 km,automatic,5 000 cm3,Benzyna,Chodzież,Wielkopolskie,2014
+29032,land-rover,Land Rover Range Rover Sport S 3.0SD V6 HSE,110000.0,153 000 km,automatic,5 000 cm3,Benzyna,Łomianki,Mazowieckie,2014
+29033,land-rover,Land Rover Range Rover 4.4SD V8 Vogue,196800.0,330 001 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2011
+29034,land-rover,Land Rover Discovery IV 5.0 V8 HSE,88000.0,330 001 km,automatic,4 367 cm3,Diesel,Gliwice,Śląskie,2011
+29035,land-rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,63000.0,266 000 km,automatic,2 720 cm3,Diesel,Ostrzeszów,Wielkopolskie,2010
+29036,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,77700.0,266 000 km,automatic,2 720 cm3,Diesel,Brodnica,Wielkopolskie,2010
+29037,land-rover,Land Rover Range Rover Sport S 3.0SD V6 SE,85000.0,142 000 km,automatic,2 993 cm3,Diesel,Cieszyn,Śląskie,2012
+29038,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,136000.0,142 000 km,automatic,2 993 cm3,Diesel,Gliwice,Śląskie,2012
+29039,land-rover,Land Rover Range Rover Evoque,65000.0,221 000 km,automatic,2 995 cm3,Benzyna,Gdańsk,Pomorskie,2014
+29040,land-rover,Land Rover Freelander,38900.0,221 000 km,automatic,2 995 cm3,Benzyna,Kościan,Wielkopolskie,2014
+29041,land-rover,Land Rover Freelander,17000.0,264 600 km,automatic,2 179 cm3,Diesel,Pruszcz Gdański,Pomorskie,2012
+29042,land-rover,Land Rover Range Rover Sport,131900.0,264 600 km,automatic,2 179 cm3,Diesel,Gaj,Małopolskie,2012
+29043,land-rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,61500.0,194 000 km,automatic,2 179 cm3,Diesel,Warszawa,Mazowieckie,2011
+29044,land-rover,Land Rover Range Rover,99000.0,194 000 km,automatic,2 179 cm3,Diesel,Wieliczka,Małopolskie,2011
+29045,land-rover,Land Rover Range Rover Evoque,79900.0,219 000 km,automatic,2 179 cm3,Diesel,Mroków,Mazowieckie,2011
+29046,land-rover,Land Rover Range Rover Sport S 3.0TD V6 HSE,44999.0,219 000 km,automatic,2 179 cm3,Diesel,Nysa,Opolskie,2011
+29047,land-rover,Land Rover Range Rover Sport S 3.6TD V8 HSE,62500.0,182 116 km,automatic,2 993 cm3,Diesel,Szczecin,Zachodniopomorskie,2013
+29048,land-rover,Land Rover Freelander II 2.0Si4 S,34900.0,182 116 km,automatic,2 993 cm3,Diesel,Dobrzyniewo Duże,Podlaskie,2013
+29049,land-rover,Land Rover Discovery IV 3.0D V6 HSE,38000.0,253 200 km,automatic,2 993 cm3,Diesel,Radomsko,Łódzkie,2010
+29050,land-rover,Land Rover Range Rover Evoque,62000.0,253 200 km,automatic,2 993 cm3,Diesel,Oświęcim,Małopolskie,2010
+29051,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C AB Dynamic,233700.0,245 000 km,automatic,5 000 cm3,Benzyna,Węgrzce,Małopolskie,2011
+29052,land-rover,Land Rover Range Rover Evoque 2.0Si4 Dynamic,93999.0,245 000 km,automatic,5 000 cm3,Benzyna,Chojnów,Dolnośląskie,2011
+29053,land-rover,Land Rover Range Rover 4.4TD V8 Vogue SE,99000.0,191 700 km,automatic,1 999 cm3,Benzyna,Wałbrzych,Dolnośląskie,2013
+29054,land-rover,Land Rover Range Rover Sport,129900.0,191 700 km,automatic,1 999 cm3,Benzyna,Wyszków,Mazowieckie,2013
+29055,land-rover,Land Rover Freelander II 2.2 sD4 SE,58000.0,275 000 km,automatic,2 993 cm3,Diesel,Dziembówko,Wielkopolskie,2010
+29056,land-rover,Land Rover Range Rover Sport,124900.0,275 000 km,automatic,2 993 cm3,Diesel,Otwock,Mazowieckie,2010
+29057,land-rover,Land Rover Range Rover 3.0TD V6 LWB Vogue,185000.0,298 000 km,automatic,3 628 cm3,Diesel,Warszawa,Mazowieckie,2010
+29058,land-rover,Land Rover Discovery IV 3.0D V6 HSE,86100.0,298 000 km,automatic,3 628 cm3,Diesel,Radwanice,Dolnośląskie,2010
+29059,land-rover,Land Rover Range Rover Evoque,78000.0,192 886 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2013
+29060,land-rover,Land Rover Range Rover,234999.0,192 886 km,automatic,1 999 cm3,Benzyna,Gdańsk,Pomorskie,2013
+29061,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C HSE Dynamic,69900.0,240 000 km,automatic,2 993 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2011
+29062,land-rover,Land Rover Range Rover Evoque 2.0Si4 Pure Tech,74500.0,240 000 km,automatic,2 993 cm3,Diesel,Toruń,Kujawsko-pomorskie,2011
+29063,land-rover,Land Rover Freelander,37900.0,108 000 km,automatic,2 179 cm3,Diesel,Warszawa,Mazowieckie,2011
+29064,land-rover,Land Rover Range Rover Sport S 3.0TD V6 S,59900.0,108 000 km,automatic,2 179 cm3,Diesel,Lublin,Lubelskie,2011
+29065,land-rover,Land Rover Range Rover 4.4SD V8 AB Black,149900.0,80 000 km,automatic,4 999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2014
+29066,land-rover,Land Rover Discovery IV 3.0 TD V6 E,64999.0,80 000 km,automatic,4 999 cm3,Benzyna,Kościerzyna-Wybudowanie,Pomorskie,2014
+29067,land-rover,Land Rover Range Rover Evoque 2.0Si4 Autobiography,84300.0,109 000 km,automatic,1 999 cm3,Benzyna,Przeworsk,Podkarpackie,2014
+29068,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE Dynamic,141900.0,109 000 km,automatic,1 999 cm3,Benzyna,Płock,Mazowieckie,2014
+29069,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,130000.0,194 000 km,automatic,2 993 cm3,Diesel,Rymanów,Podkarpackie,2015
+29070,land-rover,Land Rover Range Rover Evoque 2.0Si4 Dynamic,104000.0,194 000 km,automatic,2 993 cm3,Diesel,Toruń,Kujawsko-pomorskie,2015
+29071,land-rover,Land Rover Discovery,169000.0,162 000 km,automatic,1 999 cm3,Benzyna,Katowice,Śląskie,2015
+29072,land-rover,Land Rover Range Rover 3.0TD V6 HSE,249900.0,162 000 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2015
+29073,land-rover,Land Rover Range Rover Evoque,121900.0,112 955 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2017
+29074,land-rover,Land Rover Range Rover Velar,199850.0,112 955 km,automatic,1 999 cm3,Diesel,Wrocław,Dolnośląskie,2017
+29075,land-rover,Land Rover Range Rover Velar,224850.0,144 000 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2017
+29076,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,185000.0,144 000 km,automatic,2 993 cm3,Diesel,Szczecin,Zachodniopomorskie,2017
+29077,land-rover,Land Rover Range Rover Sport S 2.0 SD4 SE,189900.0,51 700 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2016
+29078,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF SE,266900.0,51 700 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2016
+29079,land-rover,Land Rover Range Rover,545000.0,110 092 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2017
+29080,land-rover,Land Rover Range Rover,229000.0,110 092 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29081,land-rover,Land Rover Discovery Sport,99800.0,134 506 km,automatic,2 995 cm3,Benzyna,Lipówki,Mazowieckie,2017
+29082,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,189800.0,134 506 km,automatic,2 995 cm3,Benzyna,Lipówki,Mazowieckie,2017
+29083,land-rover,Land Rover Discovery V 2.0 Si4 HSE,259000.0,85 800 km,automatic,1 997 cm3,Benzyna,Marki,Mazowieckie,2019
+29084,land-rover,Land Rover Discovery IV 3.0 SD V6 HSE,142000.0,85 800 km,automatic,1 997 cm3,Benzyna,Nysa,Opolskie,2019
+29085,land-rover,Land Rover Discovery Sport 2.0 D240 R-Dynamic SE,198700.0,135 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2017
+29086,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,337000.0,135 000 km,automatic,1 999 cm3,Diesel,Lublin,Lubelskie,2017
+29087,land-rover,Land Rover Discovery Sport 2.0 SD4 HSE Luxury,138300.0,73 500 km,automatic,1 998 cm3,Benzyna,Mielec,Podkarpackie,2019
+29088,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,86700.0,73 500 km,automatic,1 998 cm3,Benzyna,Szczekociny,Śląskie,2019
+29089,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,83800.0,36 500 km,automatic,5 000 cm3,Benzyna,Szczekociny,Śląskie,2019
+29090,land-rover,Land Rover Discovery,120900.0,36 500 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2019
+29091,land-rover,Land Rover Range Rover Velar,244524.0,48 266 km,automatic,3 000 cm3,Benzyna,Zielona Góra,Lubuskie,2016
+29092,land-rover,Land Rover Discovery,110000.0,48 266 km,automatic,3 000 cm3,Benzyna,Gałęzinowo,Pomorskie,2016
+29093,land-rover,Land Rover Range Rover Evoque 2.0Si4 HSE Dynamic,129000.0,110 210 km,automatic,1 999 cm3,Diesel,Piaseczno,Mazowieckie,2016
+29094,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,105000.0,110 210 km,automatic,1 999 cm3,Diesel,Bielsko-Biała,Śląskie,2016
+29095,land-rover,Land Rover Range Rover Evoque,98400.0,109 500 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2017
+29096,land-rover,Land Rover Range Rover 5.0 V8 S/C LWB AB,559000.0,109 500 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29097,land-rover,Land Rover Range Rover Evoque,187700.0,56 000 km,automatic,1 999 cm3,Benzyna,Węgrzce,Małopolskie,2019
+29098,land-rover,Land Rover Discovery Sport,112545.0,56 000 km,automatic,1 999 cm3,Benzyna,Skarbimierz Osiedle,Opolskie,2019
+29099,land-rover,Land Rover Discovery V 2.0 SD4 HSE,148000.0,98 241 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2015
+29100,land-rover,Land Rover Range Rover 4.4SD V8 AB EU6,305900.0,98 241 km,automatic,2 993 cm3,Diesel,Rzuchów,Śląskie,2015
+29101,land-rover,Land Rover Discovery Sport,90900.0,151 000 km,automatic,1 999 cm3,Benzyna,Sanok,Podkarpackie,2015
+29102,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,220000.0,151 000 km,automatic,1 999 cm3,Benzyna,Węgierska Górka,Śląskie,2015
+29103,land-rover,Land Rover Discovery,174500.0,82 000 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2017
+29104,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV,165000.0,82 000 km,automatic,1 999 cm3,Diesel,Jordanów,Małopolskie,2017
+29105,land-rover,Land Rover Range Rover Sport,102000.0,56 000 km,automatic,1 999 cm3,Diesel,Zielona Góra,Lubuskie,2018
+29106,land-rover,Land Rover Discovery,74800.0,56 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2018
+29107,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,85900.0,60 000 km,automatic,1 999 cm3,Diesel,Zaniemyśl,Wielkopolskie,2019
+29108,land-rover,Land Rover Range Rover Sport,385000.0,60 000 km,automatic,1 999 cm3,Diesel,Węgrzce,Małopolskie,2019
+29109,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,329900.0,80 000 km,automatic,3 000 cm3,Diesel,Warszawa,Mazowieckie,2015
+29110,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE Dynamic,94000.0,80 000 km,automatic,3 000 cm3,Diesel,Łódź,Łódzkie,2015
+29111,land-rover,Land Rover Range Rover Evoque,105900.0,124 056 km,automatic,4 999 cm3,Benzyna,Legnica,Dolnośląskie,2016
+29112,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,119000.0,124 056 km,automatic,4 999 cm3,Benzyna,Warszawa,Mazowieckie,2016
+29113,land-rover,Land Rover Discovery Sport,137850.0,104 008 km,automatic,1 999 cm3,Benzyna,Gdańsk,Pomorskie,2016
+29114,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,175000.0,104 008 km,automatic,1 999 cm3,Benzyna,Gdańsk,Pomorskie,2016
+29115,land-rover,Land Rover Range Rover Sport S 2.0Si4 GPF HSE,219900.0,125 000 km,automatic,4 999 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29116,land-rover,Land Rover Range Rover Velar 2.0 SD4 S,149500.0,125 000 km,automatic,4 999 cm3,Benzyna,Przygoń,Łódzkie,2018
+29117,land-rover,Land Rover Discovery V 2.0 SD4 Landmark Edition,179900.0,55 000 km,automatic,2 993 cm3,Diesel,Długołęka,Dolnośląskie,2018
+29118,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,105900.0,55 000 km,automatic,2 993 cm3,Diesel,Starogard Gdański,Pomorskie,2018
+29119,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic HSE,249000.0,118 000 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2015
+29120,land-rover,Land Rover Range Rover,116900.0,118 000 km,automatic,1 999 cm3,Diesel,Mroków,Mazowieckie,2015
+29121,land-rover,Land Rover Range Rover Sport,209900.0,136 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29122,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE,146900.0,136 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29123,land-rover,Land Rover Range Rover Evoque,144900.0,75 000 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2017
+29124,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE,149900.0,75 000 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2017
+29125,land-rover,Land Rover Range Rover Velar,217900.0,76 049 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2018
+29126,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE Luxury,92000.0,76 049 km,automatic,1 999 cm3,Diesel,Tarnów,Małopolskie,2018
+29127,land-rover,Land Rover Range Rover Sport,140000.0,73 700 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29128,land-rover,Land Rover Discovery IV 3.0 SD V6 HSE EU6,139900.0,73 700 km,automatic,1 997 cm3,Benzyna,Nakło nad Notecią,Kujawsko-pomorskie,2019
+29129,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C SVR,339000.0,83 244 km,automatic,1 997 cm3,Benzyna,Rzeszów,Podkarpackie,2018
+29130,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,99900.0,83 244 km,automatic,1 997 cm3,Benzyna,Lubartów,Lubelskie,2018
+29131,land-rover,Land Rover Range Rover Evoque,114900.0,76 000 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2017
+29132,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,162500.0,76 000 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29133,land-rover,Land Rover Discovery,169900.0,60 293 km,automatic,2 993 cm3,Benzyna,Słupca,Wielkopolskie,2017
+29134,land-rover,Land Rover Range Rover,299900.0,60 293 km,automatic,2 993 cm3,Benzyna,Słupca,Wielkopolskie,2017
+29135,land-rover,Land Rover Range Rover Sport S 2.0Si4 PHEV GPF HSE Dynamic,329900.0,131 000 km,automatic,4 367 cm3,Diesel,Tarnów,Małopolskie,2016
+29136,land-rover,Land Rover Discovery Sport 2.0 D150,55900.0,131 000 km,automatic,4 367 cm3,Diesel,Nowy Targ,Małopolskie,2016
+29137,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,133000.0,100 000 km,automatic,1 997 cm3,Hybryda,Będzin,Śląskie,2018
+29138,land-rover,Land Rover Discovery Sport,125000.0,100 000 km,automatic,1 997 cm3,Hybryda,Kraków,Małopolskie,2018
+29139,land-rover,Land Rover Discovery Sport 2.0 D150,85000.0,98 000 km,automatic,1 999 cm3,Diesel,Przykona,Wielkopolskie,2015
+29140,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic SE,197000.0,98 000 km,automatic,1 999 cm3,Diesel,Września,Wielkopolskie,2015
+29141,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic SE,149000.0,58 800 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2018
+29142,land-rover,Land Rover Discovery Sport,182000.0,58 800 km,automatic,1 999 cm3,Diesel,Węgrzce,Małopolskie,2018
+29143,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,128000.0,92 184 km,automatic,1 998 cm3,Benzyna,Węgrzce,Małopolskie,2017
+29144,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,79999.0,92 184 km,automatic,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2017
+29145,land-rover,Land Rover Range Rover,289000.0,174 000 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2016
+29146,land-rover,Land Rover Range Rover Evoque,179900.0,174 000 km,automatic,1 999 cm3,Diesel,Wągrowiec,Wielkopolskie,2016
+29147,land-rover,Land Rover Range Rover Evoque,123900.0,87 300 km,automatic,1 999 cm3,Diesel,Rudniki,Śląskie,2018
+29148,land-rover,Land Rover Range Rover Evoque 2.0TD4 Pure,42700.0,87 300 km,automatic,1 999 cm3,Diesel,Łękawica,Małopolskie,2018
+29149,land-rover,Land Rover Range Rover Sport,89000.0,9 907 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2019
+29150,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,153000.0,9 907 km,automatic,1 998 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2019
+29151,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,89900.0,51 000 km,automatic,1 997 cm3,Benzyna,Zduńska Wola,Łódzkie,2019
+29152,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic SE,175000.0,51 000 km,automatic,1 997 cm3,Benzyna,Bielsko-Biała,Śląskie,2019
+29153,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,99000.0,83 000 km,automatic,1 999 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2016
+29154,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic,199000.0,83 000 km,automatic,1 999 cm3,Benzyna,Słupca,Wielkopolskie,2016
+29155,land-rover,Land Rover Range Rover Velar 2.0 Si4,219900.0,102 000 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2017
+29156,land-rover,Land Rover Discovery V 2.0 SD4 HSE,179900.0,102 000 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2017
+29157,land-rover,Land Rover Discovery V 2.0 Si4 HSE,172900.0,58 197 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29158,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE Dynamic,169800.0,58 197 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29159,land-rover,Land Rover Range Rover 3.0 V6 S/C HSE,77000.0,47 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2019
+29160,land-rover,Land Rover Discovery Sport 2.0 TD4 Pure,134900.0,47 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+29161,land-rover,Land Rover Range Rover Velar,217900.0,91 498 km,automatic,1 999 cm3,Diesel,Jelonek,Wielkopolskie,2018
+29162,land-rover,Land Rover Discovery Sport 2.0 D150 SE,189800.0,91 498 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2018
+29163,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,118000.0,105 000 km,automatic,1 999 cm3,Diesel,Rawicz,Wielkopolskie,2016
+29164,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,289000.0,105 000 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2016
+29165,land-rover,Land Rover Range Rover,425000.0,98 885 km,automatic,4 367 cm3,Diesel,Baranowo,Wielkopolskie,2018
+29166,land-rover,Land Rover Range Rover Sport S 2.0Si4 PHEV HSE Dynamic,313650.0,98 885 km,automatic,4 367 cm3,Diesel,Opole,Opolskie,2018
+29167,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,125460.0,140 000 km,automatic,1 997 cm3,Hybryda,Poznań,Wielkopolskie,2019
+29168,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic S,205000.0,140 000 km,automatic,1 997 cm3,Hybryda,Katowice,Śląskie,2019
+29169,land-rover,Land Rover Discovery Sport 2.0 D150 SE,125000.0,230 000 km,automatic,2 993 cm3,Diesel,Gdańsk,Pomorskie,2015
+29170,land-rover,Land Rover Discovery IV 3.0 TD V6 SE EU6,149900.0,230 000 km,automatic,2 993 cm3,Diesel,Kościan,Wielkopolskie,2015
+29171,land-rover,Land Rover Range Rover Velar 2.0 SD4 SE,199000.0,60 890 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2018
+29172,land-rover,Land Rover Range Rover Velar 2.0 TD4 R-Dynamic HSE,184900.0,60 890 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29173,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic,105000.0,62 520 km,automatic,1 999 cm3,Diesel,Mieścisko,Wielkopolskie,2019
+29174,land-rover,Land Rover Discovery Sport 2.0 D180 R-Dynamic SE,164900.0,62 520 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2019
+29175,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,189000.0,89 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2016
+29176,land-rover,Land Rover Discovery,229900.0,89 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2016
+29177,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE Dynamic,259500.0,99 150 km,automatic,1 999 cm3,Diesel,Węgrzce,Małopolskie,2018
+29178,land-rover,Land Rover Range Rover Evoque 2.0Si4 Pure Tech,105000.0,99 150 km,automatic,1 999 cm3,Diesel,Sieniawa,Podkarpackie,2018
+29179,land-rover,Land Rover Range Rover,409700.0,94 500 km,automatic,1 999 cm3,Diesel,Czechy,Łódzkie,2018
+29180,land-rover,Land Rover Discovery V 2.0 SD4 HSE,149900.0,94 500 km,automatic,1 999 cm3,Diesel,Racibórz,Śląskie,2018
+29181,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,86900.0,53 800 km,automatic,2 993 cm3,Diesel,Nowy Sącz,Małopolskie,2019
+29182,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE Dynamic,199000.0,53 800 km,automatic,2 993 cm3,Diesel,Jelenia Góra,Dolnośląskie,2019
+29183,land-rover,Land Rover Discovery 2.0 SD4 HSE,149900.0,112 890 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+29184,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE,129900.0,112 890 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+29185,land-rover,Land Rover Discovery V 2.0 SD4 HSE,252900.0,119 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2015
+29186,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,209900.0,119 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2015
+29187,land-rover,Land Rover Range Rover Velar,186000.0,89 700 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2019
+29188,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,209000.0,89 700 km,automatic,1 999 cm3,Diesel,Radom,Mazowieckie,2019
+29189,land-rover,Land Rover Range Rover,325950.0,74 000 km,automatic,4 367 cm3,Diesel,Wieliczka,Małopolskie,2017
+29190,land-rover,Land Rover Discovery Sport,108000.0,74 000 km,automatic,4 367 cm3,Diesel,Poznań,Wielkopolskie,2017
+29191,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV,149000.0,68 000 km,automatic,1 999 cm3,Benzyna,Gdańsk,Pomorskie,2015
+29192,land-rover,Land Rover Range Rover Velar,209850.0,68 000 km,automatic,1 999 cm3,Benzyna,Mysłowice,Śląskie,2015
+29193,land-rover,Land Rover Range Rover Velar,209850.0,135 000 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2018
+29194,land-rover,Land Rover Discovery V 2.0 SD4 SE,155000.0,135 000 km,automatic,4 367 cm3,Diesel,Łódź,Łódzkie,2018
+29195,land-rover,Land Rover Range Rover 3.0TD V6 HSE,319000.0,210 472 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2017
+29196,land-rover,Land Rover Discovery Sport,108000.0,210 472 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29197,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF,156000.0,143 500 km,automatic,1 998 cm3,Benzyna,Kwilcz,Wielkopolskie,2018
+29198,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE Dynamic,114900.0,143 500 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2018
+29199,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,119900.0,135 500 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29200,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Plus,109900.0,135 500 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2016
+29201,land-rover,Land Rover Discovery,95500.0,109 000 km,automatic,1 999 cm3,Benzyna,Chmielów,Podkarpackie,2017
+29202,land-rover,Land Rover Range Rover Velar 3.0 SD6 First Edition,221400.0,109 000 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2017
+29203,land-rover,Land Rover Range Rover Velar 2.0 Si4 R-Dynamic SE,219800.0,109 997 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2016
+29204,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,163000.0,109 997 km,automatic,1 999 cm3,Diesel,Bardo,Dolnośląskie,2016
+29205,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,139000.0,59 385 km,automatic,1 999 cm3,Benzyna,Justynów,Łódzkie,2016
+29206,land-rover,Land Rover Range Rover Sport S 5.0 V8 S/C SVR Carbon Edition,499000.0,59 385 km,automatic,1 999 cm3,Benzyna,Kalisz,Wielkopolskie,2016
+29207,land-rover,Land Rover Discovery Sport,93000.0,92 500 km,automatic,2 993 cm3,Diesel,Piaseczno,Mazowieckie,2017
+29208,land-rover,Land Rover Range Rover Velar 2.0 TD4,199900.0,92 500 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2017
+29209,land-rover,Land Rover Range Rover Velar,220000.0,77 043 km,automatic,1 999 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2017
+29210,land-rover,Land Rover Discovery Sport 2.0 TD4 Pure,89900.0,77 043 km,automatic,1 999 cm3,Benzyna,Rokietnica,Wielkopolskie,2017
+29211,land-rover,Land Rover Range Rover 5.0 V8 S/C AB,569765.0,150 000 km,automatic,2 993 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+29212,land-rover,Land Rover Range Rover Evoque 2.0Si4 HSE Dynamic,129000.0,150 000 km,automatic,2 993 cm3,Diesel,Pierwoszyno,Pomorskie,2016
+29213,land-rover,Land Rover Range Rover 4.4SD V8 AB Black,259900.0,111 000 km,automatic,2 993 cm3,Diesel,Łódź,Łódzkie,2016
+29214,land-rover,Land Rover Range Rover Evoque,209000.0,111 000 km,automatic,2 993 cm3,Diesel,Pietrzykowice,Śląskie,2016
+29215,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE,129900.0,74 950 km,automatic,5 000 cm3,Benzyna,Sulejówek,Mazowieckie,2019
+29216,land-rover,Land Rover Range Rover Velar,229900.0,74 950 km,automatic,5 000 cm3,Benzyna,Łódź,Łódzkie,2019
+29217,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,247000.0,133 839 km,automatic,1 999 cm3,Diesel,Tarnobrzeg,Podkarpackie,2016
+29218,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic HSE,259900.0,133 839 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29219,land-rover,Land Rover Discovery IV 3.0 SD V6 HSE,147600.0,101 000 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2018
+29220,land-rover,Land Rover Range Rover 4.4SD V8 LWB AB,259900.0,101 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2018
+29221,land-rover,Land Rover Discovery Sport 2.0 D180 R-Dynamic,45500.0,95 400 km,automatic,2 993 cm3,Diesel,Baranowo,Wielkopolskie,2017
+29222,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,98000.0,95 400 km,automatic,2 993 cm3,Diesel,Rabka-Zdrój,Małopolskie,2017
+29223,land-rover,Land Rover Range Rover Sport S 2.0 SD4 HSE,214900.0,110 000 km,automatic,1 999 cm3,Diesel,Opole,Opolskie,2016
+29224,land-rover,Land Rover Range Rover Sport,120000.0,110 000 km,automatic,1 999 cm3,Diesel,Góra,Dolnośląskie,2016
+29225,land-rover,Land Rover Discovery V 2.0 SD4 SE,149600.0,83 000 km,automatic,5 000 cm3,Benzyna,Psary,Małopolskie,2019
+29226,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,122900.0,83 000 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29227,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic HSE,119900.0,67 000 km,automatic,1 997 cm3,Benzyna,Bilcza,Świętokrzyskie,2018
+29228,land-rover,Land Rover Range Rover Sport S 3.0 V6 S/C HSE Dynamic,168888.0,67 000 km,automatic,1 997 cm3,Benzyna,Guzów,Mazowieckie,2018
+29229,land-rover,Land Rover Range Rover Sport,229799.0,86 343 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29230,land-rover,Land Rover Range Rover Sport,410000.0,86 343 km,automatic,1 997 cm3,Benzyna,Zamość,Lubelskie,2018
+29231,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,89900.0,112 000 km,automatic,5 000 cm3,Benzyna,Gdańsk,Pomorskie,2019
+29232,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE Dynamic,168400.0,112 000 km,automatic,5 000 cm3,Benzyna,Siedlce,Mazowieckie,2019
+29233,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE Luxury,59000.0,177 000 km,automatic,1 999 cm3,Benzyna,Świdnica,Dolnośląskie,2016
+29234,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,88000.0,177 000 km,automatic,1 999 cm3,Benzyna,Kędrzyno,Zachodniopomorskie,2016
+29235,land-rover,Land Rover Discovery Sport 2.0 P250 mHEV HSE,95000.0,119 266 km,automatic,2 993 cm3,Diesel,Grodzisk Wielkopolski,Wielkopolskie,2017
+29236,land-rover,Land Rover Discovery V 3.0 Si6 HSE,125000.0,119 266 km,automatic,2 993 cm3,Diesel,Łódź,Łódzkie,2017
+29237,land-rover,Land Rover Discovery IV 3.0 TD V6 HSE,145000.0,137 000 km,automatic,1 999 cm3,Benzyna,Węgrzce,Małopolskie,2015
+29238,land-rover,Land Rover Range Rover Velar 2.0 Si4 R-Dynamic SE,139000.0,137 000 km,automatic,1 999 cm3,Benzyna,Łódź,Łódzkie,2015
+29239,land-rover,Land Rover Discovery V 3.0 Si6 HSE Luxury,87900.0,206 841 km,automatic,1 999 cm3,Diesel,Lubin,Dolnośląskie,2016
+29240,land-rover,Land Rover Range Rover Evoque,114000.0,206 841 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2016
+29241,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,79500.0,61 000 km,automatic,1 997 cm3,Benzyna,Gdynia,Pomorskie,2017
+29242,land-rover,Land Rover Range Rover Velar,292000.0,61 000 km,automatic,1 997 cm3,Benzyna,Mysłowice,Śląskie,2017
+29243,land-rover,Land Rover Discovery,169000.0,150 000 km,automatic,2 995 cm3,Benzyna+LPG,Łódź,Łódzkie,2016
+29244,land-rover,Land Rover Discovery Sport 2.0 D180 S,149900.0,150 000 km,automatic,2 995 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2016
+29245,land-rover,Land Rover Range Rover,569900.0,133 000 km,automatic,2 993 cm3,Diesel,Rumia,Pomorskie,2015
+29246,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV R-Dynamic SE,195000.0,133 000 km,automatic,2 993 cm3,Diesel,Straszyn,Pomorskie,2015
+29247,land-rover,Land Rover Range Rover Evoque,135000.0,72 146 km,automatic,1 999 cm3,Benzyna,Łódź,Łódzkie,2018
+29248,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,139000.0,72 146 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29249,land-rover,Land Rover Discovery,99700.0,203 000 km,automatic,2 995 cm3,Benzyna,Wyszków,Mazowieckie,2015
+29250,land-rover,Land Rover Discovery Sport 2.0 D180 R-Dynamic S,164850.0,203 000 km,automatic,2 995 cm3,Benzyna,Poznań,Wielkopolskie,2015
+29251,land-rover,Land Rover Discovery,161130.0,119 000 km,automatic,1 999 cm3,Diesel,Zabrze,Śląskie,2016
+29252,land-rover,Land Rover Range Rover Evoque,124900.0,119 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29253,land-rover,Land Rover Range Rover 4.4SD V8 LWB AB,320000.0,127 890 km,automatic,1 999 cm3,Diesel,Pabianice,Łódzkie,2016
+29254,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,239999.0,127 890 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2016
+29255,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,159000.0,95 000 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2019
+29256,land-rover,Land Rover Range Rover 4.4SD V8 Vogue,249900.0,95 000 km,automatic,2 996 cm3,Diesel,Kraków,Małopolskie,2019
+29257,land-rover,Land Rover Range Rover Sport S 2.0Si4 PHEV HSE Dynamic,315000.0,81 000 km,automatic,2 993 cm3,Diesel,Łódź,Łódzkie,2017
+29258,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,135900.0,81 000 km,automatic,2 993 cm3,Diesel,Bytom,Śląskie,2017
+29259,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,165900.0,59 500 km,automatic,1 999 cm3,Diesel,Jawornik,Małopolskie,2019
+29260,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic S,199899.0,59 500 km,automatic,1 999 cm3,Diesel,Tarnowskie Góry,Śląskie,2019
+29261,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE,209000.0,113 000 km,automatic,2 993 cm3,Diesel,Daleszyce,Świętokrzyskie,2017
+29262,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic SE,242600.0,113 000 km,automatic,2 993 cm3,Diesel,Karpacz,Dolnośląskie,2017
+29263,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic Special Edition,98000.0,54 000 km,automatic,1 998 cm3,Benzyna,Kolno,Podlaskie,2019
+29264,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF SE,219899.0,54 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29265,land-rover,Land Rover Discovery,139000.0,192 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29266,land-rover,Land Rover Discovery Sport,74800.0,192 000 km,automatic,1 999 cm3,Diesel,Lubzina,Podkarpackie,2017
+29267,land-rover,Land Rover Range Rover Velar 3.0 Si6 SE,226000.0,126 347 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2018
+29268,land-rover,Land Rover Discovery V 2.0 TD4 S,149900.0,126 347 km,automatic,1 998 cm3,Benzyna,Przodkowo,Pomorskie,2018
+29269,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,110000.0,65 000 km,automatic,1 999 cm3,Benzyna,Gdańsk,Pomorskie,2016
+29270,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE,185000.0,65 000 km,automatic,1 999 cm3,Benzyna,Lubicz Dolny,Kujawsko-pomorskie,2016
+29271,land-rover,Land Rover Range Rover 4.4SD V8 LWB Vogue,199900.0,207 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2015
+29272,land-rover,Land Rover Discovery V 2.0 SD4 HSE,220000.0,207 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2015
+29273,land-rover,Land Rover Range Rover 4.4SD V8 LWB Vogue EU6,385900.0,87 100 km,automatic,2 995 cm3,Benzyna,Łódź,Łódzkie,2018
+29274,land-rover,Land Rover Range Rover Sport S 2.0Si4 HSE,236900.0,87 100 km,automatic,2 995 cm3,Benzyna,Łódź,Łódzkie,2018
+29275,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic S,269000.0,95 033 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2017
+29276,land-rover,Land Rover Discovery Sport,122877.0,95 033 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2017
+29277,land-rover,Land Rover Discovery,187000.0,111 000 km,automatic,1 999 cm3,Diesel,Wrocław,Dolnośląskie,2016
+29278,land-rover,Land Rover Range Rover Sport S 3.0 V6 S/C HSE,209000.0,111 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29279,land-rover,Land Rover Range Rover 4.4SD V8 Vogue EU6,235000.0,219 851 km,automatic,4 367 cm3,Diesel,Długołęka,Dolnośląskie,2016
+29280,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,94900.0,219 851 km,automatic,4 367 cm3,Diesel,Gubin,Lubuskie,2016
+29281,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic Special Edition,125900.0,185 000 km,automatic,4 367 cm3,Diesel,Gubin,Lubuskie,2015
+29282,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,104999.0,185 000 km,automatic,4 367 cm3,Diesel,Warszawa,Mazowieckie,2015
+29283,land-rover,Land Rover Range Rover 3.0TD V6 Vogue EU6,348998.0,77 500 km,automatic,1 999 cm3,Diesel,Gliwice,Śląskie,2019
+29284,land-rover,Land Rover Range Rover Evoque 2.0Si4 Prestige,99000.0,77 500 km,automatic,1 999 cm3,Diesel,Łańcut,Podkarpackie,2019
+29285,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV First Edition,199000.0,112 000 km,automatic,4 367 cm3,Diesel,Gdańsk,Pomorskie,2018
+29286,land-rover,Land Rover Discovery V 2.0 SD4 HSE,219850.0,112 000 km,automatic,4 367 cm3,Diesel,Mysłowice,Śląskie,2018
+29287,land-rover,Land Rover Discovery V 3.0 SDV6 Landmark Edition,209000.0,92 000 km,automatic,1 997 cm3,Benzyna,Wągrowiec,Wielkopolskie,2018
+29288,land-rover,Land Rover Range Rover 5.0 V8 S/C Fifty Anniversary Edition,599990.0,92 000 km,automatic,1 997 cm3,Benzyna,Starachowice,Świętokrzyskie,2018
+29289,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE,184888.0,81 000 km,automatic,2 993 cm3,Diesel,Wilkowice,Wielkopolskie,2017
+29290,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic,187000.0,81 000 km,automatic,2 993 cm3,Diesel,Katowice,Śląskie,2017
+29291,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,130000.0,78 319 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2017
+29292,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,89790.0,78 319 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29293,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Plus,118000.0,108 000 km,automatic,1 999 cm3,Diesel,Zakrzewo,Kujawsko-pomorskie,2016
+29294,land-rover,Land Rover Discovery V 2.0 SD4 HSE,135500.0,108 000 km,automatic,1 999 cm3,Diesel,Szpetal Górny,Kujawsko-pomorskie,2016
+29295,land-rover,Land Rover Range Rover Velar,193000.0,145 000 km,automatic,1 999 cm3,Diesel,Chorzów,Śląskie,2017
+29296,land-rover,Land Rover Discovery V 2.0 SD4 Landmark Edition,194000.0,145 000 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2017
+29297,land-rover,Land Rover Discovery IV 3.0 V6 SC HSE,79900.0,83 000 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2017
+29298,land-rover,Land Rover Range Rover Evoque 2.0Si4 HSE,92500.0,83 000 km,automatic,1 999 cm3,Diesel,Lublin,Lubelskie,2017
+29299,land-rover,Land Rover Discovery V 3.0 SDV6 Landmark Edition,229999.0,68 000 km,automatic,1 999 cm3,Diesel,Kościerzyna,Pomorskie,2019
+29300,land-rover,Land Rover Range Rover Sport S 3.0 I6 SE,140000.0,68 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+29301,land-rover,Land Rover Discovery Sport,73000.0,190 000 km,automatic,2 995 cm3,Benzyna,Mława,Mazowieckie,2016
+29302,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic S,219999.0,190 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2016
+29303,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,94800.0,115 500 km,automatic,1 999 cm3,Benzyna,Bielsko-Biała,Śląskie,2016
+29304,land-rover,Land Rover Range Rover 3.0 SD V6 Vogue,374999.0,115 500 km,automatic,1 999 cm3,Benzyna,Jelenia Góra,Dolnośląskie,2016
+29305,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE Dynamic,180000.0,59 680 km,automatic,2 993 cm3,Diesel,Dębica,Podkarpackie,2019
+29306,land-rover,Land Rover Range Rover Velar,285000.0,59 680 km,automatic,2 993 cm3,Diesel,Łodygowice,Śląskie,2019
+29307,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,155000.0,51 159 km,automatic,2 996 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29308,land-rover,Land Rover Discovery 2.0 Si4 S,19700.0,51 159 km,automatic,2 996 cm3,Benzyna,Łąg,Pomorskie,2018
+29309,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic SE,171000.0,234 000 km,automatic,2 179 cm3,Diesel,Swarzędz,Wielkopolskie,2016
+29310,land-rover,Land Rover Discovery Sport,124000.0,234 000 km,automatic,2 179 cm3,Diesel,Bielsko-Biała,Śląskie,2016
+29311,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,214020.0,67 000 km,automatic,1 999 cm3,Diesel,Leszno,Wielkopolskie,2018
+29312,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,128900.0,67 000 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2018
+29313,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE Luxury,71700.0,105 000 km,automatic,1 999 cm3,Diesel,Łękawica,Małopolskie,2016
+29314,land-rover,Land Rover Discovery V 2.0 SD4 HSE,172200.0,105 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29315,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,125000.0,130 000 km,automatic,2 993 cm3,Diesel,Nowy Targ,Małopolskie,2019
+29316,land-rover,Land Rover Discovery Sport,94000.0,130 000 km,automatic,2 993 cm3,Diesel,Starogard Gdański,Pomorskie,2019
+29317,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic SE,209999.0,46 000 km,automatic,1 997 cm3,Benzyna,Lesznowola,Mazowieckie,2018
+29318,land-rover,Land Rover Range Rover Velar 3.0 SD6 R-Dynamic,139800.0,46 000 km,automatic,1 997 cm3,Benzyna,Margonin,Wielkopolskie,2018
+29319,land-rover,Land Rover Range Rover Velar 2.0 SD4,172000.0,83 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2018
+29320,land-rover,Land Rover Range Rover Evoque 2.0TD4 Pure,119000.0,83 000 km,automatic,2 993 cm3,Diesel,Gorlice,Małopolskie,2018
+29321,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE Luxury,112600.0,195 000 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2017
+29322,land-rover,Land Rover Range Rover Evoque 2.0Si4 Prestige,106999.0,195 000 km,automatic,2 993 cm3,Diesel,Kielce,Świętokrzyskie,2017
+29323,land-rover,Land Rover Range Rover 4.4SD V8 AB,219000.0,32 321 km,automatic,1 999 cm3,Benzyna,Wołomin,Mazowieckie,2019
+29324,land-rover,Land Rover Discovery IV 3.0 SD V6 HSE EU6,146370.0,32 321 km,automatic,1 999 cm3,Benzyna,Warszawa,Mazowieckie,2019
+29325,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,115990.0,57 920 km,automatic,1 999 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2015
+29326,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,209999.0,57 920 km,automatic,1 999 cm3,Benzyna,Zielona Góra,Lubuskie,2015
+29327,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,135900.0,155 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2016
+29328,land-rover,Land Rover Range Rover,299000.0,155 000 km,automatic,2 993 cm3,Diesel,Płock,Mazowieckie,2016
+29329,land-rover,Land Rover Discovery Sport,79000.0,149 880 km,automatic,2 993 cm3,Diesel,Brzezinka,Małopolskie,2015
+29330,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,85000.0,149 880 km,automatic,2 993 cm3,Diesel,Drzewica,Łódzkie,2015
+29331,land-rover,Land Rover Discovery V 2.0 SD4 HSE,190000.0,101 000 km,automatic,4 367 cm3,Diesel,Nadarzyn,Mazowieckie,2016
+29332,land-rover,Land Rover Range Rover Evoque,79900.0,101 000 km,automatic,4 367 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29333,land-rover,Land Rover Range Rover Velar,205000.0,169 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29334,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,91900.0,169 000 km,automatic,1 999 cm3,Diesel,Gorzkowice,Łódzkie,2016
+29335,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,89900.0,172 843 km,automatic,1 999 cm3,Benzyna,Limanowa,Małopolskie,2016
+29336,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic SE,85900.0,172 843 km,automatic,1 999 cm3,Benzyna,Krosno,Podkarpackie,2016
+29337,land-rover,Land Rover Range Rover Evoque,145900.0,67 000 km,automatic,1 999 cm3,Diesel,Rzeszów,Podkarpackie,2018
+29338,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV SE,95000.0,67 000 km,automatic,1 999 cm3,Diesel,Słubice,Lubuskie,2018
+29339,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,84900.0,54 326 km,automatic,1 999 cm3,Diesel,Radzymin,Mazowieckie,2017
+29340,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,99000.0,54 326 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29341,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic,96800.0,34 650 km,automatic,1 999 cm3,Diesel,Żyrardów,Mazowieckie,2018
+29342,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,133000.0,34 650 km,automatic,1 999 cm3,Diesel,Mielec,Podkarpackie,2018
+29343,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE Dynamic,179999.0,54 200 km,automatic,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29344,land-rover,Land Rover Range Rover 5.0 V8 S/C AB,574900.0,54 200 km,automatic,1 999 cm3,Diesel,Pruszków,Mazowieckie,2016
+29345,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,83000.0,132 000 km,automatic,1 999 cm3,Diesel,Wieluń,Łódzkie,2016
+29346,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,49990.0,132 000 km,automatic,1 999 cm3,Diesel,Stalowa Wola,Podkarpackie,2016
+29347,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,52800.0,57 600 km,automatic,1 999 cm3,Diesel,Milówka,Śląskie,2019
+29348,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,89175.0,57 600 km,automatic,1 999 cm3,Diesel,Rabka-Zdrój,Małopolskie,2019
+29349,land-rover,Land Rover Discovery V 3.0 TD6 HSE,161157.0,5 000 km,automatic,2 000 cm3,Diesel,Komorniki,Dolnośląskie,2019
+29350,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 SE,169500.0,5 000 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2019
+29351,land-rover,Land Rover Range Rover Velar 5.0 V8 S/C SV AB Dynamic,250000.0,76 520 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2017
+29352,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic HSE,219900.0,76 520 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29353,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,115990.0,57 920 km,automatic,1 999 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2015
+29354,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,209999.0,57 920 km,automatic,1 999 cm3,Benzyna,Zielona Góra,Lubuskie,2015
+29355,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,135900.0,155 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2016
+29356,land-rover,Land Rover Range Rover,299000.0,155 000 km,automatic,2 993 cm3,Diesel,Płock,Mazowieckie,2016
+29357,land-rover,Land Rover Discovery Sport,79000.0,149 880 km,automatic,2 993 cm3,Diesel,Brzezinka,Małopolskie,2015
+29358,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,85000.0,149 880 km,automatic,2 993 cm3,Diesel,Drzewica,Łódzkie,2015
+29359,land-rover,Land Rover Discovery V 2.0 SD4 HSE,190000.0,101 000 km,automatic,4 367 cm3,Diesel,Nadarzyn,Mazowieckie,2016
+29360,land-rover,Land Rover Range Rover Evoque,79900.0,101 000 km,automatic,4 367 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29361,land-rover,Land Rover Range Rover Velar,205000.0,169 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29362,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,91900.0,169 000 km,automatic,1 999 cm3,Diesel,Gorzkowice,Łódzkie,2016
+29363,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,89900.0,172 843 km,automatic,1 999 cm3,Benzyna,Limanowa,Małopolskie,2016
+29364,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic SE,85900.0,172 843 km,automatic,1 999 cm3,Benzyna,Krosno,Podkarpackie,2016
+29365,land-rover,Land Rover Range Rover Evoque,145900.0,67 000 km,automatic,1 999 cm3,Diesel,Rzeszów,Podkarpackie,2018
+29366,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV SE,95000.0,67 000 km,automatic,1 999 cm3,Diesel,Słubice,Lubuskie,2018
+29367,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,84900.0,54 326 km,automatic,1 999 cm3,Diesel,Radzymin,Mazowieckie,2017
+29368,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,99000.0,54 326 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29369,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic,96800.0,34 650 km,automatic,1 999 cm3,Diesel,Żyrardów,Mazowieckie,2018
+29370,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,133000.0,34 650 km,automatic,1 999 cm3,Diesel,Mielec,Podkarpackie,2018
+29371,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE Dynamic,179999.0,54 200 km,automatic,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29372,land-rover,Land Rover Range Rover 5.0 V8 S/C AB,574900.0,54 200 km,automatic,1 999 cm3,Diesel,Pruszków,Mazowieckie,2016
+29373,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,83000.0,132 000 km,automatic,1 999 cm3,Diesel,Wieluń,Łódzkie,2016
+29374,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,49990.0,132 000 km,automatic,1 999 cm3,Diesel,Stalowa Wola,Podkarpackie,2016
+29375,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,52800.0,57 600 km,automatic,1 999 cm3,Diesel,Milówka,Śląskie,2019
+29376,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,89175.0,57 600 km,automatic,1 999 cm3,Diesel,Rabka-Zdrój,Małopolskie,2019
+29377,land-rover,Land Rover Discovery V 3.0 TD6 HSE,161157.0,5 000 km,automatic,2 000 cm3,Diesel,Komorniki,Dolnośląskie,2019
+29378,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 SE,169500.0,5 000 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2019
+29379,land-rover,Land Rover Range Rover Velar 5.0 V8 S/C SV AB Dynamic,250000.0,76 520 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2017
+29380,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic HSE,219900.0,76 520 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29381,land-rover,Land Rover Discovery V 2.0 SD4 HSE,189900.0,98 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29382,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE,149900.0,98 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29383,land-rover,Land Rover Discovery,154900.0,35 000 km,automatic,1 997 cm3,Benzyna,Murowana Goślina,Wielkopolskie,2018
+29384,land-rover,Land Rover Range Rover Velar,189900.0,35 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2018
+29385,land-rover,Land Rover Range Rover Sport,249900.0,179 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2017
+29386,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV S,152300.0,179 000 km,automatic,2 993 cm3,Diesel,Kalisz,Wielkopolskie,2017
+29387,land-rover,Land Rover Discovery V 3.0 TD6 HSE Luxury,195888.0,68 500 km,automatic,1 999 cm3,Diesel,Wilkowice,Wielkopolskie,2018
+29388,land-rover,Land Rover Range Rover Sport S 2.0Si4 PHEV GPF HSE Dynamic,299000.0,68 500 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2018
+29389,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic SE,130900.0,159 000 km,automatic,4 999 cm3,Benzyna,Tychy,Śląskie,2016
+29390,land-rover,Land Rover Range Rover Evoque 2.0Si4 SE,136999.0,159 000 km,automatic,4 999 cm3,Benzyna,Lesznowola,Mazowieckie,2016
+29391,land-rover,Land Rover Range Rover Velar 2.0 Si4 R-Dynamic HSE,199900.0,89 690 km,automatic,1 998 cm3,Benzyna,Kłodzko,Dolnośląskie,2019
+29392,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic SE,215000.0,89 690 km,automatic,1 998 cm3,Benzyna,Dopiewo,Wielkopolskie,2019
+29393,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,109000.0,121 000 km,automatic,2 993 cm3,Diesel,Suwałki,Podlaskie,2017
+29394,land-rover,Land Rover Range Rover Velar 2.0 Si4 R-Dynamic SE,199900.0,121 000 km,automatic,2 993 cm3,Diesel,Szczecin,Zachodniopomorskie,2017
+29395,land-rover,Land Rover Discovery Sport,130001.0,106 650 km,automatic,1 997 cm3,Hybryda,Piaseczno,Mazowieckie,2018
+29396,land-rover,Land Rover Range Rover Sport,160000.0,106 650 km,automatic,1 997 cm3,Hybryda,Gliwice,Śląskie,2018
+29397,land-rover,Land Rover Range Rover Sport,184500.0,133 000 km,automatic,1 999 cm3,Diesel,Siedlce,Mazowieckie,2018
+29398,land-rover,Land Rover Range Rover 5.0 V8 S/C LWB AB,399500.0,133 000 km,automatic,1 999 cm3,Diesel,Brzesko,Małopolskie,2018
+29399,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,115990.0,57 920 km,automatic,1 999 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2015
+29400,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,209999.0,57 920 km,automatic,1 999 cm3,Benzyna,Zielona Góra,Lubuskie,2015
+29401,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,135900.0,155 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2016
+29402,land-rover,Land Rover Range Rover,299000.0,155 000 km,automatic,2 993 cm3,Diesel,Płock,Mazowieckie,2016
+29403,land-rover,Land Rover Discovery Sport,79000.0,149 880 km,automatic,2 993 cm3,Diesel,Brzezinka,Małopolskie,2015
+29404,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,85000.0,149 880 km,automatic,2 993 cm3,Diesel,Drzewica,Łódzkie,2015
+29405,land-rover,Land Rover Discovery V 2.0 SD4 HSE,190000.0,101 000 km,automatic,4 367 cm3,Diesel,Nadarzyn,Mazowieckie,2016
+29406,land-rover,Land Rover Range Rover Evoque,79900.0,101 000 km,automatic,4 367 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29407,land-rover,Land Rover Range Rover Velar,205000.0,169 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29408,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,91900.0,169 000 km,automatic,1 999 cm3,Diesel,Gorzkowice,Łódzkie,2016
+29409,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,89900.0,172 843 km,automatic,1 999 cm3,Benzyna,Limanowa,Małopolskie,2016
+29410,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic SE,85900.0,172 843 km,automatic,1 999 cm3,Benzyna,Krosno,Podkarpackie,2016
+29411,land-rover,Land Rover Range Rover Evoque,145900.0,67 000 km,automatic,1 999 cm3,Diesel,Rzeszów,Podkarpackie,2018
+29412,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV SE,95000.0,67 000 km,automatic,1 999 cm3,Diesel,Słubice,Lubuskie,2018
+29413,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,84900.0,54 326 km,automatic,1 999 cm3,Diesel,Radzymin,Mazowieckie,2017
+29414,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,99000.0,54 326 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29415,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic,96800.0,34 650 km,automatic,1 999 cm3,Diesel,Żyrardów,Mazowieckie,2018
+29416,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,133000.0,34 650 km,automatic,1 999 cm3,Diesel,Mielec,Podkarpackie,2018
+29417,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE Dynamic,179999.0,54 200 km,automatic,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29418,land-rover,Land Rover Range Rover 5.0 V8 S/C AB,574900.0,54 200 km,automatic,1 999 cm3,Diesel,Pruszków,Mazowieckie,2016
+29419,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,83000.0,132 000 km,automatic,1 999 cm3,Diesel,Wieluń,Łódzkie,2016
+29420,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,49990.0,132 000 km,automatic,1 999 cm3,Diesel,Stalowa Wola,Podkarpackie,2016
+29421,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,52800.0,57 600 km,automatic,1 999 cm3,Diesel,Milówka,Śląskie,2019
+29422,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,89175.0,57 600 km,automatic,1 999 cm3,Diesel,Rabka-Zdrój,Małopolskie,2019
+29423,land-rover,Land Rover Discovery V 3.0 TD6 HSE,161157.0,5 000 km,automatic,2 000 cm3,Diesel,Komorniki,Dolnośląskie,2019
+29424,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 SE,169500.0,5 000 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2019
+29425,land-rover,Land Rover Range Rover Velar 5.0 V8 S/C SV AB Dynamic,250000.0,76 520 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2017
+29426,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic HSE,219900.0,76 520 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29427,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,115990.0,57 920 km,automatic,1 999 cm3,Benzyna,Konstancin-Jeziorna,Mazowieckie,2015
+29428,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,209999.0,57 920 km,automatic,1 999 cm3,Benzyna,Zielona Góra,Lubuskie,2015
+29429,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 HSE,135900.0,155 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2016
+29430,land-rover,Land Rover Range Rover,299000.0,155 000 km,automatic,2 993 cm3,Diesel,Płock,Mazowieckie,2016
+29431,land-rover,Land Rover Discovery Sport,79000.0,149 880 km,automatic,2 993 cm3,Diesel,Brzezinka,Małopolskie,2015
+29432,land-rover,Land Rover Discovery Sport 2.0 Si4 SE,85000.0,149 880 km,automatic,2 993 cm3,Diesel,Drzewica,Łódzkie,2015
+29433,land-rover,Land Rover Discovery V 2.0 SD4 HSE,190000.0,101 000 km,automatic,4 367 cm3,Diesel,Nadarzyn,Mazowieckie,2016
+29434,land-rover,Land Rover Range Rover Evoque,79900.0,101 000 km,automatic,4 367 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29435,land-rover,Land Rover Range Rover Velar,205000.0,169 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+29436,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,91900.0,169 000 km,automatic,1 999 cm3,Diesel,Gorzkowice,Łódzkie,2016
+29437,land-rover,Land Rover Range Rover Evoque 2.0TD4 HSE,89900.0,172 843 km,automatic,1 999 cm3,Benzyna,Limanowa,Małopolskie,2016
+29438,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic SE,85900.0,172 843 km,automatic,1 999 cm3,Benzyna,Krosno,Podkarpackie,2016
+29439,land-rover,Land Rover Range Rover Evoque,145900.0,67 000 km,automatic,1 999 cm3,Diesel,Rzeszów,Podkarpackie,2018
+29440,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV SE,95000.0,67 000 km,automatic,1 999 cm3,Diesel,Słubice,Lubuskie,2018
+29441,land-rover,Land Rover Discovery Sport 2.0 Si4 HSE,84900.0,54 326 km,automatic,1 999 cm3,Diesel,Radzymin,Mazowieckie,2017
+29442,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,99000.0,54 326 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2017
+29443,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic,96800.0,34 650 km,automatic,1 999 cm3,Diesel,Żyrardów,Mazowieckie,2018
+29444,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,133000.0,34 650 km,automatic,1 999 cm3,Diesel,Mielec,Podkarpackie,2018
+29445,land-rover,Land Rover Range Rover Sport S 4.4 SD V8 HSE Dynamic,179999.0,54 200 km,automatic,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+29446,land-rover,Land Rover Range Rover 5.0 V8 S/C AB,574900.0,54 200 km,automatic,1 999 cm3,Diesel,Pruszków,Mazowieckie,2016
+29447,land-rover,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,83000.0,132 000 km,automatic,1 999 cm3,Diesel,Wieluń,Łódzkie,2016
+29448,land-rover,Land Rover Discovery Sport 2.0 TD4 HSE,49990.0,132 000 km,automatic,1 999 cm3,Diesel,Stalowa Wola,Podkarpackie,2016
+29449,land-rover,Land Rover Range Rover Evoque 2.0TD4 SE Dynamic,52800.0,57 600 km,automatic,1 999 cm3,Diesel,Milówka,Śląskie,2019
+29450,land-rover,Land Rover Discovery Sport 2.0 TD4 SE,89175.0,57 600 km,automatic,1 999 cm3,Diesel,Rabka-Zdrój,Małopolskie,2019
+29451,land-rover,Land Rover Discovery V 3.0 TD6 HSE,161157.0,5 000 km,automatic,2 000 cm3,Diesel,Komorniki,Dolnośląskie,2019
+29452,land-rover,Land Rover Range Rover Sport S 3.0 TD V6 SE,169500.0,5 000 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2019
+29453,land-rover,Land Rover Range Rover Velar 5.0 V8 S/C SV AB Dynamic,250000.0,76 520 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2017
+29454,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF R-Dynamic HSE,219900.0,76 520 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+29455,land-rover,Land Rover Defender 90 3.0 D250 mHEV X-Dynamic S,337500.0,72 500 km,automatic,2 996 cm3,Diesel,Kraków,Małopolskie,2021
+29456,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic S,285000.0,72 500 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2021
+29457,land-rover,Land Rover Defender,435000.0,1 300 km,automatic,1 998 cm3,Benzyna,Tychy,Śląskie,2022
+29458,land-rover,Land Rover Discovery Sport 2.0 P290 mHEV R-Dynamic S,109000.0,1 300 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2022
+29459,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV SE,299900.0,46 000 km,automatic,2 996 cm3,Diesel,Pruszków,Mazowieckie,2021
+29460,land-rover,Land Rover Range Rover Evoque,185000.0,46 000 km,automatic,2 996 cm3,Diesel,Murowana Goślina,Wielkopolskie,2021
+29461,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic S,319900.0,22 319 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+29462,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic S,229900.0,22 319 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2021
+29463,land-rover,Land Rover Defender 110 3.0 P400 mHEV SE,440169.0,31 000 km,automatic,1 997 cm3,Diesel,Krosno,Podkarpackie,2021
+29464,land-rover,Land Rover Range Rover Velar 2.0 D300 mHEV R-Dynamic SE,467062.0,31 000 km,automatic,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2021
+29465,land-rover,Land Rover Range Rover 3.0 P400 mHEV Autobiography,908220.0,47 500 km,automatic,1 999 cm3,Diesel,Marki,Mazowieckie,2020
+29466,land-rover,Land Rover Defender 130 3.0 D250 mHEV X-Dynamic HSE,439900.0,47 500 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2020
+29467,land-rover,Land Rover Defender 130 3.0 D300 mHEV SE,495680.0,11 000 km,automatic,1 997 cm3,Diesel,Kraków,Małopolskie,2022
+29468,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic SE,365500.0,11 000 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29469,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic SE,365500.0,101 684 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2021
+29470,land-rover,Land Rover Discovery,505530.0,101 684 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2021
+29471,land-rover,Land Rover Range Rover Velar 2.0 P250 SE,319900.0,10 035 km,automatic,2 996 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+29472,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV SE,422740.0,10 035 km,automatic,2 996 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+29473,land-rover,Land Rover Range Rover Velar 2.0 P250,279576.0,8 950 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29474,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic HSE,229992.0,8 950 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29475,land-rover,Land Rover Defender 3.0 D200 mHEV X-Dynamic SE,299900.0,10 km,automatic,2 996 cm3,Benzyna,Białystok,Podlaskie,2023
+29476,land-rover,Land Rover Range Rover Evoque 2.0 P249 mHEV R-Dynamic,84500.0,10 km,automatic,2 996 cm3,Benzyna,Łomianki,Mazowieckie,2023
+29477,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,239900.0,11 640 km,automatic,2 997 cm3,Diesel,Marki,Mazowieckie,2021
+29478,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,261850.0,11 640 km,automatic,2 997 cm3,Diesel,Długołęka,Dolnośląskie,2021
+29479,land-rover,Land Rover Discovery Sport 2.0 D165 mHEV Urban Edition,239800.0,20 km,automatic,2 997 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29480,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic S,292000.0,20 km,automatic,2 997 cm3,Diesel,Marki,Mazowieckie,2023
+29481,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic SE,295000.0,5 km,automatic,1 997 cm3,Diesel,Marki,Mazowieckie,2023
+29482,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic S,285000.0,5 km,automatic,1 997 cm3,Diesel,Marki,Mazowieckie,2023
+29483,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV Bronze Collection,259850.0,5 km,automatic,1 997 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29484,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic HSE,279999.0,5 km,automatic,1 997 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29485,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV S,229850.0,5 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29486,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,279800.0,5 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29487,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV,189900.0,6 000 km,automatic,1 999 cm3,Diesel,Jerzmanowice,Małopolskie,2021
+29488,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic HSE,326010.0,6 000 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2021
+29489,land-rover,Land Rover Range Rover Sport S 3.0 P510e PHEV Autobiography,742000.0,10 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2022
+29490,land-rover,Land Rover Range Rover 3.0 D HSE,850000.0,10 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2022
+29491,land-rover,Land Rover Discovery V 2.0 SD4 HSE,250000.0,2 700 km,automatic,2 996 cm3,Hybryda,Wrocław,Dolnośląskie,2023
+29492,land-rover,Land Rover Range Rover Velar 2.0 P250 S,298900.0,2 700 km,automatic,2 996 cm3,Hybryda,Marki,Mazowieckie,2023
+29493,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV Bronze Collection,259900.0,1 km,automatic,2 997 cm3,Diesel,Jerzmanowice,Małopolskie,2023
+29494,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV Bronze Collection,249900.0,1 km,automatic,2 997 cm3,Diesel,Jerzmanowice,Małopolskie,2023
+29495,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV Bronze Collection,237900.0,122 617 km,automatic,1 999 cm3,Diesel,Jerzmanowice,Małopolskie,2020
+29496,land-rover,Land Rover Defender 110 3.0 D300 mHEV X,560000.0,122 617 km,automatic,1 999 cm3,Diesel,Wadowice,Małopolskie,2020
+29497,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,265530.0,100 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29498,land-rover,Land Rover Range Rover Velar 2.0 P250 SE,213000.0,100 km,automatic,1 997 cm3,Benzyna,Zgierz,Łódzkie,2022
+29499,land-rover,Land Rover Defender,795210.0,1 000 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+29500,land-rover,Land Rover Range Rover Velar,435820.0,1 000 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+29501,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV Autobiography,135000.0,1 000 km,automatic,1 998 cm3,Benzyna,Raszyn,Mazowieckie,2023
+29502,land-rover,Land Rover Defender 90 3.0 P400 mHEV,399900.0,1 000 km,automatic,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2023
+29503,land-rover,Land Rover Discovery V 3.0 SDV6 HSE,275000.0,2 000 km,automatic,1 997 cm3,Diesel,Zawiercie,Śląskie,2022
+29504,land-rover,Land Rover Range Rover Sport S 3.0 I6 HST,540000.0,2 000 km,automatic,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29505,land-rover,Land Rover Defender 110 2.0 D240 HSE,340000.0,34 000 km,automatic,2 996 cm3,Diesel,Zielona Góra,Lubuskie,2022
+29506,land-rover,Land Rover Defender 130 3.0 D300 mHEV X-Dynamic SE,489900.0,34 000 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29507,land-rover,Land Rover Range Rover Evoque,274990.0,5 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2022
+29508,land-rover,Land Rover Range Rover Evoque,297300.0,5 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2022
+29509,land-rover,Land Rover Defender 110 3.0 P400 mHEV 75th Limited Edition,565000.0,42 000 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+29510,land-rover,Land Rover Discovery Sport,200252.0,42 000 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2020
+29511,land-rover,Land Rover Discovery Sport,216538.0,5 km,automatic,4 999 cm3,Benzyna,Baranowo,Wielkopolskie,2023
+29512,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV SE,199900.0,5 km,automatic,4 999 cm3,Benzyna,Mysłowice,Śląskie,2023
+29513,land-rover,Land Rover Range Rover Velar,354142.0,5 km,automatic,2 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29514,land-rover,Land Rover Discovery,99000.0,5 km,automatic,2 000 cm3,Diesel,Chodzież,Wielkopolskie,2022
+29515,land-rover,Land Rover Defender 130 3.0 P400 mHEV X-Dynamic HSE,612510.0,43 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+29516,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV SE,370000.0,43 000 km,automatic,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2021
+29517,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV Bronze Collection,271582.0,19 400 km,automatic,2 996 cm3,Benzyna,Gdańsk,Pomorskie,2021
+29518,land-rover,Land Rover Range Rover Evoque,106900.0,19 400 km,automatic,2 996 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2021
+29519,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV R-Dynamic SE,254990.0,5 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29520,land-rover,Land Rover Discovery Sport,244487.0,5 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29521,land-rover,Land Rover Range Rover 3.0 D350 mHEV First Edition,429000.0,15 km,automatic,2 000 cm3,Benzyna,Gdynia,Pomorskie,2022
+29522,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic SE,340000.0,15 km,automatic,2 000 cm3,Benzyna,Marki,Mazowieckie,2022
+29523,land-rover,Land Rover Defender,312000.0,12 700 km,automatic,2 997 cm3,Diesel,Kraków,Małopolskie,2022
+29524,land-rover,Land Rover Range Rover Evoque,250150.0,12 700 km,automatic,2 997 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29525,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV SE,349000.0,10 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29526,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic SE,291000.0,10 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29527,land-rover,Land Rover Range Rover Evoque,269900.0,69 000 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2020
+29528,land-rover,Land Rover Range Rover Velar,335701.0,69 000 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2020
+29529,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,253440.0,15 km,automatic,2 000 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29530,land-rover,Land Rover Range Rover Velar,442120.0,15 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2022
+29531,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,274500.0,5 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29532,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,275880.0,5 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29533,land-rover,Land Rover Range Rover,350000.0,5 km,automatic,1 999 cm3,Diesel,Tychy,Śląskie,2022
+29534,land-rover,Land Rover Discovery Sport,179850.0,5 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2022
+29535,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,430900.0,8 000 km,automatic,1 999 cm3,Diesel,Marki,Mazowieckie,2022
+29536,land-rover,Land Rover Range Rover Velar 2.0 P250 S,382600.0,8 000 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2022
+29537,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic S,412850.0,15 km,automatic,2 000 cm3,Benzyna,Białystok,Podlaskie,2022
+29538,land-rover,Land Rover Range Rover Velar 2.0 P250,269900.0,15 km,automatic,2 000 cm3,Benzyna,Białystok,Podlaskie,2022
+29539,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,259000.0,5 km,automatic,1 999 cm3,Diesel,Kozienice,Mazowieckie,2022
+29540,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,324700.0,5 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2022
+29541,land-rover,Land Rover Defender 110 5.0 P525 V8,802400.0,10 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29542,land-rover,Land Rover Defender,659400.0,10 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29543,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV SE,245000.0,5 000 km,automatic,1 999 cm3,Diesel,Marki,Mazowieckie,2022
+29544,land-rover,Land Rover Defender,596860.0,5 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2022
+29545,land-rover,Land Rover Range Rover Velar,293900.0,5 000 km,automatic,1 999 cm3,Diesel,Leszno,Wielkopolskie,2022
+29546,land-rover,Land Rover Defender,686478.0,5 000 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29547,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic S,286500.0,44 501 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+29548,land-rover,Land Rover Range Rover 3.0 D300 SE,799000.0,44 501 km,automatic,5 000 cm3,Benzyna,Kraków,Małopolskie,2021
+29549,land-rover,Land Rover Defender,532880.0,7 154 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2020
+29550,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV Limited Edition,186960.0,7 154 km,automatic,1 997 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+29551,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,427000.0,5 000 km,automatic,2 996 cm3,Diesel,Białystok,Podlaskie,2023
+29552,land-rover,Land Rover Defender 110 3.0 D300 mHEV X-Dynamic SE,510130.0,5 000 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29553,land-rover,Land Rover Defender 110 3.0 P400 mHEV 75th Limited Edition,635500.0,4 000 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29554,land-rover,Land Rover Defender,541412.0,4 000 km,automatic,2 996 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29555,land-rover,Land Rover Range Rover 3.0 D300 mHEV HSE,826840.0,5 km,automatic,2 996 cm3,Benzyna,Białystok,Podlaskie,2023
+29556,land-rover,Land Rover Range Rover Velar 2.0 P250 S,289900.0,5 km,automatic,2 996 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+29557,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV,263499.0,15 km,automatic,3 000 cm3,Diesel,Marki,Mazowieckie,2022
+29558,land-rover,Land Rover Defender,758053.0,15 km,automatic,3 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29559,land-rover,Land Rover Defender,797102.0,2 500 km,automatic,2 997 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29560,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic S,389900.0,2 500 km,automatic,2 997 cm3,Diesel,Bielsko-Biała,Śląskie,2023
+29561,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV SE,239900.0,17 791 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+29562,land-rover,Land Rover Range Rover Velar 3.0 P400 mHEV R-Dynamic SE,438700.0,17 791 km,automatic,1 997 cm3,Benzyna,Katowice,Śląskie,2021
+29563,land-rover,Land Rover Defender 110 3.0 D300 mHEV 75th Limited Edition,599900.0,2 000 km,automatic,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29564,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV SE,369900.0,2 000 km,automatic,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29565,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,245000.0,15 km,automatic,5 000 cm3,Benzyna,Marki,Mazowieckie,2022
+29566,land-rover,Land Rover Defender 110 2.0 P300 75th Limited Edition,533092.0,15 km,automatic,5 000 cm3,Benzyna,Marki,Mazowieckie,2022
+29567,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV S,227900.0,15 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2022
+29568,land-rover,Land Rover Range Rover Evoque,239900.0,15 km,automatic,5 000 cm3,Benzyna,Marki,Mazowieckie,2022
+29569,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,239669.0,104 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2022
+29570,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV S,370000.0,104 km,automatic,1 997 cm3,Diesel,Białystok,Podlaskie,2022
+29571,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic HSE,271400.0,20 278 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29572,land-rover,Land Rover Range Rover Velar 2.0 P250 SE,354630.0,20 278 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29573,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic S,290450.0,2 833 km,automatic,2 995 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29574,land-rover,Land Rover Range Rover Sport S 3.0 I6 HST,549900.0,2 833 km,automatic,2 995 cm3,Benzyna,Radlin,Śląskie,2022
+29575,land-rover,Land Rover Discovery Sport 1.5 P300e PHEV R-Dynamic S,299700.0,6 700 km,automatic,2 996 cm3,Diesel,Katowice,Śląskie,2023
+29576,land-rover,Land Rover Defender,355000.0,6 700 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29577,land-rover,Land Rover Defender,473990.0,25 162 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29578,land-rover,Land Rover Discovery V 3.0 D300 mHEV Metropolitan Edition,499990.0,25 162 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29579,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic S,328400.0,6 km,automatic,1 999 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29580,land-rover,Land Rover Discovery Sport 1.5 P300e R-Dynamic S,309700.0,6 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2022
+29581,land-rover,Land Rover Defender,595530.0,10 km,automatic,1 997 cm3,Benzyna,Katowice,Śląskie,2023
+29582,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,269000.0,10 km,automatic,1 997 cm3,Benzyna,Katowice,Śląskie,2023
+29583,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic SE,278000.0,5 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29584,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic HSE,269700.0,5 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2022
+29585,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic S,229900.0,17 294 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2022
+29586,land-rover,Land Rover Defender 110 5.0 P525 V8 Carpathian Edition,839600.0,17 294 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29587,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV SE,259900.0,63 000 km,automatic,1 999 cm3,Diesel,Marki,Mazowieckie,2020
+29588,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV SE,259900.0,63 000 km,automatic,1 999 cm3,Diesel,Marki,Mazowieckie,2020
+29589,land-rover,Land Rover Range Rover Evoque 2.0 D180 mHEV R-Dynamic S,194900.0,5 km,automatic,4 999 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29590,land-rover,Land Rover Discovery Sport,235900.0,5 km,automatic,4 999 cm3,Benzyna,Łódź,Łódzkie,2022
+29591,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic S,431120.0,4 000 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2023
+29592,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic S,249700.0,4 000 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2023
+29593,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV SE,222700.0,10 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2023
+29594,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV R-Dynamic S,224900.0,10 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29595,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic S,274900.0,31 705 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2020
+29596,land-rover,Land Rover Range Rover Velar,339410.0,31 705 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2020
+29597,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV Bronze Collection,259660.0,48 512 km,automatic,1 998 cm3,Diesel,Długołęka,Dolnośląskie,2021
+29598,land-rover,Land Rover Defender 90 3.0 P400 mHEV X,558900.0,48 512 km,automatic,1 998 cm3,Diesel,Bielsko-Biała,Śląskie,2021
+29599,land-rover,Land Rover Defender 110 5.0 P525 V8 Carpathian Edition,799900.0,10 km,automatic,2 996 cm3,Diesel,Bielsko-Biała,Śląskie,2023
+29600,land-rover,Land Rover Defender 90 3.0 P400 mHEV XS Edition,479700.0,10 km,automatic,2 996 cm3,Diesel,Różan,Mazowieckie,2023
+29601,land-rover,Land Rover Range Rover Velar 2.0 Si4 GPF SE,289900.0,9 180 km,automatic,1 999 cm3,Diesel,Ostrołęka,Mazowieckie,2022
+29602,land-rover,Land Rover Discovery Sport 2.0 P250 mHEV R-Dynamic SE,220000.0,9 180 km,automatic,1 999 cm3,Diesel,Wieruszów,Łódzkie,2022
+29603,land-rover,Land Rover Range Rover Velar,170000.0,20 600 km,automatic,1 999 cm3,Diesel,Mława,Mazowieckie,2022
+29604,land-rover,Land Rover Discovery,457640.0,20 600 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2022
+29605,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic S,345700.0,7 400 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2022
+29606,land-rover,Land Rover Range Rover Velar,275900.0,7 400 km,automatic,1 997 cm3,Diesel,Warszawa,Mazowieckie,2022
+29607,land-rover,Land Rover Range Rover Velar,288900.0,24 792 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2021
+29608,land-rover,Land Rover Defender 110 3.0 D200 mHEV S,399900.0,24 792 km,automatic,1 997 cm3,Benzyna,Mikołów,Śląskie,2021
+29609,land-rover,Land Rover Range Rover Velar 2.0 P250 S,381940.0,10 km,automatic,1 997 cm3,Diesel,Białystok,Podlaskie,2022
+29610,land-rover,Land Rover Defender,560000.0,10 km,automatic,1 997 cm3,Diesel,Białystok,Podlaskie,2022
+29611,land-rover,Land Rover Defender 110 5.0 P525 V8,802350.0,5 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2023
+29612,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,324300.0,5 km,automatic,1 997 cm3,Diesel,Katowice,Śląskie,2023
+29613,land-rover,Land Rover Defender 130 3.0 D300 mHEV First Edition,499900.0,20 km,automatic,2 996 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29614,land-rover,Land Rover Range Rover Velar 2.0 P250 S,279900.0,20 km,automatic,2 996 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29615,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV SE,431950.0,5 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29616,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV SE,249500.0,5 km,automatic,2 996 cm3,Diesel,Katowice,Śląskie,2022
+29617,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV Bronze Collection,261900.0,16 000 km,automatic,1 998 cm3,Benzyna,Chorzów,Śląskie,2022
+29618,land-rover,Land Rover Range Rover Evoque,310110.0,16 000 km,automatic,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29619,land-rover,Land Rover Range Rover Evoque,212388.0,9 500 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29620,land-rover,Land Rover Defender 110 3.0 D200 mHEV S,404470.0,9 500 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2022
+29621,land-rover,Land Rover Discovery V 3.0 D300 mHEV Metropolis Edition,537960.0,900 km,automatic,2 000 cm3,Benzyna,Warszawa,Mazowieckie,2023
+29622,land-rover,Land Rover Range Rover Evoque,280500.0,900 km,automatic,2 000 cm3,Benzyna,Katowice,Śląskie,2023
+29623,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,414590.0,13 398 km,automatic,2 000 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29624,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic SE,390630.0,13 398 km,automatic,2 000 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29625,land-rover,Land Rover Range Rover 3.0 P400 mHEV HSE,550000.0,20 km,automatic,2 996 cm3,Diesel,Zabrze,Śląskie,2022
+29626,land-rover,Land Rover Range Rover Sport,599900.0,20 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29627,land-rover,Land Rover Range Rover Evoque,226600.0,10 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2023
+29628,land-rover,Land Rover Range Rover Evoque,249900.0,10 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2023
+29629,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV S,229900.0,21 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2022
+29630,land-rover,Land Rover Range Rover Sport,595900.0,21 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2022
+29631,land-rover,Land Rover Range Rover Evoque,236600.0,2 000 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2023
+29632,land-rover,Land Rover Range Rover Evoque,239900.0,2 000 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2023
+29633,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV SE,151500.0,5 km,automatic,1 997 cm3,Diesel,Wtórek,Wielkopolskie,2022
+29634,land-rover,Land Rover Range Rover Velar 2.0 SD4 R-Dynamic,250000.0,5 km,automatic,1 997 cm3,Diesel,Mierzyn,Zachodniopomorskie,2022
+29635,land-rover,Land Rover Range Rover Sport S 3.0 D HSE Dynamic,680000.0,45 000 km,automatic,2 996 cm3,Benzyna,Mierzyn,Zachodniopomorskie,2020
+29636,land-rover,Land Rover Discovery V 2.0 SD4 SE,125900.0,45 000 km,automatic,2 996 cm3,Benzyna,Mielec,Podkarpackie,2020
+29637,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,225000.0,56 900 km,automatic,5 000 cm3,Benzyna,Łódź,Łódzkie,2022
+29638,land-rover,Land Rover Discovery,476970.0,56 900 km,automatic,5 000 cm3,Benzyna,Łódź,Łódzkie,2022
+29639,land-rover,Land Rover Discovery Sport,173500.0,6 438 km,automatic,1 998 cm3,Benzyna,Bogumiłowice,Małopolskie,2022
+29640,land-rover,Land Rover Range Rover,650000.0,6 438 km,automatic,1 998 cm3,Benzyna,Świeszyno,Zachodniopomorskie,2022
+29641,land-rover,Land Rover Defender,685603.0,12 479 km,automatic,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29642,land-rover,Land Rover Defender,686478.0,12 479 km,automatic,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29643,land-rover,Land Rover Defender,407000.0,16 795 km,automatic,1 999 cm3,Diesel,Węgrzce,Małopolskie,2021
+29644,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV R-Dynamic HSE,299000.0,16 795 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2021
+29645,land-rover,Land Rover Defender,461082.0,49 253 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2021
+29646,land-rover,Land Rover Defender,540175.0,49 253 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2021
+29647,land-rover,Land Rover Defender,693880.0,15 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29648,land-rover,Land Rover Defender,390193.0,15 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29649,land-rover,Land Rover Defender,695072.0,15 km,automatic,3 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29650,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,447220.0,15 km,automatic,3 000 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29651,land-rover,Land Rover Discovery V 3.0 D300 mHEV R-Dynamic HSE,487490.0,15 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29652,land-rover,Land Rover Defender,489000.0,15 km,automatic,5 000 cm3,Benzyna,Bielsko-Biała,Śląskie,2022
+29653,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV R-Dynamic S,237880.0,5 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29654,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV SE,252310.0,5 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29655,land-rover,Land Rover Defender,755011.0,5 km,automatic,2 996 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29656,land-rover,Land Rover Defender 110 3.0 D250 mHEV XS Edition,467400.0,5 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29657,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic SE,249700.0,900 km,automatic,1 997 cm3,Benzyna,Katowice,Śląskie,2022
+29658,land-rover,Land Rover Defender,574236.0,900 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29659,land-rover,Land Rover Defender,680409.0,5 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29660,land-rover,Land Rover Defender,506758.0,5 km,automatic,1 997 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29661,land-rover,Land Rover Range Rover Velar 3.0 SD6 SE,329900.0,5 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29662,land-rover,Land Rover Defender,530051.0,5 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29663,land-rover,Land Rover Defender,483939.0,15 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29664,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,319000.0,15 km,automatic,5 000 cm3,Benzyna,Gdańsk,Pomorskie,2022
+29665,land-rover,Land Rover Range Rover Velar 3.0 P400 mHEV R-Dynamic HSE,419999.0,5 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29666,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic HSE,279900.0,5 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2023
+29667,land-rover,Land Rover Range Rover Velar,239000.0,13 350 km,automatic,1 998 cm3,Benzyna,Radzymin,Mazowieckie,2022
+29668,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV R-Dynamic SE,445890.0,13 350 km,automatic,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29669,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV R-Dynamic SE,274000.0,15 km,automatic,3 000 cm3,Diesel,Katowice,Śląskie,2022
+29670,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic S,261900.0,15 km,automatic,3 000 cm3,Diesel,Katowice,Śląskie,2022
+29671,land-rover,Land Rover Range Rover Evoque,262102.0,15 km,automatic,5 000 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29672,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,429900.0,15 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29673,land-rover,Land Rover Range Rover Evoque,239933.0,15 km,automatic,3 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29674,land-rover,Land Rover Range Rover Evoque 2.0 D165 mHEV R-Dynamic S,218700.0,15 km,automatic,3 000 cm3,Diesel,Katowice,Śląskie,2022
+29675,land-rover,Land Rover Range Rover Sport,835200.0,27 700 km,automatic,2 993 cm3,Diesel,Bytom,Śląskie,2021
+29676,land-rover,Land Rover Range Rover Velar 2.0 P250,354232.0,27 700 km,automatic,2 993 cm3,Diesel,Baranowo,Wielkopolskie,2021
+29677,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV SE,229900.0,15 km,automatic,3 000 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29678,land-rover,Land Rover Discovery Sport 2.0 D150,122000.0,15 km,automatic,3 000 cm3,Diesel,Janikowo,Kujawsko-pomorskie,2023
+29679,land-rover,Land Rover Discovery Sport,229000.0,15 500 km,automatic,1 998 cm3,Diesel,Łódź,Łódzkie,2022
+29680,land-rover,Land Rover Discovery Sport,236900.0,15 500 km,automatic,1 998 cm3,Diesel,Łódź,Łódzkie,2022
+29681,land-rover,Land Rover Range Rover Evoque,257360.0,14 000 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2022
+29682,land-rover,Land Rover Discovery Sport,283270.0,14 000 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2022
+29683,land-rover,Land Rover Discovery,377900.0,5 km,automatic,1 998 cm3,Diesel,Łódź,Łódzkie,2022
+29684,land-rover,Land Rover Discovery,479000.0,5 km,automatic,1 998 cm3,Diesel,Łódź,Łódzkie,2022
+29685,land-rover,Land Rover Discovery,415420.0,5 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2023
+29686,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV SE,359900.0,5 km,automatic,1 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29687,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,324900.0,5 km,automatic,2 996 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29688,land-rover,Land Rover Range Rover Sport S 3.0 D350 mHEV Autobiography,689000.0,5 km,automatic,2 996 cm3,Diesel,Zabrze,Śląskie,2023
+29689,land-rover,Land Rover Range Rover 3.0 D350 mHEV Autobiography,880000.0,4 000 km,automatic,2 996 cm3,Diesel,Zabrze,Śląskie,2023
+29690,land-rover,Land Rover Range Rover Sport,497000.0,4 000 km,automatic,2 996 cm3,Diesel,Węgrzce,Małopolskie,2023
+29691,land-rover,Land Rover Defender 110 2.0 P300 S,159000.0,5 km,automatic,2 996 cm3,Diesel,Wrocław,Dolnośląskie,2023
+29692,land-rover,Land Rover Discovery V 2.0 P300 HSE,249900.0,5 km,automatic,2 996 cm3,Diesel,Kolbudy,Pomorskie,2023
+29693,land-rover,Land Rover Discovery Sport,285525.0,19 288 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2022
+29694,land-rover,Land Rover Range Rover Evoque 2.0 P200 mHEV Bronze Collection,279150.0,19 288 km,automatic,2 996 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+29695,land-rover,Land Rover Discovery Sport,134900.0,12 999 km,automatic,1 997 cm3,Benzyna,Gdańsk,Pomorskie,2022
+29696,land-rover,Land Rover Range Rover Velar,309000.0,12 999 km,automatic,1 997 cm3,Benzyna,Kraków,Małopolskie,2022
+29697,land-rover,Land Rover Defender,568012.0,5 km,automatic,2 997 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29698,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic HSE,339000.0,5 km,automatic,2 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29699,land-rover,Land Rover Defender 5.0 P525 V8,822490.0,5 km,automatic,2 997 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29700,land-rover,Land Rover Defender 90 3.0 D300 mHEV 75th Limited Edition,595530.0,5 km,automatic,2 997 cm3,Diesel,Długołęka,Dolnośląskie,2023
+29701,land-rover,Land Rover Discovery V 3.0 D250 mHEV R-Dynamic SE,426470.0,42 000 km,automatic,2 996 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+29702,land-rover,Land Rover Defender 110 3.0 D300 mHEV X,565900.0,42 000 km,automatic,2 996 cm3,Benzyna,Marki,Mazowieckie,2021
+29703,land-rover,Land Rover Discovery Sport 2.0 P290 mHEV R-Dynamic S,225366.0,52 828 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2020
+29704,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,308607.0,52 828 km,automatic,1 997 cm3,Benzyna,Siedlce,Mazowieckie,2020
+29705,land-rover,Land Rover Defender,465000.0,28 000 km,automatic,1 999 cm3,Benzyna,Marki,Mazowieckie,2020
+29706,land-rover,Land Rover Discovery V 3.0 D300 mHEV R-Dynamic HSE,512400.0,28 000 km,automatic,1 999 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+29707,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV,239000.0,1 km,automatic,1 498 cm3,Hybryda,Gdynia,Pomorskie,2021
+29708,land-rover,Land Rover Discovery Sport 2.0 D165 mHEV SE,219000.0,1 km,automatic,1 498 cm3,Hybryda,Gdańsk,Pomorskie,2021
+29709,land-rover,Land Rover Defender,448200.0,5 km,automatic,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+29710,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,379900.0,5 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2023
+29711,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic HSE,220170.0,48 000 km,automatic,1 997 cm3,Diesel,Lublin,Lubelskie,2021
+29712,land-rover,Land Rover Range Rover Evoque,242000.0,48 000 km,automatic,1 997 cm3,Diesel,Baranowo,Wielkopolskie,2021
+29713,land-rover,Land Rover Range Rover Evoque,230344.0,9 500 km,automatic,2 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29714,land-rover,Land Rover Range Rover Evoque,223737.0,9 500 km,automatic,2 000 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29715,land-rover,Land Rover Discovery V 3.0 D300 mHEV R-Dynamic S,457970.0,10 000 km,automatic,2 000 cm3,Diesel,Katowice,Śląskie,2022
+29716,land-rover,Land Rover Discovery Sport,312200.0,10 000 km,automatic,2 000 cm3,Diesel,Katowice,Śląskie,2022
+29717,land-rover,Land Rover Discovery Sport,299700.0,8 950 km,automatic,2 000 cm3,Diesel,Katowice,Śląskie,2022
+29718,land-rover,Land Rover Defender 110 5.0 P525 V8,802400.0,8 950 km,automatic,2 000 cm3,Diesel,Warszawa,Mazowieckie,2022
+29719,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV S,343700.0,10 km,automatic,2 996 cm3,Diesel,Białystok,Podlaskie,2023
+29720,land-rover,Land Rover Range Rover Velar,275900.0,10 km,automatic,2 996 cm3,Diesel,Warszawa,Mazowieckie,2023
+29721,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic SE,239900.0,10 km,automatic,1 498 cm3,Hybryda,Marki,Mazowieckie,2022
+29722,land-rover,Land Rover Discovery Sport,77000.0,10 km,automatic,1 498 cm3,Hybryda,Chodzież,Wielkopolskie,2022
+29723,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic SE,402950.0,4 000 km,automatic,1 498 cm3,Hybryda,Warszawa,Mazowieckie,2022
+29724,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV R-Dynamic HSE,359900.0,4 000 km,automatic,1 498 cm3,Hybryda,Bydgoszcz,Kujawsko-pomorskie,2022
+29725,land-rover,Land Rover Range Rover Velar 3.0 P400 mHEV SE,369900.0,1 km,automatic,4 999 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+29726,land-rover,Land Rover Defender 110 5.0 P525 V8,729990.0,1 km,automatic,4 999 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+29727,land-rover,Land Rover Defender 110 5.0 P525 V8 Carpathian Edition,799000.0,5 000 km,automatic,1 997 cm3,Diesel,Kraków,Małopolskie,2023
+29728,land-rover,Land Rover Defender 110 5.0 P525 V8 Carpathian Edition,775000.0,5 000 km,automatic,1 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2023
+29729,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,254000.0,49 700 km,automatic,1 997 cm3,Diesel,Opoczno,Łódzkie,2021
+29730,land-rover,Land Rover Discovery Sport 2.0 D200 mHEV R-Dynamic HSE,299000.0,49 700 km,automatic,1 997 cm3,Diesel,Kraków,Małopolskie,2021
+29731,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV R-Dynamic HSE,459900.0,16 900 km,automatic,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2022
+29732,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,354900.0,16 900 km,automatic,1 999 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29733,land-rover,Land Rover Range Rover Evoque 2.0 D200 mHEV R-Dynamic SE,269900.0,5 900 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29734,land-rover,Land Rover Range Rover Velar 2.0 P250 R-Dynamic SE,245000.0,5 900 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29735,land-rover,Land Rover Defender,564600.0,10 km,automatic,1 997 cm3,Diesel,Łódź,Łódzkie,2023
+29736,land-rover,Land Rover Discovery Sport,231561.0,10 km,automatic,1 997 cm3,Diesel,Baranowo,Wielkopolskie,2023
+29737,land-rover,Land Rover Discovery Sport,227465.0,8 000 km,automatic,1 997 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29738,land-rover,Land Rover Discovery Sport,219439.0,8 000 km,automatic,1 997 cm3,Diesel,Baranowo,Wielkopolskie,2022
+29739,land-rover,Land Rover Discovery Sport,234211.0,28 606 km,automatic,2 995 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+29740,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV S,299700.0,28 606 km,automatic,2 995 cm3,Benzyna,Katowice,Śląskie,2022
+29741,land-rover,Land Rover Range Rover Velar,304900.0,1 km,automatic,4 999 cm3,Benzyna,Łódź,Łódzkie,2023
+29742,land-rover,Land Rover Range Rover Velar,372000.0,1 km,automatic,4 999 cm3,Benzyna,Łódź,Łódzkie,2023
+29743,land-rover,Land Rover Discovery V 2.0 SD4 HSE,279000.0,56 201 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2020
+29744,land-rover,Land Rover Defender,682201.0,56 201 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2020
+29745,land-rover,Land Rover Range Rover Sport S 3.0 D HSE Dynamic,495000.0,15 km,automatic,5 000 cm3,Benzyna,Wieliczka,Małopolskie,2022
+29746,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,249900.0,15 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29747,land-rover,Land Rover Defender,839549.0,24 000 km,automatic,2 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29748,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV R-Dynamic SE,359900.0,24 000 km,automatic,2 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29749,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,259900.0,5 000 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29750,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV S,299900.0,5 000 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29751,land-rover,Land Rover Defender 110 3.0 P400 mHEV First Edition,400000.0,10 km,automatic,4 999 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+29752,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic HSE,179000.0,10 km,automatic,4 999 cm3,Benzyna,Nowy Sącz,Małopolskie,2023
+29753,land-rover,Land Rover Range Rover Evoque 2.0 P249 mHEV S,155000.0,60 500 km,automatic,2 996 cm3,Diesel,Katowice,Śląskie,2021
+29754,land-rover,Land Rover Discovery V 2.0 SD4 HSE,279000.0,56 201 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2020
+29755,land-rover,Land Rover Defender,682201.0,56 201 km,automatic,1 999 cm3,Diesel,Baranowo,Wielkopolskie,2020
+29756,land-rover,Land Rover Range Rover Sport S 3.0 D HSE Dynamic,495000.0,15 km,automatic,5 000 cm3,Benzyna,Wieliczka,Małopolskie,2022
+29757,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,249900.0,15 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+29758,land-rover,Land Rover Defender,839549.0,24 000 km,automatic,2 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29759,land-rover,Land Rover Range Rover Velar 3.0 D300 mHEV R-Dynamic SE,359900.0,24 000 km,automatic,2 997 cm3,Diesel,Szczecin,Zachodniopomorskie,2022
+29760,land-rover,Land Rover Discovery Sport 2.0 P200 mHEV SE,259900.0,5 000 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29761,land-rover,Land Rover Range Rover Velar 2.0 D200 mHEV S,299900.0,5 000 km,automatic,1 997 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+29762,land-rover,Land Rover Defender 110 3.0 P400 mHEV First Edition,400000.0,10 km,automatic,4 999 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+29763,land-rover,Land Rover Range Rover Evoque 2.0 D150 mHEV R-Dynamic HSE,179000.0,10 km,automatic,4 999 cm3,Benzyna,Nowy Sącz,Małopolskie,2023
+29764,land-rover,Land Rover Range Rover Evoque 2.0 P249 mHEV S,155000.0,60 500 km,automatic,2 996 cm3,Diesel,Katowice,Śląskie,2021
+64628,rover,Rover MG,9900.0,155 445 km,manual,1 796 cm3,Benzyna,Lwówek Śląski,Dolnośląskie,1998
+64629,rover,Rover 200 214 Si,4399.0,155 445 km,manual,1 796 cm3,Benzyna,Rzeszów,Podkarpackie,1998
+64630,rover,Rover 75 R 2.0 CDT Club,17000.0,169 000 km,manual,1 396 cm3,Benzyna,Pisarzowice,Dolnośląskie,1999
+64631,rover,Rover 214,4300.0,169 000 km,manual,1 396 cm3,Benzyna,Pisary,Małopolskie,1999
+64632,rover,Rover MG,16500.0,249 871 km,manual,1 950 cm3,Diesel,Pabianice,Łódzkie,1999
+64633,rover,Rover 214,1950.0,249 871 km,manual,1 950 cm3,Diesel,Chojnice,Pomorskie,1999
+64634,rover,Rover MG,16500.0,177 000 km,manual,1 396 cm3,Benzyna,Wieliczka,Małopolskie,1997
+64635,rover,Rover 623,3900.0,177 000 km,manual,1 396 cm3,Benzyna,Warszawa,Mazowieckie,1997
+64636,rover,Rover 214,5000.0,134 794 km,manual,1 800 cm3,Benzyna,Sosnowiec,Śląskie,1997
+64637,rover,Rover MG,9900.0,155 445 km,manual,1 796 cm3,Benzyna,Lwówek Śląski,Dolnośląskie,1998
+64638,rover,Rover 200 214 Si,4399.0,155 445 km,manual,1 796 cm3,Benzyna,Rzeszów,Podkarpackie,1998
+64639,rover,Rover 75 R 2.0 CDT Club,17000.0,169 000 km,manual,1 396 cm3,Benzyna,Pisarzowice,Dolnośląskie,1999
+64640,rover,Rover 214,4300.0,169 000 km,manual,1 396 cm3,Benzyna,Pisary,Małopolskie,1999
+64641,rover,Rover MG,16500.0,249 871 km,manual,1 950 cm3,Diesel,Pabianice,Łódzkie,1999
+64642,rover,Rover 214,1950.0,249 871 km,manual,1 950 cm3,Diesel,Chojnice,Pomorskie,1999
+64643,rover,Rover MG,16500.0,177 000 km,manual,1 396 cm3,Benzyna,Wieliczka,Małopolskie,1997
+64644,rover,Rover 623,3900.0,177 000 km,manual,1 396 cm3,Benzyna,Warszawa,Mazowieckie,1997
+64645,rover,Rover 214,5000.0,134 794 km,manual,1 800 cm3,Benzyna,Sosnowiec,Śląskie,1997
+64646,rover,Rover MG,9900.0,155 445 km,manual,1 796 cm3,Benzyna,Lwówek Śląski,Dolnośląskie,1998
+64647,rover,Rover 200 214 Si,4399.0,155 445 km,manual,1 796 cm3,Benzyna,Rzeszów,Podkarpackie,1998
+64648,rover,Rover 75 R 2.0 CDT Club,17000.0,169 000 km,manual,1 396 cm3,Benzyna,Pisarzowice,Dolnośląskie,1999
+64649,rover,Rover 214,4300.0,169 000 km,manual,1 396 cm3,Benzyna,Pisary,Małopolskie,1999
+64650,rover,Rover MG,16500.0,249 871 km,manual,1 950 cm3,Diesel,Pabianice,Łódzkie,1999
+64651,rover,Rover 214,1950.0,249 871 km,manual,1 950 cm3,Diesel,Chojnice,Pomorskie,1999
+64652,rover,Rover MG,16500.0,177 000 km,manual,1 396 cm3,Benzyna,Wieliczka,Małopolskie,1997
+64653,rover,Rover 623,3900.0,177 000 km,manual,1 396 cm3,Benzyna,Warszawa,Mazowieckie,1997
+64654,rover,Rover 214,5000.0,134 794 km,manual,1 800 cm3,Benzyna,Sosnowiec,Śląskie,1997
+64655,rover,Rover MG,9900.0,155 445 km,manual,1 796 cm3,Benzyna,Lwówek Śląski,Dolnośląskie,1998
+64656,rover,Rover 200 214 Si,4399.0,155 445 km,manual,1 796 cm3,Benzyna,Rzeszów,Podkarpackie,1998
+64657,rover,Rover 75 R 2.0 CDT Club,17000.0,169 000 km,manual,1 396 cm3,Benzyna,Pisarzowice,Dolnośląskie,1999
+64658,rover,Rover 214,4300.0,169 000 km,manual,1 396 cm3,Benzyna,Pisary,Małopolskie,1999
+64659,rover,Rover MG,16500.0,249 871 km,manual,1 950 cm3,Diesel,Pabianice,Łódzkie,1999
+64660,rover,Rover 214,1950.0,249 871 km,manual,1 950 cm3,Diesel,Chojnice,Pomorskie,1999
+64661,rover,Rover MG,16500.0,177 000 km,manual,1 396 cm3,Benzyna,Wieliczka,Małopolskie,1997
+64662,rover,Rover 623,3900.0,177 000 km,manual,1 396 cm3,Benzyna,Warszawa,Mazowieckie,1997
+64663,rover,Rover 214,5000.0,134 794 km,manual,1 800 cm3,Benzyna,Sosnowiec,Śląskie,1997
+64664,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64665,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64666,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64667,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64668,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64669,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64670,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64671,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64672,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64673,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64674,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64675,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64676,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64677,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64678,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64679,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64680,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64681,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64682,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64683,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64684,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64685,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64686,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64687,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64688,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64689,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64690,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64691,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64692,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64693,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64694,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64695,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64696,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64697,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64698,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64699,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64700,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64701,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64702,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64703,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64704,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64705,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64706,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64707,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64708,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64709,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64710,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64711,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64712,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64713,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64714,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64715,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64716,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64717,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64718,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64719,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64720,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64721,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64722,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64723,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64724,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64725,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64726,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64727,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64728,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64729,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64730,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64731,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64732,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64733,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64734,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64735,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64736,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64737,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64738,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64739,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64740,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64741,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64742,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64743,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64744,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64745,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64746,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64747,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64748,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64749,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64750,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64751,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64752,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64753,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64754,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64755,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64756,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64757,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64758,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64759,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64760,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64761,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64762,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64763,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64764,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64765,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64766,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64767,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64768,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64769,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64770,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64771,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64772,rover,Rover Streetwise,7500.0,166 752 km,manual,1 588 cm3,Benzyna,Rybnik,Śląskie,2005
+64773,rover,Rover 25 1.6 Charme,7500.0,166 752 km,manual,1 588 cm3,Benzyna,Poznań,Wielkopolskie,2005
+64774,rover,Rover Streetwise,5555.0,101 726 km,manual,1 588 cm3,Benzyna,Wałbrzych,Dolnośląskie,2006
+64775,rover,Rover Streetwise,7500.0,166 752 km,manual,1 588 cm3,Benzyna,Rybnik,Śląskie,2005
+64776,rover,Rover 25 1.6 Charme,7500.0,166 752 km,manual,1 588 cm3,Benzyna,Poznań,Wielkopolskie,2005
+64777,rover,Rover Streetwise,5555.0,101 726 km,manual,1 588 cm3,Benzyna,Wałbrzych,Dolnośląskie,2006
+64778,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64779,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64780,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64781,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64782,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64783,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64784,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64785,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64786,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64787,rover,Rover 25 1.4 Basic,2250.0,253 000 km,manual,1 396 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+64788,rover,Rover Streetwise,4999.0,253 000 km,manual,1 396 cm3,Benzyna,Piaseczno,Mazowieckie,2000
+64789,rover,Rover 75 R 2.0 CDT,5900.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Bystrzyca Kłodzka,Dolnośląskie,2004
+64790,rover,Rover 75,4500.0,129 510 km,manual,1 396 cm3,Benzyna+LPG,Ożarów Mazowiecki,Mazowieckie,2004
+64791,rover,Rover 75 R 1.8 Classic,5999.0,320 000 km,manual,1 951 cm3,Diesel,Piotrkowice,Świętokrzyskie,2001
+64792,rover,Rover 400 416 Si,4700.0,320 000 km,manual,1 951 cm3,Diesel,Rydzyna,Wielkopolskie,2001
+64793,rover,Rover 45,3900.0,271 000 km,manual,1 951 cm3,Diesel,Żarowo,Zachodniopomorskie,2001
+64794,rover,Rover 75,3500.0,271 000 km,manual,1 951 cm3,Diesel,Wieluń,Łódzkie,2001
+64795,rover,Rover 75,4900.0,245 600 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2002
+64796,rover,Rover 75 R 2.5i V6,5500.0,239 431 km,automatic,2 497 cm3,Benzyna,Obra,Wielkopolskie,1999
+64797,rover,Rover 75 R 2.0i V6,8000.0,239 431 km,automatic,2 497 cm3,Benzyna,Gdynia,Pomorskie,1999
+64798,rover,Rover 416,6900.0,220 000 km,automatic,1 991 cm3,Benzyna+LPG,Rakowice Wielkie,Dolnośląskie,1999
+64799,rover,Rover 75 R 2.5i V6,5500.0,239 431 km,automatic,2 497 cm3,Benzyna,Obra,Wielkopolskie,1999
+64800,rover,Rover 75 R 2.0i V6,8000.0,239 431 km,automatic,2 497 cm3,Benzyna,Gdynia,Pomorskie,1999
+64801,rover,Rover 416,6900.0,220 000 km,automatic,1 991 cm3,Benzyna+LPG,Rakowice Wielkie,Dolnośląskie,1999

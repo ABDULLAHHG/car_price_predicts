@@ -1,0 +1,596 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+29883,mazda,Mazda MX-6 2.0,15400.0,258 000 km,manual,1 991 cm3,Benzyna,Jasło,Podkarpackie,1996
+29884,mazda,Mazda 626 2.0 TD,3500.0,258 000 km,manual,1 991 cm3,Benzyna,Poznań,Wielkopolskie,1996
+29886,mazda,Mazda 3 1.6 16V Exclusive,5600.0,246 500 km,manual,1 598 cm3,Benzyna+LPG,Szczecin,Zachodniopomorskie,2003
+29887,mazda,Mazda 3 2.0 Top,12000.0,246 500 km,manual,1 598 cm3,Benzyna+LPG,Ostrów Wielkopolski,Wielkopolskie,2003
+29888,mazda,Mazda 3 2.0 Sport Active,3999.0,108 000 km,manual,1 999 cm3,Benzyna,Łobez,Zachodniopomorskie,2003
+29889,mazda,Mazda 6,6400.0,108 000 km,manual,1 999 cm3,Benzyna,Łowkowice,Opolskie,2003
+29890,mazda,Mazda 2 1.4 Exclusive,10900.0,349 000 km,manual,1 999 cm3,Benzyna+LPG,Kraśnik,Lubelskie,2003
+29891,mazda,Mazda Tribute 2.0 Comfort 2WD,12900.0,349 000 km,manual,1 999 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2003
+29892,mazda,Mazda 3 1.6 16V Exclusive,9999.0,273 000 km,manual,1 999 cm3,Benzyna+LPG,Sosnowiec,Śląskie,2003
+29893,mazda,Mazda 6 1.8 Comfort,7000.0,273 000 km,manual,1 999 cm3,Benzyna+LPG,Sucha,Lubuskie,2003
+29894,mazda,Mazda MX-5 1.6 16V,17500.0,169 274 km,manual,1 388 cm3,Benzyna,Ełk,Warmińsko-mazurskie,2003
+29895,mazda,Mazda MX-5 1.8 16V,27000.0,169 274 km,manual,1 388 cm3,Benzyna,Warszawa,Mazowieckie,2003
+29896,mazda,Mazda 6,12000.0,124 000 km,manual,1 989 cm3,Benzyna,Poznań,Wielkopolskie,2000
+29897,mazda,Mazda Premacy 1.8 Exclusive,3900.0,124 000 km,manual,1 989 cm3,Benzyna,Rybnik,Śląskie,2000
+29898,mazda,Mazda MPV 2.0 TD Exclusive,4900.0,170 123 km,manual,1 598 cm3,Benzyna+LPG,Radostowice,Śląskie,2004
+29899,mazda,Mazda MX-5 1.6 16V,18500.0,170 123 km,manual,1 598 cm3,Benzyna+LPG,Zduńska Wola,Łódzkie,2004
+29900,mazda,Mazda 6 2.0 CD Exclusive,4500.0,212 000 km,manual,1 798 cm3,Benzyna,Siemkowo,Kujawsko-pomorskie,2002
+29901,mazda,Mazda RX-8,10000.0,212 000 km,manual,1 798 cm3,Benzyna,Rybnik,Śląskie,2002
+29902,mazda,Mazda Premacy 1.8 Exclusive,5999.0,119 780 km,manual,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2003
+29903,mazda,Mazda MX-5 1.8 16V Sport,24500.0,119 780 km,manual,1 598 cm3,Benzyna,Nysa,Opolskie,2003
+29904,mazda,Mazda MX-5 1.6 16V,26000.0,139 000 km,manual,1 840 cm3,Benzyna,Czerwionka-Leszczyny,Śląskie,2001
+29905,mazda,Mazda 6 1.8 Active,3100.0,139 000 km,manual,1 840 cm3,Benzyna,Stare Kurowo,Lubuskie,2001
+29906,mazda,Mazda Demio 1.3 Comfort,3999.0,214 098 km,manual,1 798 cm3,Benzyna,Pabianice,Łódzkie,2004
+29907,mazda,Mazda MX-5 1.6 16V,33000.0,214 098 km,manual,1 798 cm3,Benzyna,Oświęcim,Małopolskie,2004
+29908,mazda,Mazda 3 1.6 16V Exclusive,4900.0,177 000 km,manual,1 840 cm3,Benzyna,Wrocław,Dolnośląskie,2001
+29909,mazda,Mazda 6,4300.0,177 000 km,manual,1 840 cm3,Benzyna,Barcin,Kujawsko-pomorskie,2001
+29910,mazda,Mazda Premacy,3499.0,221 000 km,manual,1 998 cm3,Diesel,Lublin,Lubelskie,2002
+29911,mazda,Mazda 323,2900.0,221 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2002
+29912,mazda,Mazda Tribute,14800.0,282 000 km,manual,1 598 cm3,Benzyna+LPG,Łagów,Świętokrzyskie,2004
+29913,mazda,Mazda RX-8 Revolution,27500.0,282 000 km,manual,1 598 cm3,Benzyna+LPG,Murowana Goślina,Wielkopolskie,2004
+29914,mazda,Mazda 6,2199.0,203 000 km,manual,1 998 cm3,Diesel,Poznań,Wielkopolskie,2004
+29915,mazda,Mazda 6,5500.0,203 000 km,manual,1 998 cm3,Diesel,Brzesko,Małopolskie,2004
+29916,mazda,Mazda 323F,4900.0,103 852 km,manual,1 308 cm3,Benzyna,Gdańsk,Pomorskie,2004
+29917,mazda,Mazda Demio 1.3 Comfort,3999.0,103 852 km,manual,1 308 cm3,Benzyna,Poznań,Wielkopolskie,2004
+29918,mazda,Mazda MX-5 1.9 16V,29000.0,280 000 km,manual,1 840 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,1998
+29919,mazda,Mazda MX-5 1.6,22800.0,280 000 km,manual,1 840 cm3,Benzyna,Bogdaszowice,Dolnośląskie,1998
+29920,mazda,Mazda MX-3 1.6 16V,3500.0,261 000 km,manual,1 598 cm3,Benzyna,Lublin,Lubelskie,1997
+29921,mazda,Mazda 323F,2500.0,261 000 km,manual,1 598 cm3,Benzyna,Gliwice,Śląskie,1997
+29922,mazda,Mazda 323 F 2.0 V6 GT,6900.0,161 805 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,1995
+29923,mazda,Mazda 626 2.0 TD Exclusive,4999.0,161 805 km,manual,1 598 cm3,Benzyna,Katowice,Śląskie,1995
+29924,mazda,Mazda MX-5 1.6 16V,15000.0,270 000 km,manual,1 998 cm3,Diesel,Piła,Wielkopolskie,1999
+29925,mazda,Mazda MX-5 1.6,38500.0,270 000 km,manual,1 998 cm3,Diesel,Bogdaszowice,Dolnośląskie,1999
+29926,mazda,Mazda MX-3 1.8,16800.0,208 000 km,manual,1 995 cm3,Benzyna+LPG,Słupsk,Pomorskie,1996
+29927,mazda,Mazda MX-5 1.6 16V,9800.0,208 000 km,manual,1 995 cm3,Benzyna+LPG,Żmigródek,Dolnośląskie,1996
+29928,mazda,Mazda Xedos,8200.0,299 999 km,manual,1 998 cm3,Diesel,Rymanów,Podkarpackie,1999
+29929,mazda,Mazda MX-5 1.6 16V,16700.0,299 999 km,manual,1 998 cm3,Diesel,Bogdaszowice,Dolnośląskie,1999
+29930,mazda,Mazda MX-5 1.6,28700.0,195 000 km,manual,1 598 cm3,Benzyna,Wiązowna,Mazowieckie,1998
+29931,mazda,Mazda MX-5 1.6 16V,25500.0,195 000 km,manual,1 598 cm3,Benzyna,Łask,Łódzkie,1998
+29932,mazda,Mazda MX-5 1.6 16V,19999.0,184 000 km,manual,1 598 cm3,Benzyna,Bogdaszowice,Dolnośląskie,1995
+29933,mazda,Mazda MX-5 1.6,43900.0,184 000 km,manual,1 598 cm3,Benzyna,Wiązowna,Mazowieckie,1995
+29934,mazda,Mazda MX-5 1.6 16V,13500.0,212 000 km,manual,1 845 cm3,Benzyna,Szczecin,Zachodniopomorskie,1997
+29935,mazda,Mazda MX-5 1.9 16V,13000.0,212 000 km,manual,1 845 cm3,Benzyna,Wrząsowice,Małopolskie,1997
+29936,mazda,Mazda Xedos 6 2.0,6000.0,250 000 km,manual,1 598 cm3,Benzyna,Gdynia,Pomorskie,1998
+29937,mazda,Mazda MX-5 1.6,22400.0,250 000 km,manual,1 598 cm3,Benzyna,Bogdaszowice,Dolnośląskie,1998
+29938,mazda,Mazda MX-5 1.6 16V,10500.0,193 500 km,manual,1 995 cm3,Benzyna,Baranów,Mazowieckie,1999
+29939,mazda,Mazda Xedos 6 2.0 Exclusiv,7000.0,193 500 km,manual,1 995 cm3,Benzyna,Poznań,Wielkopolskie,1999
+29940,mazda,Mazda MPV,12999.0,148 000 km,manual,1 598 cm3,Benzyna,Rzeszów,Podkarpackie,1998
+29941,mazda,Mazda MX-5,14900.0,148 000 km,manual,1 598 cm3,Benzyna,Kołobrzeg,Zachodniopomorskie,1998
+29942,mazda,Mazda MX-5 1.6 16V,10500.0,219 700 km,manual,1 598 cm3,Benzyna,Bielsko-Biała,Śląskie,1997
+29943,mazda,Mazda Xedos 6 2.0 Business,5000.0,219 700 km,manual,1 598 cm3,Benzyna,Częstochowa,Śląskie,1997
+29944,mazda,Mazda 626,1800.0,192 100 km,manual,1 598 cm3,Benzyna,Małyszyn Górny,Świętokrzyskie,1998
+29945,mazda,Mazda 323,4000.0,192 100 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,1998
+29946,mazda,Mazda 323,2500.0,188 000 km,manual,1 598 cm3,Benzyna,Warszawa,Mazowieckie,1999
+29947,mazda,Mazda 323F,2200.0,188 000 km,manual,1 598 cm3,Benzyna,Janów Lubelski,Lubelskie,1999
+29948,mazda,Mazda 323 C 1.5,8900.0,163 500 km,manual,1 598 cm3,Benzyna,Lutomiersk,Łódzkie,1995
+29949,mazda,Mazda MX-5 1.9 16V,26900.0,163 500 km,manual,1 598 cm3,Benzyna,Kamionki,Wielkopolskie,1995
+29950,mazda,Mazda 2 1.25 Comfort,7300.0,199 000 km,manual,1 242 cm3,Benzyna,Rawicz,Wielkopolskie,2004
+29951,mazda,Mazda MX-5 1.8 16V,28900.0,199 000 km,manual,1 242 cm3,Benzyna,Łódź,Łódzkie,2004
+29952,mazda,Mazda MX-5 1.6 16V,19900.0,103 500 km,manual,1 840 cm3,Benzyna,Gołaszyn,Wielkopolskie,2003
+29953,mazda,Mazda 2 1.4 CD Active,4900.0,103 500 km,manual,1 840 cm3,Benzyna,Tłuste,Mazowieckie,2003
+29954,mazda,Mazda MX-5 1.6 16V,22999.0,224 000 km,manual,1 598 cm3,Benzyna,Plewiska,Wielkopolskie,2003
+29955,mazda,Mazda 626 2.0 Exclusive,9900.0,224 000 km,manual,1 598 cm3,Benzyna,Zduńska Wola,Łódzkie,2003
+29956,mazda,Mazda 3 1.6 16V Exclusive,7200.0,305 000 km,manual,1 399 cm3,Diesel,Kraków,Małopolskie,2003
+29957,mazda,Mazda MX-5 1.6 16V,20000.0,305 000 km,manual,1 399 cm3,Diesel,Poznań,Wielkopolskie,2003
+29958,mazda,Mazda 6,5999.0,107 000 km,manual,1 598 cm3,Benzyna,Łódź,Łódzkie,2002
+29959,mazda,Mazda 3,4500.0,107 000 km,manual,1 598 cm3,Benzyna,Bochotnica,Lubelskie,2002
+29960,mazda,Mazda 6 2.3 Top,7500.0,154 000 km,manual,1 991 cm3,Benzyna,Jadów,Mazowieckie,2001
+29961,mazda,Mazda 3,7600.0,154 000 km,manual,1 991 cm3,Benzyna,Poznań,Wielkopolskie,2001
+29962,mazda,Mazda 6 2.0 Comfort,6500.0,242 000 km,manual,1 598 cm3,Benzyna+LPG,Łódź,Łódzkie,2004
+29963,mazda,Mazda Tribute,18900.0,242 000 km,manual,1 598 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2004
+29964,mazda,Mazda 2,2880.0,209 000 km,manual,1 598 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2002
+29965,mazda,Mazda 6,14999.0,209 000 km,manual,1 598 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2002
+29966,mazda,Mazda 6 1.8 Comfort,3900.0,225 000 km,manual,1 999 cm3,Benzyna+LPG,Kraków,Małopolskie,2003
+29967,mazda,Mazda 6 2.0 16V Touring,3999.0,225 000 km,manual,1 999 cm3,Benzyna+LPG,Łuków,Lubelskie,2003
+29968,mazda,Mazda 626 2.0,2850.0,226 679 km,manual,1 598 cm3,Benzyna,Nowy Dwór Mazowiecki,Mazowieckie,2004
+29969,mazda,Mazda 3 2.0 16V Active,6500.0,226 679 km,manual,1 598 cm3,Benzyna,Wrocław,Dolnośląskie,2004
+29970,mazda,Mazda 6 1.8 Comfort,4500.0,203 000 km,manual,2 261 cm3,Benzyna,Góra,Dolnośląskie,2003
+29971,mazda,Mazda Tribute 2.0 Comfort,13700.0,203 000 km,manual,2 261 cm3,Benzyna,Słupca,Wielkopolskie,2003
+29972,mazda,Mazda 6,7350.0,220 000 km,manual,1 598 cm3,Benzyna,Gubin,Lubuskie,2004
+29973,mazda,Mazda 3 1.6 CD Sport Comfort,2950.0,220 000 km,manual,1 598 cm3,Benzyna,Gdańsk,Pomorskie,2004
+29974,mazda,Mazda 2 1.4 CD Exclusive,5499.0,191 500 km,manual,1 999 cm3,Benzyna,Czechowice-Dziedzice,Śląskie,2003
+29975,mazda,Mazda 323F,3900.0,191 500 km,manual,1 999 cm3,Benzyna,Nowa Ruda,Dolnośląskie,2003
+29976,mazda,Mazda 323F,3599.0,258 605 km,manual,1 989 cm3,Benzyna,Wrocław,Dolnośląskie,2003
+29977,mazda,Mazda 6 1.8 Comfort,9250.0,258 605 km,manual,1 989 cm3,Benzyna,Maszewo Duże,Mazowieckie,2003
+29978,mazda,Mazda 3 2.0 16V Active,5800.0,155 153 km,manual,1 388 cm3,Benzyna,Warszawa,Mazowieckie,2003
+29979,mazda,Mazda MPV 2.0 TD Exclusive,4500.0,155 153 km,manual,1 388 cm3,Benzyna,Las,Małopolskie,2003
+29980,mazda,Mazda 626 2.0,1999.0,165 926 km,manual,1 999 cm3,Benzyna,Kielce,Świętokrzyskie,2002
+29981,mazda,Mazda 2 1.4 DE Core + (klm),10000.0,165 926 km,manual,1 999 cm3,Benzyna,Czarnorzeki,Podkarpackie,2002
+29982,mazda,Mazda 6 2.0 Skypassion I-ELoop,65900.0,106 800 km,manual,1 998 cm3,Benzyna,Kobyłka,Mazowieckie,2015
+29983,mazda,Mazda 6 2.0 SkyEnergy,111900.0,106 800 km,manual,1 998 cm3,Benzyna,Szczecin,Zachodniopomorskie,2015
+29984,mazda,Mazda 3 2.0 Skyenergy EU6,80500.0,25 682 km,manual,1 998 cm3,Benzyna,Żyrardów,Mazowieckie,2018
+29985,mazda,Mazda CX-3 2.0 SkyPassion i-Eloop 4x4,95900.0,25 682 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2018
+29986,mazda,Mazda CX-5 2.0 Skymotion AWD,55900.0,80 000 km,manual,1 998 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2017
+29987,mazda,Mazda 2 1.5 Skyenergy,64900.0,80 000 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2017
+29988,mazda,Mazda CX-3 2.0 Skypassion,69900.0,27 197 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2019
+29989,mazda,Mazda 6 2.0 Skypassion I-ELoop,85000.0,27 197 km,manual,1 998 cm3,Benzyna,Tuchola,Kujawsko-pomorskie,2019
+29990,mazda,Mazda 3 2.0 Skyenergy,54300.0,224 700 km,manual,1 998 cm3,Benzyna,Lubaczów,Podkarpackie,2015
+29991,mazda,Mazda 6 2.0 Skypassion I-ELoop,86000.0,224 700 km,manual,1 998 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2015
+29992,mazda,Mazda 6 2.0 SkyMotion,91020.0,99 349 km,manual,1 496 cm3,Benzyna,Kraków,Małopolskie,2018
+29993,mazda,Mazda 2 1.5 Skypassion i-ELoop,68999.0,99 349 km,manual,1 496 cm3,Benzyna,Krzeszowice,Małopolskie,2018
+29994,mazda,Mazda 6 2.0 Skypassion I-ELoop,76900.0,134 132 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2016
+29995,mazda,Mazda 3 2.0 mHEV Kanjo,88500.0,134 132 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2016
+29996,mazda,Mazda 3 2.0 Skypassion,52900.0,78 792 km,manual,1 998 cm3,Benzyna,Gniezno,Wielkopolskie,2016
+29997,mazda,Mazda CX-5 2.0 Skymotion 2WD,99990.0,78 792 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2016
+29998,mazda,Mazda 6,88000.0,72 353 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2017
+29999,mazda,Mazda CX-3 2.0 SkyPassion,82900.0,72 353 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2017
+30000,mazda,Mazda 6 2.0 SkyMotion,89900.0,57 600 km,manual,1 998 cm3,Benzyna,Jaworzno,Śląskie,2017
+30001,mazda,Mazda 6 2.0 Skypassion I-ELoop,79000.0,57 600 km,manual,1 998 cm3,Benzyna,Łomianki Dolne,Mazowieckie,2017
+30002,mazda,Mazda 2,44000.0,120 040 km,manual,1 998 cm3,Benzyna,Wadowice,Małopolskie,2019
+30003,mazda,Mazda CX-5,104900.0,120 040 km,manual,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2019
+30004,mazda,Mazda CX-5 2.0 Skyenergy 2WD,99900.0,45 500 km,manual,1 496 cm3,Benzyna,Zielona Góra,Lubuskie,2018
+30005,mazda,Mazda 6 2.0 Skybusiness,68900.0,45 500 km,manual,1 496 cm3,Benzyna,Rybnik,Śląskie,2018
+30006,mazda,Mazda 6,91900.0,121 443 km,manual,1 998 cm3,Benzyna,Myślenice,Małopolskie,2016
+30007,mazda,Mazda CX-3 2.0 Skypassion,71899.0,121 443 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2016
+30008,mazda,Mazda 3,77500.0,42 000 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+30009,mazda,Mazda 3 SKYACTIV-D 105 Exclusive-Line,54900.0,42 000 km,manual,1 998 cm3,Benzyna,Lubin,Dolnośląskie,2019
+30010,mazda,Mazda CX-3 2.0 Skypassion,69999.0,59 000 km,manual,1 998 cm3,Benzyna,Rzgów,Łódzkie,2016
+30011,mazda,Mazda 3,66000.0,59 000 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2016
+30012,mazda,Mazda 3 2.0 Skyenergy,79900.0,37 900 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2018
+30013,mazda,Mazda 2 1.5 Skyenergy,62900.0,37 900 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2018
+30014,mazda,Mazda 5,16900.0,162 000 km,manual,1 798 cm3,Benzyna,Radomsko,Łódzkie,2008
+30015,mazda,Mazda 3 1.6 Exclusive,16300.0,162 000 km,manual,1 798 cm3,Benzyna,Gniezno,Wielkopolskie,2008
+30016,mazda,Mazda 6 2.0 CD Comfort,18900.0,151 000 km,manual,1 598 cm3,Benzyna,Kleosin,Podlaskie,2008
+30017,mazda,Mazda 6 2.0 Exclusive +,17600.0,151 000 km,manual,1 598 cm3,Benzyna,Szczecin,Zachodniopomorskie,2008
+30018,mazda,Mazda 6 2.0 CD Exclusive,5900.0,194 450 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2009
+30019,mazda,Mazda 3 1.6 Active,11899.0,194 450 km,manual,1 998 cm3,Diesel,Chodzież,Wielkopolskie,2009
+30020,mazda,Mazda 6 2.0 Active,12900.0,166 000 km,manual,1 999 cm3,Benzyna,Poręba,Śląskie,2009
+30021,mazda,Mazda 6 1.8 Exclusive,10900.0,166 000 km,manual,1 999 cm3,Benzyna,Zduńska Wola,Łódzkie,2009
+30022,mazda,Mazda 6 2.0 CD Dynamic,17900.0,270 856 km,manual,1 998 cm3,Diesel,Sosnowiec,Śląskie,2006
+30023,mazda,Mazda 6 1.8 Exclusive,18900.0,270 856 km,manual,1 998 cm3,Diesel,Otwock,Mazowieckie,2006
+30024,mazda,Mazda 5 2.0 Top,12900.0,201 965 km,manual,1 598 cm3,Benzyna,Tymienice,Łódzkie,2005
+30025,mazda,Mazda 6 2.0 CD Exclusive,7500.0,201 965 km,manual,1 598 cm3,Benzyna,Jędrzejów,Świętokrzyskie,2005
+30026,mazda,Mazda 6,4900.0,212 000 km,manual,1 999 cm3,Benzyna,Karlino,Zachodniopomorskie,2006
+30027,mazda,Mazda 2 1.3 MZR Prime-Line,16999.0,212 000 km,manual,1 999 cm3,Benzyna,Brzeg,Opolskie,2006
+30028,mazda,Mazda 6 2.0 CD Active +,22750.0,131 280 km,manual,1 798 cm3,Benzyna,Płock,Mazowieckie,2005
+30029,mazda,Mazda 3 1.6 Sport Active,23900.0,131 280 km,manual,1 798 cm3,Benzyna,Strzelce Opolskie,Opolskie,2005
+30030,mazda,Mazda 5 1.8 Exclusive +,17400.0,197 200 km,manual,1 998 cm3,Diesel,Legnica,Dolnośląskie,2009
+30031,mazda,Mazda 6 2.0 CD DPF Top,22900.0,197 200 km,manual,1 998 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2009
+30032,mazda,Mazda 2 1.4 CD Exclusive,12900.0,159 900 km,manual,1 798 cm3,Benzyna,Ziębice,Dolnośląskie,2008
+30033,mazda,Mazda 3,13490.0,159 900 km,manual,1 798 cm3,Benzyna,Kozienice,Mazowieckie,2008
+30034,mazda,Mazda 6,27500.0,206 000 km,manual,1 999 cm3,Benzyna,Mława,Mazowieckie,2005
+30035,mazda,Mazda 6 1.8 Comfort,19500.0,206 000 km,manual,1 999 cm3,Benzyna,Łomża,Podlaskie,2005
+30036,mazda,Mazda 5 2.0 Exclusive +,19900.0,220 000 km,manual,1 998 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2007
+30037,mazda,Mazda 3 1.6 Exclusive,20400.0,220 000 km,manual,1 998 cm3,Diesel,Legnica,Dolnośląskie,2007
+30038,mazda,Mazda 5,12500.0,250 000 km,manual,2 261 cm3,Benzyna,Augustów,Podlaskie,2005
+30039,mazda,Mazda 3 2.0 Exclusive +,28500.0,250 000 km,manual,2 261 cm3,Benzyna,Leszno,Wielkopolskie,2005
+30040,mazda,Mazda 6 2.0 CD Active +,17900.0,198 654 km,manual,1 349 cm3,Benzyna+LPG,Gdynia,Pomorskie,2008
+30041,mazda,Mazda 2 1.4 Exclusive,9900.0,198 654 km,manual,1 349 cm3,Benzyna+LPG,Łuszczanowice-Kolonia,Łódzkie,2008
+30042,mazda,Mazda 6,14900.0,179 900 km,manual,1 998 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2008
+30043,mazda,Mazda CX-7 2.2 CD Exclusive,33900.0,179 900 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2008
+30044,mazda,Mazda CX-7,28900.0,192 000 km,manual,1 598 cm3,Benzyna,Wisła Mała,Śląskie,2009
+30045,mazda,Mazda 3 1.6 Active,12900.0,192 000 km,manual,1 598 cm3,Benzyna,Katowice,Śląskie,2009
+30046,mazda,Mazda CX-3 2.0 SkyJoy,95000.0,14 402 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2021
+30047,mazda,Mazda CX-5,213800.0,14 402 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2021
+30048,mazda,Mazda CX-5 2.0 Homura 2WD,187400.0,1 km,manual,2 488 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30049,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,168800.0,1 km,manual,2 488 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30050,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,188800.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30051,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,179800.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30052,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,178800.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30053,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,178400.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30054,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,168800.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30055,mazda,Mazda MX-5,154700.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30056,mazda,Mazda MX-5 2.0 Skypassion i-ELOOP,158015.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30057,mazda,Mazda MX-5,155700.0,1 km,manual,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2023
+30058,mazda,Mazda 3 2.0 mHEV Hikari,125900.0,1 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+30059,mazda,Mazda 3 2.0 mHEV Kanjo,132700.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30060,mazda,Mazda 3 2.0 mHEV Kanjo,95900.0,1 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+30061,mazda,Mazda 3 2.0 mHEV Hikari,115900.0,1 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+30062,mazda,Mazda 3 2.0 mHEV Kanjo,37800.0,1 km,manual,1 998 cm3,Benzyna,Radzymin,Mazowieckie,2023
+30063,mazda,Mazda 3 2.0 mHEV Kanjo,122900.0,1 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2023
+30064,mazda,Mazda CX-3 2.0 SkyJoy,89900.0,1 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2023
+30065,mazda,Mazda CX-5 2.0 Skypassion 2WD,135600.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+30066,mazda,Mazda 3 2.0 mHEV Kanjo,119500.0,1 km,manual,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2022
+30067,mazda,Mazda 6 2.0 SkyMotion,115000.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+30068,mazda,Mazda CX-5 2.0 Homura 2WD,180400.0,1 km,manual,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2023
+30069,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,146900.0,1 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2023
+30070,mazda,Mazda 6 2.0 Exclusive-Line,174800.0,800 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2022
+30071,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,109900.0,800 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2022
+30072,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,129900.0,1 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2022
+30073,mazda,Mazda 2 1.5 Skypassion,59900.0,1 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2022
+30074,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,154700.0,51 000 km,manual,1 998 cm3,Benzyna,Bielsko-Biała,Śląskie,2020
+30075,mazda,Mazda 3,77900.0,51 000 km,manual,1 998 cm3,Benzyna,Bielawa,Dolnośląskie,2020
+30076,mazda,Mazda 3 2.0 mHEV Hikari,136000.0,17 000 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2021
+30077,mazda,Mazda 3 2.0 mHEV Hikari,124900.0,17 000 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2021
+30078,mazda,Mazda 6 2.0 Exclusive-Line,180800.0,5 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2023
+30079,mazda,Mazda CX-30,128999.0,5 km,manual,1 998 cm3,Benzyna,Strzelce Opolskie,Opolskie,2023
+30080,mazda,Mazda 3 2.0 mHEV Hikari,123000.0,12 300 km,manual,1 998 cm3,Benzyna,Katowice,Śląskie,2022
+30081,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,115000.0,12 300 km,manual,1 998 cm3,Benzyna,Katowice,Śląskie,2022
+30082,mazda,Mazda 6,128900.0,24 500 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+30083,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,154700.0,24 500 km,manual,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2021
+30084,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,149900.0,22 878 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2021
+30085,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,121000.0,22 878 km,manual,1 998 cm3,Benzyna,Olsztyn,Warmińsko-mazurskie,2021
+30086,mazda,Mazda 6 2.0 SkyMotion,116900.0,43 922 km,manual,1 998 cm3,Benzyna,Opole,Opolskie,2021
+30087,mazda,Mazda 6 2.0 SkyJoy,56999.0,43 922 km,manual,1 998 cm3,Benzyna,Wysogotowo,Wielkopolskie,2021
+30088,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,119990.0,1 km,manual,1 998 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2023
+30089,mazda,Mazda CX-30 2.0 mHEV Kanjo AWD,119900.0,1 km,manual,1 998 cm3,Benzyna,Mysłowice,Śląskie,2023
+30090,mazda,Mazda 6 2.0 SkyJoy,134900.0,1 856 km,manual,1 998 cm3,Benzyna,Radom,Mazowieckie,2022
+30091,mazda,Mazda MX-5,154700.0,1 856 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2022
+30092,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,116899.0,27 498 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2021
+30093,mazda,Mazda CX-5 2.0 Skypassion 2WD,107900.0,27 498 km,manual,1 998 cm3,Benzyna,Stadła,Małopolskie,2021
+30094,mazda,Mazda 6 2.2 Kombi SKYACTIV-D Sports-Line,79000.0,43 050 km,manual,1 998 cm3,Benzyna,Szamotuły,Wielkopolskie,2021
+30095,mazda,Mazda CX-5 2.0 Skyenergy 2WD,121000.0,43 050 km,manual,1 998 cm3,Benzyna,Sulejów,Łódzkie,2021
+30096,mazda,Mazda CX-5 2.0 Kanjo AWD,150900.0,35 866 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2021
+30097,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,102900.0,35 866 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2021
+30098,mazda,Mazda CX-3 2.0 SkyJoy,89900.0,26 712 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2021
+30099,mazda,Mazda 2 e-SKYACTIV G 90 M HYBRID Exclusive-Line,54000.0,26 712 km,manual,1 998 cm3,Benzyna,Pleszew,Wielkopolskie,2021
+30100,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,129900.0,25 000 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2021
+30101,mazda,Mazda 3,88000.0,25 000 km,manual,1 998 cm3,Benzyna,Zielonka,Mazowieckie,2021
+30102,mazda,Mazda 3 2.0 mHEV Kanjo,102900.0,3 051 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2021
+30103,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,155900.0,3 051 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2021
+30104,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,109900.0,1 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2023
+30105,mazda,Mazda CX-3 2.0 SkyJoy,89900.0,1 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2023
+30106,mazda,Mazda CX-3 2.0 SkyPassion,78900.0,17 800 km,manual,1 998 cm3,Benzyna,Różan,Mazowieckie,2021
+30107,mazda,Mazda CX-30 SKYACTIV-G 2.0 M-Hybrid,39900.0,17 800 km,manual,1 998 cm3,Benzyna,Stare Miasto,Wielkopolskie,2021
+30108,mazda,Mazda 3 2.0 mHEV Kanjo,99900.0,25 089 km,manual,1 998 cm3,Benzyna,Sosnowiec,Śląskie,2020
+30109,mazda,Mazda CX-5 2.0 Center-Line Plus 2WD,168800.0,25 089 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2020
+30110,mazda,Mazda MX-5,107500.0,11 100 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2021
+30111,mazda,Mazda CX-30,99900.0,11 100 km,manual,1 998 cm3,Benzyna,Pszczyna,Śląskie,2021
+30112,mazda,Mazda CX-30 SKYACTIV-G 2.0 M-Hybrid,99900.0,37 200 km,manual,1 998 cm3,Benzyna,Chodzież,Wielkopolskie,2020
+30113,mazda,Mazda 3 SKYACTIV-X 2.0 M-Hybrid DRIVE,105900.0,37 200 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2020
+30114,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,144900.0,9 100 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2020
+30115,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,169400.0,9 100 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2020
+30116,mazda,Mazda 3 2.0 mHEV Kanjo,140000.0,15 000 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2021
+30117,mazda,Mazda 2 1.5 mHEV Skypassion,62900.0,15 000 km,manual,1 998 cm3,Benzyna,Brzeziny,Łódzkie,2021
+30118,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,178800.0,25 430 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+30119,mazda,Mazda MX-5 2.0 Skypassion i-ELOOP,144700.0,25 430 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2022
+30120,mazda,Mazda 3 2.0 mHEV Hikari,119900.0,5 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2023
+30121,mazda,Mazda CX-5 2.0 Hikari AWD,182800.0,5 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30122,mazda,Mazda CX-5 2.0 Hikari 2WD,139900.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2022
+30123,mazda,Mazda 6 2.0 SkyPrestige,145000.0,1 km,manual,1 998 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+30124,mazda,Mazda 6 2.0 SkyPrestige,149153.0,26 232 km,manual,1 496 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+30125,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,145300.0,26 232 km,manual,1 496 cm3,Benzyna,Białystok,Podlaskie,2021
+30126,mazda,Mazda CX-30 e-SKYACTIV-G 2.0 M HYBRID 150,103500.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30127,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,133400.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2023
+30128,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,110900.0,1 km,manual,1 998 cm3,Benzyna,Bolesławice,Pomorskie,2022
+30129,mazda,Mazda 6 2.0 SkyMotion,115000.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+30130,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,134900.0,26 960 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2021
+30131,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,89900.0,26 960 km,manual,1 998 cm3,Benzyna,Dąbrowa Górnicza,Śląskie,2021
+30132,mazda,Mazda MX-5,144900.0,1 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2022
+30133,mazda,Mazda CX-5 2.0 Newground 2WD,162900.0,1 km,manual,1 998 cm3,Benzyna,Opole,Opolskie,2022
+30134,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,155555.0,26 670 km,manual,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+30135,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,97000.0,26 670 km,manual,1 998 cm3,Benzyna,Radomsko,Łódzkie,2022
+30136,mazda,Mazda CX-5 2.0 Skyjoy 2WD,119700.0,3 423 km,manual,1 998 cm3,Benzyna,Radom,Mazowieckie,2021
+30137,mazda,Mazda CX-5 2.0 Hikari 2WD,168800.0,3 423 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2021
+30138,mazda,Mazda 3 2.0 mHEV Hikari,87900.0,2 900 km,manual,1 998 cm3,Benzyna,Zielona Góra,Lubuskie,2022
+30139,mazda,Mazda 3 2.0 mHEV Kanjo,119900.0,2 900 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2022
+30140,mazda,Mazda CX-30,114000.0,5 km,manual,1 998 cm3,Benzyna,Stalowa Wola,Podkarpackie,2023
+30141,mazda,Mazda 3 2.0 mHEV Hikari,109900.0,5 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2023
+30142,mazda,Mazda 3 2.0 Skymotion,57900.0,58 000 km,manual,1 998 cm3,Benzyna,Ząbkowice Śląskie,Dolnośląskie,2017
+30143,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,60000.0,58 000 km,manual,1 998 cm3,Benzyna,Dąbrówki Breńskie,Małopolskie,2017
+30144,mazda,Mazda CX-5,119500.0,199 999 km,manual,1 998 cm3,Benzyna,Kępno,Wielkopolskie,2016
+30145,mazda,Mazda MX-5 2.0 Skypassion i-ELOOP,129999.0,199 999 km,manual,1 998 cm3,Benzyna,Czeladź,Śląskie,2016
+30146,mazda,Mazda 3 2.0 Skypassion,44900.0,22 000 km,manual,1 998 cm3,Benzyna,Tarnów,Małopolskie,2019
+30147,mazda,Mazda CX-5 2.0 Skydream 2WD,94900.0,22 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2019
+30148,mazda,Mazda CX-3,84900.0,6 000 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2019
+30149,mazda,Mazda 6 2.0 Skymotion,70900.0,6 000 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2019
+30150,mazda,Mazda 3,32900.0,133 487 km,manual,1 998 cm3,Benzyna,Nieborowice,Śląskie,2015
+30151,mazda,Mazda 6 2.0 Skybusiness,67900.0,133 487 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2015
+30152,mazda,Mazda 6 2.0 Skypassion I-ELoop,61900.0,75 620 km,manual,1 998 cm3,Benzyna,Rumia,Pomorskie,2017
+30153,mazda,Mazda CX-5 2.0 Skyprestige 2WD,99900.0,75 620 km,manual,1 998 cm3,Benzyna,Łask,Łódzkie,2017
+30154,mazda,Mazda CX-5 2.2 D Skymotion 2WD,50999.0,4 285 km,manual,1 998 cm3,Benzyna,Jasień,Małopolskie,2018
+30155,mazda,Mazda 3 2.0 Skyenergy EU6,44900.0,4 285 km,manual,1 998 cm3,Benzyna,Trzebnica,Dolnośląskie,2018
+30156,mazda,Mazda CX-5,20900.0,139 800 km,manual,1 998 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2016
+30157,mazda,Mazda CX-5 2.0 Skyenergy 2WD,69800.0,139 800 km,manual,1 998 cm3,Benzyna,Swadzim,Wielkopolskie,2016
+30158,mazda,Mazda CX-3 2.0 Skypassion,63900.0,88 000 km,manual,1 998 cm3,Benzyna,Radom,Mazowieckie,2017
+30159,mazda,Mazda 3,59700.0,88 000 km,manual,1 998 cm3,Benzyna,Kotlin,Wielkopolskie,2017
+30160,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,103900.0,174 966 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2015
+30161,mazda,Mazda 3 2.0 mHEV Kai,84900.0,174 966 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2015
+30162,mazda,Mazda 3,65000.0,225 000 km,manual,1 998 cm3,Benzyna,Zielona Góra,Lubuskie,2015
+30163,mazda,Mazda 6 2.0 Skypassion I-ELoop,91900.0,225 000 km,manual,1 998 cm3,Benzyna,Opole,Opolskie,2015
+30164,mazda,Mazda CX-5 2.0 Exclusive-Line AWD,79900.0,132 458 km,manual,1 998 cm3,Benzyna,Łask,Łódzkie,2018
+30165,mazda,Mazda CX-5 2.0 Skyenergy 2WD,75900.0,132 458 km,manual,1 998 cm3,Benzyna,Cielcza,Wielkopolskie,2018
+30166,mazda,Mazda 6 2.2 D Skypassion I-ELoop,48500.0,221 130 km,manual,2 191 cm3,Diesel,Lipsko,Mazowieckie,2015
+30167,mazda,Mazda CX-5 2.2 D Skyenergy AWD,56500.0,221 130 km,manual,2 191 cm3,Diesel,Nowa Ruda,Dolnośląskie,2015
+30168,mazda,Mazda CX-5 2.0 Skyenergy AWD,93800.0,213 111 km,manual,1 998 cm3,Benzyna,Łomianki,Mazowieckie,2015
+30169,mazda,Mazda CX-5 SKYACTIV-D 175 AWD Sports-Line,59800.0,213 111 km,manual,1 998 cm3,Benzyna,Kąty Wrocławskie,Dolnośląskie,2015
+30170,mazda,Mazda CX-5 2.0 Skyenergy AWD,93800.0,226 740 km,manual,2 191 cm3,Diesel,Białystok,Podlaskie,2015
+30171,mazda,Mazda CX-3 2.0 Skymotion,71900.0,226 740 km,manual,2 191 cm3,Diesel,Szczecin,Zachodniopomorskie,2015
+30172,mazda,Mazda 6 2.0 Skypassion I-ELoop,95000.0,113 333 km,manual,1 998 cm3,Benzyna,Bytom,Śląskie,2016
+30173,mazda,Mazda 6 2.0 Skypassion I-ELoop,101500.0,113 333 km,manual,1 998 cm3,Benzyna,Truskolasy,Śląskie,2016
+30174,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,109900.0,10 530 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2021
+30175,mazda,Mazda CX-5 2.0 Kanjo 2WD,141900.0,10 530 km,manual,1 998 cm3,Benzyna,Radom,Mazowieckie,2021
+30176,mazda,Mazda 2,74800.0,300 km,manual,1 998 cm3,Benzyna,Gniezno,Wielkopolskie,2022
+30177,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,115900.0,300 km,manual,1 998 cm3,Benzyna,Białystok,Podlaskie,2022
+30178,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,154700.0,2 200 km,manual,1 490 cm3,Hybryda,Łysomice,Kujawsko-pomorskie,2022
+30179,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,96900.0,2 200 km,manual,1 490 cm3,Hybryda,Piotrowice,Wielkopolskie,2022
+30180,mazda,Mazda 3 2.0 mHEV Hikari,114900.0,16 559 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+30181,mazda,Mazda CX-5 2.0 Hikari 2WD,169700.0,16 559 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+30182,mazda,Mazda 3 2.0 mHEV Hikari,142700.0,1 km,manual,1 998 cm3,Benzyna,Kraków,Małopolskie,2023
+30183,mazda,Mazda CX-5 2.0 Kanjo 2WD,153800.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+30184,mazda,Mazda 3 2.0 mHEV Kai,111700.0,12 450 km,manual,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2020
+30185,mazda,Mazda CX-30 2.0 mHEV Hikari AWD,131800.0,12 450 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+30186,mazda,Mazda CX-30 SKYACTIV-D 1.8,87900.0,47 628 km,manual,1 998 cm3,Benzyna,Mielec,Podkarpackie,2020
+30187,mazda,Mazda 2 SKYACTIV-G 90 Red Sports Edition,63900.0,47 628 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2020
+30188,mazda,Mazda 6 2.0 SkyMotion,116000.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+30189,mazda,Mazda 3 SKYACTIV-X 2.0 M-Hybrid SELECTION,59500.0,1 km,manual,1 998 cm3,Benzyna,Malanów,Wielkopolskie,2022
+30190,mazda,Mazda 3 e-SKYACTIV-G 2.0 M HYBRID SELECTION,73900.0,5 km,manual,1 998 cm3,Benzyna,Promna-Kolonia,Mazowieckie,2022
+30191,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,129900.0,5 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+30192,mazda,Mazda CX-5 2.0 Kai 2WD,141900.0,1 km,manual,1 998 cm3,Benzyna,Kielce,Świętokrzyskie,2022
+30193,mazda,Mazda MX-5,109000.0,1 km,manual,1 998 cm3,Benzyna,Wyszków,Mazowieckie,2022
+30194,mazda,Mazda 2 1.5 mHEV Skymotion,61900.0,1 km,manual,1 998 cm3,Benzyna,Bytom,Śląskie,2022
+30195,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,108900.0,1 km,manual,1 998 cm3,Benzyna,Wieluń,Łódzkie,2022
+30196,mazda,Mazda 3,35400.0,19 800 km,manual,1 998 cm3,Benzyna,Lubaczów,Podkarpackie,2021
+30197,mazda,Mazda CX-3 2.0 SkyPrestige,85999.0,19 800 km,manual,1 998 cm3,Benzyna,Masłowo,Wielkopolskie,2021
+30198,mazda,Mazda 3 2.0 mHEV Enso,155400.0,178 598 km,manual,1 759 cm3,Diesel,Wrocław,Dolnośląskie,2021
+30199,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,176407.0,178 598 km,manual,1 759 cm3,Diesel,Warszawa,Mazowieckie,2021
+30200,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,124900.0,41 700 km,manual,1 496 cm3,Benzyna,Kraków,Małopolskie,2020
+30201,mazda,Mazda 3 2.0 mHEV Hikari,119900.0,41 700 km,manual,1 496 cm3,Benzyna,Sosnowiec,Śląskie,2020
+30202,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,157400.0,55 800 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+30203,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,154700.0,55 800 km,manual,1 998 cm3,Benzyna,Tarnowskie Góry,Śląskie,2021
+30204,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,169400.0,21 262 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+30205,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,112900.0,21 262 km,manual,1 998 cm3,Benzyna,Bielsko-Biała,Śląskie,2020
+30206,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30207,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30208,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30209,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30210,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30211,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30212,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30213,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30214,mazda,Mazda 6 2.0 SkyMotion,116000.0,43 050 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+30215,mazda,Mazda MX-5 2.0 Skyfreedom i-ELOOP,144900.0,43 050 km,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+30216,mazda,Mazda MX-5,154700.0,8 900 km,manual,1 998 cm3,Benzyna,Bolesławice,Pomorskie,2022
+30217,mazda,Mazda 3 2.0 mHEV Kanjo,109900.0,8 900 km,manual,1 998 cm3,Benzyna,Gdynia,Pomorskie,2022
+30218,mazda,Mazda 6 2.0 SkyPassion,129900.0,1 998 cm3,manual,Benzyna,2023,Łysomice,Kujawsko-pomorskie,2023
+30219,mazda,Mazda MX-5,154700.0,Benzyna,manual,2021,7 868 km,Bolesławice,Pomorskie,1 998 cm3
+30220,mazda,Mazda 3,89900.0,Benzyna,manual,2021,7 868 km,Warszawa,Mazowieckie,1 998 cm3
+30221,mazda,Mazda MX-5,143700.0,Benzyna,manual,2020,32 120 km,Gdańsk,Pomorskie,1 998 cm3
+30222,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,155100.0,Benzyna,manual,2020,32 120 km,Katowice,Śląskie,1 998 cm3
+30223,mazda,Mazda 6 2.0 SkyPrestige,149900.0,Benzyna,manual,2023,1 998 cm3,Gdynia,Pomorskie,1 998 cm3
+30224,mazda,Mazda MX-5,157615.0,2023,manual,1 998 cm3,Benzyna,Warszawa,Mazowieckie,Benzyna
+30225,mazda,Mazda MX-5 2.0 100 i-ELOOP,128900.0,29 000 km,manual,1 998 cm3,Benzyna,Bielsko-Biała,Śląskie,2020
+30226,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,155700.0,29 000 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+30227,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,155700.0,10 km,manual,1 998 cm3,Benzyna,Opole,Opolskie,2022
+30228,mazda,Mazda CX-30 2.0 mHEV Kanjo AWD,96800.0,10 km,manual,1 998 cm3,Benzyna,Nowy Sącz,Małopolskie,2022
+30229,mazda,Mazda 3 2.0 mHEV Hikari,89999.0,4 km,manual,1 998 cm3,Benzyna,Łódź,Łódzkie,2023
+30230,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,89900.0,4 km,manual,1 998 cm3,Benzyna,Kostomłoty Drugie,Świętokrzyskie,2023
+30231,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,95900.0,665 km,manual,1 998 cm3,Benzyna,Rojów,Wielkopolskie,2022
+30232,mazda,Mazda CX-30 2.0 mHEV Hikari 2WD,155000.0,665 km,manual,1 998 cm3,Benzyna,Szczecin,Zachodniopomorskie,2022
+30233,mazda,Mazda CX-5,169400.0,1 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2023
+30234,mazda,Mazda 3,79900.0,1 km,manual,1 998 cm3,Benzyna,Słupsk,Pomorskie,2023
+30235,mazda,Mazda 3 2.0 mHEV Hikari,163400.0,16 000 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2020
+30236,mazda,Mazda CX-5 2.0 Kanjo 2WD,154200.0,16 000 km,manual,1 998 cm3,Benzyna,Łysomice,Kujawsko-pomorskie,2020
+30237,mazda,Mazda 3,104900.0,1 km,manual,1 998 cm3,Benzyna,Łysomice,Kujawsko-pomorskie,2023
+30238,mazda,Mazda 3,103000.0,1 km,manual,1 998 cm3,Benzyna,Barcice,Małopolskie,2023
+30239,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,115500.0,5 km,manual,1 998 cm3,Benzyna,Kozłów Biskupi,Mazowieckie,2023
+30240,mazda,Mazda 2,44900.0,5 km,manual,1 998 cm3,Benzyna,Konin,Wielkopolskie,2023
+30241,mazda,Mazda CX-5 2.0 Exclusive-Line 2WD,178800.0,19 800 km,manual,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2020
+30242,mazda,Mazda CX-5 2.0 Black 2WD,64900.0,19 800 km,manual,1 998 cm3,Benzyna,Ossów,Mazowieckie,2020
+30243,mazda,Mazda 3 2.0 mHEV Kanjo,109900.0,35 399 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2020
+30244,mazda,Mazda MX-5 2.0 Exclusive-Line i-ELOOP,154700.0,35 399 km,manual,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+30245,mazda,Mazda 3,79900.0,7 000 km,manual,1 998 cm3,Benzyna,Rzeszów,Podkarpackie,2021
+30246,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30247,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30248,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30249,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30250,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30251,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30252,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30253,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30254,mazda,Mazda,17900.0,362 000 km,automatic,2 500 cm3,Diesel,Radymno,Podkarpackie,1995
+30255,mazda,Mazda 323,11500.0,362 000 km,automatic,2 500 cm3,Diesel,Warszawa,Mazowieckie,1995
+30256,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30257,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30258,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30259,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30260,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30261,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30262,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30263,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30264,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30265,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30266,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30267,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30268,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30269,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30270,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30271,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30272,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30273,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30274,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30275,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30276,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30277,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30278,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30279,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30280,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30281,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30282,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30283,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30284,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30285,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30286,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30287,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30288,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30289,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30290,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30291,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30292,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30293,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30294,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30295,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30296,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30297,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30298,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30299,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30300,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30301,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30302,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30303,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30304,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30305,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30306,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30307,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30308,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30309,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30310,mazda,Mazda CX-5 SKYACTIV-G 192 Drive AWD Sports-Line,88888.0,84 000 km,automatic,2 488 cm3,Benzyna,Biłgoraj,Lubelskie,2017
+30311,mazda,Mazda CX-5 2.2 D Skyenergy AWD,77900.0,84 000 km,automatic,2 488 cm3,Benzyna,Wojkowice,Dolnośląskie,2017
+30312,mazda,Mazda CX-5,86900.0,122 800 km,automatic,2 191 cm3,Diesel,Łódź,Łódzkie,2017
+30313,mazda,Mazda 6 2.5 SkyPassion,112000.0,122 800 km,automatic,2 191 cm3,Diesel,Warszawa,Mazowieckie,2017
+30314,mazda,Mazda CX-5 2.5 Skypassion AWD,115900.0,79 840 km,automatic,2 488 cm3,Benzyna,Łódź,Łódzkie,2019
+30315,mazda,Mazda 6 2.2 D Skypassion I-ELoop,64000.0,79 840 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2019
+30316,mazda,Mazda CX-3,65000.0,49 000 km,automatic,2 488 cm3,Benzyna,Lubaczów,Podkarpackie,2019
+30317,mazda,Mazda CX-5,120000.0,49 000 km,automatic,2 488 cm3,Benzyna,Pruszków,Mazowieckie,2019
+30318,mazda,Mazda CX-9,109000.0,94 000 km,automatic,2 488 cm3,Benzyna,Uniejów,Łódzkie,2018
+30319,mazda,Mazda 6 2.5 Skypassion I-ELoop,79900.0,94 000 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2018
+30320,mazda,Mazda 6,105000.0,149 500 km,automatic,2 191 cm3,Diesel,Lubartów,Lubelskie,2015
+30321,mazda,Mazda CX-5 2.2 D Skypassion AWD,73000.0,149 500 km,automatic,2 191 cm3,Diesel,Bielsko-Biała,Śląskie,2015
+30322,mazda,Mazda 6 2.2 D SkyDream,124600.0,91 132 km,automatic,1 998 cm3,Benzyna,Murowana Goślina,Wielkopolskie,2016
+30323,mazda,Mazda CX-3,69000.0,91 132 km,automatic,1 998 cm3,Benzyna,Łążek,Wielkopolskie,2016
+30324,mazda,Mazda 3 2.0 mHEV Hikari,85000.0,34 855 km,automatic,2 488 cm3,Benzyna,Jankowice,Śląskie,2019
+30325,mazda,Mazda CX-5 2.5 Skydream 2WD,102900.0,34 855 km,automatic,2 488 cm3,Benzyna,Węgrów,Mazowieckie,2019
+30326,mazda,Mazda CX-5 SKYACTIV-D 175 Drive AWD Sports-Line,74900.0,61 000 km,automatic,3 726 cm3,Benzyna,Kielce,Świętokrzyskie,2016
+30327,mazda,Mazda 6,127900.0,61 000 km,automatic,3 726 cm3,Benzyna,Gdynia,Pomorskie,2016
+30328,mazda,Mazda CX-3,77500.0,149 920 km,automatic,2 488 cm3,Benzyna,Zabrze,Śląskie,2016
+30329,mazda,Mazda 3,46900.0,149 920 km,automatic,2 488 cm3,Benzyna,Pyskowice,Śląskie,2016
+30330,mazda,Mazda CX-5,89700.0,13 000 km,automatic,2 488 cm3,Benzyna,Ciechanowiec,Podlaskie,2018
+30331,mazda,Mazda 3,64900.0,13 000 km,automatic,2 488 cm3,Benzyna,Komorniki,Wielkopolskie,2018
+30332,mazda,Mazda 6 2.5 SkyPassion,122898.0,82 746 km,automatic,2 191 cm3,Diesel,Warszawa,Mazowieckie,2015
+30333,mazda,Mazda 6 2.2 D SkyDream,92900.0,82 746 km,automatic,2 191 cm3,Diesel,Leszno,Wielkopolskie,2015
+30334,mazda,Mazda 6 2.5 Skypassion I-ELoop,60900.0,156 000 km,automatic,2 191 cm3,Diesel,Ostrzeszów,Wielkopolskie,2018
+30335,mazda,Mazda CX-5 e-SKYACTIV-G 194 AWD Advantage,119000.0,156 000 km,automatic,2 191 cm3,Diesel,Panieńszczyzna,Lubelskie,2018
+30336,mazda,Mazda 6 2.5 SkyPassion,117645.0,17 000 km,automatic,1 998 cm3,Benzyna,Libertów,Małopolskie,2018
+30337,mazda,Mazda 6 2.5 SkyDream,129900.0,17 000 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2018
+30338,mazda,Mazda CX-5 2.5 Skypassion AWD,129900.0,69 200 km,automatic,1 998 cm3,Benzyna,Brodnica,Kujawsko-pomorskie,2019
+30339,mazda,Mazda 3 2.0 Skypassion,76000.0,69 200 km,automatic,1 998 cm3,Benzyna,Turek,Wielkopolskie,2019
+30340,mazda,Mazda CX-3,78500.0,83 350 km,automatic,2 488 cm3,Benzyna,Mstów,Śląskie,2018
+30341,mazda,Mazda CX-5 2.5 Skypassion AWD,112900.0,83 350 km,automatic,2 488 cm3,Benzyna,Zielona Góra,Lubuskie,2018
+30342,mazda,Mazda CX-5 2.0 Skypassion,67900.0,168 000 km,automatic,1 998 cm3,Benzyna,Wysoka,Dolnośląskie,2014
+30343,mazda,Mazda CX-5 2.2 D Skypassion AWD,59800.0,168 000 km,automatic,1 998 cm3,Benzyna,Kraków,Małopolskie,2014
+30344,mazda,Mazda CX-5 2.0 Skypassion,63900.0,164 700 km,automatic,2 191 cm3,Diesel,Przysucha,Mazowieckie,2014
+30345,mazda,Mazda 3 2.0 Sport,37900.0,164 700 km,automatic,2 191 cm3,Diesel,Warszawa,Mazowieckie,2014
+30346,mazda,Mazda 6 2.2 D Skypassion I-ELoop,69200.0,130 000 km,automatic,1 998 cm3,Benzyna,Trzebnica,Dolnośląskie,2012
+30347,mazda,Mazda CX-9 3.7 V6 Limitowana edycja,52500.0,130 000 km,automatic,1 998 cm3,Benzyna,Wągrowiec,Wielkopolskie,2012
+30348,mazda,Mazda CX-5 2.2 SKYACTIV-D AWD Sendo,65900.0,114 750 km,automatic,1 999 cm3,Benzyna,Przasnysz,Mazowieckie,2012
+30349,mazda,Mazda CX-5 2.2 D Skypassion,62800.0,114 750 km,automatic,1 999 cm3,Benzyna,Leszno,Wielkopolskie,2012
+30350,mazda,Mazda CX-5 2.0 Skymotion,54900.0,150 500 km,automatic,2 191 cm3,Diesel,Radom,Mazowieckie,2014
+30351,mazda,Mazda 6,46000.0,150 500 km,automatic,2 191 cm3,Diesel,Lublin,Lubelskie,2014
+30352,mazda,Mazda 3 SKYACTIV-G 120 Automatik Center-Line,49900.0,140 000 km,automatic,3 726 cm3,Benzyna,Łuków,Lubelskie,2014
+30353,mazda,Mazda MX-5 2.0 Sport +,79950.0,140 000 km,automatic,3 726 cm3,Benzyna,Kraków,Małopolskie,2014
+30354,mazda,Mazda 6 2.0 Kombi SKYACTIV-G Center-Line,40900.0,181 250 km,automatic,2 191 cm3,Diesel,Gorzów Wielkopolski,Lubuskie,2014
+30355,mazda,Mazda 6 2.5 Skypassion I-ELoop,62900.0,181 250 km,automatic,2 191 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2014
+30356,mazda,Mazda CX-5 2.0 Skypassion,62000.0,101 400 km,automatic,2 191 cm3,Diesel,Zabrze,Śląskie,2014
+30357,mazda,Mazda CX-5,57000.0,101 400 km,automatic,2 191 cm3,Diesel,Mońki,Podlaskie,2014
+30358,mazda,Mazda MX-5,56800.0,197 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2012
+30359,mazda,Mazda 6 SKYACTIV-D 175 Drive i-ELOOP Sports-Line,47900.0,197 000 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2012
+30360,mazda,Mazda 3,29000.0,208 710 km,automatic,2 191 cm3,Diesel,Katowice,Śląskie,2012
+30361,mazda,Mazda CX-5 2.2 D Skyenergy 2WD,59950.0,208 710 km,automatic,2 191 cm3,Diesel,Sierakowice,Pomorskie,2012
+30362,mazda,Mazda 6 2.2 D Skypassion I-ELoop,59900.0,99 900 km,automatic,1 998 cm3,Benzyna,Porąbka Iwkowska,Małopolskie,2013
+30363,mazda,Mazda CX-5,64900.0,99 900 km,automatic,1 998 cm3,Benzyna,Lipsko,Mazowieckie,2013
+30364,mazda,Mazda 6 2.5 Skypassion I-ELoop,40000.0,79 000 km,automatic,1 998 cm3,Benzyna,Gdynia,Pomorskie,2013
+30365,mazda,Mazda CX-5 SKYACTIV-G 160 Drive AWD Exclusive-Line,54900.0,79 000 km,automatic,1 998 cm3,Benzyna,Siedlce,Mazowieckie,2013
+30366,mazda,Mazda 3,21900.0,250 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2013
+30367,mazda,Mazda 3 2.0 Sport,15500.0,250 000 km,automatic,1 998 cm3,Benzyna,Olszyna,Wielkopolskie,2013
+30368,mazda,Mazda CX-5 2.0 Skypassion,41500.0,124 000 km,automatic,2 488 cm3,Benzyna,Łódź,Łódzkie,2013
+30369,mazda,Mazda CX-9 3.7 V6 Limitowana edycja,74900.0,124 000 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2013
+30370,mazda,Mazda 6 2.0 Exclusive + Activematic,29900.0,156 000 km,automatic,1 998 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2012
+30371,mazda,Mazda 6 2.0 Skyenergy,61990.0,156 000 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2012
+30372,mazda,Mazda CX-5 2.2 D Skypassion,58900.0,230 000 km,automatic,1 998 cm3,Benzyna,Brzozów,Podkarpackie,2013
+30373,mazda,Mazda 3 SKYACTIV-D 150 Automatik Sports-Line,27900.0,230 000 km,automatic,1 998 cm3,Benzyna,Nowy Targ,Małopolskie,2013
+30374,mazda,Mazda 3 2.0 mHEV Kai,105000.0,28 700 km,automatic,1 998 cm3,Benzyna,Ząbki,Mazowieckie,2019
+30375,mazda,Mazda CX-5,49900.0,28 700 km,automatic,1 998 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2019
+30376,mazda,Mazda 6 2.5 SkyPassion,119900.0,90 000 km,automatic,2 488 cm3,Benzyna,Łysomice,Kujawsko-pomorskie,2018
+30377,mazda,Mazda 6 2.0 Skyenergy,84900.0,90 000 km,automatic,2 488 cm3,Benzyna,Łódź,Łódzkie,2018
+30378,mazda,Mazda CX-5,98900.0,95 000 km,automatic,2 488 cm3,Benzyna,Witaszyce,Wielkopolskie,2018
+30379,mazda,Mazda CX-5 2.5 Skypassion i-ELoop,89900.0,95 000 km,automatic,2 488 cm3,Benzyna,Maszkienice,Małopolskie,2018
+30380,mazda,Mazda CX-3,118900.0,93 200 km,automatic,1 998 cm3,Benzyna,Lublin,Lubelskie,2017
+30381,mazda,Mazda CX-5 SKYACTIV-G 160 Drive AWD Exclusive-Line,59900.0,93 200 km,automatic,1 998 cm3,Benzyna,Nowy Sącz,Małopolskie,2017
+30382,mazda,Mazda 6 2.5 SkyPassion,124000.0,70 600 km,automatic,2 488 cm3,Benzyna,Szczecin,Zachodniopomorskie,2018
+30383,mazda,Mazda 6,146370.0,70 600 km,automatic,2 488 cm3,Benzyna,Trzebnica,Dolnośląskie,2018
+30384,mazda,Mazda 3,71900.0,76 000 km,automatic,2 488 cm3,Benzyna,Białystok,Podlaskie,2016
+30385,mazda,Mazda 3,59900.0,76 000 km,automatic,2 488 cm3,Benzyna,Kraków,Małopolskie,2016
+30386,mazda,Mazda 6,92900.0,12 062 km,automatic,1 998 cm3,Benzyna,Długołęka,Dolnośląskie,2018
+30387,mazda,Mazda CX-3,79900.0,12 062 km,automatic,1 998 cm3,Benzyna,Wągrowiec,Wielkopolskie,2018
+30388,mazda,Mazda 3,54900.0,200 000 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2016
+30389,mazda,Mazda CX-3 2.0 SkyEnergy,84900.0,200 000 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2016
+30390,mazda,Mazda CX-3,83900.0,84 135 km,automatic,2 488 cm3,Benzyna,Białystok,Podlaskie,2018
+30391,mazda,Mazda CX-9,59850.0,84 135 km,automatic,2 488 cm3,Benzyna,Ciemne,Mazowieckie,2018
+30392,mazda,Mazda CX-3,81499.0,23 900 km,automatic,2 488 cm3,Benzyna,Białystok,Podlaskie,2019
+30393,mazda,Mazda CX-5 SKYACTIV-D 150 Aut.SCR Exclusive-Line,77999.0,23 900 km,automatic,2 488 cm3,Benzyna,Goleniów,Zachodniopomorskie,2019
+30394,mazda,Mazda CX-5,92900.0,74 959 km,automatic,2 488 cm3,Benzyna,Brzeźnica,Podkarpackie,2018
+30395,mazda,Mazda 6 2.5 SKYACTIV-G Sports-Line,61500.0,74 959 km,automatic,2 488 cm3,Benzyna,Kowary,Dolnośląskie,2018
+30396,mazda,Mazda 6 2.0 SkyEnergy,104000.0,64 260 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2015
+30397,mazda,Mazda 6 2.0 Skyenergy,73900.0,64 260 km,automatic,1 998 cm3,Benzyna,Wrocław,Dolnośląskie,2015
+30398,mazda,Mazda CX-9,99000.0,99 607 km,automatic,1 998 cm3,Benzyna,Pabianice,Łódzkie,2018
+30399,mazda,Mazda 3 2.0 Skypassion,79900.0,99 607 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2018
+30400,mazda,Mazda CX-5 2.2 D Skypassion AWD,116900.0,25 000 km,automatic,1 998 cm3,Benzyna,Radom,Mazowieckie,2019
+30401,mazda,Mazda CX-5 2.2 D Skypassion AWD,95900.0,25 000 km,automatic,1 998 cm3,Benzyna,Jarocin,Wielkopolskie,2019
+30402,mazda,Mazda 6,88500.0,84 333 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2016
+30403,mazda,Mazda 6 2.0 Skymotion,84850.0,84 333 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2016
+30404,mazda,Mazda 3 2.0 mHEV Kai,89900.0,22 500 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2019
+30405,mazda,Mazda 6,76900.0,22 500 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2019
+30406,mazda,Mazda 6 3.0 V6,15000.0,179 000 km,automatic,2 968 cm3,Benzyna,Warszawa,Mazowieckie,2004
+30407,mazda,Mazda MX-5,29700.0,179 000 km,automatic,2 968 cm3,Benzyna,Bogdaszowice,Dolnośląskie,2004
+30408,mazda,Mazda 2,8900.0,99 000 km,automatic,1 840 cm3,Benzyna,Wągrowiec,Wielkopolskie,2001
+30409,mazda,Mazda 2 1.4 Active ASM,13000.0,99 000 km,automatic,1 840 cm3,Benzyna,Puszczykowo,Wielkopolskie,2001
+30410,mazda,Mazda Xedos 9 2.5 Exclusiv,3500.0,212 000 km,automatic,1 399 cm3,Diesel,Radom,Mazowieckie,2004
+30411,mazda,Mazda MX-5 1.9 16V,34800.0,212 000 km,automatic,1 399 cm3,Diesel,Bogdaszowice,Dolnośląskie,2004
+30412,mazda,Mazda Xedos 9 2.5 Exclusiv,5600.0,150 000 km,automatic,1 388 cm3,Benzyna,Wojcieszów,Dolnośląskie,2004
+30413,mazda,Mazda Xedos 9 2.5 Exclusiv,6500.0,150 000 km,automatic,1 388 cm3,Benzyna,Kajkowo,Warmińsko-mazurskie,2004
+30414,mazda,Mazda Tribute 3.0 V6 Exclusive,14900.0,216 500 km,automatic,2 497 cm3,Benzyna,Świebodzice,Dolnośląskie,2000
+30447,mazda,Mazda CX-5,183300.0,1 km,automatic,2 488 cm3,Benzyna,Baranowo,Wielkopolskie,2022
+30448,mazda,Mazda MX-30 Hikari,119900.0,1 km,automatic,2 488 cm3,Benzyna,Sosnowiec,Śląskie,2022
+30449,mazda,Mazda 6 2.0 SkyJoy,154000.0,21 629 km,automatic,Elektryczny,2021,Warszawa,Mazowieckie,2021
+30450,mazda,Mazda 6 2.0 SkyJoy,138485.0,Elektryczny,automatic,2022,1 km,Warszawa,Mazowieckie,21 629 km
+30451,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,123900.0,Benzyna,automatic,2022,1 km,Sosnowiec,Śląskie,1 998 cm3
+30452,mazda,Mazda 3 2.0 mHEV 100th Anniversary,123000.0,Benzyna,automatic,2022,1 km,Opole,Opolskie,1 998 cm3
+30453,mazda,Mazda CX-30,103000.0,Benzyna,automatic,2022,1 km,Rzeszów,Podkarpackie,1 998 cm3
+30454,mazda,Mazda CX-5 2.0 Skyenergy AWD,67500.0,Benzyna,automatic,2021,49 471 km,Łask,Łódzkie,1 998 cm3
+30455,mazda,Mazda CX-5 e-SKYACTIV-G 194 AWD Exclusive-Line,115000.0,Benzyna,automatic,2021,49 471 km,Jarosław,Podkarpackie,1 998 cm3
+30456,mazda,Mazda 6,163000.0,Benzyna,automatic,2020,69 000 km,Łódź,Łódzkie,1 998 cm3
+30457,mazda,Mazda MX-30,160690.0,Benzyna,automatic,2020,69 000 km,Warszawa,Mazowieckie,1 998 cm3
+30458,mazda,Mazda CX-5,220400.0,Benzyna,automatic,2021,10 400 km,Bydgoszcz,Kujawsko-pomorskie,1 998 cm3
+30459,mazda,Mazda 3 2.0 mHEV Hikari,135900.0,Benzyna,automatic,2021,10 400 km,Łódź,Łódzkie,1 998 cm3
+30460,mazda,Mazda 2 1.5 Skyenergy,95300.0,Benzyna,automatic,2021,27 000 km,Bydgoszcz,Kujawsko-pomorskie,1 998 cm3
+30461,mazda,Mazda CX-30 2.0 mHEV Kanjo 2WD,124000.0,Benzyna,automatic,2021,27 000 km,Wojkowice,Śląskie,1 998 cm3
+30462,mazda,Mazda 2,123800.0,Benzyna,automatic,2021,34 000 km,Bydgoszcz,Kujawsko-pomorskie,1 998 cm3
+30463,mazda,Mazda CX-60,309500.0,Benzyna,automatic,2021,34 000 km,Bydgoszcz,Kujawsko-pomorskie,2 488 cm3
+30464,mazda,Mazda CX-60,315500.0,Benzyna,automatic,2021,5 000 km,Bydgoszcz,Kujawsko-pomorskie,2 488 cm3
+30465,mazda,Mazda 2,118700.0,Benzyna,automatic,2021,5 000 km,Bydgoszcz,Kujawsko-pomorskie,2 488 cm3
+30466,mazda,Mazda 6 2.0 SkyPrestige,179400.0,Benzyna,automatic,2023,1 km,Bydgoszcz,Kujawsko-pomorskie,2 488 cm3
+30467,mazda,Mazda 2,128800.0,Elektryczny,automatic,2023,1 km,Warszawa,Mazowieckie,1 998 cm3
+30468,mazda,Mazda MX-30,171000.0,Elektryczny,automatic,2023,1 km,Warszawa,Mazowieckie,1 998 cm3
+30469,mazda,Mazda MX-30,160700.0,Benzyna,automatic,2023,1 km,Warszawa,Mazowieckie,2 488 cm3
+30470,mazda,Mazda 6,222000.0,Benzyna,automatic,2022,1 000 km,Warszawa,Mazowieckie,2 488 cm3
+30471,mazda,Mazda CX-60,253900.0,Benzyna,automatic,2022,1 000 km,Warszawa,Mazowieckie,1 998 cm3
+30472,mazda,Mazda CX-60,306700.0,Benzyna,automatic,2022,5 km,Warszawa,Mazowieckie,1 998 cm3
+30473,mazda,Mazda CX-60,262900.0,Benzyna,automatic,2022,5 km,Warszawa,Mazowieckie,1 496 cm3
+30474,mazda,Mazda 2,119700.0,Benzyna,automatic,2021,50 000 km,Warszawa,Mazowieckie,1 496 cm3
+30475,mazda,Mazda CX-60,326695.0,Benzyna,automatic,2021,50 000 km,Warszawa,Mazowieckie,1 998 cm3
+30476,mazda,Mazda CX-5,54999.0,Benzyna,automatic,2023,1 km,Jarosław,Podkarpackie,1 998 cm3
+30477,mazda,Mazda 6 2.0 SkyPrestige,159900.0,Benzyna,automatic,2023,1 km,Łódź,Łódzkie,1 490 cm3
+30478,mazda,Mazda CX-60 2.5 PHEV Homura AWD,321400.0,Benzyna,automatic,2022,1 km,Bydgoszcz,Kujawsko-pomorskie,1 490 cm3
+30479,mazda,Mazda 3,75700.0,18 460 km,automatic,2 500 cm3,Benzyna,Białystok,Podlaskie,2019
+30480,mazda,Mazda 6 2.5 Skypassion I-ELoop,48900.0,18 460 km,automatic,2 500 cm3,Benzyna,Lublin,Lubelskie,2019
+30481,mazda,Mazda 3,48900.0,127 000 km,automatic,2 488 cm3,Benzyna+LPG,Szczebrzeszyn,Lubelskie,2015
+30482,mazda,Mazda 3,58000.0,127 000 km,automatic,2 488 cm3,Benzyna+LPG,Gdańsk,Pomorskie,2015
+30483,mazda,Mazda CX-5 2.2 D Skyenergy,59000.0,130 000 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2016
+30484,mazda,Mazda 6 2.0 Skyenergy,75600.0,130 000 km,automatic,1 998 cm3,Benzyna,Białystok,Podlaskie,2016
+30485,mazda,Mazda 3,53000.0,79 184 km,automatic,1 998 cm3,Benzyna,Lublin,Lubelskie,2016
+30486,mazda,Mazda 6,85000.0,79 184 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2016
+30487,mazda,Mazda 2 SKYACTIV-G 90 Exclusive-Line,54900.0,280 000 km,automatic,2 191 cm3,Diesel,Wojcieszyce,Dolnośląskie,2015
+30488,mazda,Mazda CX-3,79900.0,280 000 km,automatic,2 191 cm3,Diesel,Grudziądz,Kujawsko-pomorskie,2015
+30489,mazda,Mazda CX-5 SKYACTIV-G 192 Drive AWD Nakama Intense,85000.0,102 000 km,automatic,1 998 cm3,Benzyna,Świnoujście,Zachodniopomorskie,2015
+30490,mazda,Mazda CX-5,109900.0,102 000 km,automatic,1 998 cm3,Benzyna,Płock,Mazowieckie,2015
+30491,mazda,Mazda CX-5,107000.0,110 000 km,automatic,1 998 cm3,Benzyna,Garwolin,Mazowieckie,2015
+30492,mazda,Mazda CX-3 2.0 Skypassion AWD,68900.0,110 000 km,automatic,1 998 cm3,Benzyna,Śrem,Wielkopolskie,2015
+30493,mazda,Mazda 3,63500.0,102 068 km,automatic,1 998 cm3,Benzyna,Grudziądz,Kujawsko-pomorskie,2018
+30494,mazda,Mazda CX-5,59000.0,102 068 km,automatic,1 998 cm3,Benzyna,Budy Głogowskie,Podkarpackie,2018
+30495,mazda,Mazda CX-5 2.5 Skypassion AWD,129900.0,23 800 km,automatic,1 496 cm3,Benzyna,Warszawa,Mazowieckie,2016
+30496,mazda,Mazda 3,89000.0,23 800 km,automatic,1 496 cm3,Benzyna,Gdynia,Pomorskie,2016
+30497,mazda,Mazda CX-3 2.0 Skypassion,76900.0,92 844 km,automatic,1 998 cm3,Benzyna,Pszczyna,Śląskie,2019
+30498,mazda,Mazda MX-5 RF SKYACTIV-G 2.0 Kazari,26900.0,92 844 km,automatic,1 998 cm3,Benzyna,Żory,Śląskie,2019
+30499,mazda,Mazda 6,99900.0,72 525 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2018
+30500,mazda,Mazda CX-5,82000.0,72 525 km,automatic,2 488 cm3,Benzyna,Gdynia,Pomorskie,2018
+30501,mazda,Mazda CX-5,118900.0,59 500 km,automatic,2 488 cm3,Benzyna,Siedlce,Mazowieckie,2019
+30502,mazda,Mazda CX-3,39000.0,59 500 km,automatic,2 488 cm3,Benzyna,Rzeszów,Podkarpackie,2019
+30503,mazda,Mazda 6 2.5 Skypassion I-ELoop,66900.0,106 000 km,automatic,2 488 cm3,Benzyna,Skierniewice,Łódzkie,2018
+30504,mazda,Mazda CX-3,89900.0,106 000 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2018
+30505,mazda,Mazda CX-5 2.2 D Skypassion AWD,99900.0,111 000 km,automatic,1 998 cm3,Benzyna,Łódź,Łódzkie,2017
+30506,mazda,Mazda CX-9,49900.0,111 000 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2017
+30507,mazda,Mazda CX-5 2.5 Skypassion AWD,104000.0,112 000 km,automatic,2 000 cm3,Benzyna,Łask,Łódzkie,2017
+30508,mazda,Mazda 6 2.5 Skypassion I-ELoop,94900.0,112 000 km,automatic,2 000 cm3,Benzyna,Komorniki,Wielkopolskie,2017
+30509,mazda,Mazda 6 Kombi SKYACTIV-D Drive 150 KIZOKU,36900.0,160 000 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2015
+30510,mazda,Mazda CX-5 2.0 Skymotion 2WD,112900.0,160 000 km,automatic,2 488 cm3,Benzyna,Warszawa,Mazowieckie,2015

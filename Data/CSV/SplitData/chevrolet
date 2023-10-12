@@ -1,0 +1,351 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+9198,chevrolet,Chevrolet Corvette,88000.0,160 000 km,manual,5 666 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,1996
+9199,chevrolet,Chevrolet S-10,7000.0,160 000 km,manual,5 666 cm3,Benzyna,Krzywizna,Opolskie,1996
+9200,chevrolet,Chevrolet Corvette,93900.0,170 000 km,manual,2 196 cm3,Benzyna,Katowice,Śląskie,1995
+9201,chevrolet,Chevrolet Corvette,88000.0,160 000 km,manual,5 666 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,1996
+9202,chevrolet,Chevrolet S-10,7000.0,160 000 km,manual,5 666 cm3,Benzyna,Krzywizna,Opolskie,1996
+9203,chevrolet,Chevrolet Corvette,93900.0,170 000 km,manual,2 196 cm3,Benzyna,Katowice,Śląskie,1995
+9204,chevrolet,Chevrolet Corvette,88000.0,160 000 km,manual,5 666 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,1996
+9205,chevrolet,Chevrolet S-10,7000.0,160 000 km,manual,5 666 cm3,Benzyna,Krzywizna,Opolskie,1996
+9206,chevrolet,Chevrolet Corvette,93900.0,170 000 km,manual,2 196 cm3,Benzyna,Katowice,Śląskie,1995
+9207,chevrolet,Chevrolet Corvette,35900.0,160 000 km,manual,5 666 cm3,Benzyna,Dawidy,Mazowieckie,2000
+9208,chevrolet,Chevrolet Evanda 2.0 16V CDX / Premium,9999.0,160 000 km,manual,5 666 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2000
+9209,chevrolet,Chevrolet Lacetti,8900.0,176 000 km,manual,1 998 cm3,Benzyna+LPG,Rękoraj,Łódzkie,2004
+9210,chevrolet,Chevrolet Evanda 2.0 16V CDX / Premium,8999.0,176 000 km,manual,1 998 cm3,Benzyna+LPG,Bydgoszcz,Kujawsko-pomorskie,2004
+9211,chevrolet,Chevrolet Matiz 1.0 SE,8990.0,170 000 km,manual,1 598 cm3,Benzyna+LPG,Margonin,Wielkopolskie,2004
+9212,chevrolet,Chevrolet Matiz 1.0 SE,8990.0,170 000 km,manual,1 598 cm3,Benzyna+LPG,Margonin,Wielkopolskie,2004
+9213,chevrolet,Chevrolet Lacetti 1.4 Elite WTCC,3500.0,149 000 km,manual,1 998 cm3,Benzyna,Gdańsk,Pomorskie,2004
+9214,chevrolet,Chevrolet Rezzo,5900.0,149 000 km,manual,1 998 cm3,Benzyna,Legnica,Dolnośląskie,2004
+9215,chevrolet,Chevrolet Aveo 1.4 Direct,3300.0,60 000 km,manual,995 cm3,Benzyna,Rumia,Pomorskie,2004
+9216,chevrolet,Chevrolet Aveo 1.2 Direct (swo),4999.0,60 000 km,manual,995 cm3,Benzyna,Katowice,Śląskie,2004
+9217,chevrolet,Chevrolet Aveo 1.4 Star,3999.0,160 000 km,manual,995 cm3,Benzyna,Katowice,Śląskie,2004
+9218,chevrolet,"Chevrolet Aveo 1.4 SE (air2,klm)",4750.0,160 000 km,manual,995 cm3,Benzyna,Łódź,Łódzkie,2004
+9219,chevrolet,Chevrolet Aveo,4500.0,253 000 km,manual,1 399 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2004
+9220,chevrolet,Chevrolet Aveo 1.4 16V SX / Premium,3200.0,253 000 km,manual,1 399 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2004
+9221,chevrolet,Chevrolet Captiva,16900.0,230 000 km,manual,1 991 cm3,Diesel,Kielce,Świętokrzyskie,2007
+9222,chevrolet,Chevrolet Captiva 2.4 2WD 7 Sitzer LS Family Edition,27900.0,230 000 km,manual,1 991 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2007
+9223,chevrolet,Chevrolet Cruze 1.6 LS,19500.0,200 000 km,manual,2 405 cm3,Benzyna+LPG,Brańszczyk,Mazowieckie,2009
+9224,chevrolet,Chevrolet Epica,15000.0,200 000 km,manual,2 405 cm3,Benzyna+LPG,Lublin,Lubelskie,2009
+9225,chevrolet,Chevrolet Captiva,23500.0,198 500 km,manual,1 598 cm3,Benzyna,Pleszew,Wielkopolskie,2009
+9226,chevrolet,Chevrolet Captiva 2.4 LS,22600.0,198 500 km,manual,1 598 cm3,Benzyna,Ciechanów,Mazowieckie,2009
+9227,chevrolet,Chevrolet Captiva,16900.0,295 203 km,manual,1 993 cm3,Benzyna+LPG,Piła,Wielkopolskie,2006
+9228,chevrolet,Chevrolet Nubira 1.8 Kombi CDX,6900.0,295 203 km,manual,1 993 cm3,Benzyna+LPG,Częstochowa,Śląskie,2006
+9229,chevrolet,Chevrolet Lacetti 1.8 CDX Edition,7800.0,211 350 km,manual,1 991 cm3,Diesel,Świdnica,Dolnośląskie,2006
+9230,chevrolet,Chevrolet Captiva 2.0 d LS 5os,19000.0,211 350 km,manual,1 991 cm3,Diesel,Nowy Sącz,Małopolskie,2006
+9231,chevrolet,Chevrolet Spark 0.8 Direct,8900.0,157 000 km,manual,2 405 cm3,Benzyna,Świętochłowice,Śląskie,2007
+9232,chevrolet,Chevrolet Captiva 2.0 d LT high (deu),27777.0,157 000 km,manual,2 405 cm3,Benzyna,Gniezno,Wielkopolskie,2007
+9233,chevrolet,Chevrolet Captiva 2.4 LS,26900.0,248 000 km,manual,1 991 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2007
+9234,chevrolet,Chevrolet Captiva 2.0 d LT sport,20777.0,248 000 km,manual,1 991 cm3,Diesel,Wilkowice,Wielkopolskie,2007
+9235,chevrolet,Chevrolet Captiva 2.4 LT,20900.0,260 000 km,manual,1 796 cm3,Benzyna+LPG,Kutno,Łódzkie,2007
+9236,chevrolet,Chevrolet Nubira,5900.0,260 000 km,manual,1 796 cm3,Benzyna+LPG,Wrocław,Dolnośląskie,2007
+9237,chevrolet,Chevrolet Nubira,8900.0,151 645 km,manual,1 796 cm3,Benzyna,Piaski,Wielkopolskie,2006
+9238,chevrolet,Chevrolet Aveo 1.2 16V Base,12500.0,151 645 km,manual,1 796 cm3,Benzyna,Kraków,Małopolskie,2006
+9239,chevrolet,Chevrolet Nubira 1.6 Kombi SX,8999.0,249 000 km,manual,1 991 cm3,Diesel,Płońsk,Mazowieckie,2006
+9240,chevrolet,Chevrolet Corvette 6.0 V8,139000.0,249 000 km,manual,1 991 cm3,Diesel,Wrocław,Dolnośląskie,2006
+9241,chevrolet,Chevrolet Captiva 2.0 2WD 5 Sitzer LS,23900.0,91 026 km,manual,796 cm3,Benzyna,Chojnice,Pomorskie,2009
+9242,chevrolet,Chevrolet Aveo,12900.0,91 026 km,manual,796 cm3,Benzyna,Garwolin,Mazowieckie,2009
+9243,chevrolet,Chevrolet Lacetti 1.4 SE / Star,17500.0,229 000 km,manual,1 991 cm3,Diesel,Bochnia,Małopolskie,2007
+9244,chevrolet,Chevrolet Aveo 1.4 16V Platinum,8800.0,229 000 km,manual,1 991 cm3,Diesel,Baniocha,Mazowieckie,2007
+9245,chevrolet,Chevrolet Aveo,14900.0,236 000 km,manual,2 405 cm3,Benzyna+LPG,Żory,Śląskie,2007
+9246,chevrolet,Chevrolet Aveo 1.2,14700.0,236 000 km,manual,2 405 cm3,Benzyna+LPG,Margonin,Wielkopolskie,2007
+9247,chevrolet,Chevrolet Captiva 2.4 2WD 7 Sitzer LS Family Edition,22900.0,223 000 km,manual,1 991 cm3,Diesel,Kiedrzyn,Mazowieckie,2008
+9248,chevrolet,Chevrolet Nubira 2.0 Kombi D CDX,9400.0,223 000 km,manual,1 991 cm3,Diesel,Brzezie k. Sulechowa,Lubuskie,2008
+9249,chevrolet,Chevrolet Captiva,18900.0,230 000 km,manual,2 384 cm3,Benzyna,Lublin,Lubelskie,2007
+9250,chevrolet,Chevrolet Aveo 1.4 16V LT,12900.0,230 000 km,manual,2 384 cm3,Benzyna,Wodzisław Śląski,Śląskie,2007
+9251,chevrolet,Chevrolet Matiz 0.8 S,6999.0,141 000 km,manual,1 991 cm3,Diesel,Wałbrzych,Dolnośląskie,2007
+9252,chevrolet,Chevrolet Captiva 2.0 4WD 7 Sitzer LT Exclusive,18900.0,141 000 km,manual,1 991 cm3,Diesel,Lublin,Lubelskie,2007
+9253,chevrolet,Chevrolet Camaro 6.2 V8 Coupe,169000.0,68 000 km,manual,6 162 cm3,Benzyna,Dąbrowa,Mazowieckie,2017
+9254,chevrolet,Chevrolet Camaro 6.2 V8 Coupe,109000.0,68 000 km,manual,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2017
+9255,chevrolet,Chevrolet Camaro Coupe 6.2 V8,349000.0,74 000 km,manual,6 162 cm3,Benzyna,Pabianice,Łódzkie,2015
+9256,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8,199875.0,74 000 km,manual,6 162 cm3,Benzyna,Kraków,Małopolskie,2015
+9257,chevrolet,Chevrolet Camaro,134900.0,12 000 km,manual,6 162 cm3,Benzyna,Rzeszów,Podkarpackie,2018
+9258,chevrolet,Chevrolet Camaro Coupe 6.2 V8,174900.0,12 000 km,manual,6 162 cm3,Benzyna,Rzeszów,Podkarpackie,2018
+9259,chevrolet,Chevrolet Camaro,99000.0,34 000 km,manual,6 162 cm3,Benzyna,Kalisz,Wielkopolskie,2015
+9260,chevrolet,Chevrolet Camaro,289000.0,34 000 km,manual,6 162 cm3,Benzyna,Lubartów,Lubelskie,2015
+9261,chevrolet,Chevrolet Camaro 3.6 V6 Convertible 1LS,61500.0,65 600 km,manual,6 162 cm3,Benzyna,Wrocław,Dolnośląskie,2018
+9262,chevrolet,Chevrolet Camaro 6.2 V8 Coupe,109000.0,65 600 km,manual,6 162 cm3,Benzyna,Wałbrzych,Dolnośląskie,2018
+9263,chevrolet,Chevrolet Corvette Grand Sport 3LT 6.2 Cabrio,280000.0,30 428 km,manual,6 162 cm3,Benzyna,Koło,Wielkopolskie,2019
+9264,chevrolet,Chevrolet Camaro Coupe 6.2 V8,174900.0,30 428 km,manual,6 162 cm3,Benzyna,Chrzanów,Małopolskie,2019
+9265,chevrolet,Chevrolet Camaro,299000.0,71 000 km,manual,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2016
+9266,chevrolet,Chevrolet Camaro Coupe 6.2 V8,47000.0,71 000 km,manual,3 600 cm3,Benzyna,Kraków,Małopolskie,2016
+9267,chevrolet,Chevrolet Camaro Coupe 6.2 V8,73000.0,96 000 km,manual,6 162 cm3,Benzyna,Tarnów,Małopolskie,2019
+9268,chevrolet,Chevrolet Camaro Coupe 6.2 V8,168000.0,96 000 km,manual,6 162 cm3,Benzyna,Łódź,Łódzkie,2019
+9269,chevrolet,Chevrolet Corvette,234000.0,105 400 km,manual,3 600 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2015
+9270,chevrolet,Chevrolet Camaro,249000.0,105 400 km,manual,3 600 cm3,Benzyna,Dziekanów Polski,Mazowieckie,2015
+9271,chevrolet,Chevrolet Camaro Cabriolet 6.2 V8,340000.0,40 040 km,manual,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2015
+9272,chevrolet,Chevrolet Camaro 6.2 V8 Coupe ZL1,319000.0,40 040 km,manual,6 162 cm3,Benzyna,Prószków,Opolskie,2015
+9273,chevrolet,Chevrolet Corvette Z06 3LZ 6.2 V8 Cabriolet,389000.0,9 800 km,manual,6 162 cm3,Benzyna,Białystok,Podlaskie,2019
+9274,chevrolet,Chevrolet Camaro 6.2 V8 Coupe,163900.0,9 800 km,manual,6 162 cm3,Benzyna,Szarlejka,Śląskie,2019
+9275,chevrolet,Chevrolet Corvette,239000.0,12 500 km,manual,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2019
+9276,chevrolet,Chevrolet Camaro Coupe 6.2 V8,139700.0,12 500 km,manual,6 162 cm3,Benzyna,Janki,Mazowieckie,2019
+9277,chevrolet,Chevrolet Camaro 3.6 V6 Coupe 1LS,68500.0,20 000 km,manual,6 162 cm3,Benzyna,Baranowo,Wielkopolskie,2017
+9278,chevrolet,Chevrolet Corvette,233000.0,20 000 km,manual,6 162 cm3,Benzyna,Ostrowiec Świętokrzyski,Świętokrzyskie,2017
+9279,chevrolet,Chevrolet Camaro,159900.0,128 218 km,manual,6 162 cm3,Benzyna,Michałów-Reginów,Mazowieckie,2018
+9280,chevrolet,Chevrolet Camaro,86900.0,128 218 km,manual,6 162 cm3,Benzyna,Łódź,Łódzkie,2018
+9281,chevrolet,Chevrolet Cruze 1.8 LT,26999.0,230 800 km,manual,1 796 cm3,Benzyna,Kąty Opolskie,Opolskie,2012
+9282,chevrolet,Chevrolet Cruze 1.4 T LTZ,35999.0,230 800 km,manual,1 796 cm3,Benzyna,Pabianice,Łódzkie,2012
+9283,chevrolet,Chevrolet Orlando 1.8 LT,29999.0,110 000 km,manual,1 364 cm3,Benzyna,Pasłęk,Warmińsko-mazurskie,2013
+9284,chevrolet,Chevrolet Captiva 2.2 d LT,35999.0,110 000 km,manual,1 364 cm3,Benzyna,Myszków,Śląskie,2013
+9285,chevrolet,Chevrolet Orlando 1.8 LT,31900.0,135 000 km,manual,1 796 cm3,Benzyna,Jastrzębie-Zdrój,Śląskie,2011
+9286,chevrolet,Chevrolet Cruze 1.8 LTZ,30900.0,135 000 km,manual,1 796 cm3,Benzyna,Jastrzębie-Zdrój,Śląskie,2011
+9287,chevrolet,Chevrolet Cruze 1.8 LS+,19900.0,178 900 km,manual,2 231 cm3,Diesel,Radziejów,Kujawsko-pomorskie,2011
+9288,chevrolet,Chevrolet Spark 1.0 LS+,15999.0,178 900 km,manual,2 231 cm3,Diesel,Wilkowice,Wielkopolskie,2011
+9289,chevrolet,Chevrolet Cruze,33000.0,102 000 km,manual,1 796 cm3,Benzyna,Piaseczno,Mazowieckie,2011
+9290,chevrolet,Chevrolet Cruze 1.4 T LT+,35900.0,102 000 km,manual,1 796 cm3,Benzyna,Radom,Mazowieckie,2011
+9291,chevrolet,Chevrolet Cruze Station Wagon 1.7TD LT+,32900.0,88 000 km,manual,1 796 cm3,Benzyna,Myślibórz,Zachodniopomorskie,2011
+9292,chevrolet,Chevrolet Aveo 1.2 LS,13900.0,88 000 km,manual,1 796 cm3,Benzyna,Łódź,Łódzkie,2011
+9293,chevrolet,Chevrolet Cruze,24000.0,191 000 km,manual,1 796 cm3,Benzyna,Łódź,Łódzkie,2012
+9294,chevrolet,Chevrolet Cruze,31000.0,191 000 km,manual,1 796 cm3,Benzyna,Bielany Wrocławskie,Dolnośląskie,2012
+9295,chevrolet,Chevrolet Aveo,14900.0,192 000 km,manual,995 cm3,Benzyna,Kraków,Małopolskie,2013
+9296,chevrolet,Chevrolet Captiva 2.2 d LTZ,49800.0,192 000 km,manual,995 cm3,Benzyna,Olkusz,Małopolskie,2013
+9297,chevrolet,Chevrolet Camaro 6.2 V8 Coupe,119900.0,171 388 km,manual,1 364 cm3,Benzyna,Warszawa,Mazowieckie,2012
+9298,chevrolet,Chevrolet Aveo,9999.0,171 388 km,manual,1 364 cm3,Benzyna,Łask,Łódzkie,2012
+9299,chevrolet,Chevrolet Orlando 2.0 D LTZ,26900.0,120 000 km,manual,1 364 cm3,Benzyna,Ostrów Mazowiecka,Mazowieckie,2013
+9300,chevrolet,Chevrolet Cruze 2.0 VDCi LT,17900.0,120 000 km,manual,1 364 cm3,Benzyna,Korytowo,Kujawsko-pomorskie,2013
+9301,chevrolet,Chevrolet Orlando 2.0 D LT,21900.0,223 000 km,manual,1 686 cm3,Diesel,Kryspinów,Małopolskie,2014
+9302,chevrolet,Chevrolet Cruze 1.8 LT+,26900.0,223 000 km,manual,1 686 cm3,Diesel,Sosnowiec,Śląskie,2014
+9303,chevrolet,Chevrolet Cruze,35000.0,145 000 km,manual,1 229 cm3,Benzyna,Piaseczno,Mazowieckie,2011
+9304,chevrolet,Chevrolet Spark 1.0 LS,11900.0,145 000 km,manual,1 229 cm3,Benzyna,Czarnowo,Zachodniopomorskie,2011
+9305,chevrolet,Chevrolet Captiva 2.0 d LS,24900.0,129 615 km,manual,1 598 cm3,Benzyna+LPG,Krosno,Podkarpackie,2012
+9306,chevrolet,Chevrolet Aveo,18350.0,129 615 km,manual,1 598 cm3,Benzyna+LPG,Poznań,Wielkopolskie,2012
+9307,chevrolet,Chevrolet Cruze,26000.0,179 088 km,manual,1 796 cm3,Benzyna,Zabrze,Śląskie,2012
+9308,chevrolet,Chevrolet Cruze 2.0 VDCi LS,22750.0,179 088 km,manual,1 796 cm3,Benzyna,Płońsk,Mazowieckie,2012
+9309,chevrolet,Chevrolet Cruze 1.8 LT+,31999.0,210 000 km,manual,1 206 cm3,Benzyna+LPG,Pabianice,Łódzkie,2011
+9310,chevrolet,Chevrolet Aveo 1.2 LT,15900.0,210 000 km,manual,1 206 cm3,Benzyna+LPG,Sulechów,Lubuskie,2011
+9311,chevrolet,Chevrolet Aveo 1.2 LT,17900.0,137 000 km,manual,2 231 cm3,Diesel,Poznań,Wielkopolskie,2013
+9312,chevrolet,Chevrolet Cruze,17900.0,137 000 km,manual,2 231 cm3,Diesel,Ochaby Małe,Śląskie,2013
+9313,chevrolet,Chevrolet Camaro Coupe 6.2 V8,191000.0,5 000 km,manual,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2020
+9314,chevrolet,Chevrolet Camaro,195000.0,5 000 km,manual,6 162 cm3,Benzyna,Tychy,Śląskie,2020
+9315,chevrolet,Chevrolet Camaro,239800.0,14 260 km,manual,6 162 cm3,Benzyna,Toruń,Kujawsko-pomorskie,2022
+9316,chevrolet,Chevrolet Suburban 5.3 K1500 4WD,34000.0,355 960 km,automatic,5 328 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9317,chevrolet,Chevrolet Blazer 4.3 4WD,22800.0,355 960 km,automatic,5 328 cm3,Benzyna,Lublin,Lubelskie,1999
+9318,chevrolet,Chevrolet Camaro 5.7 Z-28 Convertible,45999.0,178 000 km,automatic,4 300 cm3,Benzyna,Łomianki,Mazowieckie,1999
+9319,chevrolet,Chevrolet Blazer 4.3 4WD,11900.0,178 000 km,automatic,4 300 cm3,Benzyna,Błonie,Mazowieckie,1999
+9320,chevrolet,Chevrolet Suburban,52000.0,1 500 km,automatic,5 666 cm3,Benzyna,Międzyrzecz,Lubuskie,1995
+9321,chevrolet,Chevrolet S-10,24900.0,1 500 km,automatic,5 666 cm3,Benzyna,Michałów-Reginów,Mazowieckie,1995
+9322,chevrolet,Chevrolet Corvette 5.7,91999.0,229 000 km,automatic,4 300 cm3,Benzyna,Kalwaria Zebrzydowska,Małopolskie,1996
+9323,chevrolet,Chevrolet Astro,53900.0,229 000 km,automatic,4 300 cm3,Benzyna,Nowy Tomyśl,Wielkopolskie,1996
+9324,chevrolet,Chevrolet Corvette,89900.0,255 000 km,automatic,5 328 cm3,Benzyna,Myszków,Śląskie,1995
+9325,chevrolet,Chevrolet Express,44900.0,255 000 km,automatic,5 328 cm3,Benzyna,Warszawa,Mazowieckie,1995
+9326,chevrolet,Chevrolet Tahoe,34999.0,245 000 km,automatic,4 300 cm3,Benzyna,Bielsko-Biała,Śląskie,1998
+9327,chevrolet,Chevrolet Tahoe,39999.0,245 000 km,automatic,4 300 cm3,Benzyna,Warszawa,Mazowieckie,1998
+9328,chevrolet,Chevrolet Cavalier,24999.0,108 000 km,automatic,5 733 cm3,Benzyna,Warszawa,Mazowieckie,1996
+9329,chevrolet,Chevrolet Corvette 6.0 V8,149000.0,56 000 km,automatic,5 967 cm3,Benzyna,Warszawa,Mazowieckie,2006
+9330,chevrolet,Chevrolet Matiz 0.8 Automatik S,6900.0,56 000 km,automatic,5 967 cm3,Benzyna,Smolec,Dolnośląskie,2006
+9331,chevrolet,Chevrolet Cruze 1.8 LT+,25950.0,120 722 km,automatic,796 cm3,Benzyna,Łask,Łódzkie,2006
+9332,chevrolet,Chevrolet Captiva,19000.0,120 722 km,automatic,796 cm3,Benzyna,Katowice,Śląskie,2006
+9333,chevrolet,Chevrolet Corvette 6.0 V8,114000.0,108 000 km,automatic,1 796 cm3,Benzyna,Gdańsk,Pomorskie,2009
+9334,chevrolet,Chevrolet Captiva 3.2 LT sport,27900.0,108 000 km,automatic,1 796 cm3,Benzyna,Radom,Mazowieckie,2009
+9335,chevrolet,Chevrolet Trailblazer 4.2 LS 4WD,62900.0,264 856 km,automatic,1 991 cm3,Diesel,Gliwice,Śląskie,2006
+9336,chevrolet,Chevrolet Captiva 2.0 d High,10900.0,264 856 km,automatic,1 991 cm3,Diesel,Dąbrowa Tarnowska,Małopolskie,2006
+9337,chevrolet,Chevrolet Captiva,24900.0,91 089 km,automatic,5 967 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,2005
+9338,chevrolet,Chevrolet Cruze,19900.0,91 089 km,automatic,5 967 cm3,Benzyna,Wrocław,Dolnośląskie,2005
+9339,chevrolet,Chevrolet Corvette 6.0 V8,39950.0,178 000 km,automatic,3 195 cm3,Benzyna,Ciemne,Mazowieckie,2008
+9340,chevrolet,Chevrolet Nubira 1.8 Kombi Automatik CDX,9300.0,178 000 km,automatic,3 195 cm3,Benzyna,Łódź,Łódzkie,2008
+9341,chevrolet,Chevrolet Avalanche 5.3 1500,38900.0,91 500 km,automatic,4 161 cm3,Benzyna,Kuźnia,Wielkopolskie,2005
+9342,chevrolet,Chevrolet HHR,19900.0,91 500 km,automatic,4 161 cm3,Benzyna,Poznań,Wielkopolskie,2005
+9343,chevrolet,Chevrolet Aveo 1.4 16V Automatik LT,14900.0,240 000 km,automatic,1 991 cm3,Diesel,Kraków,Małopolskie,2007
+9344,chevrolet,Chevrolet Silverado 4.8 Extended Cab LS 4x4,44999.0,240 000 km,automatic,1 991 cm3,Diesel,Tarnobrzeg,Podkarpackie,2007
+9345,chevrolet,Chevrolet Corvette,118000.0,210 000 km,automatic,3 195 cm3,Benzyna+LPG,Hrubieszów,Lubelskie,2007
+9346,chevrolet,Chevrolet Captiva 3.2 4WD 7 Sitzer LT,15900.0,210 000 km,automatic,3 195 cm3,Benzyna+LPG,Wisła Wielka,Śląskie,2007
+9347,chevrolet,Chevrolet Traverse,19900.0,263 440 km,automatic,1 796 cm3,Benzyna+LPG,Wiski,Lubelskie,2009
+9348,chevrolet,Chevrolet Silverado,66600.0,263 440 km,automatic,1 796 cm3,Benzyna+LPG,Rzeszów,Podkarpackie,2009
+9349,chevrolet,Chevrolet Captiva 2.0 d High,18900.0,101 839 km,automatic,5 967 cm3,Benzyna,Kraków,Małopolskie,2007
+9350,chevrolet,Chevrolet Epica 2.5 Autom LT,15999.0,101 839 km,automatic,5 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2007
+9351,chevrolet,Chevrolet Captiva,28900.0,193 000 km,automatic,1 796 cm3,Benzyna+LPG,Pionki,Mazowieckie,2006
+9352,chevrolet,Chevrolet Captiva,23900.0,193 000 km,automatic,1 796 cm3,Benzyna+LPG,Opoczno,Łódzkie,2006
+9353,chevrolet,Chevrolet Captiva 3.2 4WD 7 Sitzer LT,26900.0,68 000 km,automatic,5 328 cm3,Benzyna,Kiedrzyn,Mazowieckie,2005
+9354,chevrolet,Chevrolet Express,134500.0,68 000 km,automatic,5 328 cm3,Benzyna,Warszawa,Mazowieckie,2005
+9355,chevrolet,Chevrolet Captiva,18500.0,216 000 km,automatic,2 399 cm3,Benzyna,Gorzów Wielkopolski,Lubuskie,2008
+9356,chevrolet,Chevrolet Avalanche 5.3 LS,48800.0,216 000 km,automatic,2 399 cm3,Benzyna,Gubin,Lubuskie,2008
+9357,chevrolet,Chevrolet Captiva,20500.0,280 000 km,automatic,1 399 cm3,Benzyna+LPG,Mieszkowice,Zachodniopomorskie,2008
+9358,chevrolet,Chevrolet Corvette 6.0 V8,125000.0,280 000 km,automatic,1 399 cm3,Benzyna+LPG,Kielce,Świętokrzyskie,2008
+9359,chevrolet,Chevrolet Captiva,23000.0,420 000 km,automatic,4 792 cm3,Benzyna,Piaseczno,Mazowieckie,2007
+9360,chevrolet,Chevrolet Corvette 6.0 V8,95000.0,420 000 km,automatic,4 792 cm3,Benzyna,Zamość,Lubelskie,2007
+9361,chevrolet,Chevrolet Suburban 5.3 K1500 4WD,34000.0,355 960 km,automatic,5 328 cm3,Benzyna,Kielce,Świętokrzyskie,1999
+9362,chevrolet,Chevrolet Blazer 4.3 4WD,22800.0,355 960 km,automatic,5 328 cm3,Benzyna,Lublin,Lubelskie,1999
+9363,chevrolet,Chevrolet Camaro 5.7 Z-28 Convertible,45999.0,178 000 km,automatic,4 300 cm3,Benzyna,Łomianki,Mazowieckie,1999
+9364,chevrolet,Chevrolet Blazer 4.3 4WD,11900.0,178 000 km,automatic,4 300 cm3,Benzyna,Błonie,Mazowieckie,1999
+9365,chevrolet,Chevrolet Suburban,52000.0,1 500 km,automatic,5 666 cm3,Benzyna,Międzyrzecz,Lubuskie,1995
+9366,chevrolet,Chevrolet S-10,24900.0,1 500 km,automatic,5 666 cm3,Benzyna,Michałów-Reginów,Mazowieckie,1995
+9367,chevrolet,Chevrolet Corvette 5.7,91999.0,229 000 km,automatic,4 300 cm3,Benzyna,Kalwaria Zebrzydowska,Małopolskie,1996
+9368,chevrolet,Chevrolet Astro,53900.0,229 000 km,automatic,4 300 cm3,Benzyna,Nowy Tomyśl,Wielkopolskie,1996
+9369,chevrolet,Chevrolet Corvette,89900.0,255 000 km,automatic,5 328 cm3,Benzyna,Myszków,Śląskie,1995
+9370,chevrolet,Chevrolet Express,44900.0,255 000 km,automatic,5 328 cm3,Benzyna,Warszawa,Mazowieckie,1995
+9371,chevrolet,Chevrolet Tahoe,34999.0,245 000 km,automatic,4 300 cm3,Benzyna,Bielsko-Biała,Śląskie,1998
+9372,chevrolet,Chevrolet Tahoe,39999.0,245 000 km,automatic,4 300 cm3,Benzyna,Warszawa,Mazowieckie,1998
+9373,chevrolet,Chevrolet Cavalier,24999.0,108 000 km,automatic,5 733 cm3,Benzyna,Warszawa,Mazowieckie,1996
+9374,chevrolet,Chevrolet Impala,13900.0,163 800 km,automatic,3 880 cm3,Benzyna,Skarżysko-Kamienna,Świętokrzyskie,2006
+9375,chevrolet,Chevrolet Corvette 6.0 V8,145000.0,163 800 km,automatic,3 880 cm3,Benzyna,Wrocław,Dolnośląskie,2006
+9376,chevrolet,Chevrolet Tahoe,50000.0,61 111 km,automatic,5 967 cm3,Benzyna,Osina,Zachodniopomorskie,2006
+9377,chevrolet,Chevrolet Captiva,26900.0,61 111 km,automatic,5 967 cm3,Benzyna,Świdnica,Dolnośląskie,2006
+9378,chevrolet,Chevrolet Epica 2.0 D DPF Automatik LT,15200.0,399 000 km,automatic,5 300 cm3,Benzyna,Charłupia Mała,Łódzkie,2008
+9379,chevrolet,Chevrolet Captiva,19300.0,399 000 km,automatic,5 300 cm3,Benzyna,Jasienica,Śląskie,2008
+9380,chevrolet,Chevrolet Captiva,24950.0,285 000 km,automatic,2 000 cm3,Diesel,Opoczno,Łódzkie,2007
+9381,chevrolet,Chevrolet Epica 2.5 LT,19900.0,285 000 km,automatic,2 000 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2007
+9382,chevrolet,Chevrolet Suburban,60000.0,153 000 km,automatic,1 991 cm3,Diesel,Kielce,Świętokrzyskie,2009
+9383,chevrolet,Chevrolet Corvette 6.0 V8,98500.0,153 000 km,automatic,1 991 cm3,Diesel,Stare Babice,Mazowieckie,2009
+9384,chevrolet,Chevrolet Captiva,24800.0,190 000 km,automatic,1 991 cm3,Diesel,Dębica,Podkarpackie,2007
+9385,chevrolet,Chevrolet Captiva,22900.0,190 000 km,automatic,1 991 cm3,Diesel,Dolna Grupa,Kujawsko-pomorskie,2007
+9386,chevrolet,Chevrolet Captiva 2.0 d High,20900.0,167 200 km,automatic,3 195 cm3,Benzyna,Sępólno Krajeńskie,Kujawsko-pomorskie,2007
+9387,chevrolet,Chevrolet Captiva 2.0 d High,19500.0,167 200 km,automatic,3 195 cm3,Benzyna,Legnica,Dolnośląskie,2007
+9388,chevrolet,Chevrolet,6700.0,131 000 km,automatic,2 492 cm3,Benzyna,Rawa Mazowiecka,Łódzkie,2009
+9389,chevrolet,Chevrolet Captiva,19800.0,131 000 km,automatic,2 492 cm3,Benzyna,Obrzycko,Wielkopolskie,2009
+9390,chevrolet,Chevrolet Captiva,21500.0,250 000 km,automatic,5 328 cm3,Benzyna+LPG,Białystok,Podlaskie,2008
+9391,chevrolet,Chevrolet Corvette,135000.0,250 000 km,automatic,5 328 cm3,Benzyna+LPG,Siwianka,Mazowieckie,2008
+9392,chevrolet,Chevrolet Cruze 1.8 LTZ,27900.0,257 000 km,automatic,5 967 cm3,Benzyna,Radom,Mazowieckie,2005
+9393,chevrolet,Chevrolet Captiva 3.2 Edition,22800.0,257 000 km,automatic,5 967 cm3,Benzyna,Tomaszów Mazowiecki,Łódzkie,2005
+9394,chevrolet,Chevrolet Captiva 2.0 d LT high 5os,21900.0,270 000 km,automatic,1 991 cm3,Diesel,Bochnia,Małopolskie,2008
+9395,chevrolet,Chevrolet Captiva,13900.0,270 000 km,automatic,1 991 cm3,Diesel,Kielno,Pomorskie,2008
+9396,chevrolet,Chevrolet Volt,45000.0,237 700 km,automatic,1 398 cm3,Hybryda,Kraków,Małopolskie,2012
+9397,chevrolet,Chevrolet Volt Standard,44700.0,237 700 km,automatic,1 398 cm3,Hybryda,Sokołów Podlaski,Mazowieckie,2012
+9398,chevrolet,Chevrolet Camaro,77900.0,153 000 km,automatic,1 398 cm3,Hybryda,Nakło nad Notecią,Kujawsko-pomorskie,2012
+9399,chevrolet,Chevrolet Camaro,79000.0,153 000 km,automatic,1 398 cm3,Hybryda,Zamość,Lubelskie,2012
+9400,chevrolet,Chevrolet Malibu,40999.0,230 000 km,automatic,3 600 cm3,Benzyna,Myszków,Śląskie,2014
+9401,chevrolet,Chevrolet Camaro,65000.0,230 000 km,automatic,3 600 cm3,Benzyna,Olkusz,Małopolskie,2014
+9402,chevrolet,Chevrolet Captiva,55000.0,164 000 km,automatic,3 600 cm3,Benzyna,Zabrze,Śląskie,2014
+9403,chevrolet,Chevrolet Captiva 2.2 d LTZ,39800.0,164 000 km,automatic,3 600 cm3,Benzyna,Zakrzewo,Kujawsko-pomorskie,2014
+9404,chevrolet,Chevrolet Camaro,99000.0,174 100 km,automatic,1 956 cm3,Diesel,Lublin,Lubelskie,2013
+9405,chevrolet,Chevrolet Camaro,36500.0,174 100 km,automatic,1 956 cm3,Diesel,Świdnica,Dolnośląskie,2013
+9406,chevrolet,Chevrolet Camaro,59999.0,172 000 km,automatic,3 600 cm3,Benzyna,Częstochowa,Śląskie,2011
+9407,chevrolet,Chevrolet Corvette,79000.0,172 000 km,automatic,3 600 cm3,Benzyna,Łódź,Łódzkie,2011
+9408,chevrolet,Chevrolet Orlando 2.0 D LTZ,39900.0,91 470 km,automatic,2 231 cm3,Diesel,Warszawa,Mazowieckie,2012
+9409,chevrolet,Chevrolet Volt Exclusive,49000.0,91 470 km,automatic,2 231 cm3,Diesel,Dąbrowa Górnicza,Śląskie,2012
+9410,chevrolet,Chevrolet Orlando 2.0 D LTZ,27900.0,170 000 km,automatic,2 231 cm3,Diesel,Ostrowiec Świętokrzyski,Świętokrzyskie,2012
+9411,chevrolet,Chevrolet Captiva 2.0 d LT sport,29500.0,170 000 km,automatic,2 231 cm3,Diesel,Tczew,Pomorskie,2012
+9412,chevrolet,Chevrolet Captiva,46900.0,120 100 km,automatic,6 162 cm3,Benzyna,Gniezno,Wielkopolskie,2012
+9413,chevrolet,Chevrolet Captiva 2.0 d LT sport,34900.0,120 100 km,automatic,6 162 cm3,Benzyna,Gniezno,Wielkopolskie,2012
+9414,chevrolet,Chevrolet Captiva 2.2 d LT+,42500.0,146 000 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2011
+9415,chevrolet,Chevrolet Captiva 2.0 d High,26900.0,146 000 km,automatic,3 600 cm3,Benzyna,Limanowa,Małopolskie,2011
+9416,chevrolet,Chevrolet Captiva 2.0 d LT high,16500.0,125 000 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2012
+9417,chevrolet,Chevrolet Cruze Station Wagon 2.0TD Automatik LTZ,16999.0,125 000 km,automatic,3 600 cm3,Benzyna,Brzesko,Małopolskie,2012
+9418,chevrolet,Chevrolet Cruze 1.8 Automatik LTZ,29900.0,172 357 km,automatic,6 162 cm3,Benzyna,Radom,Mazowieckie,2012
+9419,chevrolet,Chevrolet Cruze,29900.0,172 357 km,automatic,6 162 cm3,Benzyna,Koszalin,Zachodniopomorskie,2012
+9420,chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,229000.0,177 000 km,automatic,1 998 cm3,Diesel,Łochów,Mazowieckie,2014
+9421,chevrolet,Chevrolet Orlando,31000.0,177 000 km,automatic,1 998 cm3,Diesel,Izabelin B,Mazowieckie,2014
+9422,chevrolet,Chevrolet Cruze,15900.0,180 000 km,automatic,1 398 cm3,Hybryda,Kołobrzeg,Zachodniopomorskie,2012
+9423,chevrolet,Chevrolet Trax 1.7TD Automatik LT+,39800.0,180 000 km,automatic,1 398 cm3,Hybryda,Trzebnica,Dolnośląskie,2012
+9424,chevrolet,Chevrolet Camaro 3.6 V6 Convertible 2LT,65000.0,252 000 km,automatic,1 998 cm3,Diesel,Chybie,Śląskie,2012
+9425,chevrolet,Chevrolet Express,169000.0,252 000 km,automatic,1 998 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2012
+9426,chevrolet,Chevrolet Suburban,73000.0,248 000 km,automatic,1 991 cm3,Diesel,Jerzykowo,Wielkopolskie,2010
+9427,chevrolet,Chevrolet Corvette,175000.0,248 000 km,automatic,1 991 cm3,Diesel,Warszawa,Mazowieckie,2010
+9428,chevrolet,Chevrolet Camaro,110000.0,112 000 km,automatic,3 600 cm3,Benzyna,Trzcianka,Wielkopolskie,2019
+9429,chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,149999.0,112 000 km,automatic,3 600 cm3,Benzyna,Konin,Wielkopolskie,2019
+9430,chevrolet,Chevrolet Camaro 3.6 V6 Coupe 2LT,118000.0,22 800 km,automatic,6 162 cm3,Benzyna,Staszów,Świętokrzyskie,2015
+9431,chevrolet,Chevrolet Camaro Coupe 6.2 V8,164000.0,22 800 km,automatic,6 162 cm3,Benzyna,Kielce,Świętokrzyskie,2015
+9432,chevrolet,Chevrolet Camaro 3.6 V6 Coupe 2LT,89999.0,129 000 km,automatic,3 600 cm3,Benzyna,Warszawa,Mazowieckie,2016
+9433,chevrolet,Chevrolet Silverado,228780.0,129 000 km,automatic,3 600 cm3,Benzyna,Ostrzeszów,Wielkopolskie,2016
+9434,chevrolet,Chevrolet Camaro Cabriolet 6.2 V8,199000.0,88 000 km,automatic,6 162 cm3,Benzyna,Białystok,Podlaskie,2017
+9435,chevrolet,Chevrolet Camaro Coupe 2.0,109800.0,88 000 km,automatic,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2017
+9436,chevrolet,Chevrolet Camaro Coupe 6.2 V8,167000.0,135 000 km,automatic,3 600 cm3,Benzyna,Radomsko,Łódzkie,2016
+9437,chevrolet,Chevrolet Volt,79500.0,135 000 km,automatic,3 600 cm3,Benzyna,Bielsko-Biała,Śląskie,2016
+9438,chevrolet,Chevrolet Camaro Coupe 2.0,92900.0,51 000 km,automatic,5 300 cm3,Benzyna,Gniezno,Wielkopolskie,2019
+9439,chevrolet,Chevrolet Bolt,119000.0,51 000 km,automatic,5 300 cm3,Benzyna,Przeźmierowo,Wielkopolskie,2019
+9440,chevrolet,Chevrolet Camaro 3.6 V6 Coupe 2LT,103000.0,73 500 km,automatic,6 162 cm3,Benzyna,Łobez,Zachodniopomorskie,2019
+9441,chevrolet,Chevrolet Camaro Coupe 2.0,129900.0,73 500 km,automatic,6 162 cm3,Benzyna,Mysłakowice,Dolnośląskie,2019
+9442,chevrolet,Chevrolet Camaro Cabriolet 2.0,119000.0,25 000 km,automatic,1 998 cm3,Benzyna,Szczecin,Zachodniopomorskie,2019
+9443,chevrolet,Chevrolet Silverado,118000.0,25 000 km,automatic,1 998 cm3,Benzyna,Mława,Mazowieckie,2019
+9444,chevrolet,Chevrolet Camaro,189900.0,51 000 km,automatic,6 162 cm3,Benzyna,Żory,Śląskie,2019
+9445,chevrolet,Chevrolet Silverado,184000.0,51 000 km,automatic,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2019
+9446,chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Cabrio Automatik,300000.0,82 300 km,automatic,1 500 cm3,Hybryda,Zgierz,Łódzkie,2017
+9447,chevrolet,Chevrolet Camaro Coupe 6.2 V8,149900.0,82 300 km,automatic,1 500 cm3,Hybryda,Żyrardów,Mazowieckie,2017
+9448,chevrolet,Chevrolet Camaro 3.6 V6 Convertible 2LT,119900.0,110 000 km,automatic,1 998 cm3,Benzyna,Ostrołęka,Mazowieckie,2017
+9449,chevrolet,Chevrolet Camaro Coupe 2.0,62500.0,110 000 km,automatic,1 998 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2017
+9450,chevrolet,Chevrolet Corvette,119000.0,43 300 km,automatic,Elektryczny,2019,Gdańsk,Pomorskie,2019
+9451,chevrolet,Chevrolet Camaro Coupe 6.2 V8,155000.0,Elektryczny,automatic,2017,83 400 km,Gliwice,Śląskie,43 300 km
+9452,chevrolet,Chevrolet Camaro Coupe 2.0,87000.0,Benzyna,automatic,2017,83 400 km,Łomianki,Mazowieckie,3 600 cm3
+9453,chevrolet,Chevrolet Camaro,49000.0,Benzyna,automatic,2019,35 600 km,Tarnów,Małopolskie,3 600 cm3
+9454,chevrolet,Chevrolet Camaro 3.6 V6 Coupe 2LT,37000.0,Benzyna,automatic,2019,35 600 km,Tychy,Śląskie,1 998 cm3
+9455,chevrolet,Chevrolet Corvette,495000.0,Benzyna,automatic,2018,70 000 km,Opole,Opolskie,1 998 cm3
+9456,chevrolet,Chevrolet Corvette,139800.0,Benzyna,automatic,2018,70 000 km,Warszawa,Mazowieckie,1 998 cm3
+9457,chevrolet,Chevrolet Malibu,69900.0,Benzyna,automatic,2018,115 824 km,Żory,Śląskie,1 998 cm3
+9458,chevrolet,Chevrolet Corvette,199000.0,Benzyna,automatic,2018,115 824 km,Łódź,Łódzkie,5 300 cm3
+9459,chevrolet,Chevrolet Camaro Coupe Touring 6.2 V8,189000.0,Benzyna,automatic,2017,92 000 km,Izdebnik,Małopolskie,5 300 cm3
+9460,chevrolet,Chevrolet Camaro,149800.0,4 600 km,automatic,3 640 cm3,Benzyna,Gliwice,Śląskie,2021
+9461,chevrolet,Chevrolet Corvette,699900.0,4 600 km,automatic,3 640 cm3,Benzyna,Katowice,Śląskie,2021
+9462,chevrolet,Chevrolet Corvette,799999.0,4 100 km,automatic,6 126 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+9463,chevrolet,Chevrolet Corvette,749999.0,4 100 km,automatic,6 126 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+9464,chevrolet,Chevrolet Camaro,212000.0,9 km,automatic,6 162 cm3,Benzyna,Pruszków,Mazowieckie,2022
+9465,chevrolet,Chevrolet Bolt,149900.0,9 km,automatic,6 162 cm3,Benzyna,Zofiówka,Lubelskie,2022
+9466,chevrolet,Chevrolet Camaro,149000.0,9 km,automatic,6 162 cm3,Benzyna,Nowy Targ,Małopolskie,2022
+9467,chevrolet,Chevrolet Camaro Coupe 6.2 V8,198500.0,9 km,automatic,6 162 cm3,Benzyna,Ostrołęka,Mazowieckie,2022
+9468,chevrolet,Chevrolet Tahoe,579900.0,21 500 km,automatic,6 162 cm3,Benzyna,Chorzów,Śląskie,2020
+9469,chevrolet,Chevrolet Camaro,239000.0,21 500 km,automatic,6 162 cm3,Benzyna,Łochów,Mazowieckie,2020
+9470,chevrolet,Chevrolet Trax,68000.0,7 400 km,automatic,Elektryczny,2021,Rzeszów,Podkarpackie,2021
+9471,chevrolet,Chevrolet Camaro Cabriolet 6.2 V8,229000.0,Elektryczny,automatic,2020,44 000 km,Słupsk,Pomorskie,7 400 km
+9472,chevrolet,Chevrolet Camaro,139000.0,Benzyna,automatic,2020,44 000 km,Wrocław,Dolnośląskie,3 640 cm3
+9473,chevrolet,Chevrolet Camaro Coupe 2.0,149000.0,Benzyna,automatic,2021,77 000 km,Bochnia,Małopolskie,3 640 cm3
+9474,chevrolet,Chevrolet Equinox,87000.0,Benzyna,automatic,2021,77 000 km,Mława,Mazowieckie,6 162 cm3
+9475,chevrolet,Chevrolet Corvette,608000.0,Benzyna,automatic,2023,10 km,Dąbrowa Górnicza,Śląskie,6 162 cm3
+9476,chevrolet,Chevrolet Malibu,94900.0,Benzyna,automatic,2023,10 km,Gorzów Wielkopolski,Lubuskie,6 200 cm3
+9477,chevrolet,Chevrolet Silverado,186000.0,Benzyna,automatic,2022,6 000 km,Warszawa,Mazowieckie,6 200 cm3
+9478,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,507000.0,Benzyna,automatic,2022,6 000 km,Straszyn,Pomorskie,6 200 cm3
+9479,chevrolet,Chevrolet Corvette,719000.0,Benzyna,automatic,2020,53 000 km,Wrocław,Dolnośląskie,6 200 cm3
+9480,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,529000.0,Benzyna,automatic,2020,53 000 km,Turek,Wielkopolskie,1 364 cm3
+9481,chevrolet,Chevrolet Malibu,89000.0,Benzyna,automatic,2020,40 021 km,Biała Podlaska,Lubelskie,1 364 cm3
+9482,chevrolet,Chevrolet Corvette Stingray Cabriolet 3LT 6.2 V8 Automatik,529000.0,Benzyna,automatic,2020,40 021 km,Turek,Wielkopolskie,6 162 cm3
+9483,chevrolet,Chevrolet Camaro Coupe 6.2 V8,170000.0,Benzyna,automatic,2020,44 200 km,Węgierska Górka,Śląskie,6 162 cm3
+9484,chevrolet,Chevrolet Silverado,134000.0,Benzyna,automatic,2020,44 200 km,Mława,Mazowieckie,6 162 cm3
+9485,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,639000.0,Benzyna,automatic,2020,18 307 km,Wrocław,Dolnośląskie,6 162 cm3
+9486,chevrolet,Chevrolet Malibu,94900.0,Benzyna,automatic,2020,18 307 km,Koszalin,Zachodniopomorskie,1 998 cm3
+9487,chevrolet,Chevrolet Corvette,699000.0,Benzyna,automatic,2021,55 736 km,Gdańsk,Pomorskie,1 998 cm3
+9488,chevrolet,Chevrolet Camaro,149800.0,4 600 km,automatic,3 640 cm3,Benzyna,Gliwice,Śląskie,2021
+9489,chevrolet,Chevrolet Corvette,699900.0,4 600 km,automatic,3 640 cm3,Benzyna,Katowice,Śląskie,2021
+9490,chevrolet,Chevrolet Corvette,799999.0,4 100 km,automatic,6 126 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+9491,chevrolet,Chevrolet Corvette,749999.0,4 100 km,automatic,6 126 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+9492,chevrolet,Chevrolet Camaro,212000.0,9 km,automatic,6 162 cm3,Benzyna,Pruszków,Mazowieckie,2022
+9493,chevrolet,Chevrolet Bolt,149900.0,9 km,automatic,6 162 cm3,Benzyna,Zofiówka,Lubelskie,2022
+9494,chevrolet,Chevrolet Camaro,149000.0,9 km,automatic,6 162 cm3,Benzyna,Nowy Targ,Małopolskie,2022
+9495,chevrolet,Chevrolet Camaro Coupe 6.2 V8,198500.0,9 km,automatic,6 162 cm3,Benzyna,Ostrołęka,Mazowieckie,2022
+9496,chevrolet,Chevrolet Tahoe,579900.0,21 500 km,automatic,6 162 cm3,Benzyna,Chorzów,Śląskie,2020
+9497,chevrolet,Chevrolet Camaro,239000.0,21 500 km,automatic,6 162 cm3,Benzyna,Łochów,Mazowieckie,2020
+9498,chevrolet,Chevrolet Trax,68000.0,7 400 km,automatic,Elektryczny,2021,Rzeszów,Podkarpackie,2021
+9499,chevrolet,Chevrolet Camaro Cabriolet 6.2 V8,229000.0,Elektryczny,automatic,2020,44 000 km,Słupsk,Pomorskie,7 400 km
+9500,chevrolet,Chevrolet Camaro,139000.0,Benzyna,automatic,2020,44 000 km,Wrocław,Dolnośląskie,3 640 cm3
+9501,chevrolet,Chevrolet Camaro Coupe 2.0,149000.0,Benzyna,automatic,2021,77 000 km,Bochnia,Małopolskie,3 640 cm3
+9502,chevrolet,Chevrolet Equinox,87000.0,Benzyna,automatic,2021,77 000 km,Mława,Mazowieckie,6 162 cm3
+9503,chevrolet,Chevrolet Corvette,608000.0,Benzyna,automatic,2023,10 km,Dąbrowa Górnicza,Śląskie,6 162 cm3
+9504,chevrolet,Chevrolet Malibu,94900.0,Benzyna,automatic,2023,10 km,Gorzów Wielkopolski,Lubuskie,6 200 cm3
+9505,chevrolet,Chevrolet Silverado,186000.0,Benzyna,automatic,2022,6 000 km,Warszawa,Mazowieckie,6 200 cm3
+9506,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,507000.0,Benzyna,automatic,2022,6 000 km,Straszyn,Pomorskie,6 200 cm3
+9507,chevrolet,Chevrolet Corvette,719000.0,Benzyna,automatic,2020,53 000 km,Wrocław,Dolnośląskie,6 200 cm3
+9508,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,529000.0,Benzyna,automatic,2020,53 000 km,Turek,Wielkopolskie,1 364 cm3
+9509,chevrolet,Chevrolet Malibu,89000.0,Benzyna,automatic,2020,40 021 km,Biała Podlaska,Lubelskie,1 364 cm3
+9510,chevrolet,Chevrolet Corvette Stingray Cabriolet 3LT 6.2 V8 Automatik,529000.0,Benzyna,automatic,2020,40 021 km,Turek,Wielkopolskie,6 162 cm3
+9511,chevrolet,Chevrolet Camaro Coupe 6.2 V8,170000.0,Benzyna,automatic,2020,44 200 km,Węgierska Górka,Śląskie,6 162 cm3
+9512,chevrolet,Chevrolet Silverado,134000.0,Benzyna,automatic,2020,44 200 km,Mława,Mazowieckie,6 162 cm3
+9513,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,639000.0,Benzyna,automatic,2020,18 307 km,Wrocław,Dolnośląskie,6 162 cm3
+9514,chevrolet,Chevrolet Malibu,94900.0,Benzyna,automatic,2020,18 307 km,Koszalin,Zachodniopomorskie,1 998 cm3
+9515,chevrolet,Chevrolet Corvette,699000.0,Benzyna,automatic,2021,55 736 km,Gdańsk,Pomorskie,1 998 cm3
+9539,chevrolet,Chevrolet Camaro,159000.0,7 680 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2021
+9540,chevrolet,Chevrolet Camaro,129900.0,7 680 km,automatic,1 998 cm3,Benzyna,Wałbrzych,Dolnośląskie,2021
+9541,chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,620000.0,6 500 km,automatic,2 000 cm3,Benzyna,Sanok,Podkarpackie,2020
+9542,chevrolet,Chevrolet Camaro,99000.0,6 500 km,automatic,2 000 cm3,Benzyna,Warszawa,Mazowieckie,2020
+9543,chevrolet,Chevrolet Silverado,164000.0,5 500 km,automatic,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2020
+9544,chevrolet,Chevrolet Corvette,719990.0,5 500 km,automatic,6 162 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+9545,chevrolet,Chevrolet Corvette,749999.0,10 692 km,automatic,3 600 cm3,Benzyna,Wrocław,Dolnośląskie,2022
+9546,chevrolet,Chevrolet Camaro,119000.0,10 692 km,automatic,3 600 cm3,Benzyna,Mława,Mazowieckie,2022
+9547,chevrolet,Chevrolet Corvette,749990.0,52 648 km,automatic,3 000 cm3,Diesel,Wrocław,Dolnośląskie,2022
+9548,chevrolet,Chevrolet Corvette,565000.0,52 648 km,automatic,3 000 cm3,Diesel,Ząbkowice Śląskie,Dolnośląskie,2022
+9549,chevrolet,Chevrolet Tahoe,225000.0,600 km,automatic,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2022
+9550,chevrolet,Chevrolet Silverado,187500.0,600 km,automatic,6 162 cm3,Benzyna,Łaziska Górne,Śląskie,2022
+9551,chevrolet,Chevrolet Corvette,242000.0,9 km,automatic,6 162 cm3,Benzyna,Gdańsk,Pomorskie,2023
+9552,chevrolet,Chevrolet Corvette,198000.0,9 km,automatic,6 162 cm3,Benzyna,Łódź,Łódzkie,2023
+9553,chevrolet,Chevrolet Corvette,555000.0,75 552 km,automatic,6 200 cm3,Benzyna,Łomianki,Mazowieckie,2020
+9554,chevrolet,Chevrolet Tahoe,539990.0,75 552 km,automatic,6 200 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+9555,chevrolet,Chevrolet Tahoe,549990.0,50 km,automatic,6 162 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+9556,chevrolet,Chevrolet Camaro,142000.0,50 km,automatic,6 162 cm3,Benzyna,Oleśnica,Dolnośląskie,2023
+9557,chevrolet,Chevrolet Camaro Coupe 6.2 V8,180000.0,3 550 km,automatic,6 162 cm3,Benzyna,Drawsko Pomorskie,Zachodniopomorskie,2020
+9558,chevrolet,Chevrolet Corvette Stingray 3LT 6.2 V8 Automatik,269000.0,3 550 km,automatic,6 162 cm3,Benzyna,Oborniki,Wielkopolskie,2020
+9559,chevrolet,Chevrolet Silverado,203000.0,55 823 km,automatic,5 300 cm3,Benzyna,Mława,Mazowieckie,2021
+9560,chevrolet,Chevrolet Corvette,799990.0,55 823 km,automatic,5 300 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+9561,chevrolet,Chevrolet Corvette,799990.0,8 000 km,automatic,5 328 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+9562,chevrolet,Chevrolet Corvette,749999.0,8 000 km,automatic,5 328 cm3,Benzyna,Wrocław,Dolnośląskie,2020
+9563,chevrolet,Chevrolet Silverado,349900.0,175 km,automatic,6 162 cm3,Benzyna,Wrocław,Dolnośląskie,2023
+9564,chevrolet,Chevrolet Camaro,150000.0,175 km,automatic,6 162 cm3,Benzyna,Gdańsk,Pomorskie,2023
+9565,chevrolet,Chevrolet Silverado,204900.0,18 707 km,automatic,6 162 cm3,Benzyna,Gubin,Lubuskie,2021
+9566,chevrolet,Chevrolet Camaro Cabriolet 6.2 V8,249999.0,18 707 km,automatic,6 162 cm3,Benzyna,Borowa,Łódzkie,2021
+9567,chevrolet,Chevrolet Corvette,210000.0,7 390 km,automatic,6 162 cm3,Benzyna,Warszawa,Mazowieckie,2021
+9568,chevrolet,Chevrolet Camaro,79000.0,7 390 km,automatic,6 162 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+9569,chevrolet,Chevrolet Corvette Stingray 2LT 6.2 V8 Automatik,585000.0,1 km,automatic,5 328 cm3,Benzyna,Poznań,Wielkopolskie,2022
+9570,chevrolet,Chevrolet Corvette,635163.0,1 km,automatic,5 328 cm3,Benzyna,Dąbrowa Chełmińska,Kujawsko-pomorskie,2022

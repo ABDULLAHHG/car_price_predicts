@@ -1,0 +1,578 @@
+,brand,model,price_in_pln,mileage,gearbox,engine_capacity,fuel_type,city,voivodeship,year
+24641,jaguar,Jaguar X-Type 2.5 Executive,8990.0,260 000 km,manual,2 495 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2002
+24642,jaguar,Jaguar X-Type 2.0 D Classic,8000.0,260 000 km,manual,2 495 cm3,Benzyna+LPG,Grębów,Podkarpackie,2002
+24643,jaguar,Jaguar X-Type,8200.0,239 600 km,manual,1 998 cm3,Diesel,Starogard Gdański,Pomorskie,2004
+24644,jaguar,Jaguar X-Type 2.0 D Executive,2900.0,239 600 km,manual,1 998 cm3,Diesel,Bodzanów,Małopolskie,2004
+24645,jaguar,Jaguar X-Type,11999.0,257 841 km,manual,1 998 cm3,Diesel,Opole,Opolskie,2004
+24646,jaguar,Jaguar X-Type 2.0 D Executive,11999.0,257 841 km,manual,1 998 cm3,Diesel,Wrocław,Dolnośląskie,2004
+24647,jaguar,Jaguar X-Type,5900.0,278 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2004
+24648,jaguar,Jaguar X-Type 2.0 D Entry/Classic,12600.0,278 000 km,manual,1 998 cm3,Diesel,Różnowo,Warmińsko-mazurskie,2004
+24649,jaguar,Jaguar X-Type 2.5 Sport,17900.0,196 513 km,manual,2 099 cm3,Benzyna+LPG,Otmuchów,Opolskie,2004
+24650,jaguar,Jaguar X-Type,13700.0,196 513 km,manual,2 099 cm3,Benzyna+LPG,Zwoleń,Mazowieckie,2004
+24651,jaguar,Jaguar X-Type 2.0 High,11900.0,298 600 km,manual,1 998 cm3,Diesel,Żory,Śląskie,2004
+24652,jaguar,Jaguar S-Type 3.0 V6 High,9500.0,298 600 km,manual,1 998 cm3,Diesel,Wrocław,Dolnośląskie,2004
+24653,jaguar,Jaguar S-Type 3.0 V6 High,15900.0,330 000 km,manual,1 998 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2004
+24654,jaguar,Jaguar X-Type 2.0 D Sport,7500.0,330 000 km,manual,1 998 cm3,Diesel,Tczew,Pomorskie,2004
+24655,jaguar,Jaguar X-Type 2.5 Executive,10800.0,173 252 km,manual,1 998 cm3,Diesel,Radom,Mazowieckie,2004
+24656,jaguar,Jaguar X-Type 2.5 Sport,13500.0,173 252 km,manual,1 998 cm3,Diesel,Radom,Mazowieckie,2004
+24657,jaguar,Jaguar X-Type 3.0 High,16900.0,142 000 km,manual,2 495 cm3,Benzyna,Radom,Mazowieckie,2004
+24658,jaguar,Jaguar S-Type 3.0 V6 High,13000.0,142 000 km,manual,2 495 cm3,Benzyna,Łódź,Łódzkie,2004
+24659,jaguar,Jaguar X-Type,13000.0,260 000 km,manual,2 500 cm3,Benzyna,Brzeziny,Łódzkie,2003
+24660,jaguar,Jaguar X-Type 2.5 Sport,13499.0,260 000 km,manual,2 500 cm3,Benzyna,Jaworzno,Śląskie,2003
+24661,jaguar,Jaguar X-Type 2.0 D Executive,5900.0,319 000 km,manual,2 099 cm3,Benzyna,Granowo,Wielkopolskie,2004
+24662,jaguar,Jaguar X-Type 2.2 D Executive,11900.0,204 500 km,manual,2 198 cm3,Diesel,Gliwice,Śląskie,2007
+24663,jaguar,Jaguar X-Type,12700.0,204 500 km,manual,2 198 cm3,Diesel,Płock,Mazowieckie,2007
+24664,jaguar,Jaguar X-Type Estate 2.2 Diesel Classic,12000.0,284 000 km,manual,1 998 cm3,Diesel,Bytom,Śląskie,2005
+24665,jaguar,Jaguar X-Type 2.0 D Entry/Classic,7800.0,284 000 km,manual,1 998 cm3,Diesel,Poznań,Wielkopolskie,2005
+24666,jaguar,Jaguar X-Type,24700.0,187 000 km,manual,2 198 cm3,Diesel,Białystok,Podlaskie,2007
+24667,jaguar,Jaguar S-Type 2.7 V6 D Sport,10000.0,187 000 km,manual,2 198 cm3,Diesel,Ruda Śląska,Śląskie,2007
+24668,jaguar,Jaguar X-Type 3.0 Sport,16900.0,191 000 km,manual,1 998 cm3,Diesel,Regów Stary,Mazowieckie,2006
+24669,jaguar,Jaguar X-Type 2.2 D Executive,9300.0,191 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2006
+24670,jaguar,Jaguar X-Type 2.0 D Executive,15500.0,125 000 km,manual,1 998 cm3,Diesel,Zawiercie,Śląskie,2008
+24671,jaguar,Jaguar X-Type 2.0 D Executive,17500.0,125 000 km,manual,1 998 cm3,Diesel,Rymanów,Podkarpackie,2008
+24672,jaguar,Jaguar X-Type 2.0 D Entry/Classic,9800.0,242 428 km,manual,2 720 cm3,Diesel,Bartodzieje,Mazowieckie,2006
+24673,jaguar,Jaguar X-Type 2.0 D High,15400.0,242 428 km,manual,2 720 cm3,Diesel,Gdańsk,Pomorskie,2006
+24674,jaguar,Jaguar X-Type 2.0 D Entry/Classic,11000.0,263 000 km,manual,2 967 cm3,Benzyna,Skarżysko-Kamienna,Świętokrzyskie,2006
+24675,jaguar,Jaguar X-Type 2.0 D Executive,14900.0,263 000 km,manual,2 967 cm3,Benzyna,Lublin,Lubelskie,2006
+24676,jaguar,Jaguar X-Type 2.2 D Executive,11900.0,204 500 km,manual,2 198 cm3,Diesel,Gliwice,Śląskie,2007
+24677,jaguar,Jaguar X-Type,12700.0,204 500 km,manual,2 198 cm3,Diesel,Płock,Mazowieckie,2007
+24678,jaguar,Jaguar X-Type Estate 2.2 Diesel Classic,12000.0,284 000 km,manual,1 998 cm3,Diesel,Bytom,Śląskie,2005
+24679,jaguar,Jaguar X-Type 2.0 D Entry/Classic,7800.0,284 000 km,manual,1 998 cm3,Diesel,Poznań,Wielkopolskie,2005
+24680,jaguar,Jaguar X-Type,24700.0,187 000 km,manual,2 198 cm3,Diesel,Białystok,Podlaskie,2007
+24681,jaguar,Jaguar S-Type 2.7 V6 D Sport,10000.0,187 000 km,manual,2 198 cm3,Diesel,Ruda Śląska,Śląskie,2007
+24682,jaguar,Jaguar X-Type 3.0 Sport,16900.0,191 000 km,manual,1 998 cm3,Diesel,Regów Stary,Mazowieckie,2006
+24683,jaguar,Jaguar X-Type 2.2 D Executive,9300.0,191 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2006
+24684,jaguar,Jaguar X-Type 2.0 D Executive,15500.0,125 000 km,manual,1 998 cm3,Diesel,Zawiercie,Śląskie,2008
+24685,jaguar,Jaguar X-Type 2.0 D Executive,17500.0,125 000 km,manual,1 998 cm3,Diesel,Rymanów,Podkarpackie,2008
+24686,jaguar,Jaguar X-Type 2.0 D Entry/Classic,9800.0,242 428 km,manual,2 720 cm3,Diesel,Bartodzieje,Mazowieckie,2006
+24687,jaguar,Jaguar X-Type 2.0 D High,15400.0,242 428 km,manual,2 720 cm3,Diesel,Gdańsk,Pomorskie,2006
+24688,jaguar,Jaguar X-Type 2.0 D Entry/Classic,11000.0,263 000 km,manual,2 967 cm3,Benzyna,Skarżysko-Kamienna,Świętokrzyskie,2006
+24689,jaguar,Jaguar X-Type 2.0 D Executive,14900.0,263 000 km,manual,2 967 cm3,Benzyna,Lublin,Lubelskie,2006
+24690,jaguar,Jaguar X-Type 2.5 Executive,8990.0,260 000 km,manual,2 495 cm3,Benzyna+LPG,Elbląg,Warmińsko-mazurskie,2002
+24691,jaguar,Jaguar X-Type 2.0 D Classic,8000.0,260 000 km,manual,2 495 cm3,Benzyna+LPG,Grębów,Podkarpackie,2002
+24692,jaguar,Jaguar X-Type,8200.0,239 600 km,manual,1 998 cm3,Diesel,Starogard Gdański,Pomorskie,2004
+24693,jaguar,Jaguar X-Type 2.0 D Executive,2900.0,239 600 km,manual,1 998 cm3,Diesel,Bodzanów,Małopolskie,2004
+24694,jaguar,Jaguar X-Type,11999.0,257 841 km,manual,1 998 cm3,Diesel,Opole,Opolskie,2004
+24695,jaguar,Jaguar X-Type 2.0 D Executive,11999.0,257 841 km,manual,1 998 cm3,Diesel,Wrocław,Dolnośląskie,2004
+24696,jaguar,Jaguar X-Type,5900.0,278 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2004
+24697,jaguar,Jaguar X-Type 2.0 D Entry/Classic,12600.0,278 000 km,manual,1 998 cm3,Diesel,Różnowo,Warmińsko-mazurskie,2004
+24698,jaguar,Jaguar X-Type 2.5 Sport,17900.0,196 513 km,manual,2 099 cm3,Benzyna+LPG,Otmuchów,Opolskie,2004
+24699,jaguar,Jaguar X-Type,13700.0,196 513 km,manual,2 099 cm3,Benzyna+LPG,Zwoleń,Mazowieckie,2004
+24700,jaguar,Jaguar X-Type 2.0 High,11900.0,298 600 km,manual,1 998 cm3,Diesel,Żory,Śląskie,2004
+24701,jaguar,Jaguar S-Type 3.0 V6 High,9500.0,298 600 km,manual,1 998 cm3,Diesel,Wrocław,Dolnośląskie,2004
+24702,jaguar,Jaguar S-Type 3.0 V6 High,15900.0,330 000 km,manual,1 998 cm3,Diesel,Rawa Mazowiecka,Łódzkie,2004
+24703,jaguar,Jaguar X-Type 2.0 D Sport,7500.0,330 000 km,manual,1 998 cm3,Diesel,Tczew,Pomorskie,2004
+24704,jaguar,Jaguar X-Type 2.5 Executive,10800.0,173 252 km,manual,1 998 cm3,Diesel,Radom,Mazowieckie,2004
+24705,jaguar,Jaguar X-Type 2.5 Sport,13500.0,173 252 km,manual,1 998 cm3,Diesel,Radom,Mazowieckie,2004
+24706,jaguar,Jaguar X-Type 3.0 High,16900.0,142 000 km,manual,2 495 cm3,Benzyna,Radom,Mazowieckie,2004
+24707,jaguar,Jaguar S-Type 3.0 V6 High,13000.0,142 000 km,manual,2 495 cm3,Benzyna,Łódź,Łódzkie,2004
+24708,jaguar,Jaguar X-Type,13000.0,260 000 km,manual,2 500 cm3,Benzyna,Brzeziny,Łódzkie,2003
+24709,jaguar,Jaguar X-Type 2.5 Sport,13499.0,260 000 km,manual,2 500 cm3,Benzyna,Jaworzno,Śląskie,2003
+24710,jaguar,Jaguar X-Type 2.0 D Executive,5900.0,319 000 km,manual,2 099 cm3,Benzyna,Granowo,Wielkopolskie,2004
+24711,jaguar,Jaguar XF 2.0 i4D Pure,129027.0,43 100 km,manual,1 999 cm3,Diesel,Parczew,Lubelskie,2020
+24712,jaguar,Jaguar X-Type 2.2 D Executive,11900.0,204 500 km,manual,2 198 cm3,Diesel,Gliwice,Śląskie,2007
+24713,jaguar,Jaguar X-Type,12700.0,204 500 km,manual,2 198 cm3,Diesel,Płock,Mazowieckie,2007
+24714,jaguar,Jaguar X-Type Estate 2.2 Diesel Classic,12000.0,284 000 km,manual,1 998 cm3,Diesel,Bytom,Śląskie,2005
+24715,jaguar,Jaguar X-Type 2.0 D Entry/Classic,7800.0,284 000 km,manual,1 998 cm3,Diesel,Poznań,Wielkopolskie,2005
+24716,jaguar,Jaguar X-Type,24700.0,187 000 km,manual,2 198 cm3,Diesel,Białystok,Podlaskie,2007
+24717,jaguar,Jaguar S-Type 2.7 V6 D Sport,10000.0,187 000 km,manual,2 198 cm3,Diesel,Ruda Śląska,Śląskie,2007
+24718,jaguar,Jaguar X-Type 3.0 Sport,16900.0,191 000 km,manual,1 998 cm3,Diesel,Regów Stary,Mazowieckie,2006
+24719,jaguar,Jaguar X-Type 2.2 D Executive,9300.0,191 000 km,manual,1 998 cm3,Diesel,Warszawa,Mazowieckie,2006
+24720,jaguar,Jaguar X-Type 2.0 D Executive,15500.0,125 000 km,manual,1 998 cm3,Diesel,Zawiercie,Śląskie,2008
+24721,jaguar,Jaguar X-Type 2.0 D Executive,17500.0,125 000 km,manual,1 998 cm3,Diesel,Rymanów,Podkarpackie,2008
+24722,jaguar,Jaguar X-Type 2.0 D Entry/Classic,9800.0,242 428 km,manual,2 720 cm3,Diesel,Bartodzieje,Mazowieckie,2006
+24723,jaguar,Jaguar X-Type 2.0 D High,15400.0,242 428 km,manual,2 720 cm3,Diesel,Gdańsk,Pomorskie,2006
+24724,jaguar,Jaguar X-Type 2.0 D Entry/Classic,11000.0,263 000 km,manual,2 967 cm3,Benzyna,Skarżysko-Kamienna,Świętokrzyskie,2006
+24725,jaguar,Jaguar X-Type 2.0 D Executive,14900.0,263 000 km,manual,2 967 cm3,Benzyna,Lublin,Lubelskie,2006
+24726,jaguar,Jaguar F-Pace 2.0 i4D RWD R-Sport,98900.0,114 000 km,manual,1 999 cm3,Diesel,Zduńska Wola,Łódzkie,2016
+24727,jaguar,Jaguar XE 2.0 D Pure,59900.0,114 000 km,manual,1 999 cm3,Diesel,Koluszki,Łódzkie,2016
+24728,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,127000.0,236 293 km,manual,1 999 cm3,Diesel,Wrocław,Dolnośląskie,2015
+24729,jaguar,Jaguar XF,69000.0,236 293 km,manual,1 999 cm3,Diesel,Konarzyce,Podlaskie,2015
+24730,jaguar,Jaguar XE 2.0 D Prestige,67000.0,82 000 km,manual,1 999 cm3,Diesel,Gdynia,Pomorskie,2018
+24731,jaguar,Jaguar XE,54800.0,82 000 km,manual,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2018
+24732,jaguar,Jaguar XE E-Performance Prestige,57550.0,127 000 km,manual,2 179 cm3,Diesel,Świnoujście,Zachodniopomorskie,2016
+24733,jaguar,Jaguar F-Pace 20d Prestige,119999.0,127 000 km,manual,2 179 cm3,Diesel,Szczecin,Zachodniopomorskie,2016
+24734,jaguar,Jaguar XF 2.0 i4D Pure,75900.0,142 000 km,manual,1 999 cm3,Diesel,Nowy Sącz,Małopolskie,2015
+24735,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,64900.0,142 000 km,manual,1 999 cm3,Diesel,Stargard Szczeciński,Zachodniopomorskie,2015
+24736,jaguar,Jaguar F-Pace,125000.0,179 000 km,manual,1 999 cm3,Diesel,Piła,Wielkopolskie,2016
+24737,jaguar,Jaguar E-Pace 2.0 i4D AWD R-Dynamic,120000.0,179 000 km,manual,1 999 cm3,Diesel,Zawiercie,Śląskie,2016
+24738,jaguar,Jaguar XE 2.0 D Portfolio,62900.0,277 000 km,manual,1 999 cm3,Diesel,Słupsk,Pomorskie,2017
+24739,jaguar,Jaguar XE 2.0 D R-Sport,71000.0,277 000 km,manual,1 999 cm3,Diesel,Choszczno,Zachodniopomorskie,2017
+24740,jaguar,Jaguar E-Pace,119000.0,139 000 km,manual,1 999 cm3,Diesel,Długołęka,Dolnośląskie,2016
+24741,jaguar,Jaguar E-Pace,69999.0,139 000 km,manual,1 999 cm3,Diesel,Otmuchów,Opolskie,2016
+24742,jaguar,Jaguar XE 2.0 D Portfolio,65000.0,126 400 km,manual,1 999 cm3,Diesel,Września,Wielkopolskie,2016
+24743,jaguar,Jaguar F-Pace,97170.0,126 400 km,manual,1 999 cm3,Diesel,Pionki,Mazowieckie,2016
+24744,jaguar,Jaguar F-Pace,97170.0,114 000 km,manual,1 999 cm3,Diesel,Pionki,Mazowieckie,2017
+24745,jaguar,Jaguar F-Pace 2.0 i4D AWD Portfolio,139000.0,114 000 km,manual,1 999 cm3,Diesel,Głogów,Dolnośląskie,2017
+24746,jaguar,Jaguar E-Pace D150 AWD R-Dynamic SE,99999.0,164 000 km,manual,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2016
+24747,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24748,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24749,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24750,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24751,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24752,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24753,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24754,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24755,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24756,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24757,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24758,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24759,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24760,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24761,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24762,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24763,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24764,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24765,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24766,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24767,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24768,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24769,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24770,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24771,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24772,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24773,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24774,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24775,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24776,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24777,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24778,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24779,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24780,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24781,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24782,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24783,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24784,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24785,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24786,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24787,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24788,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24789,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24790,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24791,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24792,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24793,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24794,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24795,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24796,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24797,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24798,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24799,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24800,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24801,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24802,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24803,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24804,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24805,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24806,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24807,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24808,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24809,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24810,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24811,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24812,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24813,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24814,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24815,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24816,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24817,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24818,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24819,jaguar,Jaguar S-Type 3.0 V6 High,19900.0,178 000 km,automatic,2 967 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2004
+24820,jaguar,Jaguar X-Type 3.0 Executive,17999.0,178 000 km,automatic,2 967 cm3,Benzyna,Swarzędz,Wielkopolskie,2004
+24821,jaguar,Jaguar XJR Standard,35000.0,199 000 km,automatic,2 967 cm3,Benzyna,Gdańsk,Pomorskie,2003
+24822,jaguar,Jaguar XK,87800.0,199 000 km,automatic,2 967 cm3,Benzyna,Radom,Mazowieckie,2003
+24823,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,5400.0,301 000 km,automatic,3 996 cm3,Benzyna,Strzyżów,Lubelskie,2000
+24824,jaguar,Jaguar S-Type 4.2 V8,24000.0,301 000 km,automatic,3 996 cm3,Benzyna,Bieruń,Śląskie,2000
+24825,jaguar,Jaguar XJ XJ6 3.0 High,18500.0,190 112 km,automatic,3 996 cm3,Benzyna,Ostrów Wielkopolski,Wielkopolskie,2000
+24826,jaguar,Jaguar S-Type 4.0 V8,17900.0,190 112 km,automatic,3 996 cm3,Benzyna,Słupca,Wielkopolskie,2000
+24827,jaguar,Jaguar S-Type 4.2 V8,21200.0,250 000 km,automatic,2 495 cm3,Benzyna,Wojcieszków,Lubelskie,2002
+24828,jaguar,Jaguar XK8 4.2,85000.0,98 000 km,automatic,4 196 cm3,Benzyna,Katowice,Śląskie,2006
+24829,jaguar,Jaguar XJ XJ6 2.7 D Executive,34999.0,98 000 km,automatic,4 196 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2006
+24830,jaguar,Jaguar XF 2.7 V6 D Luxury,29500.0,346 864 km,automatic,2 720 cm3,Diesel,Niedźwiedź,Małopolskie,2006
+24831,jaguar,Jaguar XF 2.7 V6 D Luxury,44000.0,346 864 km,automatic,2 720 cm3,Diesel,Reda,Pomorskie,2006
+24832,jaguar,Jaguar XF 4.2 V8 Premium Luxury,25500.0,220 000 km,automatic,2 720 cm3,Diesel,Złotniki Kujawskie,Kujawsko-pomorskie,2008
+24833,jaguar,Jaguar XJ XJ8 4.2 Executive,39237.0,220 000 km,automatic,2 720 cm3,Diesel,Tarnobrzeg,Podkarpackie,2008
+24834,jaguar,Jaguar XJ XJ6 2.7 Twin Turbo Diesel (LWB) Sovereign Last Edition,15000.0,99 000 km,automatic,2 720 cm3,Diesel,Konstancin-Jeziorna,Mazowieckie,2009
+24835,jaguar,Jaguar XF 3.0 V6 D Premium Luxury,65000.0,99 000 km,automatic,2 720 cm3,Diesel,Poznań,Wielkopolskie,2009
+24836,jaguar,Jaguar XK8 XKR 4.2,73000.0,180 794 km,automatic,4 196 cm3,Benzyna,Poznań,Wielkopolskie,2008
+24837,jaguar,Jaguar S-Type 2.7 V6 D Executive,27900.0,180 794 km,automatic,4 196 cm3,Benzyna,Warszawa,Mazowieckie,2008
+24838,jaguar,Jaguar XK 4.2 V8,119900.0,159 000 km,automatic,4 196 cm3,Benzyna,Długołęka,Dolnośląskie,2008
+24839,jaguar,Jaguar X-Type,7300.0,159 000 km,automatic,4 196 cm3,Benzyna,Bielsko-Biała,Śląskie,2008
+24840,jaguar,Jaguar XF 2.7 V6 D Luxury,31500.0,200 000 km,automatic,2 720 cm3,Diesel,Września,Wielkopolskie,2005
+24841,jaguar,Jaguar S-Type 4.2 V8 High,26900.0,200 000 km,automatic,2 720 cm3,Diesel,Nowy Dwór Mazowiecki,Mazowieckie,2005
+24842,jaguar,Jaguar XF,10900.0,165 000 km,automatic,2 993 cm3,Diesel,Sławsk,Wielkopolskie,2009
+24843,jaguar,Jaguar XF 3.0 V6 D Luxury,41900.0,165 000 km,automatic,2 993 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2009
+24844,jaguar,Jaguar XJ XJ6 2.7 D Executive,39900.0,265 000 km,automatic,4 196 cm3,Benzyna,Sobolew,Mazowieckie,2005
+24845,jaguar,Jaguar XJ XJ8 4.2 LWB Sovereign,87000.0,265 000 km,automatic,4 196 cm3,Benzyna,Koszalin,Zachodniopomorskie,2005
+24846,jaguar,Jaguar XF 2.7 V6 Diesel Luxury,31900.0,224 067 km,automatic,2 720 cm3,Diesel,Kielce,Świętokrzyskie,2007
+24847,jaguar,Jaguar XJ XJ6 2.7 D Sovereign,32500.0,224 067 km,automatic,2 720 cm3,Diesel,Warszawa,Mazowieckie,2007
+24848,jaguar,Jaguar XK XKR,94999.0,170 700 km,automatic,4 196 cm3,Benzyna,Józefów,Mazowieckie,2007
+24849,jaguar,Jaguar S-Type 3.0 V6 Executive,38900.0,170 700 km,automatic,4 196 cm3,Benzyna,Długołęka,Dolnośląskie,2007
+24850,jaguar,Jaguar XK 5.0 Cabriolet Portfolio,198000.0,245 000 km,automatic,2 198 cm3,Diesel,Zbrosławice,Śląskie,2008
+24851,jaguar,Jaguar XK,57700.0,245 000 km,automatic,2 198 cm3,Diesel,Aleksandrów Łódzki,Łódzkie,2008
+24852,jaguar,Jaguar XF 4.2 Super V8,44900.0,228 000 km,automatic,2 720 cm3,Diesel,Kiedrzyn,Mazowieckie,2008
+24853,jaguar,Jaguar XF 2.7 V6 D Luxury,12000.0,228 000 km,automatic,2 720 cm3,Diesel,Koło,Wielkopolskie,2008
+24854,jaguar,Jaguar XJ,23500.0,193 000 km,automatic,4 196 cm3,Benzyna,Kęty,Małopolskie,2005
+24855,jaguar,Jaguar XJ XJ8 4.2 Executive Last Edition,69900.0,193 000 km,automatic,4 196 cm3,Benzyna,Białystok,Podlaskie,2005
+24856,jaguar,Jaguar XK XKR,125000.0,189 000 km,automatic,2 720 cm3,Diesel,Białystok,Podlaskie,2008
+24857,jaguar,Jaguar S-Type 3.0 V6 Executive,34999.0,189 000 km,automatic,2 720 cm3,Diesel,Mielec,Podkarpackie,2008
+24858,jaguar,Jaguar XF 4.2 SV8,55000.0,215 463 km,automatic,2 993 cm3,Diesel,Jarosław,Podkarpackie,2009
+24859,jaguar,Jaguar XK XKR Cabriolet,115000.0,215 463 km,automatic,2 993 cm3,Diesel,Szczebrzeszyn,Lubelskie,2009
+24860,jaguar,Jaguar XF 2.7 V6 Diesel Luxury,21999.0,289 517 km,automatic,2 720 cm3,Diesel,Zabierzów,Małopolskie,2008
+24861,jaguar,Jaguar X-Type Estate 2.5 V6 4x4 Executive,16900.0,289 517 km,automatic,2 720 cm3,Diesel,Radom,Mazowieckie,2008
+24862,jaguar,Jaguar XJ XJ6 2.7 D Sovereign,45900.0,169 000 km,automatic,2 495 cm3,Benzyna,Chlewice,Świętokrzyskie,2006
+24863,jaguar,Jaguar S-Type 3.0 V6 Executive,33900.0,169 000 km,automatic,2 495 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2006
+24864,jaguar,Jaguar XF 4.2 V8 Premium Luxury,36000.0,156 000 km,automatic,2 720 cm3,Diesel,Nowodworce,Podlaskie,2005
+24865,jaguar,Jaguar X-Type 2.5 V6 4x4 Executive,10999.0,156 000 km,automatic,2 720 cm3,Diesel,Wałbrzych,Dolnośląskie,2005
+24866,jaguar,Jaguar S-Type 2.7 V6 D Executive,29900.0,211 000 km,automatic,2 967 cm3,Benzyna,Łańcut,Podkarpackie,2006
+24867,jaguar,Jaguar XF 4.2 V8 Premium Luxury,47500.0,211 000 km,automatic,2 967 cm3,Benzyna,Miechów,Małopolskie,2006
+24868,jaguar,Jaguar XF 3.0 V6 Diesel S Premium Luxury,39500.0,252 000 km,automatic,4 196 cm3,Benzyna,Kraków,Małopolskie,2009
+24869,jaguar,Jaguar XJ XJ6 2.7 Twin Turbo Diesel Portfolio,33900.0,252 000 km,automatic,4 196 cm3,Benzyna,Radom,Mazowieckie,2009
+24870,jaguar,Jaguar XF 2.7 V6 Diesel Premium Luxury,4700.0,155 000 km,automatic,2 495 cm3,Benzyna+LPG,Płock,Mazowieckie,2006
+24871,jaguar,Jaguar S-Type 2.7 V6 D Executive,18900.0,155 000 km,automatic,2 495 cm3,Benzyna+LPG,Warszawa,Mazowieckie,2006
+24872,jaguar,Jaguar XK 4.2 Cabriolet,76000.0,209 000 km,automatic,2 720 cm3,Diesel,Szczecin,Zachodniopomorskie,2007
+24873,jaguar,Jaguar XK 4.2 V8,97000.0,209 000 km,automatic,2 720 cm3,Diesel,Jelenia Góra,Dolnośląskie,2007
+24874,jaguar,Jaguar XJ,74000.0,230 000 km,automatic,4 196 cm3,Benzyna+LPG,Nysa,Opolskie,2009
+24875,jaguar,Jaguar S-Type,12000.0,230 000 km,automatic,4 196 cm3,Benzyna+LPG,Księżpol,Lubelskie,2009
+24876,jaguar,Jaguar XF 4.2 V8 Premium Luxury,45900.0,223 000 km,automatic,2 993 cm3,Diesel,Częstochowa,Śląskie,2009
+24877,jaguar,Jaguar XF 2.7 V6 Diesel Premium Luxury,39000.0,223 000 km,automatic,2 993 cm3,Diesel,Lesznowola,Mazowieckie,2009
+24878,jaguar,Jaguar XJ XJ8 4.2 Executive Last Edition,54900.0,288 000 km,automatic,2 720 cm3,Diesel,Kraków,Małopolskie,2008
+24879,jaguar,Jaguar S-Type,18000.0,288 000 km,automatic,2 720 cm3,Diesel,Gdańsk,Pomorskie,2008
+24880,jaguar,Jaguar XK XKR Cabriolet,99000.0,165 000 km,automatic,2 720 cm3,Diesel,Cieszyn,Śląskie,2007
+24881,jaguar,Jaguar XF 2.7 V6 D Premium Luxury,35900.0,165 000 km,automatic,2 720 cm3,Diesel,Zawiercie,Śląskie,2007
+24882,jaguar,Jaguar XF 2.7 V6 Diesel Luxury,21500.0,155 700 km,automatic,2 720 cm3,Diesel,Wisła,Śląskie,2006
+24883,jaguar,Jaguar XF 3.0 V6 Luxury,30900.0,155 700 km,automatic,2 720 cm3,Diesel,Olsztyn,Warmińsko-mazurskie,2006
+24884,jaguar,Jaguar XJR 4.2,69999.0,107 000 km,automatic,4 196 cm3,Benzyna,Łobez,Zachodniopomorskie,2007
+24885,jaguar,Jaguar X-Type,15900.0,107 000 km,automatic,4 196 cm3,Benzyna,Częstochowa,Śląskie,2007
+24886,jaguar,Jaguar XK XKR,87777.0,200 000 km,automatic,4 196 cm3,Benzyna,Wilkowice,Wielkopolskie,2007
+24887,jaguar,Jaguar XF 3.0 V6 D S Portfolio,22900.0,200 000 km,automatic,4 196 cm3,Benzyna,Magnuszew,Mazowieckie,2007
+24888,jaguar,Jaguar XF 2.7 V6 D Premium Luxury,32500.0,223 000 km,automatic,4 196 cm3,Benzyna,Warszawa,Mazowieckie,2007
+24889,jaguar,Jaguar XF 4.2 SV8,41200.0,223 000 km,automatic,4 196 cm3,Benzyna,Białystok,Podlaskie,2007
+24890,jaguar,Jaguar XF 3.0 V6 Premium Luxury,44114.0,208 130 km,automatic,2 720 cm3,Diesel,Białystok,Podlaskie,2005
+24891,jaguar,Jaguar XJ,48500.0,208 130 km,automatic,2 720 cm3,Diesel,Gdynia,Pomorskie,2005
+24892,jaguar,Jaguar XF,31000.0,519 607 km,automatic,2 993 cm3,Diesel,Kalisz,Wielkopolskie,2009
+24893,jaguar,Jaguar X-Type,16000.0,519 607 km,automatic,2 993 cm3,Diesel,Skaryszew,Mazowieckie,2009
+24894,jaguar,Jaguar XF 3.0 V6 D Luxury,37900.0,188 000 km,automatic,2 198 cm3,Diesel,Orneta,Warmińsko-mazurskie,2007
+24895,jaguar,Jaguar XJ,34900.0,188 000 km,automatic,2 198 cm3,Diesel,Bobrowniki,Śląskie,2007
+24896,jaguar,Jaguar XK 4.2 Coupe,102699.0,269 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2009
+24897,jaguar,Jaguar XK,107899.0,269 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2009
+24898,jaguar,Jaguar XK,95300.0,280 000 km,automatic,2 720 cm3,Diesel,Kraków,Małopolskie,2009
+24899,jaguar,Jaguar XF 2.7 V6 Diesel Premium Luxury,19900.0,280 000 km,automatic,2 720 cm3,Diesel,Jaworze,Śląskie,2009
+24900,jaguar,Jaguar XK XKR,75030.0,152 058 km,automatic,4 196 cm3,Benzyna,Szczecin,Zachodniopomorskie,2007
+24901,jaguar,Jaguar S-Type 2.7 V6 D Executive,13800.0,152 058 km,automatic,4 196 cm3,Benzyna,Warszawa,Mazowieckie,2007
+24902,jaguar,Jaguar XK,75000.0,178 965 km,automatic,4 196 cm3,Benzyna,Łódź,Łódzkie,2008
+24903,jaguar,Jaguar XK,75000.0,178 965 km,automatic,4 196 cm3,Benzyna,Łódź,Łódzkie,2008
+24904,jaguar,Jaguar XK XKR,71900.0,110 800 km,automatic,4 196 cm3,Benzyna,Nowe Czarnowo,Zachodniopomorskie,2007
+24905,jaguar,Jaguar XK XKR,95000.0,110 800 km,automatic,4 196 cm3,Benzyna,Pabianice,Łódzkie,2007
+24906,jaguar,Jaguar S-Type 2.7 V6 D Executive,27000.0,180 000 km,automatic,2 720 cm3,Diesel,Bystre,Dolnośląskie,2008
+24907,jaguar,Jaguar XF 2.7 V6 D Luxury,32400.0,180 000 km,automatic,2 720 cm3,Diesel,Kościelna Góra,Mazowieckie,2008
+24908,jaguar,Jaguar XF,19000.0,142 298 km,automatic,4 196 cm3,Benzyna,Poznań,Wielkopolskie,2007
+24909,jaguar,Jaguar XF 5.0 V8 Premium Luxury,62000.0,142 298 km,automatic,4 196 cm3,Benzyna,Jasienica,Śląskie,2007
+24910,jaguar,Jaguar XF 2.7 V6 D Premium Luxury,35900.0,223 000 km,automatic,2 720 cm3,Diesel,Zawiercie,Śląskie,2006
+24911,jaguar,Jaguar XF,31000.0,519 607 km,automatic,2 993 cm3,Diesel,Kalisz,Wielkopolskie,2009
+24912,jaguar,Jaguar X-Type,16000.0,519 607 km,automatic,2 993 cm3,Diesel,Skaryszew,Mazowieckie,2009
+24913,jaguar,Jaguar XF 3.0 V6 D Luxury,37900.0,188 000 km,automatic,2 198 cm3,Diesel,Orneta,Warmińsko-mazurskie,2007
+24914,jaguar,Jaguar XJ,34900.0,188 000 km,automatic,2 198 cm3,Diesel,Bobrowniki,Śląskie,2007
+24915,jaguar,Jaguar XK 4.2 Coupe,102699.0,269 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2009
+24916,jaguar,Jaguar XK,107899.0,269 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2009
+24917,jaguar,Jaguar XK,95300.0,280 000 km,automatic,2 720 cm3,Diesel,Kraków,Małopolskie,2009
+24918,jaguar,Jaguar XF 2.7 V6 Diesel Premium Luxury,19900.0,280 000 km,automatic,2 720 cm3,Diesel,Jaworze,Śląskie,2009
+24919,jaguar,Jaguar XK XKR,75030.0,152 058 km,automatic,4 196 cm3,Benzyna,Szczecin,Zachodniopomorskie,2007
+24920,jaguar,Jaguar S-Type 2.7 V6 D Executive,13800.0,152 058 km,automatic,4 196 cm3,Benzyna,Warszawa,Mazowieckie,2007
+24921,jaguar,Jaguar XK,75000.0,178 965 km,automatic,4 196 cm3,Benzyna,Łódź,Łódzkie,2008
+24922,jaguar,Jaguar XK,75000.0,178 965 km,automatic,4 196 cm3,Benzyna,Łódź,Łódzkie,2008
+24923,jaguar,Jaguar XK XKR,71900.0,110 800 km,automatic,4 196 cm3,Benzyna,Nowe Czarnowo,Zachodniopomorskie,2007
+24924,jaguar,Jaguar XK XKR,95000.0,110 800 km,automatic,4 196 cm3,Benzyna,Pabianice,Łódzkie,2007
+24925,jaguar,Jaguar S-Type 2.7 V6 D Executive,27000.0,180 000 km,automatic,2 720 cm3,Diesel,Bystre,Dolnośląskie,2008
+24926,jaguar,Jaguar XF 2.7 V6 D Luxury,32400.0,180 000 km,automatic,2 720 cm3,Diesel,Kościelna Góra,Mazowieckie,2008
+24927,jaguar,Jaguar XF,19000.0,142 298 km,automatic,4 196 cm3,Benzyna,Poznań,Wielkopolskie,2007
+24928,jaguar,Jaguar XF 5.0 V8 Premium Luxury,62000.0,142 298 km,automatic,4 196 cm3,Benzyna,Jasienica,Śląskie,2007
+24929,jaguar,Jaguar XF 2.7 V6 D Premium Luxury,35900.0,223 000 km,automatic,2 720 cm3,Diesel,Zawiercie,Śląskie,2006
+24930,jaguar,Jaguar XF 3.0 T AWD Premium Luxury,89900.0,157 000 km,automatic,2 995 cm3,Benzyna,Lubartów,Lubelskie,2013
+24931,jaguar,Jaguar XJR,155000.0,157 000 km,automatic,2 995 cm3,Benzyna,Rybnik,Śląskie,2013
+24932,jaguar,Jaguar XK 5.0 V8 Portfolio,176700.0,98 732 km,automatic,5 000 cm3,Benzyna,Rychwał,Wielkopolskie,2013
+24933,jaguar,Jaguar XK 5.0 Coupe,147000.0,98 732 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2013
+24934,jaguar,Jaguar XF 2.2 D Luxury,51000.0,69 000 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2014
+24935,jaguar,Jaguar XK 5.0 Coupe,118000.0,69 000 km,automatic,5 000 cm3,Benzyna,Lisów,Lubelskie,2014
+24936,jaguar,Jaguar XF 3.0 V6 D Luxury,63400.0,32 000 km,automatic,5 000 cm3,Benzyna,Złoczew,Łódzkie,2014
+24937,jaguar,Jaguar XF 2.2 D Luxury,59900.0,32 000 km,automatic,5 000 cm3,Benzyna,Długołęka,Dolnośląskie,2014
+24938,jaguar,Jaguar XF 3.0 V6 Diesel S Pace,34000.0,160 000 km,automatic,2 179 cm3,Diesel,Wrocław,Dolnośląskie,2014
+24939,jaguar,Jaguar XJ 3.0 D V6 LWB Premium Luxury,69900.0,160 000 km,automatic,2 179 cm3,Diesel,Częstochowa,Śląskie,2014
+24940,jaguar,Jaguar XJ 5.0 V8 Portfolio,44000.0,87 000 km,automatic,5 000 cm3,Benzyna,Warszawa,Mazowieckie,2013
+24941,jaguar,Jaguar XF 3.0 V6 Diesel Premium Luxury,11800.0,87 000 km,automatic,5 000 cm3,Benzyna,Podrzecze,Wielkopolskie,2013
+24942,jaguar,Jaguar XF 3.0 V6 D S Premium Luxury,45000.0,161 000 km,automatic,2 993 cm3,Diesel,Pruszków,Mazowieckie,2011
+24943,jaguar,Jaguar XF 2.2 D Luxury,49900.0,161 000 km,automatic,2 993 cm3,Diesel,Drohiczyn,Podlaskie,2011
+24944,jaguar,Jaguar XJ,65900.0,198 111 km,automatic,2 179 cm3,Diesel,Lublin,Lubelskie,2014
+24945,jaguar,Jaguar XK 5.0 V8 Portfolio,119000.0,198 111 km,automatic,2 179 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2014
+24946,jaguar,Jaguar XF 3.0 V6 D S Luxury,51500.0,141 000 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2012
+24947,jaguar,Jaguar XF 2.2 D,56900.0,141 000 km,automatic,2 993 cm3,Diesel,Witkowo,Wielkopolskie,2012
+24948,jaguar,Jaguar XF 3.0 V6 Diesel S Sportbrake,59900.0,150 000 km,automatic,2 993 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2011
+24949,jaguar,Jaguar XF XFR 5.0 V8 Kompressor,79000.0,150 000 km,automatic,2 993 cm3,Diesel,Londyn,Anglia,2011
+24950,jaguar,Jaguar XF 3.0 V6 Diesel S Sportbrake,16999.0,167 000 km,automatic,5 000 cm3,Benzyna,Biel,Mazowieckie,2012
+24951,jaguar,Jaguar XF,62700.0,167 000 km,automatic,5 000 cm3,Benzyna,Zwoleń,Mazowieckie,2012
+24952,jaguar,Jaguar XF,47000.0,130 000 km,automatic,2 993 cm3,Diesel,Lublin,Lubelskie,2010
+24953,jaguar,Jaguar XF 2.2 D Luxury,72999.0,130 000 km,automatic,2 993 cm3,Diesel,Pruszków,Mazowieckie,2010
+24954,jaguar,Jaguar F-Type Cabriolet,155000.0,328 000 km,automatic,2 993 cm3,Diesel,Gliwice,Śląskie,2012
+24955,jaguar,Jaguar XJ 3.0 D V6 Premium Luxury,149000.0,328 000 km,automatic,2 993 cm3,Diesel,Brzesko,Małopolskie,2012
+24956,jaguar,Jaguar XJ 3.0 D V6 Portfolio,68900.0,117 000 km,automatic,2 179 cm3,Diesel,Wrocław,Dolnośląskie,2014
+24957,jaguar,Jaguar XJ 3.0 D V6 Luxury,42500.0,117 000 km,automatic,2 179 cm3,Diesel,Głogoczów,Małopolskie,2014
+24958,jaguar,Jaguar XF 2.2 D Luxury,26900.0,187 000 km,automatic,2 993 cm3,Diesel,Kraków,Małopolskie,2012
+24959,jaguar,Jaguar XF,68000.0,187 000 km,automatic,2 993 cm3,Diesel,Piaseczno,Mazowieckie,2012
+24960,jaguar,Jaguar XF 3.0 V6 Diesel S Premium Luxury,57900.0,110 000 km,automatic,5 000 cm3,Benzyna,Gdów,Małopolskie,2010
+24961,jaguar,Jaguar XJ 3.0 D V6 LWB Portfolio,72570.0,110 000 km,automatic,5 000 cm3,Benzyna,Częstochowa,Śląskie,2010
+24962,jaguar,Jaguar XF 2.2 Diesel Sportbrake,61900.0,162 000 km,automatic,2 179 cm3,Diesel,Lubartów,Lubelskie,2013
+24963,jaguar,Jaguar XF 3.0 V6 D Premium Luxury,30000.0,162 000 km,automatic,2 179 cm3,Diesel,Nowy Dwór Mazowiecki,Mazowieckie,2013
+24964,jaguar,Jaguar XF 3.0 V6 D S Luxury,17500.0,348 000 km,automatic,2 993 cm3,Diesel,Kutno,Łódzkie,2010
+24965,jaguar,Jaguar XF XFR 5.0 V8,99000.0,348 000 km,automatic,2 993 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2010
+24966,jaguar,Jaguar XK 5.0 Coupe,105000.0,125 000 km,automatic,2 993 cm3,Diesel,Bytom,Śląskie,2012
+24967,jaguar,Jaguar F-Type S,214999.0,125 000 km,automatic,2 993 cm3,Diesel,Poznań,Wielkopolskie,2012
+24968,jaguar,Jaguar XF 3.0 V6 Diesel S Premium Luxury,48800.0,106 000 km,automatic,5 000 cm3,Benzyna,Chełm,Lubelskie,2013
+24969,jaguar,Jaguar XF 2.2 D Luxury,65999.0,106 000 km,automatic,5 000 cm3,Benzyna,Lędziny,Śląskie,2013
+24970,jaguar,Jaguar XF,49000.0,200 000 km,automatic,5 000 cm3,Benzyna,Częstochowa,Śląskie,2010
+24971,jaguar,Jaguar XF XFR,80000.0,200 000 km,automatic,5 000 cm3,Benzyna,Szamotuły,Wielkopolskie,2010
+24972,jaguar,Jaguar F-Type R,212000.0,43 700 km,automatic,2 995 cm3,Benzyna,Szamotuły,Wielkopolskie,2013
+24973,jaguar,Jaguar XF 3.0 T AWD Luxury,89990.0,43 700 km,automatic,2 995 cm3,Benzyna,Słupsk,Pomorskie,2013
+24974,jaguar,Jaguar F-Type R,205000.0,196 400 km,automatic,2 993 cm3,Diesel,Raszyn,Mazowieckie,2011
+24975,jaguar,Jaguar XJ 3.0 D V6 Premium Luxury,99700.0,196 400 km,automatic,2 993 cm3,Diesel,Mysłowice,Śląskie,2011
+24976,jaguar,Jaguar XF 3.0 V6 D Premium Luxury,59500.0,182 964 km,automatic,2 179 cm3,Diesel,Warszawa,Mazowieckie,2014
+24977,jaguar,Jaguar XF 3.0 V6 D S,46000.0,182 964 km,automatic,2 179 cm3,Diesel,Opalenica,Wielkopolskie,2014
+24978,jaguar,Jaguar XF 3.0 V6 D Premium Luxury,56900.0,97 000 km,automatic,2 967 cm3,Benzyna,Świdnica,Dolnośląskie,2011
+24979,jaguar,Jaguar XJ,49900.0,97 000 km,automatic,2 967 cm3,Benzyna,Koniemłoty,Świętokrzyskie,2011
+24980,jaguar,Jaguar XF 2.2 D Premium Luxury,52900.0,213 800 km,automatic,5 000 cm3,Benzyna,Tarchały Wielkie,Wielkopolskie,2010
+24981,jaguar,Jaguar XF 3.0 V6 Diesel S Luxury,58000.0,213 800 km,automatic,5 000 cm3,Benzyna,Lublin,Lubelskie,2010
+24982,jaguar,Jaguar XF 3.0 V6 D S Luxury,57900.0,47 075 km,automatic,5 000 cm3,Benzyna,Grodzisk Wielkopolski,Wielkopolskie,2014
+24983,jaguar,Jaguar XF,47500.0,47 075 km,automatic,5 000 cm3,Benzyna,Wrocław,Dolnośląskie,2014
+24984,jaguar,Jaguar XF 3.0 T AWD Premium Luxury,66900.0,41 486 km,automatic,2 995 cm3,Benzyna,Mińsk Mazowiecki,Mazowieckie,2013
+24985,jaguar,Jaguar F-Type R,195500.0,41 486 km,automatic,2 995 cm3,Benzyna,Chrzypsko Wielkie,Wielkopolskie,2013
+24986,jaguar,Jaguar XJ 3.0 D V6 Premium Luxury,25900.0,34 000 km,automatic,5 000 cm3,Benzyna,Kielce,Świętokrzyskie,2014
+24987,jaguar,Jaguar XF 2.2 D Premium Luxury,59900.0,34 000 km,automatic,5 000 cm3,Benzyna,Zwoleń,Mazowieckie,2014
+24988,jaguar,Jaguar XF 3.0 V6 D S Premium Luxury,57500.0,172 447 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2013
+24989,jaguar,Jaguar F-Type R,205000.0,172 447 km,automatic,2 993 cm3,Diesel,Wrocław,Dolnośląskie,2013
+24990,jaguar,Jaguar XJ 3.0 D V6 LWB Portfolio,79000.0,137 000 km,automatic,2 993 cm3,Diesel,Baranowo,Wielkopolskie,2011
+24991,jaguar,Jaguar XF 3.0 V6 D Luxury,49500.0,137 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2011
+24992,jaguar,Jaguar XF 3.0 V6 D S Luxury,20000.0,243 000 km,automatic,2 993 cm3,Diesel,Izabelów Mały,Łódzkie,2012
+24993,jaguar,Jaguar XF,40000.0,243 000 km,automatic,2 993 cm3,Diesel,Piekielnik,Małopolskie,2012
+24994,jaguar,Jaguar XE 2.0 D R-Sport,83990.0,191 919 km,automatic,1 999 cm3,Diesel,Zagórze,Małopolskie,2018
+24995,jaguar,Jaguar F-Pace S AWD,129000.0,191 919 km,automatic,1 999 cm3,Diesel,Piotrków Trybunalski,Łódzkie,2018
+24996,jaguar,Jaguar XF 3.0 V6 AWD S,109000.0,29 000 km,automatic,2 995 cm3,Benzyna,Werbkowice,Lubelskie,2019
+24997,jaguar,Jaguar XE 2.0 T R-Sport,89900.0,29 000 km,automatic,2 995 cm3,Benzyna,Wrocław,Dolnośląskie,2019
+24998,jaguar,Jaguar XE 2.0 D R-Sport,89900.0,98 000 km,automatic,2 995 cm3,Benzyna,Gniezno,Wielkopolskie,2017
+24999,jaguar,Jaguar XF,94000.0,98 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25000,jaguar,Jaguar XE,129900.0,85 000 km,automatic,1 999 cm3,Benzyna,Piaseczno,Mazowieckie,2016
+25001,jaguar,Jaguar E-Pace P300 AWD R-Dynamic SE,139900.0,85 000 km,automatic,1 999 cm3,Benzyna,Dzierżoniów,Dolnośląskie,2016
+25002,jaguar,Jaguar XJ 3.0 V6 Kompressor Portfolio,99900.0,110 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25003,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,130000.0,110 000 km,automatic,1 999 cm3,Diesel,Sosnowiec,Śląskie,2017
+25004,jaguar,Jaguar F-Pace 20d AWD R-Sport,92900.0,70 500 km,automatic,2 995 cm3,Benzyna,Kraków,Małopolskie,2016
+25005,jaguar,Jaguar XE 2.0 T AWD Prestige,92000.0,70 500 km,automatic,2 995 cm3,Benzyna,Rzeszów,Podkarpackie,2016
+25006,jaguar,Jaguar F-Pace,136001.0,84 173 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2019
+25007,jaguar,Jaguar XF E-Performance Sportbrake Prestige,84999.0,84 173 km,automatic,1 999 cm3,Diesel,Łódź,Łódzkie,2019
+25008,jaguar,Jaguar F-Pace 3.0 TDV6 AWD S,179800.0,54 280 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2018
+25009,jaguar,Jaguar F-Type Coupe S,157777.0,54 280 km,automatic,1 998 cm3,Benzyna,Warszawa,Wielkopolskie,2018
+25010,jaguar,Jaguar XE,99000.0,96 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2015
+25011,jaguar,Jaguar F-Pace,115900.0,96 000 km,automatic,2 995 cm3,Benzyna,Borkowo Kościelne,Mazowieckie,2015
+25012,jaguar,Jaguar XJ 3.0 T AWD R-Sport,149800.0,114 000 km,automatic,1 999 cm3,Diesel,Wrocław,Dolnośląskie,2018
+25013,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,126000.0,114 000 km,automatic,1 999 cm3,Diesel,Zbychowo,Pomorskie,2018
+25014,jaguar,Jaguar XJ 3.0 T LWB AWD Portfolio,49500.0,152 500 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2018
+25015,jaguar,Jaguar XE 2.0 T Prestige,86000.0,152 500 km,automatic,1 999 cm3,Diesel,Bronisze,Mazowieckie,2018
+25016,jaguar,Jaguar F-Pace 2.0 i4P AWD R-Sport,164820.0,49 000 km,automatic,1 997 cm3,Benzyna,Bogatynia,Dolnośląskie,2018
+25017,jaguar,Jaguar XE,67000.0,49 000 km,automatic,1 997 cm3,Benzyna,Zduńska Wola,Łódzkie,2018
+25018,jaguar,Jaguar XE 2.0 D R-Sport,77990.0,77 169 km,automatic,1 997 cm3,Benzyna,Kraków,Małopolskie,2018
+25019,jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,133500.0,77 169 km,automatic,1 997 cm3,Benzyna,Grodzisk Mazowiecki,Mazowieckie,2018
+25020,jaguar,Jaguar I-Pace EV400 AWD SE,249850.0,85 000 km,automatic,1 999 cm3,Diesel,Lublin,Lubelskie,2016
+25021,jaguar,Jaguar XF,81500.0,85 000 km,automatic,1 999 cm3,Diesel,Niedźwiedź,Małopolskie,2016
+25022,jaguar,Jaguar XE 2.0 D AWD Portfolio,74900.0,97 010 km,automatic,2 993 cm3,Diesel,Krośniewice,Łódzkie,2016
+25023,jaguar,Jaguar XE 2.0 D180 S,122000.0,97 010 km,automatic,2 993 cm3,Diesel,Rudyszwałd,Śląskie,2016
+25024,jaguar,Jaguar E-Pace 2.0 i4P AWD R-Dynamic,161000.0,64 500 km,automatic,2 995 cm3,Benzyna,Nieporęt,Mazowieckie,2015
+25025,jaguar,Jaguar I-Pace EV400 AWD HSE,217710.0,64 500 km,automatic,2 995 cm3,Benzyna,Zabrze,Śląskie,2015
+25026,jaguar,Jaguar XE 2.0 D AWD Prestige,79900.0,91 000 km,automatic,1 999 cm3,Diesel,Leszno,Wielkopolskie,2016
+25027,jaguar,Jaguar E-Pace 2.0 i4P AWD R-Dynamic S,106489.0,91 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+25028,jaguar,Jaguar XE 2.0 D AWD Prestige,64000.0,50 200 km,automatic,1 998 cm3,Benzyna,Elbląg,Warmińsko-mazurskie,2019
+25029,jaguar,Jaguar F-Pace 2.0 i4D AWD R-Sport,149000.0,50 200 km,automatic,1 998 cm3,Benzyna,Dębica,Podkarpackie,2019
+25030,jaguar,Jaguar XE 2.0 T Prestige,94000.0,175 000 km,automatic,1 999 cm3,Diesel,Milanówek,Mazowieckie,2015
+25031,jaguar,Jaguar F-Type R AWD,279000.0,175 000 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2015
+25032,jaguar,Jaguar XE,33800.0,70 000 km,automatic,1 999 cm3,Diesel,Izbica Kujawska,Kujawsko-pomorskie,2018
+25033,jaguar,Jaguar XF 3.0 V6 Prestige,93500.0,70 000 km,automatic,1 999 cm3,Diesel,Kraków,Małopolskie,2018
+25034,jaguar,Jaguar XE 2.0 D AWD Prestige,88000.0,118 500 km,automatic,1 999 cm3,Benzyna,Wrocław,Dolnośląskie,2016
+25035,jaguar,Jaguar XF,88000.0,118 500 km,automatic,1 999 cm3,Benzyna,Kielce,Świętokrzyskie,2016
+25036,jaguar,Jaguar XJ XJR575 5.0 V8 Kompressor,235000.0,49 800 km,automatic,5 000 cm3,Benzyna,Gdańsk,Pomorskie,2018
+25037,jaguar,Jaguar F-Type S,189000.0,49 800 km,automatic,5 000 cm3,Benzyna,Zielonka,Mazowieckie,2018
+25038,jaguar,Jaguar F-Pace 2.0 i4D RWD R-Sport,129999.0,126 500 km,automatic,1 999 cm3,Diesel,Szczuka,Kujawsko-pomorskie,2016
+25039,jaguar,Jaguar XF 3.0 TDV6 R-Sport,57900.0,126 500 km,automatic,1 999 cm3,Diesel,Brzeg,Opolskie,2016
+25040,jaguar,Jaguar XF 3.0 V6 Prestige,96000.0,70 000 km,automatic,2 995 cm3,Benzyna,Białystok,Podlaskie,2016
+25041,jaguar,Jaguar XF 20d R-Sport,37900.0,70 000 km,automatic,2 995 cm3,Benzyna,Zielona Góra,Lubuskie,2016
+25042,jaguar,Jaguar XF,117000.0,75 053 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2017
+25043,jaguar,Jaguar XJ 3.0 T AWD Premium Luxury,249900.0,75 053 km,automatic,1 999 cm3,Diesel,Inowrocław,Kujawsko-pomorskie,2017
+25044,jaguar,Jaguar I-Pace EV400 AWD S,177700.0,108 000 km,automatic,2 995 cm3,Benzyna,Zabrze,Śląskie,2015
+25045,jaguar,Jaguar F-Pace,196900.0,108 000 km,automatic,2 995 cm3,Benzyna,Mościska,Mazowieckie,2015
+25046,jaguar,Jaguar F-Pace,149999.0,122 000 km,automatic,2 995 cm3,Benzyna,Czechy,Łódzkie,2017
+25047,jaguar,Jaguar XF 2.0 i4D Prestige,93480.0,122 000 km,automatic,2 995 cm3,Benzyna,Tarnów,Małopolskie,2017
+25048,jaguar,Jaguar XE 2.0 D AWD Prestige,34700.0,57 000 km,automatic,2 995 cm3,Benzyna,Aleksandria Druga,Śląskie,2015
+25049,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,179800.0,57 000 km,automatic,2 995 cm3,Benzyna,Poznań,Wielkopolskie,2015
+25050,jaguar,Jaguar XF 2.0 T AWD Portfolio,176900.0,152 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25051,jaguar,Jaguar XE,71900.0,152 000 km,automatic,1 999 cm3,Diesel,Dębica,Podkarpackie,2017
+25052,jaguar,Jaguar F-Pace,169900.0,89 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2017
+25053,jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,169900.0,89 000 km,automatic,2 993 cm3,Diesel,Warszawa,Mazowieckie,2017
+25054,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,169900.0,115 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25055,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,159900.0,115 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25056,jaguar,Jaguar E-Pace D150 AWD,112000.0,170 000 km,automatic,1 999 cm3,Diesel,Zielona Góra,Lubuskie,2017
+25057,jaguar,Jaguar E-Pace 2.0 i4D AWD R-Dynamic HSE,129900.0,170 000 km,automatic,1 999 cm3,Diesel,Ostrów Mazowiecka,Mazowieckie,2017
+25058,jaguar,Jaguar XE 2.0 T Prestige,85000.0,95 000 km,automatic,1 999 cm3,Benzyna,Szczecin,Zachodniopomorskie,2017
+25059,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,166400.0,95 000 km,automatic,1 999 cm3,Benzyna,Katowice,Śląskie,2017
+25060,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,133000.0,78 897 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2019
+25061,jaguar,Jaguar XE 2.0 T R-Sport,99000.0,78 897 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2019
+25062,jaguar,Jaguar I-Pace EV400 AWD HSE,222000.0,73 203 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2018
+25063,jaguar,Jaguar XF,130000.0,73 203 km,automatic,1 999 cm3,Diesel,Tomaszów Lubelski,Lubelskie,2018
+25064,jaguar,Jaguar F-Pace 3.0 TDV6 AWD 300 Sport,69999.0,80 500 km,automatic,1 997 cm3,Benzyna,Kościerzyna-Wybudowanie,Pomorskie,2017
+25065,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,169900.0,80 500 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2017
+25066,jaguar,Jaguar F-Pace,67500.0,44 600 km,automatic,Elektryczny,2019,Poznań,Wielkopolskie,2019
+25067,jaguar,Jaguar XE S,55000.0,Elektryczny,automatic,2018,19 200 km,Warszawa,Mazowieckie,44 600 km
+25068,jaguar,Jaguar F-Type S,219900.0,Benzyna,automatic,2018,19 200 km,Gdynia,Pomorskie,1 998 cm3
+25069,jaguar,Jaguar XF,135000.0,Benzyna,automatic,2016,132 000 km,Kraków,Małopolskie,1 998 cm3
+25070,jaguar,Jaguar XF,76000.0,Diesel,automatic,2016,132 000 km,Warszawa,Mazowieckie,2 993 cm3
+25071,jaguar,Jaguar F-Type 2.0 Turbo,174000.0,Diesel,automatic,2019,62 000 km,Zabrze,Śląskie,2 993 cm3
+25072,jaguar,Jaguar I-Pace EV400 AWD SE,216480.0,Diesel,automatic,2019,62 000 km,Zabrze,Śląskie,1 999 cm3
+25073,jaguar,Jaguar XF 2.0 i4D AWD Prestige,123900.0,Diesel,automatic,2016,140 000 km,Górzno,Mazowieckie,1 999 cm3
+25074,jaguar,Jaguar F-Pace 2.0 i4D AWD Pure,98000.0,Diesel,automatic,2016,140 000 km,Wrocław,Dolnośląskie,1 999 cm3
+25075,jaguar,Jaguar XE 2.0 D Pure,83900.0,Diesel,automatic,2016,54 716 km,Kraków,Małopolskie,1 999 cm3
+25076,jaguar,Jaguar XE 2.0 D AWD Prestige,104900.0,Benzyna,automatic,2016,54 716 km,Kraków,Małopolskie,2 995 cm3
+25077,jaguar,Jaguar F-Pace 3.0 V6 AWD R-Sport,168000.0,Benzyna,automatic,2018,25 100 km,Kotlin,Wielkopolskie,2 995 cm3
+25078,jaguar,Jaguar I-Pace EV400 AWD HSE,189912.0,Benzyna,automatic,2018,25 100 km,Zabrze,Śląskie,2 995 cm3
+25079,jaguar,Jaguar E-Pace,109800.0,Benzyna,automatic,2018,56 607 km,Łajski,Mazowieckie,2 995 cm3
+25080,jaguar,Jaguar F-Pace 3.0 V6 AWD S,159500.0,Diesel,automatic,2018,56 607 km,Rzeszów,Podkarpackie,1 999 cm3
+25081,jaguar,Jaguar XF 2.0 i4D AWD Prestige,82500.0,Diesel,automatic,2016,72 586 km,Nowy Sącz,Małopolskie,1 999 cm3
+25082,jaguar,Jaguar E-Pace,134900.0,Benzyna,automatic,2016,72 586 km,Łódź,Łódzkie,3 000 cm3
+25083,jaguar,Jaguar F-Pace,184900.0,Benzyna,automatic,2019,36 000 km,Poznań,Wielkopolskie,3 000 cm3
+25084,jaguar,Jaguar XE,104900.0,Benzyna,automatic,2019,36 000 km,Poznań,Wielkopolskie,1 997 cm3
+25085,jaguar,Jaguar I-Pace,269000.0,Benzyna,automatic,2019,61 000 km,Łódź,Łódzkie,1 997 cm3
+25086,jaguar,Jaguar XF 3.0 T R-Sport,79990.0,2019,automatic,61 000 km,Elektryczny,Łódź,Łódzkie,Elektryczny
+25087,jaguar,Jaguar XE,73000.0,150 000 km,automatic,1 999 cm3,Diesel,Gaboń,Małopolskie,2018
+25088,jaguar,Jaguar F-Type 5.0 V8 S/C AWD SVR,463189.0,150 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2018
+25089,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,129900.0,123 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+25090,jaguar,Jaguar F-Pace,149900.0,56 000 km,automatic,1 999 cm3,Diesel,Konstantynów Łódzki,Łódzkie,2019
+25091,jaguar,Jaguar F-Pace 2.0 i4D AWD R-Sport,177000.0,56 000 km,automatic,1 999 cm3,Diesel,Włocławek,Kujawsko-pomorskie,2019
+25092,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,139900.0,69 740 km,automatic,1 999 cm3,Diesel,Konstantynów Łódzki,Łódzkie,2019
+25093,jaguar,Jaguar E-Pace,129900.0,69 740 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+25094,jaguar,Jaguar F-Pace,144850.0,96 000 km,automatic,1 999 cm3,Diesel,Ożarów Mazowiecki,Mazowieckie,2017
+25095,jaguar,Jaguar F-Pace,159850.0,96 000 km,automatic,1 999 cm3,Diesel,Ożarów Mazowiecki,Mazowieckie,2017
+25096,jaguar,Jaguar XF 2.0 i4D AWD R-Sport,78800.0,26 380 km,automatic,1 998 cm3,Benzyna,Biała Podlaska,Lubelskie,2018
+25097,jaguar,Jaguar XF 2.0 i4D AWD Prestige,84000.0,26 380 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2018
+25098,jaguar,Jaguar XJ 3.0 T AWD R-Sport,30800.0,84 492 km,automatic,1 999 cm3,Diesel,Tuchola,Kujawsko-pomorskie,2018
+25099,jaguar,Jaguar F-Pace 2.0 i4D AWD R-Sport,159000.0,84 492 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2018
+25100,jaguar,Jaguar XJ 3.0 T AWD Premium Luxury,110000.0,60 304 km,automatic,1 999 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2019
+25101,jaguar,Jaguar F-Pace 3.0 TDV6 AWD 300 Sport,135000.0,60 304 km,automatic,1 999 cm3,Benzyna,Opalenica,Wielkopolskie,2019
+25102,jaguar,Jaguar XE S,81000.0,211 000 km,automatic,1 999 cm3,Diesel,Górno,Świętokrzyskie,2016
+25103,jaguar,Jaguar XE 2.0 D AWD Landmark Edition,115000.0,211 000 km,automatic,1 999 cm3,Diesel,Rudnik,Małopolskie,2016
+25104,jaguar,Jaguar F-Pace 2.0 i4P AWD 300 Sport,189900.0,83 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+25105,jaguar,Jaguar E-Pace 2.0 i4P AWD R-Dynamic SE,169900.0,83 000 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2016
+25106,jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,182900.0,40 000 km,automatic,2 995 cm3,Benzyna,Warszawa,Mazowieckie,2016
+25107,jaguar,Jaguar XF 2.0 i4D AWD Prestige,124900.0,40 000 km,automatic,2 995 cm3,Benzyna,Katowice,Śląskie,2016
+25108,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,165000.0,104 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2019
+25109,jaguar,Jaguar F-Pace 2.0 i4D AWD Portfolio,189000.0,104 000 km,automatic,1 999 cm3,Diesel,Katowice,Śląskie,2019
+25110,jaguar,Jaguar E-Pace 2.0 i4P AWD S,150600.0,89 776 km,automatic,2 995 cm3,Benzyna,Katowice,Śląskie,2015
+25111,jaguar,Jaguar E-Pace 2.0 i4P AWD SE,155000.0,89 776 km,automatic,2 995 cm3,Benzyna,Katowice,Śląskie,2015
+25112,jaguar,Jaguar XJ,149500.0,192 548 km,automatic,2 993 cm3,Diesel,Dębica,Podkarpackie,2016
+25113,jaguar,Jaguar E-Pace 2.0 i4D AWD,119000.0,192 548 km,automatic,2 993 cm3,Diesel,Katowice,Śląskie,2016
+25114,jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,134900.0,40 000 km,automatic,2 995 cm3,Benzyna,Kraków,Małopolskie,2018
+25115,jaguar,Jaguar E-Pace,135000.0,40 000 km,automatic,2 995 cm3,Benzyna,Katowice,Śląskie,2018
+25116,jaguar,Jaguar E-Pace,134800.0,94 400 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+25117,jaguar,Jaguar E-Pace,127900.0,94 400 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2019
+25118,jaguar,Jaguar XF,111900.0,125 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2019
+25119,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,179899.0,125 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2019
+25120,jaguar,Jaguar XJ 3.0 T LWB AWD Portfolio,122700.0,44 900 km,automatic,1 998 cm3,Benzyna,Rumia,Pomorskie,2019
+25121,jaguar,Jaguar XE 30t AWD Prestige,119900.0,44 900 km,automatic,1 998 cm3,Benzyna,Niedomice,Małopolskie,2019
+25122,jaguar,Jaguar E-Pace 2.0 i4P AWD S,155000.0,26 000 km,automatic,1 998 cm3,Benzyna,Katowice,Śląskie,2018
+25123,jaguar,Jaguar XE 2.0 D Prestige,94900.0,26 000 km,automatic,1 998 cm3,Benzyna,Poznań,Wielkopolskie,2018
+25124,jaguar,Jaguar F-Pace 2.0 i4P AWD Prestige,143910.0,87 850 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25125,jaguar,Jaguar E-Pace 2.0 i4D AWD R-Dynamic SE,139900.0,87 850 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25126,jaguar,Jaguar E-Pace 2.0 i4D AWD S,138850.0,59 207 km,automatic,1 997 cm3,Benzyna,Klaudyn,Mazowieckie,2019
+25127,jaguar,Jaguar XE 2.0 D AWD R-Sport,195000.0,59 207 km,automatic,1 997 cm3,Benzyna,Jabłonna,Mazowieckie,2019
+25128,jaguar,Jaguar XE 2.0 D Prestige,84999.0,107 000 km,automatic,1 999 cm3,Diesel,Gdynia,Pomorskie,2019
+25129,jaguar,Jaguar XF 2.0 i4D Prestige,159850.0,107 000 km,automatic,1 999 cm3,Diesel,Mysłowice,Śląskie,2019
+25130,jaguar,Jaguar E-Pace 2.0 i4P AWD R-Dynamic S,134850.0,42 577 km,automatic,1 999 cm3,Diesel,Mysłowice,Śląskie,2019
+25131,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,95900.0,42 577 km,automatic,1 999 cm3,Diesel,Ostrów Wielkopolski,Wielkopolskie,2019
+25132,jaguar,Jaguar XE,105000.0,87 665 km,automatic,1 999 cm3,Diesel,Ruda Śląska,Śląskie,2018
+25133,jaguar,Jaguar XE,74900.0,87 665 km,automatic,1 999 cm3,Diesel,Mysłowice,Śląskie,2018
+25134,jaguar,Jaguar E-Pace 2.0 i4D AWD,129850.0,95 375 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25135,jaguar,Jaguar XF E-Performance Sportbrake Prestige,98000.0,95 375 km,automatic,1 999 cm3,Diesel,Białystok,Podlaskie,2017
+25136,jaguar,Jaguar E-Pace,138850.0,68 244 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2019
+25137,jaguar,Jaguar E-Pace 2.0 i4D AWD S,128850.0,68 244 km,automatic,1 999 cm3,Diesel,Poznań,Wielkopolskie,2019
+25138,jaguar,Jaguar XE 2.0 D Prestige,69500.0,40 717 km,automatic,1 998 cm3,Benzyna,Warszawa,Mazowieckie,2019
+25139,jaguar,Jaguar F-Pace 2.0 i4D AWD Prestige,135000.0,40 717 km,automatic,1 998 cm3,Benzyna,Baranowo,Wielkopolskie,2019
+25140,jaguar,Jaguar E-Pace,119201.0,155 469 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2017
+25141,jaguar,Jaguar F-Pace,141190.0,155 469 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2017
+25142,jaguar,Jaguar XF,121516.0,160 770 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2018
+25143,jaguar,Jaguar XF,129617.0,160 770 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2018
+25144,jaguar,Jaguar F-Pace,129617.0,138 713 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2015
+25145,jaguar,Jaguar F-Pace,152763.0,138 713 km,automatic,1 999 cm3,Diesel,Komorniki,Dolnośląskie,2015
+25146,jaguar,Jaguar XF,52900.0,33 000 km,automatic,1 999 cm3,Diesel,Nowy Tomyśl,Wielkopolskie,2019
+25147,jaguar,Jaguar F-Pace 2.0 i4D RWD Pure,108900.0,33 000 km,automatic,1 999 cm3,Diesel,Ząbki,Mazowieckie,2019
+25148,jaguar,Jaguar F-Pace 2.0 i4D AWD R-Sport,155000.0,89 800 km,automatic,1 999 cm3,Diesel,Warszawa,Wielkopolskie,2017
+25149,jaguar,Jaguar E-Pace 2.0 i4P AWD S,129999.0,89 800 km,automatic,1 999 cm3,Diesel,Warszawa,Mazowieckie,2017
+25150,jaguar,Jaguar XJ 3.0 T Premium Luxury,159000.0,43 538 km,automatic,2 000 cm3,Diesel,Zduńska Wola,Łódzkie,2019
+25151,jaguar,Jaguar E-Pace 2.0 i4D AWD S,138850.0,43 538 km,automatic,2 000 cm3,Diesel,Klaudyn,Mazowieckie,2019
+25152,jaguar,Jaguar XJ,75000.0,24 375 km,automatic,1 999 cm3,Diesel,Piaseczno,Mazowieckie,2019
+25153,jaguar,Jaguar XE 2.0 D R-Sport,92500.0,24 375 km,automatic,1 999 cm3,Diesel,Kalisz,Wielkopolskie,2019
+25197,jaguar,Jaguar F-Type 2.0 Turbo First Edition,299999.0,11 301 km,automatic,1 997 cm3,Benzyna,Wrocław,Dolnośląskie,2021
+25198,jaguar,Jaguar F-Pace 5.0 V8 P550 AWD SVR,499900.0,11 301 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2021
+25199,jaguar,Jaguar I-Pace,282900.0,5 km,automatic,5 000 cm3,Benzyna,Katowice,Śląskie,2021
+25200,jaguar,Jaguar XF 2.0 P250 R-Dynamic Black,114900.0,5 km,automatic,5 000 cm3,Benzyna,Uniejów,Łódzkie,2021
+25201,jaguar,Jaguar F-Pace 2.0 D200 mHEV AWD SE,299900.0,25 000 km,automatic,Elektryczny,2020,Jerzmanowice,Małopolskie,2020
+25202,jaguar,Jaguar I-Pace,475630.0,Elektryczny,automatic,2020,13 000 km,Łódź,Łódzkie,25 000 km
+25203,jaguar,Jaguar XF 2.0 P250 R-Dynamic SE,229900.0,Benzyna,automatic,2020,13 000 km,Jerzmanowice,Małopolskie,1 997 cm3
+25204,jaguar,Jaguar F-Pace,279900.0,Benzyna,automatic,2023,1 000 km,Długołęka,Dolnośląskie,1 997 cm3
+25205,jaguar,Jaguar XE 2.0 D180 AWD SE,139999.0,Diesel,automatic,2023,1 000 km,Złotów,Wielkopolskie,1 997 cm3
+25206,jaguar,Jaguar XE 2.0 D200 mHEV AWD R-Dynamic S,225900.0,Diesel,automatic,2023,10 km,Marki,Mazowieckie,1 997 cm3
+25207,jaguar,Jaguar XF 2.0 P250 SE,229900.0,2023,automatic,10 km,Elektryczny,Warszawa,Mazowieckie,Elektryczny
+25208,jaguar,Jaguar F-Type 2.0 Turbo R-Dynamic,376999.0,29 000 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2021
+25209,jaguar,Jaguar I-Pace,419000.0,29 000 km,automatic,1 997 cm3,Benzyna,Gdańsk,Pomorskie,2021
+25210,jaguar,Jaguar E-Pace 2.0 P200 mHEV AWD SE,267750.0,19 220 km,automatic,1 997 cm3,Benzyna,Gdańsk,Pomorskie,2022
+25211,jaguar,Jaguar F-Pace 2.0 P250 mHEV AWD R-Dynamic Black,330000.0,19 220 km,automatic,1 997 cm3,Benzyna,Bielsko-Biała,Śląskie,2022
+25212,jaguar,Jaguar F-Pace 2.0 P250 mHEV AWD SE,284000.0,53 000 km,automatic,1 999 cm3,Diesel,Gdańsk,Pomorskie,2021
+25213,jaguar,Jaguar E-Pace 2.0 D165 mHEV AWD SE,249900.0,53 000 km,automatic,1 999 cm3,Diesel,Szczecin,Zachodniopomorskie,2021
+25214,jaguar,Jaguar XF,204900.0,5 000 km,automatic,1 997 cm3,Diesel,Białystok,Podlaskie,2022
+25215,jaguar,Jaguar F-Pace 3.0 D300 mHEV AWD R-Dynamic Black,399999.0,5 000 km,automatic,1 997 cm3,Diesel,Bydgoszcz,Kujawsko-pomorskie,2022
+25216,jaguar,Jaguar E-Pace 2.0 P200 mHEV AWD R-Dynamic Black,258800.0,9 916 km,automatic,1 997 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+25217,jaguar,Jaguar I-Pace,399999.0,9 916 km,automatic,1 997 cm3,Benzyna,Bydgoszcz,Kujawsko-pomorskie,2022
+25218,jaguar,Jaguar F-Pace 2.0 P250 mHEV AWD R-Dynamic SE,264850.0,2 050 km,automatic,1 997 cm3,Benzyna,Klaudyn,Mazowieckie,2022
+25219,jaguar,Jaguar F-Pace 2.0 P250 mHEV AWD R-Dynamic SE,264850.0,2 050 km,automatic,1 997 cm3,Benzyna,Klaudyn,Mazowieckie,2022
+25220,jaguar,Jaguar F-Pace,359400.0,7 km,automatic,Elektryczny,2022,Katowice,Śląskie,2022
+25221,jaguar,Jaguar XE 2.0 D200 mHEV AWD SE,255700.0,Elektryczny,automatic,2022,7 km,Katowice,Śląskie,7 km
+25222,jaguar,Jaguar F-Type 5.0 V8 S/C 75,681790.0,Benzyna,automatic,2022,7 km,Katowice,Śląskie,1 997 cm3
+25223,jaguar,Jaguar F-Pace,295000.0,Benzyna,automatic,2022,12 000 km,Białystok,Podlaskie,1 997 cm3
+25224,jaguar,Jaguar I-Pace EV400 AWD SE,350000.0,Benzyna,automatic,2022,12 000 km,Kraków,Małopolskie,1 997 cm3
+25225,jaguar,Jaguar F-Pace 2.0 i4P AWD R-Sport,315700.0,Benzyna,automatic,2022,8 000 km,Katowice,Śląskie,1 997 cm3
+25226,jaguar,Jaguar XE,285030.0,Benzyna,automatic,2022,8 000 km,Warszawa,Mazowieckie,1 997 cm3
+25227,jaguar,Jaguar F-Pace 2.0 D200 mHEV AWD SE,299900.0,Benzyna,automatic,2022,16 900 km,Marki,Mazowieckie,1 997 cm3
+25228,jaguar,Jaguar XE 2.0 D200 mHEV R-Dynamic HSE,330550.0,Diesel,automatic,2022,16 900 km,Warszawa,Mazowieckie,1 999 cm3
+25229,jaguar,Jaguar F-Type 2.0 Turbo R-Dynamic,399900.0,4 000 km,automatic,1 997 cm3,Benzyna,Długołęka,Dolnośląskie,2022
+25230,jaguar,Jaguar F-Pace 3.0 D300 mHEV AWD SE,365000.0,4 000 km,automatic,1 997 cm3,Benzyna,Białystok,Podlaskie,2022
+25231,jaguar,Jaguar F-Pace 5.0 V8 S/C AWD SVR,515000.0,10 000 km,automatic,2 996 cm3,Diesel,Białystok,Podlaskie,2022
+25232,jaguar,Jaguar F-Pace 2.0 i4P AWD Pure,286749.0,10 000 km,automatic,2 996 cm3,Diesel,Białystok,Podlaskie,2022
+25233,jaguar,Jaguar I-Pace EV400 AWD Black,464540.0,4 000 km,automatic,5 000 cm3,Benzyna,Białystok,Podlaskie,2022
+25234,jaguar,Jaguar F-Pace 3.0 D300 mHEV AWD R-Dynamic Black,449910.0,4 000 km,automatic,5 000 cm3,Benzyna,Katowice,Śląskie,2022
+25235,jaguar,Jaguar F-Pace,358900.0,10 km,automatic,1 997 cm3,Benzyna,Katowice,Śląskie,2022
+25236,jaguar,Jaguar F-Pace,363460.0,10 km,automatic,1 997 cm3,Benzyna,Warszawa,Mazowieckie,2022
+25237,jaguar,Jaguar I-Pace,348825.0,10 km,automatic,Elektryczny,2023,Baranowo,Wielkopolskie,2023
+25238,jaguar,Jaguar XE 2.0 P250 S,132999.0,Elektryczny,automatic,2023,10 km,Złotów,Wielkopolskie,10 km
+25239,jaguar,Jaguar XE 2.0 P250 S,129999.0,Diesel,automatic,2023,10 km,Złotów,Wielkopolskie,2 996 cm3
+25240,jaguar,Jaguar F-Pace,367600.0,Diesel,automatic,2022,4 000 km,Katowice,Śląskie,2 996 cm3
+25241,jaguar,Jaguar F-Pace,387700.0,Benzyna,automatic,2022,4 000 km,Katowice,Śląskie,1 997 cm3
+25242,jaguar,Jaguar F-Type,407500.0,Benzyna,automatic,2022,10 km,Katowice,Śląskie,1 997 cm3
+25243,jaguar,Jaguar F-Type 2.0 Turbo R-Dynamic,438240.0,Benzyna,automatic,2022,10 km,Katowice,Śląskie,1 997 cm3
+25244,jaguar,Jaguar E-Pace 2.0 P200 mHEV AWD S,251700.0,Benzyna,automatic,2022,11 500 km,Katowice,Śląskie,1 997 cm3
+25245,jaguar,Jaguar XE,184900.0,Elektryczny,automatic,2022,11 500 km,Warszawa,Mazowieckie,400 cm3
+25246,jaguar,Jaguar E-Pace 1.5 P160 mHEV SE,229900.0,Elektryczny,automatic,2021,53 000 km,Długołęka,Dolnośląskie,400 cm3
+25247,jaguar,Jaguar XE 2.0 D200 mHEV R-Dynamic SE,139000.0,Benzyna,automatic,2021,53 000 km,Rzeszów,Podkarpackie,1 997 cm3
+25248,jaguar,Jaguar I-Pace EV400 AWD SE,312000.0,Benzyna,automatic,2021,48 000 km,Marki,Mazowieckie,1 997 cm3
+25249,jaguar,Jaguar XE 2.0 P250 SE,244080.0,Benzyna,automatic,2021,48 000 km,Długołęka,Dolnośląskie,1 997 cm3
+25250,jaguar,Jaguar F-Pace 2.0 P250 mHEV AWD R-Dynamic S,307805.0,Benzyna,automatic,2022,10 km,Warszawa,Mazowieckie,1 997 cm3
+25251,jaguar,Jaguar E-Pace 2.0 D165 mHEV AWD S,189000.0,Benzyna,automatic,2022,10 km,Łódź,Łódzkie,1 997 cm3
+25252,jaguar,Jaguar F-Pace,359000.0,Benzyna,automatic,2022,4 000 km,Katowice,Śląskie,1 997 cm3
+25253,jaguar,Jaguar XF,289900.0,Benzyna,automatic,2022,4 000 km,Warszawa,Mazowieckie,1 997 cm3
+25254,jaguar,Jaguar I-Pace EV400 AWD SE,468350.0,Benzyna,automatic,2022,4 000 km,Długołęka,Dolnośląskie,1 997 cm3
+25255,jaguar,Jaguar XF 2.0 P300 AWD HSE,229900.0,Benzyna,automatic,2022,4 000 km,Długołęka,Dolnośląskie,1 997 cm3
+25256,jaguar,Jaguar E-Pace 2.0 D200 mHEV AWD R-Dynamic SE,249000.0,Benzyna,automatic,2023,10 km,Sulejówek,Mazowieckie,1 997 cm3
+25257,jaguar,Jaguar XE 2.0 P250 R-Dynamic S,199900.0,Benzyna,automatic,2023,10 km,Długołęka,Dolnośląskie,1 997 cm3
+25258,jaguar,Jaguar F-Type 5.0 V8 S/C R-Dynamic,499900.0,Benzyna,automatic,2022,4 000 km,Marki,Mazowieckie,1 997 cm3
+25259,jaguar,Jaguar F-Pace 3.0 P400 mHEV AWD R-Dynamic SE,399000.0,Benzyna,automatic,2022,4 000 km,Gdańsk,Pomorskie,1 997 cm3
+25260,jaguar,Jaguar I-Pace,429900.0,Benzyna,automatic,2020,69 500 km,Bydgoszcz,Kujawsko-pomorskie,1 997 cm3

@@ -5,7 +5,7 @@ import numpy as np
 import json 
 import pickle 
 
-class StopTrainingAtAccuracyOne(tf.keras.callbacks.callback):
+class StopTrainingAtAccuracyOne(tf.keras.callbacks.Callback):
     def on_epoch_end(self , epoch , logs = None ):
         if logs['accuracy'] >= 1.0:
             self.model.stop_training = True
@@ -55,7 +55,7 @@ def BuildModel(file_name : str  = 'MainModel' , SplitData : bool = 0):
     model.compile(loss = 'sparse-categorical_crossentropy' , optimizer = 'adam' , metrics = ['accuracy'])
 
     # Train the model 
-    hist = model.fit(padded_sequnces ,  labels , epoches = 100 , batch_size = 0 , callback = [StopTrainingAtAccuracyOne()])
+    hist = model.fit(padded_sequences ,  labels , epochs = 100 , batch_size = 0 , callbacks = [StopTrainingAtAccuracyOne()])
 
     # Save the model 
     # I think its no needed cous this should be only for MainModel so SplitData is no needed 

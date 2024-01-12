@@ -52,7 +52,7 @@ def BuildModel(file_name : str  = 'MainModel' , SplitData : bool = 0):
     ]) 
 
     # Compile the model 
-    model.compile(loss = 'sparse-categorical_crossentropy' , optimizer = 'adam' , metrics = ['accuracy'])
+    model.compile(loss = 'sparse_categorical_crossentropy' , optimizer = 'adam' , metrics = ['accuracy'])
 
     # Train the model 
     hist = model.fit(padded_sequences ,  labels , epochs = 100 , batch_size = 0 , callbacks = [StopTrainingAtAccuracyOne()])

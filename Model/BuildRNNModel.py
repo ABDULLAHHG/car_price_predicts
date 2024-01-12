@@ -24,7 +24,7 @@ def BuildModel(file_name : str  = 'MainModel' , SplitData : bool = 0):
         patterns.extend(intent['patterns'])
         tags.extend([intent['tag']] * len(intent['patterns']))
     
-
+    # print(data)
     # Tokenize the patterns
     tokenizer = Tokenizer()
     tokenizer.fit_on_texts(patterns)
@@ -36,10 +36,15 @@ def BuildModel(file_name : str  = 'MainModel' , SplitData : bool = 0):
     padded_sequences = pad_sequences(sequences , maxlen = max_sequence_length)
 
     # Convert tags to numerical labels 
-    label_dict = {tag : i for i ,tag in enumerate(tags)}
+    label_dict = {tag : i for i ,tag in enumerate(set(tags))}
     labels = [label_dict[tag] for tag in tags]
     labels = np.array(labels)
 
+    # Show result 
+    print(labels)
+    print()
+    print(sequences[0])
+    
     # Define LSTM Model 
     model = tf.keras.models.Sequential([ 
         tf.keras.layers.Embedding(len(word_index) + 1 ,100 , input_length = max_sequence_length),
@@ -55,7 +60,7 @@ def BuildModel(file_name : str  = 'MainModel' , SplitData : bool = 0):
     model.compile(loss = 'sparse_categorical_crossentropy' , optimizer = 'adam' , metrics = ['accuracy'])
 
     # Train the model 
-    hist = model.fit(padded_sequences ,  labels , epochs = 100 , batch_size = 0 , callbacks = [StopTrainingAtAccuracyOne()])
+    hist = model.fit(padded_sequences ,  labels , epochs = 100 , batch_size = 32 , callbacks = [StopTrainingAtAccuracyOne()])
 
     # Save the model 
     # I think its no needed cous this should be only for MainModel so SplitData is no needed 

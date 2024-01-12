@@ -7,7 +7,7 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.ensemble import RandomForestRegressor
 
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('Data/CSV/data.csv')
 
 # Cleaned dataframe 
 df = df[df.mileage.str.contains(r'km')]
